@@ -1,4 +1,10 @@
-# A CSS Grid Syllabus with microformats2
+# My Homepage
 
-I am trying to create an easy to remix syllabus that uses Css Grid.
+After seven five years of blogging on WordPress I am going to strike it on my own.
+
+This repo wil serve as my history
+
+## Current Plan
+
+Have static sites for my main main pages and use Known for my social stream
 
