@@ -30,10 +30,14 @@ header {
 body {
   font-family: 'Quicksand', sans-serif;
   font-size: 16px; line-height: 1.5;
+  
 
 }
-
-
+h2 {
+  font-size:2em;
+  text-align:center;
+  margin-bottom:.3em;
+}
 
 nav {
   display: grid;
@@ -73,10 +77,10 @@ nav ul {
 }
 
 .navLinks:hover {
-  color: blue;
+  color: yellow;
   border-left: 1px solid white;
   border-right: 1px solid white;
-  padding: .5em .5em;
+  
 }
 
 
@@ -423,29 +427,29 @@ nav ul {
 
 .reading .grid-container {
   display: grid;
-  grid-template-columns:repeat(11, 1fr)
+  grid-template-columns: repeat(6, 1fr);
   grid-gap: 10px;
-  grid-auto-rows: minmax(50px, auto);
-  color: white;
+  grid-auto-rows: minmax(100px, auto);
+  color: #6d796d;
   text-align: left;
-  padding-left:50px;
-  font-size: .7em;
+  font-size: 1.2em;
+  line-height: 1.2;
 }
 .reading .one {
-  grid-column: 2/ 9;
+  grid-column: 2/6;
   grid-row: 1;
-  padding-left:50px;
+  
   line-height: 2em;
 }
 
-.reading {
-    
+.reading p {
+    margin-bottom:20px;
   
 }
 .reading h1 {
   font-size: 3em;
   text-align: center;
-  color: white;
+  color: #6d796d;
   padding-bottom: 20px;
 }
 
@@ -524,7 +528,6 @@ nav ul {
   flex-direction: column;
   text-decoration: none;
   color: #444;
-  position: relative;
   top: 0;
   transition: all .1s ease-in;
 }
@@ -572,4 +575,78 @@ h1 {
 }
 .card span a {
   text-decoration: none;
+}
+.menu-outer {
+	display: inline-block;
+}
+.entry-media {
+	margin: auto;
+    width: 50%;
+}
+
+.table {
+		display: inline-block;
+	margin: auto;
+    width: 50%;
+}
+
+
+ul#horizontal-list {
+
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+		text-decoration:none;
+		color:black;
+	}
+	ul#horizontal-list li a {
+		display: inline;
+		text-decoration:none;
+		color:black;
+	}
+
+.circlePic {
+	border-radius: 50%;
+}
+
+.syndication {
+	display: none;
+}	
+.follow  {
+  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; /* align horizontal */
+}
+  .follow li {
+    list-style: none;
+    display: inline-block;
+    width: calc(100% / 5);
+    text-size: 10px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom:30px;
+    min-height: 30%;
+      min-height: 100%;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+ 
+  color: #444;
+  top: 0;
+  transition: all .1s ease-in;
+  }
+
+.follow img {
+  max-width: 50px;
+  
+}
+img{
+    float:left;
+}
+.followlist {
+  margin-right:10%;
+  margin-left:10%;
 }
