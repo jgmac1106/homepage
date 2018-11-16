@@ -11,6 +11,16 @@ header {
     top: 0;
 }
 
+footer {
+   display: flex;
+  align-items: stretch;
+   padding: 10px;
+  font-size: .75em;
+  color: white;
+ background-color: #6B6B6B;
+  
+}
+
 @media (min-width: 700px) {
  .leading {
     display: flex;
@@ -82,7 +92,14 @@ nav ul {
   border-right: 1px solid white;
   
 }
-
+article {
+  font-family: 'Heebo', sans-serif;
+    display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  
+}
 
 
 .contact h3 {
@@ -103,10 +120,10 @@ nav ul {
   font-size: .9em;
 }
 .contact .item1 {
-  grid-column: 1 / span 6;
+  grid-column: 1/7;
 }
 .contact .item2 {
-  grid-column: 7 / span 9;
+  grid-column: 8/9;
 }
 
 .contact p {
@@ -538,11 +555,9 @@ nav ul {
 }
 
 .card article {
-  padding: 20px;
   display: flex;
-  
   flex: 1;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-direction: column;
   
 }
@@ -570,8 +585,7 @@ h1 {
   font-weight: bold;
   color: #999;
   text-transform: uppercase;
-  letter-spacing: .05em;
-  margin: 2em 0 0 0;
+ 
 }
 .card span a {
   text-decoration: none;
@@ -649,4 +663,38 @@ img{
 .followlist {
   margin-right:10%;
   margin-left:10%;
+}
+.longreads article h1 {
+  color: black;
+  font-size: 2em;
+  text-align:center;
+  margin-bottom:.3em;
+  grid-column: 3 / 7;
+  grid-row: 1;
+}   
+
+.longreads article .pubinfo {
+  color: grey;
+  font-size:0.75em;
+  grid-column: 2;
+  grid-row: 2;
+}
+.longreads article .copy {
+  font-size: 1.3em;
+  grid-column: 3/7;
+  grid-row: 3;
+  
+}
+.longreads article .pubinfo .summary {
+  display: none;
+  margin:3em;
+}
+
+.longreads article p {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+.myFeeds li {
+  text-decoration: none;
+  font-size: 0.75em;
 }

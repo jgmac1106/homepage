@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>INTERTEXTrEVOLUTION</title>
+  <description>Make. Hack. Play. Learn</description>
+  <link>https://jgregorymcverry.com</link>
+  <lastBuildDate>Sun, 11 Nov 2018 08:38:00 +0000 </lastBuildDate>
+  <pubDate>Sun, 11 Nov 2018 08:38:00 +0000  </pubDate>
+<item>
+    <title>#FemHack Grant</title>
+    <description>Fingers crossed for the grant I submitted with Dr. Lockwood</description>
+    <link>https://jgmac1106homepage.glitch.me/femhackgrant.html</link>
+    <guid>https://jgmac1106homepage.glitch.me/femackgrant.html</guid>
+    <pubDate>Sun, 13 Nov 2018 11:46:00 +0000 </pubDate>
+  </item>
+  <item>
+    <title>Styling My Article Template</title>
+    <description>Spent this morning working on a template for an article from my new homepage</description>
+    <link>https://jgmac1106homepage.glitch.me/articletemplate.html</link>
+    <guid>https://jgmac1106homepage.glitch.me/articletemplate.html</guid>
+    <pubDate>Sun, 11 Nov 2018 08:38:00 +0000 </pubDate>
+  </item>
+</channel>
+</rss>
