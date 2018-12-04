@@ -700,7 +700,10 @@ ul#horizontal-list {
   grid-auto-rows: minmax(100px, auto);
   
 }
-
+.longreads li {
+  list-style-type: circle;
+  margin-bottom: 0.5em;
+}
 
 .longreads article h1 {
   color: black;
