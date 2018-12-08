@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+
+<channel>
+	<title>2ToPonder &#8211; INTERTEXTrEVOLUTION</title>
+	<atom:link href="https://jgregorymcverry.com/series/2toponder/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jgregorymcverry.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 07 Dec 2018 13:32:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://jgregorymcverry.com/wp-content/uploads/2018/05/cropped-Screenshot-2018-05-15-13.22.59-e1526405043956-150x150.png</url>
+	<title>2ToPonder &#8211; INTERTEXTrEVOLUTION</title>
+	<link>https://jgregorymcverry.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<atom:link rel="salmon" href="https://jgregorymcverry.com/?salmon=endpoint"/><atom:link rel="http://salmon-protocol.org/ns/salmon-replies" href="https://jgregorymcverry.com/?salmon=endpoint"/><atom:link rel="http://salmon-protocol.org/ns/salmon-mention" href="https://jgregorymcverry.com/?salmon=endpoint"/>	<item>
+		<title>2toPonder Episode 19; Digital Mindfulness?</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-19-digital-mindfulness/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-19-digital-mindfulness/#respond</comments>
+		<pubDate>Tue, 23 Oct 2018 12:50:54 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">https://jgregorymcverry.com/?post_type=podcast&#038;p=8010</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-19-digital-mindfulness/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://jgregorymcverry.com/wp-content/uploads/2018/10/2toPonderEpisode19.m4a" length="0" type="" />
+		</item>
+		<item>
+		<title>2toPonder Episode 18: Getting Ideas out of Your Head</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-18-getting-ideas-out-of-your-head/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-18-getting-ideas-out-of-your-head/#respond</comments>
+		<pubDate>Mon, 15 Oct 2018 11:07:53 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=7895</guid>
+		<description><![CDATA[In this episode I discuss how I learned CSS to get poems out of my head.]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-18-getting-ideas-out-of-your-head/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://jgregorymcverry.com/wp-content/uploads/2018/10/2toPonderEpisode18.m4a" length="0" type="" />
+		</item>
+		<item>
+		<title>2toPonder Episode 17: Does Reader&#8217;s Workshop Work?</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-17-does-readers-workshop-work/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-17-does-readers-workshop-work/#respond</comments>
+		<pubDate>Sun, 23 Sep 2018 16:27:31 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=7325</guid>
+		<description><![CDATA[In this episode I consider if we should still be using a Reader&#8217;s Workshop model in our classroom]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-17-does-readers-workshop-work/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://jgregorymcverry.com/wp-content/uploads/2018/09/2toPonderEpisode17.m4a" length="0" type="" />
+		</item>
+		<item>
+		<title>2toPonderEpisode 16: Collaboration and Self Organizing</title>
+		<link>https://jgregorymcverry.com/podcast/2toponderepisode-16-collaboration-and-self-organizing/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponderepisode-16-collaboration-and-self-organizing/#respond</comments>
+		<pubDate>Thu, 20 Sep 2018 15:51:10 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=7147</guid>
+		<description><![CDATA[In this episode of 2toPonder I discuss the roles of collaborations and groups.]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponderepisode-16-collaboration-and-self-organizing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://jgregorymcverry.com/wp-content/uploads/2018/09/2toPonderEpisode16.m4a" length="0" type="" />
+		</item>
+		<item>
+		<title>2toPonder Episode 15: Circuit of Human Reflective Activity</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-15-circuit-of-human-reflective-activity/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-15-circuit-of-human-reflective-activity/#respond</comments>
+		<pubDate>Wed, 12 Sep 2018 15:12:58 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=6660</guid>
+		<description><![CDATA[In this episode we apply James Paul Gee&#8217;s Circuit of Reflective Activity to the idea of Community is the Curriculum. show notes: Gee, J. P. (2013). The anti-education era: Creating smarter students through digital learning. St. Martin&#8217;s Press.]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-15-circuit-of-human-reflective-activity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2toPonder Episode 13: Rubrics are Stupid Teaching</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-13-rubrics-are-stupid-teaching/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-13-rubrics-are-stupid-teaching/#respond</comments>
+		<pubDate>Tue, 11 Sep 2018 16:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=6577</guid>
+		<description><![CDATA[In episode 13 of 2toPonder I discuss building participatory learning environments in the reading and writing classroom.]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-13-rubrics-are-stupid-teaching/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://jgregorymcverry.com/wp-content/uploads/2018/09/2toPonderEpisode14.m4a" length="0" type="" />
+		</item>
+		<item>
+		<title>2toPonder Episode 13: Performance of Possibilities</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-13-performance-of-possibilities/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-13-performance-of-possibilities/#respond</comments>
+		<pubDate>Thu, 06 Sep 2018 13:48:36 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=6489</guid>
+		<description><![CDATA[When you make community the center of your children&#8217;s literacy curriculum you allow for the performance of possibilities. Show notes: Maisha T. Winn (2015) Exploring the Literate Trajectories of Youth Across Time and Space, Mind, Culture, and Activity, 22:1, 58-67, DOI: 10.1080/10749039.2014.990037]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-13-performance-of-possibilities/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2toPonder Episode 12: Where Does Knowledge Live?</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-12-where-does-knowledge-live/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-12-where-does-knowledge-live/#respond</comments>
+		<pubDate>Thu, 06 Sep 2018 13:22:27 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+		
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=6483</guid>
+		<description><![CDATA[As we continue our exploration of community as the curriculum we must ask, &#8220;Where does knowledge live?&#8221; Show notes: Situated Cognition: https://en.wikipedia.org/wiki/Situated_cognition]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-12-where-does-knowledge-live/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2toPonder Episode 11: Community is the Curriculum</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-11-community-is-the-curriculum/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-11-community-is-the-curriculum/#respond</comments>
+		<pubDate>Thu, 30 Aug 2018 19:51:48 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+				<category><![CDATA[edu307]]></category>
+
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=6321</guid>
+		<description><![CDATA[In Episode 10 I discuss community as the curriculum. Here is the link to Dave&#8217;s post: Rhizomatic Education : Community as Curriculum]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-11-community-is-the-curriculum/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://jgregorymcverry.com/wp-content/uploads/2018/08/2toPonderEpisode11.m4a" length="0" type="" />
+		</item>
+		<item>
+		<title>2toPonder Episode 10: More than a Grade?</title>
+		<link>https://jgregorymcverry.com/podcast/2toponder-episode-10-more-than-a-grade/</link>
+		<comments>https://jgregorymcverry.com/podcast/2toponder-episode-10-more-than-a-grade/#respond</comments>
+		<pubDate>Wed, 29 Aug 2018 12:07:35 +0000</pubDate>
+		<dc:creator><![CDATA[Greg McVerry]]></dc:creator>
+				<category><![CDATA[classes]]></category>
+
+		<guid isPermaLink="false">http://jgregorymcverry.com/?post_type=podcast&#038;p=6273</guid>
+		<description><![CDATA[What motivates you to learn? I ask in Episode 10]]></description>
+		<wfw:commentRss>https://jgregorymcverry.com/podcast/2toponder-episode-10-more-than-a-grade/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://jgregorymcverry.com/wp-content/uploads/2018/08/2toPonderEpisode10.m4a" length="0" type="" />
+		</item>
+	</channel>
+</rss>
