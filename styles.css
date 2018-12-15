@@ -671,6 +671,8 @@ ul#horizontal-list {
 
 .longreads ul {
 margin-bottome: 3em;
+  margin-left:20px;
+  margin-right:20px;
 }
 
 .longreads article h1 {
