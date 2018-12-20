@@ -1,0 +1,416 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 40px;
+}
+.contact {
+  margin: 0 auto ;
+  text-align: left;
+  
+}
+
+.contact h3 {
+  
+  font-size: 1.2em;
+}
+
+.contact .grid-container {
+  display: grid;
+  grid-template-columns: auto; 
+  grid-gap: 10px;
+  padding: 10px;
+}
+.contact .grid-container>div {
+
+  text-align: center;
+  padding:20px 0;
+  font-size: .9em;
+}
+.contact .item1 {
+  grid-row: 1 / span 1;
+}
+.contact p {
+  font-size: 1.3em;
+  text-align: center;
+}
+.podwrapper {
+		display: grid;
+    grid-gap: 10px;
+		grid-template-columns: repeat(12, [col] 100px ) ;
+		grid-template-rows: repeat(3, [row] auto  );
+		background-color: #fff;
+		color: #444;
+}
+
+	.podbox {
+		background-color: #6B6B6B;
+		color: #fff;
+		border-radius: 5px;
+		padding: 20px;
+		font-size: 100%;
+   
+	}
+
+	.podbox .podbox {
+		background-color: #ccc;
+		color: #444;
+	}
+
+	.a {
+		
+		grid-row: row 3;
+    grid-column: 4/ span 2;
+	}
+
+	.b {
+		
+		grid-row: row 3;
+    grid-column: 6/ span 2;
+	}
+
+	.c {
+		
+		grid-row: row 3;
+    grid-column: 8/ span 2;
+	}
+
+	.d{
+		grid-column: col 4 / span 6;
+		grid-row: row 1;
+		display: grid;
+    grid-gap: 10px;
+    grid-template-rows: 0.5fr 3fr;
+    font-size: 1.5em;
+		
+}
+	
+
+	.e{
+    grid-column: 1 / 3;
+		grid-row: 1;
+    padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  opacity: 0.8;
+  -webkit-flex-flow: row wrap;
+  
+}
+	
+
+  .e h1 {
+    font-size: 1em;
+}
+.e h2 {
+    font-size: .75em;
+}
+
+.e .flex-title {
+  padding: 5px;
+  width: 20%;
+  height: 10%;
+  margin-top: 10px;
+  flex-grow: 2;
+  font-weight: bold;
+  font-size: .75em;
+  text-align: center;
+}
+.e .flex-item {
+  padding: 5px;
+  width: 20%;
+  height: 10%;
+  margin-top: 10px;
+  flex-grow: 1;
+  font-weight: bold;
+  font-size: .75em;
+  text-align: center;
+}
+.f {
+		grid-column: 1/3;
+		grid-row: 2;
+      background: url("https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F2344751034_51d9a3ec06_b%20(1).jpg?1544233545009") no-repeat;
+    background-size:cover;
+    
+    height:30vh;
+	}
+.g {
+		grid-column: 1/3;
+		grid-row: 3;
+    font-size: 1em;
+	}
+
+.h {
+		
+		grid-row: row 4;
+    grid-column: 4/ span 2;
+	}
+.i {
+		
+		grid-row: row 4;
+    grid-column: 6/ span 2;
+	}
+.j {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.k {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.l {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.m {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.n {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.o {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.r {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.s {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.t {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.u {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.v {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.w {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.x {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.y {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+.z {
+		
+		grid-row: row 4;
+    grid-column: 8/ span 2;
+	}
+
+@media (max-width: 800px) {
+   .podwrapper {
+		display: grid;
+    grid-template-columns: fit-content(80%);
+    grid-gap: 10px;
+		background-color: #fff;
+		color: #444;
+	}
+  .podbox {
+		background-color: #6B6B6B;
+		color: #fff;
+		border-radius: 5px;
+		padding: 20px;
+		font-size: 50%;
+   
+	}
+
+	.podbox .podbox {
+		background-color: #ccc;
+		color: #444;
+	}
+
+	.a {
+		
+		grid-row: row 3;
+    grid-column: 1;
+	}
+
+	.b {
+		
+		grid-row: row 4;
+    grid-column: 1;
+	}
+
+	.c {
+		
+		grid-row: row 5;
+    grid-column: 1;
+	}
+  .d{
+	
+		grid-row: row 1;
+    grid-column: 1;
+		display: grid;
+    grid-gap: 10px;
+    font-size: .75em;
+		
+}
+  .e{
+    
+    flex-direction: row;
+    font-size: 1em;
+    height:10vh;
+  }
+  .f {
+		grid-column: 1/3;
+		grid-row: 2;
+      background: url("https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F2344751034_51d9a3ec06_b%20(1).jpg?1544233545009") no-repeat;
+    background-size:cover;
+    
+    
+	}
+.g {
+		grid-column: 1;
+		grid-row: 3;
+    font-size: 1em;
+	}
+  .h {
+		
+		grid-row: row 6;
+    grid-column: 1;
+    font-size: 1em;
+	}
+  .i {
+		
+		grid-row: row 7;
+    grid-column: 1;
+    font-size: 1em;
+	}
+.j {
+		
+		grid-row: row 8;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .k {
+		
+		grid-row: row 9;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .l {
+		
+		grid-row: row 10;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .m {
+		
+		grid-row: row 11;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .n {
+		
+		grid-row: row 12;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .o {
+		
+		grid-row: row 13;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .p {
+		
+		grid-row: row 14;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .q {
+		
+		grid-row: row 15;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .r {
+		
+		grid-row: row 16;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .s {
+		
+		grid-row: row 17;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .t {
+		
+		grid-row: row 18;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .u {
+		
+		grid-row: row 19;
+    grid-column: 1;
+  font-size: 1em;
+	}
+   .w {
+		
+		grid-row: row 20;
+    grid-column: 1;
+  font-size: 1em;
+	}
+   .x {
+		
+		grid-row: row 21;
+    grid-column: 1;
+  font-size: 1em;
+	}
+   .y {
+		
+		grid-row: row 22;
+    grid-column: 1;
+  font-size: 1em;
+	}
+   .z {
+		
+		grid-row: row 23;
+    grid-column: 1;
+  font-size: 1em;
+	}
+audio { 
+  width: 60%;
+  display: block;
+  
+}
+}
+
+
+	
+audio { 
+  width: 90%;
+  display: block;
+  
+}
