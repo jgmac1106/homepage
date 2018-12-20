@@ -576,7 +576,7 @@ text-align: center;
 }
 employment .box2  a{
   color: yellow;
-  font-size:100%;
+  font-size:.75em;
 
 }
 .employment .box2 {
@@ -584,11 +584,10 @@ employment .box2  a{
   border: 3px solid rgba(0,0,0,.2);
   text-align: left;
 }
-.employment .box2  p {
+.employment  p {
   color: black;
-  font-size: .70em;
+  font-size: .75em;
   text-align: center;
-  line-height: 1.75;
   margin-left: .5in; 
   text-indent: -.5in;
 }
@@ -596,9 +595,13 @@ employment .box2  a{
   color: white;
     text-align:left;
 }
-@media only screen and (max-width: 700px) {
+.employment h4 {
+  text-align: center;
+  font-size: 1em;
+}
+@media only screen and (max-width: 1100px) {
   .employment h4 {
-   font-size: .75em;
+   font-size: .50em;
 }
   .employment {
   display: flex;
@@ -608,19 +611,20 @@ employment .box2  a{
 }
 
 .employment .box {
-
+flex-grow:12;
   flex-direction: row;
   border: 3px solid rgba(0,0,0,.2);
   
 }
 
 .employment .box1 {
-
+ flex-grow:12;
   border: 3px solid rgba(0,0,0,.2);
   font-size:70%;
   
 }
 .employment .box2  a{
+  flex-grow:12;
   color: yellow;
   font-size:100%;
 
@@ -632,9 +636,8 @@ employment .box2  a{
 }
 .employment .box2  p {
   color: black;
-  font-size: .70em;
+  font-size: .50em;
   text-align: center;
-  line-height: 1.75;
   margin-left: .5in; 
   text-indent: -.5in;
 }
