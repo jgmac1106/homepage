@@ -363,8 +363,7 @@ font-size: 1em;
   background-color: #c4f2e8;
   border: 1px solid #fff;
   padding: 20px;
-  tex-align: left;
-   
+  text-align: left;
 }
 .history p {
   color: black;
@@ -376,7 +375,7 @@ font-size: 1em;
 }
 .history a {
   color: yellow;
-  font-size: .75em;
+  font-size: 1em;
   }
  .history h2 {
   font-size:150%;
@@ -386,6 +385,19 @@ font-size: 1em;
 .history h3 {
   text-align:center;
   font-size:2em;
+}
+.history .item3 div {
+  padding-left: 72px ;
+  text-indent: -72px ;
+   
+}
+ .history .item3 ul {
+ display: inline;
+   
+}
+  .history .item3 ul li {
+ display: inline;
+   
 }
 
 @media only screen and (max-width: 700px) {
@@ -417,10 +429,19 @@ font-size: 1em;
   background-color: #80cbc4;
   border: 1px solid #fff;
   padding: 20px;
-  text-align: left;
+  text-align: center;
    
 }
- 
+  .history .item3 ul {
+ display: inline;
+   
+}
+  .history .item3 ul li {
+ display: inline;
+   
+}
+}
+
   
 details {
     border: 1px solid #aaa;
@@ -441,9 +462,10 @@ details[open] {
 details[open] summary {
     border-bottom: 1px solid #aaa;
     margin-bottom: .5em;
+   text-align: center;
 }
 
-}
+
 .grants .grid-container {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -576,7 +598,7 @@ text-align: center;
 }
 employment .box2  a{
   color: yellow;
-  font-size:100%;
+  font-size:.75em;
 
 }
 .employment .box2 {
@@ -584,11 +606,17 @@ employment .box2  a{
   border: 3px solid rgba(0,0,0,.2);
   text-align: left;
 }
-.employment .box2  p {
+.employment  p {
   color: black;
-  font-size: .70em;
+  font-size: .75em;
   text-align: center;
-  line-height: 1.75;
+  margin-left: .5in; 
+  text-indent: -.5in;
+}
+.employment .small p {
+  color: black;
+  font-size: .3em;
+  text-align: center;
   margin-left: .5in; 
   text-indent: -.5in;
 }
@@ -596,9 +624,17 @@ employment .box2  a{
   color: white;
     text-align:left;
 }
-@media only screen and (max-width: 700px) {
+.employment h4 {
+  text-align: center;
+  font-size: 1em;
+}
+.employment .small h4 {
+  text-align: center;
+  font-size: .5em;
+}
+@media only screen and (max-width: 1100px) {
   .employment h4 {
-   font-size: .75em;
+   font-size: .50em;
 }
   .employment {
   display: flex;
@@ -608,19 +644,20 @@ employment .box2  a{
 }
 
 .employment .box {
-
+flex-grow:12;
   flex-direction: row;
   border: 3px solid rgba(0,0,0,.2);
   
 }
 
 .employment .box1 {
-
+ flex-grow:12;
   border: 3px solid rgba(0,0,0,.2);
   font-size:70%;
   
 }
 .employment .box2  a{
+  flex-grow:12;
   color: yellow;
   font-size:100%;
 
@@ -632,9 +669,8 @@ employment .box2  a{
 }
 .employment .box2  p {
   color: black;
-  font-size: .70em;
+  font-size: .50em;
   text-align: center;
-  line-height: 1.75;
   margin-left: .5in; 
   text-indent: -.5in;
 }
