@@ -75,6 +75,10 @@ height: 100%;
     grid-row: 4/span 2;
 }.box1 {
   background-size: 75%;
+  background-repeat: no-repeat;
+}
+    .PubTitle h1 {
+  font-size:200%;
 }
 }
 
