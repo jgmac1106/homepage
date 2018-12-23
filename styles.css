@@ -375,7 +375,7 @@ font-size: 1em;
 }
 .history a {
   color: yellow;
-  font-size: .75em;
+  font-size: 1em;
   }
  .history h2 {
   font-size:150%;
@@ -385,6 +385,19 @@ font-size: 1em;
 .history h3 {
   text-align:center;
   font-size:2em;
+}
+.history .item3 div {
+  padding-left: 72px ;
+  text-indent: -72px ;
+   
+}
+ .history .item3 ul {
+ display: inline;
+   
+}
+  .history .item3 ul li {
+ display: inline;
+   
 }
 
 @media only screen and (max-width: 700px) {
@@ -419,7 +432,16 @@ font-size: 1em;
   text-align: center;
    
 }
- 
+  .history .item3 ul {
+ display: inline;
+   
+}
+  .history .item3 ul li {
+ display: inline;
+   
+}
+}
+
   
 details {
     border: 1px solid #aaa;
@@ -443,7 +465,7 @@ details[open] summary {
    text-align: center;
 }
 
-}
+
 .grants .grid-container {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
