@@ -1,31 +1,133 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-  <title>INTERTEXTrEVOLUTION</title>
-  <description>Make. Hack. Play. Learn</description>
-  <link>https://jgregorymcverry.com</link>
-  <lastBuildDate>Sun, 11 Nov 2018 08:38:00 +0000 </lastBuildDate>
-  <pubDate>Sun, 11 Nov 2018 08:38:00 +0000  </pubDate>
-<item>
-    <title>#FemHack Grant</title>
-    <description>Fingers crossed for the grant I submitted with Dr. Lockwood</description>
-    <link>https://jgmac1106homepage.glitch.me/femhackgrant.html</link>
-    <guid>https://jgmac1106homepage.glitch.me/femackgrant.html</guid>
-    <pubDate>Sun, 13 Nov 2018 11:46:00 +0000 </pubDate>
-  </item>
-  <item>
-    <title>Styling My Article Template</title>
-    <description>Spent this morning working on a template for an article from my new homepage</description>
-    <link>https://jgmac1106homepage.glitch.me/articletemplate.html</link>
-    <guid>https://jgmac1106homepage.glitch.me/articletemplate.html</guid>
-    <pubDate>Sun, 11 Nov 2018 08:38:00 +0000 </pubDate>
-  </item>
-  <item>
-    <title>Building a Podcast Feed</title>
-    <description>A backstage post on how I built my son a podcast feed</description>
-    <link>https://jgmac1106homepage.glitch.me/articletemplate.html</link>
-    <guid>https://jgmac1106homepage.glitch.me/articletemplate.html</guid>
-    <pubDate>Sun, 11 Nov 2018 08:38:00 +0000 </pubDate>
-  </item>
-</channel>
-</rss>
+<<?xml version="1.0" encoding="UTF-8"?>
+<response>
+<filtered>False</filtered>
+<items>
+<object>
+<content_is_html>True</content_is_html>
+<displayName>Greg McVerry</displayName>
+<objectType>person</objectType>
+<url>http://jgregorymcverry.com</url>
+</object>
+</items>
+<items>
+<object>
+<content_is_html>True</content_is_html>
+<displayName>Saying Goodbye to Thimble</displayName>
+<image>
+<url>https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2FDs-2rTzWkAE5Y3J.jpg?1545143411776</url>
+</image>
+<objectType>article</objectType>
+<published>2018-12-19 09:33:00</published>
+<summary>Mozilla's Thimble Shutting Down</summary>
+<tags>
+<displayName>$status</displayName>
+<objectType>hashtag</objectType>
+</tags>
+<url>https://jgmac1106homepage.glitch.me/goodbyethimble.html</url>
+</object>
+</items>
+<items>
+<object>
+<content_is_html>True</content_is_html>
+<displayName>Creative Commons Global Summit App</displayName>
+<image>
+<url>https://flickr.com/photos/tollwerk/45670455672</url>
+</image>
+<objectType>article</objectType>
+<published>2018-12-8 08:38:00</published>
+<summary>Application for the 2019 Creative Commons Global Summit</summary>
+<url>https://jgmac1106homepage.glitch.me/ccglobalsummit.html</url>
+</object>
+</items>
+<items>
+<object>
+<content_is_html>True</content_is_html>
+<displayName>UX of Parenting: Teething</displayName>
+<image>
+<url>https://jgregorymcverry.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-10-at-9.54.33-PM.png</url>
+</image>
+<objectType>article</objectType>
+<published>2018-10-12 17:46:00</published>
+<summary>The pains of adding clusters to chew on data</summary>
+<url>https://jgregorymcverry.com/ux-of-parenting-teething/</url>
+</object>
+</items>
+<items>
+<object>
+<author>
+<displayName>jgmac1106</displayName>
+<image>
+<url>https://0.academia-photos.com/275850/62912/68932/s200_j._gregory.mcverry.jpg</url>
+</image>
+<objectType>person</objectType>
+</author>
+<content_is_html>True</content_is_html>
+<displayName>Building a Podcast Feed</displayName>
+<image>
+<url>http://femhack.tech/11c4e0fcba310197cfe493569506243a.png</url>
+</image>
+<objectType>article</objectType>
+<published>2018-11-20 10:16:00</published>
+<summary>Backstage post on Building a Podcast Feed</summary>
+<tags>
+<displayName>$status</displayName>
+<objectType>hashtag</objectType>
+</tags>
+</object>
+</items>
+<items>
+<object>
+<author>
+<displayName>jgmac1106</displayName>
+<image>
+<url>https://0.academia-photos.com/275850/62912/68932/s200_j._gregory.mcverry.jpg</url>
+</image>
+<objectType>person</objectType>
+</author>
+<content_is_html>True</content_is_html>
+<displayName>#FemHack Grant</displayName>
+<image>
+<url>http://femhack.tech/11c4e0fcba310197cfe493569506243a.png</url>
+</image>
+<objectType>article</objectType>
+<published>2018-11-13 11:46:00</published>
+<summary>Grant application for a feminist pedagogy hackathon</summary>
+</object>
+</items>
+<items>
+<object>
+<author>
+<displayName>jgmac1106</displayName>
+<objectType>person</objectType>
+</author>
+<content_is_html>True</content_is_html>
+<displayName>UX of Parenting: Teething</displayName>
+<image>
+<url>https://jgregorymcverry.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-10-at-9.54.33-PM.png</url>
+</image>
+<objectType>article</objectType>
+<published>2018-11-13 11:46:00</published>
+<summary>The pains of adding clusters to chew on data</summary>
+</object>
+</items>
+<items>
+<object>
+<author>
+<displayName>jgmac1106</displayName>
+<objectType>person</objectType>
+</author>
+<content_is_html>True</content_is_html>
+<displayName>Exploring Future’s Past</displayName>
+<image>
+<url>http://jgregorymcverry.com/wp-content/uploads/2018/10/8579134341_23e92cd81d_k-1200x800.jpg</url>
+</image>
+<objectType>note</objectType>
+<published>2018-11-13 11:46:00</published>
+</object>
+</items>
+<itemsPerPage>8</itemsPerPage>
+<sorted>False</sorted>
+<startIndex>0</startIndex>
+<totalResults>8</totalResults>
+<updatedSince>False</updatedSince>
+</response>

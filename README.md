@@ -10,9 +10,14 @@ This repo wil serve as my history
 * Pages:
   * Home
   * About Me-Extended h-card
-  * Publications page-List your vita, set up for APA 6
+  * Vita or Resume
   * Article page-an h-feed of articls on the list
   * An XML file for building RSS feeds
+  * A podcast page with an h-feed
+  * An XMl file for a podcast
+  * An article template with microformats
+  * A video playlist collection
+  * An article playlist collection
 
 
 ## Layout Options
