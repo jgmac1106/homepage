@@ -1569,3 +1569,11 @@ margin-bottome: 3em;
 .authorInfo {
   display: none
 }
+.guestbook ul {
+  dispaly: block;
+  text-decoration: none;
+}
+.guestbook li {
+  dispaly: block;
+  text-decoration: none;
+}
