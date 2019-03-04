@@ -36,10 +36,11 @@ body {
 .podwrapper {
 		display: grid;
     grid-gap: 10px;
-		grid-template-columns: repeat(12, [col] 100px ) ;
-		grid-template-rows: repeat(3, [row] auto  );
+		grid-template-columns: repeat(3, [col] 33% ) ;
 		background-color: #fff;
 		color: #444;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 	.podbox {
@@ -48,6 +49,7 @@ body {
 		border-radius: 5px;
 		padding: 20px;
 		font-size: 100%;
+    grid-column: span 1; /* I think this isn't necessary, but just to spell it out that this is filling a grid space */
    
 	}
 
@@ -56,33 +58,14 @@ body {
 		color: #444;
 	}
 
-	.a {
-		
-		grid-row: row 3;
-    grid-column: 4/ span 2;
-	}
 
-	.b {
-		
-		grid-row: row 3;
-    grid-column: 6/ span 2;
-	}
-
-	.c {
-		
-		grid-row: row 3;
-    grid-column: 8/ span 2;
-	}
-
-	.d{
-		grid-column: col 4 / span 6;
-		grid-row: row 1;
-		display: grid;
-    grid-gap: 10px;
-    grid-template-rows: 0.5fr 3fr;
-    font-size: 1.5em;
-		
-}
+.topbox {
+  grid-column: span 3;
+grid-row: row 0;
+display: grid;
+grid-gap: 10px;
+grid-template-rows: 0.5fr 3fr;
+  font-size: 1.5em;}
 	
 
 	.e{
@@ -133,97 +116,7 @@ body {
     
     height:30vh;
 	}
-.g {
-		grid-column: 1/3;
-		grid-row: 3;
-    font-size: 1em;
-	}
 
-.h {
-		
-		grid-row: row 4;
-    grid-column: 4/ span 2;
-	}
-.i {
-		
-		grid-row: row 4;
-    grid-column: 6/ span 2;
-	}
-.j {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.k {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.l {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.m {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.n {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.o {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.r {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.s {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.t {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.u {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.v {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.w {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.x {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.y {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
-.z {
-		
-		grid-row: row 4;
-    grid-column: 8/ span 2;
-	}
 
 @media (max-width: 800px) {
    .podwrapper {
@@ -397,6 +290,18 @@ body {
    .z {
 		
 		grid-row: row 23;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .aa {
+		
+		grid-row: row 24;
+    grid-column: 1;
+  font-size: 1em;
+	}
+  .bb {
+		
+		grid-row: row 25;
     grid-column: 1;
   font-size: 1em;
 	}
