@@ -1329,7 +1329,7 @@ flex-grow:12;
   text-decoration:none;
 }
 
-.leading h1 {
+.leading p {
   font-size:2em;
   font-weight: bold;
   
@@ -1337,7 +1337,7 @@ flex-grow:12;
 
 
 
-.leading h2{
+.leading .tagline {
   
   font-size:1em;
   line-height: 1.4em;
