@@ -28,11 +28,17 @@ header {
 
 footer {
    display: flex;
-  align-items: stretch;
+  justify-content:center;
    padding: 10px;
   font-size: .75em;
   color: white;
  background-color: #6B6B6B;
+  
+}
+footer .flex-item {
+  text-align: center;
+}
+footer .flex-item img {
   
 }
  header a {
