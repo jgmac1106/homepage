@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jgmac1106
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jgregorymcverry.com
+  * I am jgmac1106 (https://keybase.io/jgmac1106) on keybase.
+  * I have a public key ASBJ2XFgyLzyAxXfpRPFanPIXV4GuLwQW4uYyl5F73WzoQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012049d97160c8bcf20315dfa513c56a73c85d5e06b8bc105b8b98ca5e45ef75b3a10a",
+      "host": "keybase.io",
+      "kid": "012049d97160c8bcf20315dfa513c56a73c85d5e06b8bc105b8b98ca5e45ef75b3a10a",
+      "uid": "bd467e109d392fda66c1609745be9c19",
+      "username": "jgmac1106"
+    },
+    "merkle_root": {
+      "ctime": 1551750562,
+      "hash": "c9e2f675e9554de96e579d5386406f6f9b290dc03f9e16e2d8e7cb28adb3074843cb2555a29b545cac298a0f8e26396416a32b62cf27feeb99384f28df762ec5",
+      "hash_meta": "eb8ceb4e1d8e6ab95052da726e566bf3e81f6c13ec649ecf6db297d64658fc99",
+      "seqno": 4877362
+    },
+    "service": {
+      "entropy": "guXvWMWoMbpQEN/dSFa8G/lY",
+      "hostname": "jgregorymcverry.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551750592,
+  "expire_in": 504576000,
+  "prev": "355b4bf71cc4b50fe6842a52e930bba1a7825aa78f0d37f621780d9ac2fdbd27",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSdlxYMi88gMV36UTxWpzyF1eBri8EFuLmMpeRe91s6EKp3BheWxvYWTESpcCBcQgNVtL9xzEtQ/mhCpS6TC7oaeCWqePDTf2IXgNmsL9vSfEIGJBu6I14nnMqhlq1rQMjTdQ949t/NRXfd3wA4CNyNNbAgHCo3NpZ8RA4XmwhsxjZ+yk3kCqdOqTlpVzf+dymnIdlp2s2H2U7z71sNsnCtgRKFaVAs2wmubLIA5+lm2f1DKfN7Spd9LeB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJKmuybyewZsiHLz4rKCebu8IVRL6ucB6pX8iC/TuWOJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jgmac1106
+
+==================================================================
