@@ -121,7 +121,7 @@ grid-template-rows: 0.5fr 3fr;
 @media (max-width: 800px) {
    .podwrapper {
 		display: grid;
-    grid-template-columns: fit-content(80%);
+    grid-template-columns: repeat(1, [col] 80% ) ;
     grid-gap: 10px;
 		background-color: #fff;
 		color: #444;
@@ -140,23 +140,7 @@ grid-template-rows: 0.5fr 3fr;
 		color: #444;
 	}
 
-	.a {
-		
-		grid-row: row 3;
-    grid-column: 1;
-	}
-
-	.b {
-		
-		grid-row: row 4;
-    grid-column: 1;
-	}
-
-	.c {
-		
-		grid-row: row 5;
-    grid-column: 1;
-	}
+	
   .d{
 	
 		grid-row: row 1;
@@ -167,144 +151,54 @@ grid-template-rows: 0.5fr 3fr;
 		
 }
   .e{
-    
-    flex-direction: row;
+    grid-column: 1 ;
+		grid-row: 1;
+    padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  opacity: 0.8;
+  -webkit-flex-flow: row wrap;
+  
+}
+	
+
+  .e h1 {
     font-size: 1em;
-    height:10vh;
-  }
-  .f {
-		grid-column: 1/3;
+}
+.e h2 {
+    font-size: .75em;
+}
+
+.e .flex-title {
+  padding: 5px;
+  width: 20%;
+  height: 10%;
+  margin-top: 10px;
+  flex-grow: 2;
+  font-weight: bold;
+  font-size: .75em;
+  text-align: center;
+}
+.e .flex-item {
+  padding: 5px;
+  width: 20%;
+  height: 10%;
+  margin-top: 10px;
+  flex-grow: 1;
+  font-weight: bold;
+  font-size: .75em;
+  text-align: center;
+}
+.f {
+		grid-column: 1;
 		grid-row: 2;
       background: url("https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F2344751034_51d9a3ec06_b%20(1).jpg?1544233545009") no-repeat;
     background-size:cover;
     
-    
+    height:30vh;
 	}
-.g {
-		grid-column: 1;
-		grid-row: 3;
-    font-size: 1em;
-	}
-  .h {
-		
-		grid-row: row 6;
-    grid-column: 1;
-    font-size: 1em;
-	}
-  .i {
-		
-		grid-row: row 7;
-    grid-column: 1;
-    font-size: 1em;
-	}
-.j {
-		
-		grid-row: row 8;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .k {
-		
-		grid-row: row 9;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .l {
-		
-		grid-row: row 10;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .m {
-		
-		grid-row: row 11;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .n {
-		
-		grid-row: row 12;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .o {
-		
-		grid-row: row 13;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .p {
-		
-		grid-row: row 14;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .q {
-		
-		grid-row: row 15;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .r {
-		
-		grid-row: row 16;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .s {
-		
-		grid-row: row 17;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .t {
-		
-		grid-row: row 18;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .u {
-		
-		grid-row: row 19;
-    grid-column: 1;
-  font-size: 1em;
-	}
-   .w {
-		
-		grid-row: row 20;
-    grid-column: 1;
-  font-size: 1em;
-	}
-   .x {
-		
-		grid-row: row 21;
-    grid-column: 1;
-  font-size: 1em;
-	}
-   .y {
-		
-		grid-row: row 22;
-    grid-column: 1;
-  font-size: 1em;
-	}
-   .z {
-		
-		grid-row: row 23;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .aa {
-		
-		grid-row: row 24;
-    grid-column: 1;
-  font-size: 1em;
-	}
-  .bb {
-		
-		grid-row: row 25;
-    grid-column: 1;
-  font-size: 1em;
-	}
+  
 audio { 
   width: 60%;
   display: block;

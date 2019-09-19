@@ -1,133 +1,136 @@
-<<?xml version="1.0" encoding="UTF-8"?>
-<response>
-<filtered>False</filtered>
-<items>
-<object>
-<content_is_html>True</content_is_html>
-<displayName>Greg McVerry</displayName>
-<objectType>person</objectType>
-<url>http://jgregorymcverry.com</url>
-</object>
-</items>
-<items>
-<object>
-<content_is_html>True</content_is_html>
-<displayName>Saying Goodbye to Thimble</displayName>
-<image>
-<url>https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2FDs-2rTzWkAE5Y3J.jpg?1545143411776</url>
-</image>
-<objectType>article</objectType>
-<published>2018-12-19 09:33:00</published>
-<summary>Mozilla's Thimble Shutting Down</summary>
-<tags>
-<displayName>$status</displayName>
-<objectType>hashtag</objectType>
-</tags>
-<url>https://jgmac1106homepage.glitch.me/goodbyethimble.html</url>
-</object>
-</items>
-<items>
-<object>
-<content_is_html>True</content_is_html>
-<displayName>Creative Commons Global Summit App</displayName>
-<image>
-<url>https://flickr.com/photos/tollwerk/45670455672</url>
-</image>
-<objectType>article</objectType>
-<published>2018-12-8 08:38:00</published>
-<summary>Application for the 2019 Creative Commons Global Summit</summary>
-<url>https://jgmac1106homepage.glitch.me/ccglobalsummit.html</url>
-</object>
-</items>
-<items>
-<object>
-<content_is_html>True</content_is_html>
-<displayName>UX of Parenting: Teething</displayName>
-<image>
-<url>https://jgregorymcverry.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-10-at-9.54.33-PM.png</url>
-</image>
-<objectType>article</objectType>
-<published>2018-10-12 17:46:00</published>
-<summary>The pains of adding clusters to chew on data</summary>
-<url>https://jgregorymcverry.com/ux-of-parenting-teething/</url>
-</object>
-</items>
-<items>
-<object>
-<author>
-<displayName>jgmac1106</displayName>
-<image>
-<url>https://0.academia-photos.com/275850/62912/68932/s200_j._gregory.mcverry.jpg</url>
-</image>
-<objectType>person</objectType>
-</author>
-<content_is_html>True</content_is_html>
-<displayName>Building a Podcast Feed</displayName>
-<image>
-<url>http://femhack.tech/11c4e0fcba310197cfe493569506243a.png</url>
-</image>
-<objectType>article</objectType>
-<published>2018-11-20 10:16:00</published>
-<summary>Backstage post on Building a Podcast Feed</summary>
-<tags>
-<displayName>$status</displayName>
-<objectType>hashtag</objectType>
-</tags>
-</object>
-</items>
-<items>
-<object>
-<author>
-<displayName>jgmac1106</displayName>
-<image>
-<url>https://0.academia-photos.com/275850/62912/68932/s200_j._gregory.mcverry.jpg</url>
-</image>
-<objectType>person</objectType>
-</author>
-<content_is_html>True</content_is_html>
-<displayName>#FemHack Grant</displayName>
-<image>
-<url>http://femhack.tech/11c4e0fcba310197cfe493569506243a.png</url>
-</image>
-<objectType>article</objectType>
-<published>2018-11-13 11:46:00</published>
-<summary>Grant application for a feminist pedagogy hackathon</summary>
-</object>
-</items>
-<items>
-<object>
-<author>
-<displayName>jgmac1106</displayName>
-<objectType>person</objectType>
-</author>
-<content_is_html>True</content_is_html>
-<displayName>UX of Parenting: Teething</displayName>
-<image>
-<url>https://jgregorymcverry.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-10-at-9.54.33-PM.png</url>
-</image>
-<objectType>article</objectType>
-<published>2018-11-13 11:46:00</published>
-<summary>The pains of adding clusters to chew on data</summary>
-</object>
-</items>
-<items>
-<object>
-<author>
-<displayName>jgmac1106</displayName>
-<objectType>person</objectType>
-</author>
-<content_is_html>True</content_is_html>
-<displayName>Exploring Future’s Past</displayName>
-<image>
-<url>http://jgregorymcverry.com/wp-content/uploads/2018/10/8579134341_23e92cd81d_k-1200x800.jpg</url>
-</image>
-<objectType>note</objectType>
-<published>2018-11-13 11:46:00</published>
-</object>
-</items>
-<itemsPerPage>8</itemsPerPage>
-<sorted>False</sorted>
-<startIndex>0</startIndex>
-<totalResults>8</totalResults>
-<updatedSince>False</updatedSince>
-</response>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Feed for https://jgregorymcverry.com/articles.html</title>
+    <link>https://jgregorymcverry.com/</link>
+    <description>-</description>
+    <atom:link href="https://granary.io/url?input=html&amp;output=rss&amp;url=https%3A%2F%2Fjgregorymcverry.com%2Farticles.html&amp;plaintext=true&amp;cache=false" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>granary</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Aug 2019 06:41:00 +0000</lastBuildDate>
+    <item>
+      <title>Exploring Futureâs Past</title>
+      <pubDate>Tue, 13 Nov 2018 11:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#FemHack Grant</title>
+      <description>Grant application for a feminist pedagogy hackathon</description>
+      <pubDate>Tue, 13 Nov 2018 11:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Podcast Feed</title>
+      <description>Backstage post on Building a Podcast Feed</description>
+      <category>$status</category>
+      <pubDate>Tue, 20 Nov 2018 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UX of Parenting: Teething</title>
+      <link>https://archive.jgregorymcverry.com/ux-of-parenting-teething/</link>
+      <description>The pains of adding clusters to chew on data</description>
+      <guid isPermaLink="true">https://archive.jgregorymcverry.com/ux-of-parenting-teething/</guid>
+      <pubDate>Fri, 12 Oct 2018 17:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creative Commons Global Summit App</title>
+      <link>https://jgregorymcverry.com/ccglobalsummit.html</link>
+      <description>Application for the 2019 Creative Commons Global Summit</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/ccglobalsummit.html</guid>
+      <pubDate>Sat, 08 Dec 2018 08:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saying Goodbye to Thimble</title>
+      <link>https://jgregorymcverry.com/goodbyethimble.html</link>
+      <description>Mozilla's Thimble Shutting Down</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/goodbyethimble.html</guid>
+      <category>$status</category>
+      <pubDate>Wed, 19 Dec 2018 09:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection: Open Source Blogging</title>
+      <link>https://jgregorymcverry.com/opensourceblogging.html</link>
+      <description>#OpenSource community blogging tips and strategies</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/opensourceblogging.html</guid>
+      <category>opensource</category>
+      <pubDate>Tue, 15 Jan 2019 06:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Badge from Your Own Domain</title>
+      <link>https://jgregorymcverry.com/austinintro.html</link>
+      <description>#IndieWeb Camp Austin demo on webmention badges</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/austinintro.html</guid>
+      <category>IndieWeb</category>
+      <pubDate>Wed, 27 Feb 2019 14:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Innovation Systems and System Network Agent Theory and #IndieWeb</title>
+      <link>https://jgregorymcverry.com/SyNatIndieWeb.html</link>
+      <description>#IndieWeb as an Innovation System</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/SyNatIndieWeb.html</guid>
+      <category>IndieWeb</category>
+      <pubDate>Sun, 03 Mar 2019 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video Guide to a Homebrew Website Club Page</title>
+      <link>https://jgregorymcverry.com/hwcpagetutorial.html</link>
+      <description>#IndieWeb guide to the HWC Page</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/hwcpagetutorial.html</guid>
+      <category>IndieWeb</category>
+      <pubDate>Sun, 03 Mar 2019 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Growing the #IndieWeb at IndieWebCamp New Haven</title>
+      <link>https://jgregorymcverry.com/indiewebcampnewhaven.html</link>
+      <description>IndieWebCamp wrap up for New Haven</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/indiewebcampnewhaven.html</guid>
+      <category>IndieWebCamp</category>
+      <pubDate>Fri, 05 Apr 2019 08:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webmention Badges at #PressEdConf19</title>
+      <link>https://jgregorymcverry.com/href=/webmentionbadgespressedconf19.html</link>
+      <description>#PressedConf19 presentation on webmention badges</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/href=/webmentionbadgespressedconf19.html</guid>
+      <category>pressedconf19</category>
+      <pubDate>Fri, 19 Apr 2019 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IndieWeb Updates</title>
+      <link>https://jgregorymcverry.com/IndieWebUpdate.html</link>
+      <description>#IndieWeb updates in 2-3 minutes</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/IndieWebUpdate.html</guid>
+      <category>IndieWeb</category>
+      <pubDate>Mon, 01 Jul 2019 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#BarefootForDai</title>
+      <link>https://jgregorymcverry.com/barefoot4dai.html</link>
+      <description>#barefoot4dai video tribute</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/barefoot4dai.html</guid>
+      <category>barefoototdai</category>
+      <pubDate>Wed, 07 Aug 2019 15:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment in the Literacy Classroom</title>
+      <link>https://jgregorymcverry.com/assessmetliteracy.html</link>
+      <description>Rubric and Questioning Strategies</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/assessmetliteracy.html</guid>
+      <pubDate>Thu, 08 Aug 2019 16:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>edCampCT19 Reflections</title>
+      <link>https://jgregorymcverry.com/edcampct.html</link>
+      <description>#edCampCT 2019 reflection</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/edcampct.html</guid>
+      <category>edcampct</category>
+      <pubDate>Sat, 17 Aug 2019 06:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designs that Inspire</title>
+      <link>https://jgregorymcverry.com/inspiringdesigns.html</link>
+      <description>Websites from around IndieWeb that inspire me</description>
+      <guid isPermaLink="true">https://jgregorymcverry.com/inspiringdesigns.html</guid>
+      <pubDate>Sat, 17 Aug 2019 06:41:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
