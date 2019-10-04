@@ -48,7 +48,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="edcampct">#edCampCT</data> 2019 reflection
         </div>
-        <a  href="/edcampct.html" class="u-url button">Read More</a>
+        <a  href="/edcampct" class="u-url button">Read More</a>
 
     </article> 
     <article class="h-entry card">
@@ -69,7 +69,7 @@
         <div class="p-summary card__description">
           Rubric and Questioning Strategies
         </div>
-        <a  href="/assessmetliteracy.html" class="u-url button">Read More</a>
+        <a  href="/assessmetliteracy" class="u-url button">Read More</a>
 
     </article>
   
@@ -91,7 +91,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="barefoototdai">#barefoot4dai</data> video tribute
         </div>
-        <a  href="/barefoot4dai.html" class="u-url button">Read More</a>
+        <a  href="/barefoot4dai" class="u-url button">Read More</a>
 
     </article> 
    <article class="h-entry card">
@@ -112,7 +112,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="IndieWeb">#IndieWeb</data> updates in 2-3 minutes
         </div>
-        <a  href="/IndieWebUpdate.html" class="u-url button">Read More</a>
+        <a  href="/IndieWebUpdate" class="u-url button">Read More</a>
 
     </article>  
   <article class="h-entry card">
@@ -133,7 +133,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="pressedconf19">#PressedConf19</data> presentation on webmention badges
         </div>
-        <a  href="href=/webmentionbadgespressedconf19.html" class="u-url button">Read More</a>
+        <a  href="href=/webmentionbadgespressedconf19" class="u-url button">Read More</a>
 
     </article> 
      <article class="h-entry card">
@@ -154,7 +154,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="IndieWebCamp">IndieWebCamp</data> wrap up for New Haven
         </div>
-        <a  href="/indiewebcampnewhaven.html" class="u-url button">Read More</a>
+        <a  href="/indiewebcampnewhaven" class="u-url button">Read More</a>
 
     </article> 
    <article class="h-entry card">
@@ -175,7 +175,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="IndieWeb">#IndieWeb</data> guide to the HWC Page
         </div>
-        <a  href="/hwcpagetutorial.html" class="u-url button">Read More</a>
+        <a  href="/hwcpagetutorial" class="u-url button">Read More</a>
 
     </article> 
    <article class="h-entry card">
@@ -196,7 +196,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="IndieWeb">#IndieWeb</data> as an Innovation System
         </div>
-        <a  href="/SyNatIndieWeb.html" class="u-url button">Read More</a>
+        <a  href="/SyNatIndieWeb" class="u-url button">Read More</a>
 
     </article>  
     <article class="h-entry card">
@@ -217,7 +217,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="IndieWeb">#IndieWeb</data> Camp Austin demo on webmention badges
         </div>
-        <a  href="/austinintro.html" class="u-url button">Read More</a>
+        <a  href="/austinintro" class="u-url button">Read More</a>
 
     </article>  
   <article class="h-entry card">
@@ -238,7 +238,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="opensource">#OpenSource</data> community blogging tips and strategies
         </div>
-        <a  href="/opensourceblogging.html" class="u-url button">Read More</a>
+        <a  href="/opensourceblogging" class="u-url button">Read More</a>
 
     </article>  
    <article class="h-entry card">
@@ -259,7 +259,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="$status">Mozilla</data>'s Thimble Shutting Down
         </div>
-        <a  href="/goodbyethimble.html" class="u-url button">Read More</a>
+        <a  href="/goodbyethimble" class="u-url button">Read More</a>
 
     </article>  
    <article class="h-entry card">
@@ -282,7 +282,7 @@
             Application for the 2019 Creative Commons Global Summit
           </p>
         </div>
-        <a  href="/ccglobalsummit.html" class="u-url button">Read More</a>
+        <a  href="/ccglobalsummit" class="u-url button">Read More</a>
 
     </article>  
     <article class="h-entry card">
@@ -321,7 +321,7 @@
         <div class="p-summary card__description">
             <data class="p-category" value="$status">Backstage</data> post on Building a Podcast Feed
         </div>
-        <a href="/buildingapodcast.html" class="button">Read More</a>
+        <a href="/buildingapodcast" class="button">Read More</a>
 
     </article>
    <article class="h-entry card">
@@ -338,7 +338,7 @@
         <div class="p-summary card__description">
             Grant application for a feminist pedagogy hackathon
         </div>
-        <a href="/femhackgrant.html" class="button">Read More</a>
+        <a href="/femhackgrant" class="button">Read More</a>
 
     </article>
     <article class="h-entry card">
