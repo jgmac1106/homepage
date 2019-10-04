@@ -20,10 +20,6 @@
         <div class="Navbar__Link">
           <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>
         </div>
-        
-        <div class="Navbar__Link">
-          <a href="/contact.html">Contact</a>
-        </div>
         <div class="Navbar__Link">
           <a href="/resume.html" class="navLinks">Vita</a>
         </div>
