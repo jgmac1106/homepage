@@ -1,4 +1,4 @@
- <header>
+  <header>
       <a href="index.html">
         <div class="leading">
           <p>
@@ -12,35 +12,34 @@
       <nav class="Navbar__Items">
         <div class="Navbar__Link">
           
-          <a href="/aboutme.html" >About</a>
+          <a href="/aboutme" >About</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/articles.html" >Articles</a>
+          <a href="/articles" >Articles</a>
         </div>
         <div class="Navbar__Link">
           <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>
         </div>
-        
         <div class="Navbar__Link">
-          <a href="/contact.html">Contact</a>
+          <a href="/myphotos" >Photos</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/resume.html" class="navLinks">Vita</a>
+          <a href="/resume" class="navLinks">Vita</a>
         </div>
         <div class="Navbar__Link">
           <a href="https://consulting.jgregorymcverry.com/" class="navLinks">Consulting</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/2toPonder.html" class="navLinks">Podcasts</a>
+          <a href="/2toPonder" class="navLinks">Podcasts</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/following.html" class="navLinks">Following</a>
+          <a href="/following" class="navLinks">Following</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/annotations.html" class="navLinks">Annotations</a>
+          <a href="/annotations" class="navLinks">Annotations</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/imagecredits.html" class="navLinks">Img Credits</a>
+          <a href="/imagecredits" class="navLinks">Img Credits</a>
         </div>
       </nav>
     </header>
