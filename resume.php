@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
   <main>
     <a href="/printresume.html">Print Version</a>
   <div class="h-resume">
@@ -806,6 +808,7 @@
     </div>
     
     </main>
+    <footer>
     <?php include 'footer.php'; ?>
   </body>
 

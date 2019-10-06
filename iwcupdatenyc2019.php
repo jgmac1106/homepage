@@ -16,7 +16,7 @@
   <div class="e-content">
   
   <video controls poster="ideos/MVIMG_20190807_150253.jpg">
-  <source src="/videos/IndieWebCampNYCupdate" type="video/mp4">
+  <source src="/videos/IndieWebCampNYCupdate.mp4" type="video/mp4">
   
   Your browser does not support the video tag.
 </video>

@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
 <div class="child-page-listing h-entry">
 	<h2 class="p-name">Billow on Brigatine 2019</h2>
 	<h3>
@@ -292,6 +294,7 @@
 						</div>
 					</figure>
 				</div>
+				<footer>
 				<?php include 'footer.php'; ?>
 			</body>
 			

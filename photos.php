@@ -1,7 +1,8 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
   <main class="h-feed">
-  
      <div class="h-card">
   <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
     </div>
@@ -75,6 +76,7 @@
     </article>
 </section>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
   

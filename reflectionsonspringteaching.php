@@ -1,6 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
-    
+ </header>
   <main>   
   <article class="h-feed">
 <div>
@@ -376,6 +377,7 @@ Now to go and copy and paste all these notes to my blog where they belong but my
 </div>
 </article>
     </main>
+    <footer>
    <?php include 'footer.php'; ?>
 
   </body>
