@@ -32,6 +32,29 @@
     </article> 
      <article class="h-entry card">
         <header class="card__title">
+            <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
+        </header>
+      <span class="authorInfo">
+         <span class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </span>
+        
+         <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
+      </span>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="MVIMG_20190807_150253.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            A Live Update from IndieWebCamp NYC
+          </p>
+        </div>
+        <a  href="/iwcupdatenyc2019.html" class="u-url button">View Now</a>
+
+    </article> 
+     <article class="h-entry card">
+        <header class="card__title">
             <h3 class="p-name">edCampCT19 Reflections</h3>
         </header>
       <span class="authorInfo">
