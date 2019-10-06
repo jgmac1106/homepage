@@ -109,7 +109,7 @@
               <time class="dt-published" datetime="2019-08-08 16:41:00">08<sup>th</sup> August 2019</time>
             </span>
             <figure class="card__thumbnail">
-              <img class="u-featured" src="https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262" alt="three fames showing a face melting by a clock" >
+              <img class="u-featured" src="photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262" alt="three fames showing a face melting by a clock" >
               
             </figure>
             <div class="p-summary card__description">
