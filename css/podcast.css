@@ -111,7 +111,7 @@ grid-template-rows: 0.5fr 3fr;
 .f {
 		grid-column: 1/3;
 		grid-row: 2;
-      background: url("https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F2344751034_51d9a3ec06_b%20(1).jpg?1544233545009") no-repeat;
+      background: url("/photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F2344751034_51d9a3ec06_b%20(1).jpg?1544233545009") no-repeat;
     background-size:cover;
     
     height:30vh;

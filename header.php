@@ -42,4 +42,4 @@
           <a href="/imagecredits" class="navLinks">Img Credits</a>
         </div>
       </nav>
-    </header>
+    
