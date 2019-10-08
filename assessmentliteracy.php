@@ -1,6 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
-   
+   </header>
     
   <main class="longreads">   
   <article class="h-entry">
@@ -13,7 +14,7 @@
     <p class="p-summary">Collection of Posts on Assessment in Language Arts Classrooms</p>
     </span>
  </div>
-    <img class="featured u-featured" src="https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262">
+    <img class="featured u-featured" src="photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262">
     <div class="copy">
   <div class="e-content">
   
@@ -207,6 +208,7 @@
       </div>
 </article>
     </main>
+    <footer>
   <?php include 'footer.php'; ?>
   </body>
   

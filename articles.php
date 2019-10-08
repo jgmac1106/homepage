@@ -7,6 +7,29 @@
   <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
     </div>
 <section class="card-container">
+    <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
+        </header>
+      <span class="authorInfo">
+         <span class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </span>
+        
+         <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
+      </span>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="/videos/MVIMG_20190807_150253.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            A Live Update from IndieWebCamp NYC
+          </p>
+        </div>
+        <a  href="/iwcupdatenyc2019.html" class="u-url button">View Now</a>
+
+    </article> 
   <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Designs that Inspire</h3>
@@ -19,7 +42,7 @@
          <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
       </span>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F10990743203_7a694363a8_z.jpg?v=1566139221847" alt="time lapse of ferris wheel at night with RV in front" >
+            <img class="u-featured" src="/photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F10990743203_7a694363a8_z.jpg?v=1566139221847" alt="time lapse of ferris wheel at night with RV in front" >
          
         </figure>
         <div class="p-summary card__description">
@@ -30,6 +53,7 @@
         <a  href="/inspiringdesigns.html" class="u-url button">Read More</a>
 
     </article> 
+   
      <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">edCampCT19 Reflections</h3>

@@ -23,7 +23,7 @@
           </div>
           <div class="item2">
             <div class="h-card">
-              <img class="u-photo" style="border-radius:50%" src="https://0.academia-photos.com/275850/62912/68932/s200_j._gregory.mcverry.jpg" alt=""><br>
+              <img class="u-photo" style="border-radius:50%" src="/photos/assets/thumb.jpg" alt=""><br>
               <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
               <a class="u-email" href="mailto:jgregmcverry@gmail.com">Email</a> <br>
               
@@ -109,7 +109,7 @@
               <time class="dt-published" datetime="2019-08-08 16:41:00">08<sup>th</sup> August 2019</time>
             </span>
             <figure class="card__thumbnail">
-              <img class="u-featured" src="https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262" alt="three fames showing a face melting by a clock" >
+              <img class="u-featured" src="photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262" alt="three fames showing a face melting by a clock" >
               
             </figure>
             <div class="p-summary card__description">

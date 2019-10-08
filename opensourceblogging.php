@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
   <main>   
   <article class="h-entry">
     <div class="pubcollection">
@@ -178,6 +180,7 @@
       </div>
 </article>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
 

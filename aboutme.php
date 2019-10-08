@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
  <main>
    <a href="index.html">
   
@@ -46,6 +48,7 @@ Greg is involved in many school wide initiatives to improve literacy outcomes us
      </div>
    </div>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
   </html>
