@@ -1,24 +1,12 @@
 <?php include 'galleryhead.php'; ?>
 <?php include 'header.php'; ?>
 	<body>
-		<header>
-			<a href="index.html">
-				<div class="leading">
-					<h1 class="leading-bigtext">
-					INTERTEXTrEVOLUTION
-					</h1>
-					<h2 class="bigtext">
-					Make.Hack.Play.Learn
-					</h2>
-				</div>
-			</a>
-			
-		</header>
+		
 		
 		<div class="child-page-listing h-entry">
 			<h2 class="p-name">Yankees 2019</h2>
 			<h3>
-			Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published <time class="dt-published" datetime="2019-09-07 5:16:00">2019-09-29 </time>
+			Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published <time class="dt-published" datetime="2019-09-29 5:16:00">2019-09-29 </time>
 			</h3>
 			<img class="featured u-featured" style="width=50%" src="/photos/yankees2019/housethatruthbuilt.jpg" alt="close up of Yankees name on stadium">
 			<div class="copy e-content">
