@@ -1,4 +1,4 @@
- <header>
+  <header>
       <a href="index.html">
         <div class="leading">
           <p>
@@ -21,7 +21,7 @@
           <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>
         </div>
         <div class="Navbar__Link">
-          <a href="/photos.php" >Photos</a>
+          <a href="/myphotos" >Photos</a>
         </div>
         <div class="Navbar__Link">
           <a href="/resume" class="navLinks">Vita</a>
@@ -42,4 +42,4 @@
           <a href="/imagecredits" class="navLinks">Img Credits</a>
         </div>
       </nav>
-    </header>
+    
