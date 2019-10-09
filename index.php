@@ -1,4 +1,5 @@
 <?php include 'head.php'; ?>
+ <script src="/script.js" defer></script>
 <?php include 'header.php'; ?>
     <main>
       
