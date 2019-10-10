@@ -121,6 +121,22 @@ h2 {
 
 video {
   width:90%;
+}
+footer {
+   display: flex;
+  justify-content:center;
+   padding: 10px;
+  font-size: .75em;
+  color: white;
+ background-color: #6B6B6B;
+  
+}
+footer .flex-item {
+  text-align: center;
+}
+footer .flex-item img {
+  width:20%;
+}
 
 
 /* for touch screen devices */
