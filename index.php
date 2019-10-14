@@ -80,7 +80,7 @@
          <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
       </span>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="/videos/MVIMG_20190807_150253.jpg" alt="" >
+            <img class="u-featured" src="/photos/assets/ferriswheel" alt="" >
          
         </figure>
         <div class="p-summary card__description">
