@@ -1,9 +1,9 @@
 <?php include 'head.php'; ?>
- <link rel="alternative" type="application/atom+xml" href="https://granary.io/url?input=html&output=as1-xml&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="latest articles">
- <link rel="alternative" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="Latest Articles">
-<link rel="alternative" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles" title="All Articles">
-<link rel="alternative" href="https://quickthoughts.jgregorymcverry.com/content/posts/?_t=rss" title="blog">
- <link rel="alternative" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
+ <link rel="alternate" type="application/atom+xml" href="https://granary.io/url?input=html&output=as1-xml&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="latest articles">
+ <link rel="alternate" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="Latest Articles">
+<link rel="alternate" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles" title="All Articles">
+<link rel="alternate" href="https://quickthoughts.jgregorymcverry.com/content/posts/?_t=rss" title="blog">
+ <link rel="alternate" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
  </head>
 <?php include 'header.php'; ?>
  <script src="/script.js" defer></script>
