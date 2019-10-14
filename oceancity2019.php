@@ -1,5 +1,9 @@
+
+<?php include 'galleryhead.php'; ?>
+
 <?php include 'head.php'; ?>
 </head>
+
 <?php include 'header.php'; ?>
 </header>
 <div class="child-page-listing h-entry">
@@ -294,8 +298,13 @@
 						</div>
 					</figure>
 				</div>
+
+			<footer><div>Copy licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>Code licensed under a <a rel="license" href="https://github.com/supertunaman/cdl">CDL License</a>Pictures of children are all-rights reserved.</div>
+			</footer>
+
 				<footer>
 				<?php include 'footer.php'; ?>
+
 			</body>
 			
 		</html>
