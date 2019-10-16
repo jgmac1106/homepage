@@ -1,9 +1,8 @@
 <?php include 'head.php'; ?>
- <link rel="alternate" type="application/atom+xml" href="https://granary.io/url?input=html&output=as1-xml&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="latest articles">
- <link rel="alternate" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="Latest Articles">
-<link rel="alternate" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles" title="All Articles">
-<link rel="alternate" href="https://quickthoughts.jgregorymcverry.com/content/posts/?_t=rss" title="blog">
- <link rel="alternate" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
+ <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="Latest articles">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles" title="All Articles">
+<link rel="alternate" type="application/rss+xml" href="https://example.withknown.com/content/all?_t=rss" title="blog">
+ <link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
  </head>
 <?php include 'header.php'; ?>
  <script src="/script.js" defer></script>
@@ -47,15 +46,13 @@
                 </p>
                 <ul  class="myfeeds" >
                   <li><a rel="feed" href="/articles.html">Articles</a></li>
-                  <link rel="alternative" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles">
                   <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/posts/">Blog</a></li>
-                  <link rel="alternative" href="https://quickthoughts.jgregorymcverry.com/content/posts/?_t=rss">
                   <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/statusupdates/replies/">Social Stream</a></li>
-                    <link rel="alternative" href="https://quickthoughts.jgregorymcverry.com/content/statusupdates/replies/?_t=rss">
+                   
                   <li> <a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/bookmarkedpages/">Bookmarks</a></li>
-                 <link rel="alternative" href="https://quickthoughts.jgregorymcverry.com/content/bookmarkedpages/?_t=rss">
+                 
                   <li><a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems">Poetry</a></li>
-                  <link rel="alternative" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss">
+                 
                   <li><a   rel="feed" href="myseeds.html">My Seeds</a></li>
                 </ul>
               </div>
@@ -72,13 +69,13 @@
         <header class="card__title">
             <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
         </header>
-      <span class="authorInfo">
-         <span class="h-card"> 
+      <div class="authorInfo">
+         <div class="h-card"> 
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
-         </span>
+         </div>
         
          <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
-      </span>
+      </div>
         <figure class="card__thumbnail">
             <img class="u-featured" src="/photos/assets/ferriswheel" alt="" >
          
@@ -95,13 +92,13 @@
             <header class="card__title">
               <h3 class="p-name">Designs that Inspire</h3>
             </header>
-            <span class="authorInfo">
-              <span class="h-card">
+            <div class="authorInfo">
+              <div class="h-card">
                 <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p>
-              </span>
+              </div>
               
               <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
-            </span>
+            </div>
             <figure class="card__thumbnail">
               <img class="u-featured" src="https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2F10990743203_7a694363a8_z.jpg?v=1566139221847" alt="time lapse of ferris wheel at night with RV in front" >
               
@@ -117,13 +114,13 @@
             <header class="card__title">
               <h3 class="p-name">edCampCT19 Reflections</h3>
             </header>
-            <span class="authorInfo">
-              <span class="h-card">
+            <div class="authorInfo">
+              <div class="h-card">
                 <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p>
-              </span>
+              </div>
               
               <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
-            </span>
+            </div>
             <figure class="card__thumbnail">
               <img class="u-featured" src="https://edcampct.files.wordpress.com/2019/01/edcampct_header_2019.jpg" alt="edcampct logo" >
               
