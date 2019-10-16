@@ -9,7 +9,7 @@
           <img  class="u-photo" src="/photos/iwcnyc2019/iwcnyc2019day2group.jpg" alt="Group photo"> 
       
         <time datetime="2019-00-07 21:11:00" class="dt-published">2019-09-10</time>
-        <p class="e-content">Day Two @indiewebcamp NYC Crew Left to Right Row One:  @nshad314 @tiereeee Josephine Zephyr. Back Row: @jgmac1106 @t dmitshur @teonbrooks @dshanske</p>
+        <p class="e-content">Day Two @indiewebcamp NYC Crew Left to Right Row One:  @nshad314 @tiereeee Josephine Zephyr. Back Row: @jgmac1106 @t @dmitshur @teonbrooks @dshanske</p>
         </figcaption>
       </figure>
  

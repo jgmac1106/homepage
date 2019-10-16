@@ -1,6 +1,9 @@
 <?php include 'head.php'; ?>
- <script src="/script.js" defer></script>
+ <link rel="feed" type="application/atom+xml" href="https://granary.io/url?input=html&output=as1-xml&url=https%3A%2F%2Fjgregorymcverry.com%2F">
+ <link rel="feed" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F">
+ 
 <?php include 'header.php'; ?>
+ <script src="/script.js" defer></script>
     <main>
       
       
@@ -40,10 +43,15 @@
                 </p>
                 <ul  class="myfeeds" >
                   <li><a rel="feed" href="/articles.html">Articles</a></li>
+                  <link rel="feed" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles">
                   <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/posts/">Blog</a></li>
+                  <link rel="feed" href="https://quickthoughts.jgregorymcverry.com/content/posts/?_t=rss">
                   <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/statusupdates/replies/">Social Stream</a></li>
+                    <link rel="feed" href="https://quickthoughts.jgregorymcverry.com/content/statusupdates/replies/?_t=rss">
                   <li> <a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/bookmarkedpages/">Bookmarks</a></li>
+                 <link rel="feed" href="https://quickthoughts.jgregorymcverry.com/content/bookmarkedpages/?_t=rss">
                   <li><a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems">Poetry</a></li>
+                  <link rel="feed" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss">
                   <li><a   rel="feed" href="myseeds.html">My Seeds</a></li>
                 </ul>
               </div>
@@ -56,6 +64,29 @@
         Recent Articles
         </h2>
         <section  class="card-container">
+          <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
+        </header>
+      <span class="authorInfo">
+         <span class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </span>
+        
+         <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
+      </span>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="/videos/MVIMG_20190807_150253.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            A Live Update from IndieWebCamp NYC
+          </p>
+        </div>
+        <a  href="/iwcupdatenyc2019.html" class="u-url button">View Now</a>
+
+    </article> 
           <article class="h-entry card">
             <header class="card__title">
               <h3 class="p-name">Designs that Inspire</h3>
@@ -98,26 +129,7 @@
             </div>
             <a  href="/edcampct.html" class="u-url button">Read More</a>
           </article>
-          <article class="h-entry card">
-            <header class="card__title">
-              <h3 class="p-name">Assessment in the Literacies Classroom</h3>
-            </header>
-            <span class="authorInfo">
-              <span class="h-card">
-                <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p>
-              </span>
-              
-              <time class="dt-published" datetime="2019-08-08 16:41:00">08<sup>th</sup> August 2019</time>
-            </span>
-            <figure class="card__thumbnail">
-              <img class="u-featured" src="photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262" alt="three fames showing a face melting by a clock" >
-              
-            </figure>
-            <div class="p-summary card__description">
-              Rubric and Questioning Strategies
-            </div>
-            <a  href="/assessmetliteracy.html" class="u-url button">Read More</a>
-          </article>
+         
           
           
         </section>

@@ -1644,6 +1644,7 @@ margin-bottome: 3em;
 .card img {
     width: 80%;
   height:250px;
+  margin-top:10%;
   margin-left:10%;
   margin-right:10%;
 }

@@ -9,6 +9,50 @@
 <section class="card-container">
   <article class="h-entry card">
         <header class="card__title">
+            <h3 class="p-name">IndieWeb NYC Photos/h3>
+        </header>
+      <div class="authorInfo">
+         <span class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </span>
+        
+         <time class="dt-published" datetime="2019-10-10 6:04:20">2019-10-08 </time>
+      </div>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="/photos/iwcnyc2019/iwcstickersnyc2019.jpg" alt="IndieWebCamp Stickers" >
+         
+        </figure>
+        <div class="p-summary card__description">
+         Mixed Media Art show I found after <data class="p-category" value="IndieWeb">IndieWebCamp NYC</data> 2019 
+        </div>
+        
+        <a  href="/iwcnyc2019" class="u-url button">View</a>
+
+    </article> 
+  <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">Mixed Media Art Show</h3>
+        </header>
+      <div class="authorInfo">
+         <span class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </span>
+        
+         <time class="dt-published" datetime="2019-10-08 5:16:00">2019-10-08 </time>
+      </div>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="photos/mixedmediaartshow/monitorroom.jpg" alt="purple room with montitors and wires everywhere" >
+         
+        </figure>
+        <div class="p-summary card__description">
+         Mixed Media Art show I found after <data class="p-category" value="IndieWeb">IndieWebCamp NYC</data> 2019 
+        </div>
+        
+        <a  href="/mixedmediaartsshow" class="u-url button">View</a>
+
+    </article> 
+  <article class="h-entry card">
+        <header class="card__title">
             <h3 class="p-name">My Photos</h3>
         </header>
       <span class="authorInfo">

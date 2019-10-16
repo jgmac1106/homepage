@@ -1,5 +1,8 @@
 
 <?php include 'head.php'; ?>
+<link rel="feed" type="application/atom+xml" href="https://granary.io/url?input=html&output=as1-xml&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles">
+<link rel="feed" type="application/xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles">
+
 <?php include 'header.php'; ?>
   <main class="h-feed">
   
@@ -19,7 +22,7 @@
          <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
       </span>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="/videos/MVIMG_20190807_150253.jpg" alt="" >
+            <img class="u-featured" src="/photos/iwcnyc2019/iwcstickersnyc2019.jpg" alt="" >
          
         </figure>
         <div class="p-summary card__description">
@@ -42,7 +45,7 @@
          <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
       </span>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="/photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F10990743203_7a694363a8_z.jpg?v=1566139221847" alt="time lapse of ferris wheel at night with RV in front" >
+            <img class="u-featured" src="/photos/assets/ferriswheel.jpg" alt="time lapse of ferris wheel at night with RV in front" >
          
         </figure>
         <div class="p-summary card__description">
