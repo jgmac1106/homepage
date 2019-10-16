@@ -1,5 +1,7 @@
 
 <?php include 'galleryhead.php'; ?>
+
+<?php include 'head.php'; ?>
 </head>
 
 <?php include 'header.php'; ?>

@@ -1,6 +1,5 @@
-body {
-    background-color: #efefef;
-  font-family: 'Quicksand', sans-serif;
+ody {
+font-family: 'Quicksand', sans-serif;
   scroll-behavior: smooth;
   font-size: 16px; }
   @media (min-width: 45em) {
@@ -15,12 +14,18 @@ body {
 /* Flex styles -------------------------------------------------*/
 
 
-header { 
+header {
+  
   color: white;
  background-color: #6B6B6B;
   font-size: 2em;
-  z-index:5;  
+  z-index:5;
+  
+   
 }
+
+
+
 
 footer {
    display: flex;
@@ -56,7 +61,7 @@ h2 {
 }
 h3 {
   font-size:2.75vw;
-
+line-height: 4.7vh;
   margin-bottom:.3em;
     font-weight: 800;
 }
@@ -116,20 +121,16 @@ strong {
 }
 
 .Navbar__Link-toggle {
-  //display: none;
+  display: none;
 }
 @media only screen and (max-width: 768px) {
   .Navbar__Items,
   .Navbar {
     flex-direction: column;
   }
-  .Navbar {
-    opacity: 0:
+  .Navbar__Items {
+    display:none;
   }
-  .Navbar:hover {
-    opacity: 0:
-  }
-  
   .Navbar__Items--right {
     margin-left:0;
   }
@@ -965,8 +966,10 @@ flex-grow:12;
   .service .item1 {
   grid-column: 2;
  grid-row: 1;
+   
   padding: 20px;
  
+  
 }
 
 .service .item2 {
@@ -1425,40 +1428,40 @@ flex-grow:12;
 }
 
 .entry-media {
-	margin: auto;
+  margin: auto;
     width: 50%;
 }
 
 .table {
-		display: inline-block;
-	margin: auto;
+    display: inline-block;
+  margin: auto;
     width: 50%;
 }
 
 
 ul#horizontal-list {
 
-	list-style: none;
-	padding-top: 20px;
-	}
-	ul#horizontal-list li {
-		display: inline;
-		text-decoration:none;
-		color:black;
-	}
-	ul#horizontal-list li a {
-		display: inline;
-		text-decoration:none;
-		color:black;
-	}
+  list-style: none;
+  padding-top: 20px;
+  }
+  ul#horizontal-list li {
+    display: inline;
+    text-decoration:none;
+    color:black;
+  }
+  ul#horizontal-list li a {
+    display: inline;
+    text-decoration:none;
+    color:black;
+  }
 
 .circlePic {
-	border-radius: 50%;
+  border-radius: 50%;
 }
 
 .syndication {
-	display: none;
-}	
+  display: none;
+} 
 .follow  {
   
   display: flex;
@@ -1621,6 +1624,7 @@ margin-bottome: 3em;
 }
 .card__title {
     font-size: 1.25em;
+    line-height:2em;
     padding: .5rem;
   z-index: 1;
   
@@ -1644,7 +1648,6 @@ margin-bottome: 3em;
 .card img {
     width: 80%;
   height:250px;
-  margin-top:10%;
   margin-left:10%;
   margin-right:10%;
 }
@@ -1688,7 +1691,7 @@ margin-bottome: 3em;
 
     .note{
       grid-column: 2;  
-      background-color:#888888;
+      background-color:#a6a6a6;
         color: #fff;
         border-radius: 5px;
         padding: 20px;
@@ -1700,12 +1703,11 @@ margin-bottome: 3em;
   margin-bottom: 5%;
   margin-top: 5%;
 }
-.note img{
-  display: block;
+.note img {
+  width:90%;
+   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
-  margin-bottom:5%;
 }
 
 video {
