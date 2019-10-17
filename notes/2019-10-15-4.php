@@ -13,7 +13,7 @@
         </figcaption>
       </figure>
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-15-4" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1184620628030177282" ><strong>Twitter</strong></a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
 </div>
