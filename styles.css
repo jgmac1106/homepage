@@ -1,4 +1,4 @@
-ody {
+body {
 font-family: 'Quicksand', sans-serif;
   scroll-behavior: smooth;
   font-size: 16px; }
@@ -1597,6 +1597,7 @@ margin-bottome: 3em;
   color:white;
 }
 .card-container {
+  color: white;
     display: grid;
     padding: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
