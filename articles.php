@@ -3,11 +3,11 @@
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles">
 <?php include 'header.php'; ?>
   <main class="h-feed">
-  
+  <h2 class="p-name">My Feed</h2>
      <div class="h-card">
   <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
     </div>
-<section class="card-container">
+<div class="card-container">
     <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
@@ -16,11 +16,10 @@
          <div class="h-card"> 
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
          </div>
-        
          <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
-      </div>
+          </div>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="/videos/MVIMG_20190807_150253.jpg" alt="" >
+            <img class="u-featured" src="/photos/iwcnyc2019/Day2PhotoNYC2019" alt="" >
          
         </figure>
         <div class="p-summary card__description">
@@ -29,7 +28,6 @@
           </p>
         </div>
         <a  href="/iwcupdatenyc2019.html" class="u-url button">View Now</a>
-
     </article> 
   <article class="h-entry card">
         <header class="card__title">
@@ -384,7 +382,7 @@
 
     </article>
     
-</section>
+</div>
     </main>
 <?php include 'footer.php'; ?>
   </body>
