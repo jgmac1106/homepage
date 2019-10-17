@@ -9,7 +9,7 @@
  <p class="p-name e-content"></a>
  </p>
   Also on  <a class="u-url url" href="#" rel="canonical"><strong>My Notes</strong></a>
-  <a href="https://brid.gy/about#webmentions">Published with Bridgy</a>
+  <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
   		<footer>

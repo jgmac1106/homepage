@@ -1,5 +1,5 @@
-ody {
-font-family: 'Quicksand', sans-serif;
+body {
+font-family: 'Heebo', sans-serif;
   scroll-behavior: smooth;
   font-size: 16px; }
   @media (min-width: 45em) {
@@ -73,6 +73,9 @@ h4 {
 }
 p {
   margin-bottom:2.5vmin;
+  line-height:3.5vmin;
+    font-size: 2.75vmin;
+}
 }
 blockquote {
   margin-left:5%;
@@ -85,6 +88,8 @@ strong {
 }
 
 .Navbar {
+  margin-left:2%;
+  margin-right:2%;
  color: #D9183A;
   display: flex;
   padding: 16px;
@@ -94,7 +99,7 @@ strong {
 
 .Navbar__Link {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 2vmin;
+  font-size: 2.5vmin;
   text-transform: uppercase;
   text-decoration: none;
   color: white;
@@ -1648,7 +1653,7 @@ margin-bottome: 3em;
 .card img {
     width: 80%;
   height:250px;
-   margin-left:5%;
+   margin-top:5%;
   margin-left:10%;
   margin-right:10%;
 }
@@ -1697,6 +1702,7 @@ margin-bottome: 3em;
         border-radius: 5px;
         padding: 20px;
         font-size: 2.5vmin;
+        line-height:3.5vmin;
 
     }
 
