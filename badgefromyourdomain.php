@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?> 
+</header>
   <main class="longreads">   
   <article class="h-entry">
   <h1 class="p-name">Badge From Your Own Domain</h1>

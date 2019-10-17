@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
  <main class="h-entry">
    <a href="index.html">
    
@@ -223,6 +225,7 @@
     </h2>
    </div>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
 

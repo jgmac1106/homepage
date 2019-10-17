@@ -1,4 +1,4 @@
-body {
+ody {
 font-family: 'Quicksand', sans-serif;
   scroll-behavior: smooth;
   font-size: 16px; }
@@ -17,6 +17,7 @@ font-family: 'Quicksand', sans-serif;
 header {
   
   color: white;
+ background-color: #6B6B6B;
   font-size: 2em;
   z-index:5;
   
@@ -30,7 +31,7 @@ footer {
    display: flex;
   justify-content:center;
    padding: 10px;
-  font-size: .25em;
+  font-size: .75em;
   color: white;
  background-color: #6B6B6B;
   
@@ -1596,7 +1597,6 @@ margin-bottome: 3em;
   color:white;
 }
 .card-container {
-  color: white;
     display: grid;
     padding: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -1648,7 +1648,7 @@ margin-bottome: 3em;
 .card img {
     width: 80%;
   height:250px;
-  margin-top:10%;
+   margin-left:5%;
   margin-left:10%;
   margin-right:10%;
 }
