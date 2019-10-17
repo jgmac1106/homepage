@@ -11,6 +11,6 @@
     <link rel="pingback" href="https://webmention.io/jgregorymcverry.com/xmlrpc" />
     <link rel="stylesheet" href="/styles.css">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-9ralMzdK1QYsk4yBY680hmsb4/hJ98xK3w0TIaJ3ll4POWpWUYaA2bRjGGujGT8w" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Heebo|Quicksand&display=swap" rel="stylesheet"> 
 <link rel="canonical" href="https://jgregorymcverry.com<?php echo $_SERVER['PHP_SELF']; ?>" />
  
