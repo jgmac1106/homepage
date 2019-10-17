@@ -5,7 +5,7 @@
   <main class="longreads"> 
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
-
+<a class="u-author" href="/"></a>
           <img   class="u-photo" src="" alt=""> 
           
       

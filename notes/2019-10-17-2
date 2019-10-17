@@ -5,11 +5,11 @@
    <main class="longreads"> 
   	<div class="notewrapper">
   	<div class="note h-entry">
-<a class="u-author" href="/"></a>
+<a class="u-author" href="/">Hoping I fixed my markup to work with most of the authorship algorithms. We will find out with this test note</a>
 <time class="dt-published" datetime="2019-10-06T13:26:05+0000">October 6th 2019</time>
  <p class="p-name e-content"></a>
  </p>
-  Also on  <a class="u-url url" href="#" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/note/2019-10-17-2" rel="canonical"><strong>My Notes</strong></a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
