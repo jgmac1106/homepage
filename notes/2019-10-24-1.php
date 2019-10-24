@@ -11,10 +11,10 @@
   
       
         <time datetime="2019-10-24 8:54:20" class="dt-published">2019-09-13 8:54</time>
-       <p>In reply to <a class="u-in-reply-to" href="#">poetry</a> by <a class="h-card p-name" href="https://dogtrax.edublogs.com">@dogtrax</a></p>
+       
       
 <div class="class=e-content">
-<p>This didn't syndicate because of incorrect metadata. Most of the IndieWeb tools rely on a type of extra data called microformats. If you did this same poem on your write.as blog it would have worked (I think).</p>
+<p>@dogtrax <a  href="https://dailyconnector.com/2018/10/10/testing-out-indieweb-with-poetry">IndieWeb poetry</a> didn't syndicate because of incorrect metadata. Most of the IndieWeb tools rely on a type of extra data called microformats. If you did this same poem on your write.as blog it would have worked (I think).</p>
 
 <p>If you want to learn more about microformats check out the  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/microformats">Mozilla docs:</a></p>
 
