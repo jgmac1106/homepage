@@ -1,35 +1,74 @@
-<?php include 'head.php'; ?>
+<?php
+$pathLen = 0;
+
+function prePad($level)
+{
+  $ss = "";
+
+  for ($ii = 0;  $ii < $level;  $ii++)
+  {
+    $ss = $ss . "|&nbsp;&nbsp;";
+  }
+
+  return $ss;
+}
+
+function myScanDir($dir, $level, $rootLen)
+{
+  global $pathLen;
+
+  if ($handle = opendir($dir)) {
+
+    $allFiles = array();
+
+    while (false !== ($entry = readdir($handle))) {
+      if ($entry != "." && $entry != "..") {
+        if (is_dir($dir . "/" . $entry))
+        {
+          $allFiles[] = "D: " . $dir . "/" . $entry;
+        }
+        else
+        {
+          $allFiles[] = "F: " . $dir . "/" . $entry;
+        }
+      }
+    }
+    closedir($handle);
+
+    natsort($allFiles);
+
+    foreach($allFiles as $value)
+    {
+      $displayName = substr($value, $rootLen + 4);
+      $fileName    = substr($value, 3);
+      $linkName    = str_replace(" ", "%20", substr($value, $pathLen + 3));
+      if (is_dir($fileName)) {
+        echo prePad($level) . $linkName . "<br>\n";
+        myScanDir($fileName, $level + 1, strlen($fileName));
+      } else {
+        echo prePad($level) . "<a href=\"" . $linkName . "\" style=\"text-decoration:none;\">" . $displayName . "</a><br>\n";
+      }
+    }
+  }
+}
+
+?><!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Site Map</title>
 </head>
-<?php include 'header.php'; ?>
-    </header>
-  <main class="longreads">   
-  <article class="h-entry">
-  <h1 class="p-name">Current Seeds</h1>
-  <div class="pubinfo">
-  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
-     on <time class="dt-published" datetime="2019-10-06 06:41:00">10<sup>th</sup> October 2019</time></p>
-    <p>
-      Updated <time class="dt-updated" datetime="2019-10-06 06:41:00">10<sup>th</sup> October 2019</time></p>
-   
-  <span class="summary">
-    <p class="p-summary">A collection of my music</p>
-    </span>
- </div>
-    <div class="copy">
-  <div class="e-content">
-    <?php
-$dir    = 'https://jgregorymcverry.com/music';
-$files1 = scandir($dir);
 
-print_r($files1);
-?>
-  </div>
-      </div>
-</article>
-    </main>
-    <footer>
-<?php include 'footer.php'; ?>
+<body>
+<h1>Site Map</h1>
+<p style="font-family:'Courier New', Courier, monospace; font-size:small;">
+<?php
+  $root = 'https://jgregoyrmcverry.com/music';
 
-  </body>
- 
+  $pathLen = strlen($root);
+
+  myScanDir($root, 0, strlen($root)); ?>
+</p>
+</body>
+
 </html>
