@@ -51,7 +51,7 @@ header {
 .footer_info .flex-item img {
     margin: 0 auto;
 }
-@media only screen and (min-width: 1100px) {
+@media only screen and (min-width: 1200px) {
  .Nav_footer {
 display:none;
  }
@@ -142,7 +142,7 @@ strong {
 .Navbar__Link-toggle {
   display: none;
 }
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
   .Navbar__Items,
   .Navbar {
     flex-direction: column;
