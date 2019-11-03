@@ -15,7 +15,7 @@
         <p class="e-content">#SilentSunday</p>
       
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-11-03-1" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/<?php echo $_SERVER['PHP_SELF']; ?><strong>My Notes</strong></a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
 </div>

@@ -10,7 +10,7 @@
  <div class="p-name e-content"><p>I just added  @traceyhabla, </p><ul><li class="h-card"><a class="p-name u-url" href="https://traceyflores.wordpress.com/" rel="colleague ">Tracey Flores</a><span class="p-note">Capturing moments of my educational journey from student to scholar
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#Literacies">#Literacies</a> section of my following page. #BeYourOwnSocialNetwork
  </div>
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/<?php echo $_SERVER['PHP_SELF']; ?> "rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/<?php echo $_SERVER['PHP_SELF']; ?> "rel="canonical"><strong>My Notes</strong></a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
