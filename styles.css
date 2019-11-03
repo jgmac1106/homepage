@@ -154,11 +154,22 @@ strong {
     font-size: 3.75vmin;
 }
 }
+.Nav_footer ul{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 
+}
 
+.Navbar__Items_footer {
+    display:none;
+  }
 
-
-
+@media only screen and (max-width: 768px) {
+  .Navbar__Items_footer,
+  {
+    display: inline;
+  }
 
 
 .contact h3 {
