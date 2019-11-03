@@ -4,34 +4,34 @@
     <div class="Nav_footer">
     	<ul>
           <li class="Navbar__Link_footer" >
-          <a href="/aboutme" >About</a>
+          <a href="/aboutme" >About </a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/articles" >Articles</a>
+          <a href="/articles" >Articles </a>
         </li>
         <li class="Navbar__Link_footer" >
           <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/myphotos" >Photos</a>
+          <a href="/myphotos" >Photos </a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/resume" class="navLinks">Vita</a>
+          <a href="/resume" class="navLinks">Vita </a>
         </li>
         <li>
           <a href="https://consulting.jgregorymcverry.com/" class="navLinks">Consulting</a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/2toPonder" class="navLinks">Podcasts</a>
+          <a href="/2toPonder" class="navLinks">Podcasts </a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/following" class="navLinks">Following</a>
+          <a href="/following" class="navLinks">Following </a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/annotations" class="navLinks">Annotations</a>
+          <a href="/annotations" class="navLinks">Annotations </a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/imagecredits" class="navLinks">Img Credits</a>
+          <a href="/imagecredits" class="navLinks">Img Credits </a>
         </li>
     </ul>
 </div>
