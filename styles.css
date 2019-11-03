@@ -28,7 +28,6 @@ header {
 
 .Nav_footer ul {
   display: flex;
-  justify-content: space-between;
   flex-wrap:wrap;
 }
       
@@ -42,10 +41,10 @@ header {
  background-color: #6B6B6B;
   
 }
-footer .flex-item {
+.footer_info .flex-item {
   text-align: center;
 }
-footer .flex-item img {
+.footer_info .flex-item img {
   
 }
  header a {
