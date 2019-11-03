@@ -9,14 +9,14 @@
 <?php include 'header.php'; ?>
  <script src="/script.js" defer></script>
 </header>
-    <main style="background-color: black;">
+    <main>
       
       
-      <div class="contact" style="font-family: 'Griffy', cursive; color: red;">
+      <div class="contact">
         <div class="grid-container">
           <div class="item1">
             
-            <p style="font-family: 'Griffy', cursive; cursive; color: red;">
+            <p >
               Four words capture the spirit I bring to my work as a digitally networked scholar: Make. Hack. Play. Learn. I believe learning works best when it is interest driven and production based. We must design and redesign our possible futures. Make tomorrow happen. We also have to iterate on our past. Where we have been shapes our trajectories. We need to take what has come before and try to make it a little bit better. You can not succeed without failure. Hack away at what you tried yesterday. Learning is an embodied experience that cuts across the affordances of tools and meaning. We need to play with words and the tools that allow us to decode and encode meaning on the world. Students need the opportunity to try different professional identities. Play in the moment.
             </p>
             <h2> IndieWebRings</h2>
@@ -30,7 +30,7 @@
               <a href="https://microcast.club/321fb3/next">&rarr;</a>
             </div>
           </div>
-          <div class="item2" style="font-family: 'Griffy', cursive; color: red;">
+          <div class="item2">
             <div class="h-card">
               <img class="u-photo" style="border-radius:50%" src="https://archive.jgregorymcverry.com/wp-content/uploads/2014/10/ZombieHack.jpg" alt=""><br>
               <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
@@ -66,7 +66,7 @@
         <h2 class="p-name">
         Recent Articles
         </h2>
-        <section  class="card-container" style="font-family: 'Griffy', cursive; color: red;">
+        <section  class="card-container" >
           <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Opening the Syllabi in Higher Education</h3>
