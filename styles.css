@@ -50,6 +50,11 @@ header {
 .footer_info .flex-item img {
     margin: 0 auto;
 }
+@media only screen and (min-width: 1100px) {
+ .Nav_footer {
+display:none;
+ }
+ } 
  header a {
    text-decoration: none;
 }
