@@ -12,5 +12,5 @@ jobs:
         FTP_SERVER: ftp.jgregorymcverry.com
         FTP_USERNAME: github@jgregorymcverry.com
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-        ARGS: --delete
+        ARGS: 
         # --delete arg will delete files on the server if you've deleted them in git
