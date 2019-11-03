@@ -15,6 +15,8 @@
     
    <h2 class="p-category">edtech</h2>
   <ul class="follow-of follow">
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://kellyhilton.org" rel="colleague muse">Kelly Hilton</a> <span class="p-note">  bike riding, kayaking, camping, yoga, family, good food, creative tech projects
+</span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://gamedevprofessor.com/" rel="colleague muse">Ken Thompson</a> <span class="p-note">game designer and educator.
 </span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.drrobinkay.org/" rel="colleague muse">Robin Kay</a> <span class="p-note">Professor University of Ontario Institute of Technology</span></li>
@@ -91,6 +93,9 @@
 
 <h2 id="openpedagogy">Open Pedagogy</h2>
   <ul class="follow">
+    <li class="u-follow-of h-card"><a class="p-name u-url" href="https://jenniferenglund.net/"><img class="u-photo" src="https://i0.wp.com/jenniferenglund.net/wp-content/uploads/2018/12/Jennifer_4181-1.jpg">Jennier Englund</a><span class="p-note">Experiment with new types of technology and connect with others interested in the same topics</span></li>
+     <li class="u-follow-of h-card"><a class="p-name u-url" href="https://idevries.com/" rel="colleague ">Irwin Devries</a><span class="p-note">Reflections and ideas on open and distance learning
+</span></li>
     <li class="u-follow-of h-card"><a class="p-name u-url" href="https://librariansreed.com/" rel="colleague ">Michelle Reed</a><span class="p-note">Librarian. Open advocate. Recovering writer. 
 </span></li>
      <li class="u-follow-of h-card"><a class="p-name u-url" href="http://radiogirlradiogirl.blogspot.com/"><img class="u-photo" src="https://pbs.twimg.com/profile_images/3368135262/a01dafffd3f21df8031ba83389da035c_400x400.jpeg">Kim Fox</a><span class="p-note">TJournalism Prof, Am Univ in Cairo @AUC in @JRMCAUC</span></li>
@@ -210,9 +215,10 @@
 
 <h2>Bloggers I like</h2>
   <ul class="follow">
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://eatteachblog.com/"><img class="u-photo" src="https://i1.wp.com/eatteachblog.com/wp-content/uploads/2017/01/Meet-Divua-3.png?w=270"  alt=""  /> Divya</a><span clas="p-note">My Adventures in food, fitnness, education, and everything in between</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://tomcritchlow.com/writing/" title="founder of art collective: http://fiercelycurious.com ">Tom Critchlow</a> <span class="p-note"> founder of art collective: http://fiercelycurious.com </span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://www.colecamplese.com/"><img class="u-photo" src="https://i0.wp.com/www.colecamplese.com/wp-content/uploads/2005/02/DSC_0801.jpg?w=1352&amp;ssl=1"  alt=""  /> Cole Camplese</a><span clas="p-note"></span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://tomcritchlow.com/writing/" title="founder of art collective: http://fiercelycurious.com ">Tom Critchlow</a> <span class="p-note"> founder of art collective: http://fiercelycurious.com </span></li>
-
   </ul>
 </h2>
 <h2>poetry</h2>
