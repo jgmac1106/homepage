@@ -148,6 +148,11 @@ strong {
     position: absolute;
     cursor: pointer;
    } 
+   p {
+  margin-bottom:2.5vmin;
+  line-height:4.5vmin;
+    font-size: 3.75vmin;
+}
 }
 
 
@@ -1365,7 +1370,7 @@ flex-grow:12;
    flex-direction: column;
   height: 33vh;
   padding: 30px;
-  background: url('photos/assets/headerbackground.jpg') center #333 no-repeat;
+  background: url('https://farm4.static.flickr.com/3789/11315315336_543aea4040_z.jpg') center #333 no-repeat;
   background-size: cover;
   color: white;
    text-align:center;

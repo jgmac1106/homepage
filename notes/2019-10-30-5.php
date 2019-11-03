@@ -11,7 +11,7 @@
   
       
         <time datetime="2019-10-24 6:26:20" class="dt-published">2019-10-30 6:26</time>
-       <p>In reply to <a class="u-in-reply-to" href="https://jgregorymcverry.com/notes/2019-10-30-4" rel="next">Next Note</a><br>" rel="prev">Prev</a> by <a class="h-card p-author" href="https://jgregorymcverry.com">@jgmac1106</a></p>
+       <p>In reply to <a class="u-in-reply-to" href="https://jgregorymcverry.com/notes/2019-10-30-4" rel="prev">Prev</a> by <a class="h-card p-author" href="https://jgregorymcverry.com">@jgmac1106</a></p>
       <p class="p-name e-content">HTML provides the most resilient <a href="https://resilientwebdesign.com/">(Kieth, 2015)</a>, the most sustainable <a href="https://quickthoughts.jgregorymcverry.com/2019/03/17/balancing-the-journey-from-outsider-to-in-when-recentering-oer">(McVerry, 2019)</a>, and most accessible <a href="http://billymeinke.com/2019/05/28/fettering-oer/">(Meinke, 2019)</a> approach for #OER
 
 
