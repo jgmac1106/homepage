@@ -4,7 +4,7 @@
 </header>  
   <main class="longreads"> 
     <div class="notewrapper">
-  	<div class="note h-entry" id="note2">
+  	<div class="note h-entry" >
       <a class="u-author" href="/"></a>
 
         
