@@ -33,6 +33,8 @@ header {
 }
       
 .footer_info {
+  margin: 0 auto;
+    width: 90%;
    display: flex;
    flex-direction:column;
   justify-content:center;
