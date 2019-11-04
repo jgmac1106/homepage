@@ -93,7 +93,7 @@
 
 <h2 id="openpedagogy">Open Pedagogy</h2>
   <ul class="follow">
-    <li class="u-follow-of h-card"><a class="p-name u-url" href="https://jenniferenglund.net/"><img class="u-photo" src="https://i0.wp.com/jenniferenglund.net/wp-content/uploads/2018/12/Jennifer_4181-1.jpg">Jennier Englund</a><span class="p-note">Experiment with new types of technology and connect with others interested in the same topics</span></li>
+    <li class="u-follow-of h-card"><a class="p-name u-url" href="https://jenniferenglund.net/"><img class="u-photo" src="https://i0.wp.com/jenniferenglund.net/wp-content/uploads/2018/12/Jennifer_4181-1.jpg">Jennier Englund</a><span class="p-note">E bxperiment with new types of technology and connect with others interested in the same topics</span></li>
      <li class="u-follow-of h-card"><a class="p-name u-url" href="https://idevries.com/" rel="colleague ">Irwin Devries</a><span class="p-note">Reflections and ideas on open and distance learning
 </span></li>
     <li class="u-follow-of h-card"><a class="p-name u-url" href="https://librariansreed.com/" rel="colleague ">Michelle Reed</a><span class="p-note">Librarian. Open advocate. Recovering writer. 
