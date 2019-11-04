@@ -253,6 +253,8 @@
 <h2 id="instructionaldesign">
   Instructional Design
   <ul class="follow">
+    <li class="h-card"><a class="p-name u-url" href="https://www.edugeekjournal.com/" >EduGeek Journal </a><span class="p-note">proud sponsor of your future.
+</span></li>
     <li class="h-card"><a class="p-name u-url" href="https://techknowtools.com/" rel="colleague"><img class="u-photo" src="https://techknowtools.files.wordpress.com/2019/08/laura_headshot_19.jpg?w=650&h=650">Laura Pasquini </a><span class="p-note">explores how knowledge, technology, and community influence learning & professional development
 </span></li>
    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://edheaded.com/" title="Learning Experience Designer, Tech Therapist, Music Geek, Super Mom."><img class="u-photo" src="http://edheaded.com/wp-content/uploads/2016/02/profile4x4.jpg">Sarah Kessler-Frick</a> <span class="p-note"> Learning Experience Designer, Tech Therapist, Music Geek, Super Mom.</span></li>
