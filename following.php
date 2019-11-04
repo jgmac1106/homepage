@@ -93,6 +93,23 @@
 
 <h2 id="openpedagogy">Open Pedagogy</h2>
   <ul class="follow">
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="https://disruptivepedagogy.ca/" rel="colleague"><img class="u-photo" src="https://disruptivepedagogy.files.wordpress.com/2018/12/mel-young-head-shot-smallest-2.jpg">Mel Young</a><span class="p-note"> Disruptive Pedagogy
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.musicmatters405.com/" rel="colleague"><img class="u-photo" src="http://www.musicmatters405.com/uploads/7/6/4/7/76477675/published/10604397-10152760278275568-2721889622749933163-o.jpg?1548093905">Kathy Essmiller</a><span class="p-note"> create, connect, respond
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.musicmatters405.com/" rel="colleague"><img class="u-photo" src="http://www.musicmatters405.com/uploads/7/6/4/7/76477675/published/10604397-10152760278275568-2721889622749933163-o.jpg?1548093905">Kathy Essmiller</a><span class="p-note"> create, connect, respond
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://etap640.edublogs.org/" rel="colleague muse">Alex Pickett</a><span class="p-note"> Sharing What I know Always Learning And
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.musicmatters405.com/" rel="colleague"><img class="u-photo" src="http://www.musicmatters405.com/uploads/7/6/4/7/76477675/published/10604397-10152760278275568-2721889622749933163-o.jpg?1548093905">Kathy Essmiller</a><span class="p-note"> create, connect, respond
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://etap640.edublogs.org/" rel="colleague muse">Alex Pickett</a><span class="p-note"> Sharing What I know Always Learning And
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://riftofthemagi.blogspot.com/" rel="colleague muse">George Station</a><span class="p-note"> Rift of the Magi
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="https://econproph.com/" rel="colleague muse"><img class="u-photo" src="https://i1.wp.com/jimluke.com/wp-content/uploads/2013/01/JimLuke-cropped.jpg">Jim Luke</a><span class="p-note"> Running errands for ideas at the intersections of economics, org theory, higher ed, and open pedagogy.
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://billymeinke.com/"><img class="u-photo" src="http://billymeinke.com/img/billy_armory_max.jpg">Billy Meinke</a><span class="p-note"> technologist that works on open learning environments</span></li>
     <li class="h-card p-follow-of"><a class="p-name u-url" href="https://francesbell.com/"><img class="u-photo" src="https://marychaykodotcom.files.wordpress.com/2011/10/france-trip-2010-482.jpg?w=374">Francess Bell</a><span class="p-note"> woman, a friend, a wife, a mother, a grandmother, a sister, an aunt, a cousin, a maker, a gardener, a blogger, an open and itinerant scholar, and a fedwiki fan.</span></li>
      <li class="h-card p-follow-of"><a class="p-name u-url" href="https://marychayko.com/"><img class="u-photo" src="https://marychaykodotcom.files.wordpress.com/2011/10/france-trip-2010-482.jpg?w=374">Mary Chayko</a><span class="p-note">Exploring media, technology, and social connecteness</span></li>
     <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.leighgraveswolf.com/">Leigh Graves Wolf</a><span class="p-note">Educational Technology, Pedagogy, Photography & Food</span></li>
