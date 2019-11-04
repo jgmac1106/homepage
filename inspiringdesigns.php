@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
     
     <main>
       <article class="h-entry">
@@ -65,6 +67,7 @@
           Also on <a class="u-syndication" href="https://news.indieweb.org/en" >IndieNews</a></p>
       </article>
     </main>
+    <footer>
   <?php include 'footer.php'; ?>
     </body>
     

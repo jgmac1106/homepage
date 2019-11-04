@@ -1,5 +1,5 @@
-ody {
-font-family: 'Quicksand', sans-serif;
+body {
+font-family: 'Heebo', sans-serif;
   scroll-behavior: smooth;
   font-size: 16px; }
   @media (min-width: 45em) {
@@ -26,9 +26,17 @@ header {
 
 
 
-
-footer {
+.Nav_footer ul {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+}
+      
+.footer_info {
+   width:100%;
    display: flex;
+   flex-direction:column;
+   align-items: center;
   justify-content:center;
    padding: 10px;
   font-size: .75em;
@@ -36,12 +44,18 @@ footer {
  background-color: #6B6B6B;
   
 }
-footer .flex-item {
+.footer_info .flex-item {
   text-align: center;
+    margin: 0 auto;
 }
-footer .flex-item img {
-  
+.footer_info .flex-item img {
+    margin: 0 auto;
 }
+@media only screen and (min-width: 1200px) {
+ .Nav_footer {
+display:none;
+ }
+ } 
  header a {
    text-decoration: none;
 }
@@ -73,6 +87,9 @@ h4 {
 }
 p {
   margin-bottom:2.5vmin;
+  line-height:3.5vmin;
+    font-size: 2.75vmin;
+}
 }
 blockquote {
   margin-left:5%;
@@ -85,6 +102,8 @@ strong {
 }
 
 .Navbar {
+  margin-left:2%;
+  margin-right:2%;
  color: #D9183A;
   display: flex;
   padding: 16px;
@@ -94,7 +113,7 @@ strong {
 
 .Navbar__Link {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 2vmin;
+  font-size: 2.5vmin;
   text-transform: uppercase;
   text-decoration: none;
   color: white;
@@ -123,7 +142,7 @@ strong {
 .Navbar__Link-toggle {
   display: none;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1200px) {
   .Navbar__Items,
   .Navbar {
     flex-direction: column;
@@ -143,6 +162,11 @@ strong {
     position: absolute;
     cursor: pointer;
    } 
+   p {
+  margin-bottom:2.5vmin;
+  line-height:4.5vmin;
+    font-size: 3.75vmin;
+}
 }
 
 
@@ -1360,7 +1384,7 @@ flex-grow:12;
    flex-direction: column;
   height: 33vh;
   padding: 30px;
-  background: url('photos/assets/headerbackground.jpg') center #333 no-repeat;
+  background: url('/photos/assets/headerbackground.jpg') center #333 no-repeat;
   background-size: cover;
   color: white;
    text-align:center;
@@ -1648,6 +1672,7 @@ margin-bottome: 3em;
 .card img {
     width: 80%;
   height:250px;
+   margin-top:5%;
   margin-left:10%;
   margin-right:10%;
 }
@@ -1696,6 +1721,7 @@ margin-bottome: 3em;
         border-radius: 5px;
         padding: 20px;
         font-size: 2.5vmin;
+        line-height:3.5vmin;
 
     }
 

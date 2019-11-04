@@ -1,13 +1,37 @@
 
 <?php include 'head.php'; ?>
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles">
+</head>
 <?php include 'header.php'; ?>
+</header>
   <main class="h-feed">
-  
+  <h2 class="p-name">My Articles</h2>
      <div class="h-card">
   <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
     </div>
 <section class="card-container">
+      <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">Opening the Syllabi in Higher Education</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+         <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
+      </div>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="https://farm4.static.flickr.com/3529/5791228117_155ed7c23d_z.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Presentation from Opened19
+          </p>
+        </div>
+        <a  href="/opened19presentation" class="u-url button">Read More</a>
+
+    </article> 
     <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
@@ -20,7 +44,7 @@
          <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
       </div>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="/videos/MVIMG_20190807_150253.jpg" alt="" >
+            <img class="u-featured" src="/photos/assets/control.jpg" alt="" >
          
         </figure>
         <div class="p-summary card__description">
@@ -43,7 +67,7 @@
          <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
       </div>
         <figure class="card__thumbnail">
-            <img class="u-featured" src="/photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F10990743203_7a694363a8_z.jpg?v=1566139221847" alt="time lapse of ferris wheel at night with RV in front" >
+            <img class="u-featured" src="/photos/assets/ferriswheel.jpg" alt="time lapse of ferris wheel at night with RV in front" >
          
         </figure>
         <div class="p-summary card__description">
@@ -370,7 +394,7 @@
         <header class="card__title">
             <h3 class="p-name">Exploring Future’s Past</h3>
         </header>
-      <span>
+      <div>
       <p class="p-author h-card">jgmac1106</p>
       <time class="dt-published" datetime="2018-11-13 11:46:00">13<sup>th</sup> Novemeber 2018</time>
       </div>
@@ -386,7 +410,10 @@
     
 </section>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
   
 </html>
+
+

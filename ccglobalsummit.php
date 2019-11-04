@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
   <main class="longreads">   
   <article class="h-entry">
   
@@ -71,6 +73,7 @@
       </div>
 </article>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
  

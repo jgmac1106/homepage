@@ -3,6 +3,7 @@
  <?php include '../header.php'; ?>
 </header>  
   <main class="longreads"> 
+  	 <div class="notewrapper">
   	<div class="note h-entry" id="note1">
  
 <time class="dt-published" datetime="2019-10-06T13:26:05+0000">October 6th 2019</time>
@@ -10,6 +11,7 @@
  </p>
   Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-06#note1" rel="canonical"><strong>My Notes</strong></a>
   <a href="https://brid.gy/publish/twitter">Published with Bridgy</a>
+</div>
 </div>
   	</main>
   		<footer>

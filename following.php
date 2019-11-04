@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
+</header>
  <main class="h-entry">
    <a href="index.html">
    
@@ -13,6 +15,8 @@
     
    <h2 class="p-category">edtech</h2>
   <ul class="follow-of follow">
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://kellyhilton.org" rel="colleague muse">Kelly Hilton</a> <span class="p-note">  bike riding, kayaking, camping, yoga, family, good food, creative tech projects
+</span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://gamedevprofessor.com/" rel="colleague muse">Ken Thompson</a> <span class="p-note">game designer and educator.
 </span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.drrobinkay.org/" rel="colleague muse">Robin Kay</a> <span class="p-note">Professor University of Ontario Institute of Technology</span></li>
@@ -87,8 +91,34 @@
 
   </ul>
 
-<h2>Open Pedagogy</h2>
+<h2 id="openpedagogy">Open Pedagogy</h2>
   <ul class="follow">
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="https://disruptivepedagogy.ca/" rel="colleague"><img class="u-photo" src="https://disruptivepedagogy.files.wordpress.com/2018/12/mel-young-head-shot-smallest-2.jpg">Mel Young</a><span class="p-note"> Disruptive Pedagogy
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.musicmatters405.com/" rel="colleague"><img class="u-photo" src="http://www.musicmatters405.com/uploads/7/6/4/7/76477675/published/10604397-10152760278275568-2721889622749933163-o.jpg?1548093905">Kathy Essmiller</a><span class="p-note"> create, connect, respond
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.musicmatters405.com/" rel="colleague"><img class="u-photo" src="http://www.musicmatters405.com/uploads/7/6/4/7/76477675/published/10604397-10152760278275568-2721889622749933163-o.jpg?1548093905">Kathy Essmiller</a><span class="p-note"> create, connect, respond
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://etap640.edublogs.org/" rel="colleague muse">Alex Pickett</a><span class="p-note"> Sharing What I know Always Learning And
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.musicmatters405.com/" rel="colleague"><img class="u-photo" src="http://www.musicmatters405.com/uploads/7/6/4/7/76477675/published/10604397-10152760278275568-2721889622749933163-o.jpg?1548093905">Kathy Essmiller</a><span class="p-note"> create, connect, respond
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://etap640.edublogs.org/" rel="colleague muse">Alex Pickett</a><span class="p-note"> Sharing What I know Always Learning And
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://riftofthemagi.blogspot.com/" rel="colleague muse">George Station</a><span class="p-note"> Rift of the Magi
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="https://econproph.com/" rel="colleague muse"><img class="u-photo" src="https://i1.wp.com/jimluke.com/wp-content/uploads/2013/01/JimLuke-cropped.jpg">Jim Luke</a><span class="p-note"> Running errands for ideas at the intersections of economics, org theory, higher ed, and open pedagogy.
+</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://billymeinke.com/"><img class="u-photo" src="http://billymeinke.com/img/billy_armory_max.jpg">Billy Meinke</a><span class="p-note"> technologist that works on open learning environments</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="https://francesbell.com/"><img class="u-photo" src="https://marychaykodotcom.files.wordpress.com/2011/10/france-trip-2010-482.jpg?w=374">Francess Bell</a><span class="p-note"> woman, a friend, a wife, a mother, a grandmother, a sister, an aunt, a cousin, a maker, a gardener, a blogger, an open and itinerant scholar, and a fedwiki fan.</span></li>
+     <li class="h-card p-follow-of"><a class="p-name u-url" href="https://marychayko.com/"><img class="u-photo" src="https://marychaykodotcom.files.wordpress.com/2011/10/france-trip-2010-482.jpg?w=374">Mary Chayko</a><span class="p-note">Exploring media, technology, and social connecteness</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.leighgraveswolf.com/">Leigh Graves Wolf</a><span class="p-note">Educational Technology, Pedagogy, Photography & Food</span></li>
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="https://jorg.pareigis.se/2/"><img class="u-photo" src="https://jorg.pareigis.se/2/wp-content/uploads/2018/09/joerg_pareigis_blackand-white01_round-600x600.png">J¨ørg Pareigis</a><span class="p-note">Interested and active in service research, open education, people and life in general.</span></li>
+    <li class="u-follow-of h-card"><a class="p-name u-url" href="https://jenniferenglund.net/"><img class="u-photo" src="https://i0.wp.com/jenniferenglund.net/wp-content/uploads/2018/12/Jennifer_4181-1.jpg">Jennier Englund</a><span class="p-note">Experiment with new types of technology and connect with others interested in the same topics</span></li>
+     <li class="u-follow-of h-card"><a class="p-name u-url" href="https://idevries.com/" rel="colleague ">Irwin Devries</a><span class="p-note">Reflections and ideas on open and distance learning
+</span></li>
+    <li class="u-follow-of h-card"><a class="p-name u-url" href="https://librariansreed.com/" rel="colleague ">Michelle Reed</a><img class="u-photo" src="https://librariansreed.files.wordpress.com/2019/09/reed_cc_tan.png"><span class="p-note">Librarian. Open advocate. Recovering writer. 
+</span></li>
      <li class="u-follow-of h-card"><a class="p-name u-url" href="http://radiogirlradiogirl.blogspot.com/"><img class="u-photo" src="https://pbs.twimg.com/profile_images/3368135262/a01dafffd3f21df8031ba83389da035c_400x400.jpeg">Kim Fox</a><span class="p-note">TJournalism Prof, Am Univ in Cairo @AUC in @JRMCAUC</span></li>
     <li class="h-card p-follow-of"><a class="p-name u-url" href="https://magsamond.com/"><img class="u-photo" src="https://magsamondposts.files.wordpress.com/2013/03/mags.jpg?w=112&zoom=2">Mags Amond</a><span class="p-note">Teacher of Science, Biology & Computer Science</span></li>
     <li class="h-card p-follow-of"><a class="p-name u-url" href="https://jarche.com/">Harold Jarche</a><span class="p-note">Tactionable insights on learning & work</span></li>
@@ -150,8 +180,10 @@
 
   </ul>
 
-<h2>literacies</h2>
+<h2 id="literacies">literacies</h2>
   <ul class="follow">
+    <li class="h-card"><a class="p-name p-follow-of" href="https://traceyflores.wordpress.com/" rel="colleague ">Tracey Flores</a><span class="p-note">Capturing moments of my educational journey from student to scholar
+</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://professorhsieh.edublogs.org/" title="Literacy specialist: Reflection promotes growth">Betina Hsieh</a> <span class="p-note"> Literacy specialist: Reflection promotes growth</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://www.cassiebrownell.com/" title="Children&#8217;s multiple cultural, linguistic, and modal ways of knowing">Cassie J. Brownell</a> <span class="p-note"> Children&#8217;s multiple cultural, linguistic, and modal ways of knowing</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://developingwriters.org/" title="blogging about composition in the digital age">Anna Smith</a> <span class="p-note"> blogging about composition in the digital age</span></li>
@@ -204,9 +236,10 @@
 
 <h2>Bloggers I like</h2>
   <ul class="follow">
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://eatteachblog.com/"><img class="u-photo" src="https://i1.wp.com/eatteachblog.com/wp-content/uploads/2017/01/Meet-Divua-3.png?w=270"  alt=""  /> Divya</a><span clas="p-note">My Adventures in food, fitnness, education, and everything in between</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://tomcritchlow.com/writing/" title="founder of art collective: http://fiercelycurious.com ">Tom Critchlow</a> <span class="p-note"> founder of art collective: http://fiercelycurious.com </span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://www.colecamplese.com/"><img class="u-photo" src="https://i0.wp.com/www.colecamplese.com/wp-content/uploads/2005/02/DSC_0801.jpg?w=1352&amp;ssl=1"  alt=""  /> Cole Camplese</a><span clas="p-note"></span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://tomcritchlow.com/writing/" title="founder of art collective: http://fiercelycurious.com ">Tom Critchlow</a> <span class="p-note"> founder of art collective: http://fiercelycurious.com </span></li>
-
   </ul>
 </h2>
 <h2>poetry</h2>
@@ -223,6 +256,7 @@
     </h2>
    </div>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
   </body>
 

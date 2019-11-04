@@ -1,6 +1,8 @@
 <?php include 'head.php'; ?>
+</head>
 <?php include 'header.php'; ?>
-    </header>
+</header>
+  
   <main class="longreads">   
   <article class="h-entry">
   <h1 class="p-name">Building a Podcast Feed</h1>
@@ -49,6 +51,7 @@
       </div>
 </article>
     </main>
+    <footer>
 <?php include 'footer.php'; ?>
 
   </body>

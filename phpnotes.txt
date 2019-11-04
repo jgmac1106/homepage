@@ -1,0 +1,78 @@
+* statement
+** echo (no longer required) outputs text
+** "" followed by double quote
+** ends in semicolon
+
+* Script
+** starts with <? 
+
+* Comment
+** //use the two dashes
+** /* multi line comment. Include both */
+
+* Strings
+** Words or text treated as a single item
+** sequence of characters
+** strings are what you want to keep as data
+** quotation marks denote the end and start of strings
+** Escape strings
+*** want to use quotes? 
+*** \"hi\"
+*** want a new line? use backslacsh and 
+** String Concatenation
+*** adding two strings together
+*** use a period as an operator
+*** Spaces must be added inside of quotes
+*** the two strings are called the operands 
+
+*Variables
+
+** Key Terms
+*** store values so we can reuse them.
+*** declaring a variable means assigning a name
+*** assignment is the process of associating a name
+
+** Creating Variables
+*** To declare a variable we use the dollar sign followed by the variable name
+*** we put the value in quotes
+*** $my_name = "Greg McVerry"
+*** snake case-using the underscore between words
+
+** Using variables
+*** variables are treated as values they hold
+
+** Variable Parsing
+*** a string contains multiple variables in double quotes
+*** You can put the variable name in curly brackets ${color}ish
+*** The variables are parsed from the string
+
+** Variable Reassignment
+*** process of assigning a new variable is reassignment
+*** You often rename a variable as a new variable through reassignment
+
+** Concatenating Assignment Variables
+*** reasign variables and values through operations
+*** There is a shorthand notation for concatenating assignment .=
+*** example: $sentence = $sentence .= ", bananas";
+
+** Assign by Reference
+*** saying the variable on the left points to the variable on the right
+*** uses the assign by reference operator =&
+*** $order =&
+    $very_bad_unclear_name;
+    $order = $order.= ", rice";
+
+* numbers
+** PHP has two number types
+*** integer data type= positiv and whole numbers
+*** floating data type = decimal numbers
+** you can declare variables and assign numbers
+
+** addition and subtraction
+*** normal operations
+
+**using number variables
+*** variables can use number operators
+
+
+

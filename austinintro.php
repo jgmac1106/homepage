@@ -40,5 +40,6 @@
     </main>
       
   </body>
+  <footer>
   <?php include 'footer.php'; ?>
 </html>
