@@ -32,7 +32,7 @@
           </div>
           <div class="item2">
             <div class="h-card">
-              <img class="u-photo" style="border-radius:50%" src="https://archive.jgregorymcverry.com/wp-content/uploads/2014/10/ZombieHack.jpg" alt=""><br>
+              <img class="u-photo" style="border-radius:50%" src="/photos/assets/thumb.jpg" alt=""><br>
               <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
               <a class="u-email" href="mailto:jgregmcverry@gmail.com">Email</a> <br>
               
