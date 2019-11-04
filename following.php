@@ -13,8 +13,10 @@
       Following
     </h1>
     
-   <h2 class="p-category">edtech</h2>
+   <h2 class="p-category" id="edtech" value="edtech">edtech</h2>
   <ul class="follow-of follow">
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://blog.jasongreen.net/" rel="colleague">Jason Green</a><span class="p-note">þoht-hord an exercise in personal knowledge management
+</span></li>
     <li class="h-card p-follow-of"><a class="p-name u-url" href="http://kellyhilton.org" rel="colleague muse">Kelly Hilton</a> <span class="p-note">  bike riding, kayaking, camping, yoga, family, good food, creative tech projects
 </span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://gamedevprofessor.com/" rel="colleague muse">Ken Thompson</a> <span class="p-note">game designer and educator.
