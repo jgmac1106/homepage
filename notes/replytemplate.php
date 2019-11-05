@@ -25,7 +25,7 @@
 <p>You can try this  <a href="https://wordpress.org/plugins/wp-uf2/"> plugin:</a>and I will test it on your theme to see it works. It really is a case by case basis. </p>
      
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/<?php echo $_SERVER['PHP_SELF']; ?><strong>My Notes</strong></a>
+<a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
 </div>

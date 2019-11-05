@@ -10,7 +10,7 @@
  <div class="p-name e-content"><p>@alexpickett I just added</p><ul><li class="h-card"><a class="p-name u-url" href="http://etap640.edublogs.org/" rel="colleague muse">Alex Pickett</a><span class="p-note"> Sharing What I know Always Learning And
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#openpedagogy">#OpenPedagogy</a> section of my following page. #BeYourOwnSocialNetowrk
  </div>
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com<?php echo $_SERVER['PHP_SELF']; ?> "rel="canonical"><strong>My Notes</strong></a>
+  Also on <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>

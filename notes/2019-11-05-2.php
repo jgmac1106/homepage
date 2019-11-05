@@ -16,7 +16,7 @@
         <p class="e-content">#MondayMoments with a better resolution gif, please remember the alt text for our owl students who enjoy twettes by using a screen reader</p>
       
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com<?php echo $_SERVER['PHP_SELF']; ?> "rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
 </div>
 </div>
   	</main>
