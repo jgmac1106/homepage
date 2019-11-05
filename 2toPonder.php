@@ -53,7 +53,7 @@
     <div class="podbox f"></div><!--You will find your background image in the css line 205 of podcast.css file-->
     <div class="podbox g">
       <p class="p-summary">
-    Strategies for using assessments with nonfiction that drive high quality feedback
+   
       </p>
       <audio class="u-audio" controls="controls" src="https://archive.org/download/2toPonder/2toPonderSe02Ep07.aifc"></audio><br>
    <div class="e-content">
@@ -62,7 +62,77 @@
     </div>
       </div>
 <div class="podbox h-entry"> 
-      <h1 class="p-name"> 2toPonder 29: Novel Ways to Assess Novels</h1>
+      <h1 class="p-name"> 2toPonder 36: What do we mean when say make meaning?.</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time datetime="2019-09-09T15:13:14+0000">09 Sep 2019</time></p>
+  <p class="p-summary">Season 2 Episode 11: Defining Meaning Making</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/details/2toPonder/2toPonderSeason02Episode10.aifc"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/09/03/hey-edu407fall19-i-recorded-another-episode-of">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 35: What do we mean when say make meaning?.</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time datetime="2019-09-09T15:13:14+0000">09 Sep 2019</time></p>
+  <p class="p-summary">Season 2 Episode 11: Defining Meaning Making</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/details/2toPonder/2toPonderSeason02Episode10.aifc"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/09/03/hey-edu407fall19-i-recorded-another-episode-of">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 34: What do we mea when say make meaning?.</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time class="dt-published" datetime="2019-09-03T22:01:08+0000">03 Sep 2019</time></p>
+  <p class="p-summary">Season 2 Episode 11: Defining Meaning Making</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/details/2toPonder/2toPonderSeason02Episode10.aifc"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/09/03/hey-edu407fall19-i-recorded-another-episode-of">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 33: Let's talk about writing conferences.</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time class="dt-published" class="2019-08-08T18:38:15+0000">08 Aug 2019</time></p>
+  <p class="p-summary">Season 2 Episode 10: Strategies for using writing conferences to track  Growth</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/download/2toPonder/2toPonderSeason02Episode10.aifc"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/09/03/hey-edu407fall19-i-recorded-another-episode-of">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 32: Let's talk about writing conferences.</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time class="dt-published" datetime="2019-08-08T18:38:15+0000" title="08 Aug 2019">08 Aug 2019</time></p>
+  <p class="p-summary">Seadson 2 Episode 9: Strategies for using writing conferences to track  Growth</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/details/2toPonder/2toPonderSe03Ep09.m4a"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/08/i-just-published-another-2toponder-on-writing">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 31: Let's talk about reading conferences.</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time class="dt-published" datetime="2019-08-08T18:35:09+0000" title="08 Aug 2019">08 Aug 2019</time></p>
+  <p class="p-summary">Seadson 2 Episode 8: Strategies for using reader conferences to track growth</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/download/2toPonder/2toPonderSe02ep08.aifc"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/08/i-just-published-another-2toponder-on-the--1">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 30: Non-fiction assessment strategies</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time class="dt-published" datetime="2019-08-08T18:35:09+0000" title="08 Aug 2019">08 Aug 2019</time></p>
+  <p class="p-summary">Seadson 2 eEpisode 7: Strategies for using assessments with nonfiction that drive high quality feedback</p>
+    <audio class="u-audio" controls="controls" src="https://archive.org/download/2toPonder/2toPonderSe02Ep07.aifc"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/04/here-is-another-in-the-2toponder-series">Show Link</a> 
+  </div>
+</div>
+<div class="podbox h-entry"> 
+      <h1 class="p-name"> 2toPonder 29: Assessment and the Reading Classroom</h1>
   <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
      on <time class="dt-published" datetime="2019-08-04T14:02:45+0000" title="04 Aug 2019">04 Aug 2019</time></p>
   <p class="p-summary">Season 2 Episode 6: Authentic assessment ideas for novels</p>

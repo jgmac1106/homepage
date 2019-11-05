@@ -13,8 +13,10 @@
       Following
     </h1>
     
-   <h2 class="p-category">edtech</h2>
+   <h2 class="p-category" id="edtech" value="edtech">edtech</h2>
   <ul class="follow-of follow">
+    <li class="h-card p-follow-of"><a class="p-name u-url" href="http://blog.jasongreen.net/" rel="colleague">Jason Green</a><span class="p-note">þoht-hord an exercise in personal knowledge management
+</span></li>
     <li class="h-card p-follow-of"><a class="p-name u-url" href="http://kellyhilton.org" rel="colleague muse">Kelly Hilton</a> <span class="p-note">  bike riding, kayaking, camping, yoga, family, good food, creative tech projects
 </span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://gamedevprofessor.com/" rel="colleague muse">Ken Thompson</a> <span class="p-note">game designer and educator.
@@ -248,9 +250,13 @@
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://mastodon.social/tags/smallpoems" title="the small poem collections shared on Mastodon">Mastodon Small Poems</a> <span class="p-note"> the small poem collections shared on Mastodon</span></li>
 
   </ul>
-<h2>
+<h2 id="instructionaldesign">
   Instructional Design
   <ul class="follow">
+    <li class="h-card"><a class="p-name u-url" href="https://www.edugeekjournal.com/" >EduGeek Journal </a><span class="p-note">proud sponsor of your future.
+</span></li>
+    <li class="h-card"><a class="p-name u-url" href="https://techknowtools.com/" rel="colleague"><img class="u-photo" src="https://techknowtools.files.wordpress.com/2019/08/laura_headshot_19.jpg?w=650&h=650">Laura Pasquini </a><span class="p-note">explores how knowledge, technology, and community influence learning & professional development
+</span></li>
    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://edheaded.com/" title="Learning Experience Designer, Tech Therapist, Music Geek, Super Mom."><img class="u-photo" src="http://edheaded.com/wp-content/uploads/2016/02/profile4x4.jpg">Sarah Kessler-Frick</a> <span class="p-note"> Learning Experience Designer, Tech Therapist, Music Geek, Super Mom.</span></li>
   </ul>
     </h2>
