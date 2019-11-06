@@ -11,7 +11,7 @@
       
   
       
-        <time datetime="2019-11-03 8:24:20" class="dt-published">2019-11-03 b:24</time>
+        <time class="dt-published" datetime="<?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
         <p class="e-content">#SilentSunday</p>
       
  

@@ -10,7 +10,7 @@
         
   
       
-        <time datetime="2019-10-24 8:54:20" class="dt-published">2019-09-13 8:54</time>
+        <time class="dt-published" datetime="<?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
        <p>In reply to <a class="u-in-reply-to" href="https://dailyconnector.com/2018/10/10/testing-out-indieweb-with-poetry">poetry</a> by <a class="h-card p-name" href="https://dogratx.edublogs.com">@dogtrax</a></p>
       
 
