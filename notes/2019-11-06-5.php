@@ -6,7 +6,7 @@
   	<div class="notewrapper">
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="<?php echo $date->format('Y-m-d H:i:s')?>"><?php echo $date->format('Y-m-d H:i:s')?></time>
+<time class="dt-published" datetime="<?php echo date('Y-m-d H:i:s') ?>"><?php echo date('Y-m-d H:i:s') ?></time>
  <div class="p-name e-content"><p>@A_L_T I just added</p><ul><li class="h-card"><a class="p-name u-url" href="https://blog.cathy-moore.com/blog/" ><img class="u-photo" src="https://blog.cathy-moore.com/wp-content/normal-contrast-245-2.jpg">Cathy Moore</a><span class="p-note"> ideas that will help you design lively training for working adults
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#instructionaldesgin">#InstructionalDesign</a> section of my following page. #BeYourOwnSocialNetwork
  </div>
