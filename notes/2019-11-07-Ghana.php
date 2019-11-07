@@ -12,6 +12,7 @@
  </p>
  <a href="https://jgregorymcverry.com/notes/2019-11-07-Ghana2" rel="next">Next</a>
 
+
 </div>
   	</main>
   		<footer>
