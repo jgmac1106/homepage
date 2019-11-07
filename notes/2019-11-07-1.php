@@ -6,7 +6,7 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/OPEN.jpg" alt="OER Ghana logo"> 
+          <img   class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/oerghanalogo.png" alt="OER Ghana logo"> 
           
       
   
