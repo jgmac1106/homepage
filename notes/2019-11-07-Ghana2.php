@@ -12,7 +12,7 @@
  </p>
  <a href="https://jgregorymcverry.com/notes/2019-11-07-Ghana" rel="prev">Prev</a>
  <a href="https://jgregorymcverry.com/notes/2019-11-07-Ghana3" rel="next">Next</a>
-  Also on<a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
+ 
 </div>
   	</main>
   		<footer>
