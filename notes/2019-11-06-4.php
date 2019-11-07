@@ -6,7 +6,7 @@
   	<div class="notewrapper">
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="<?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
+<time class="dt-published" datetime="<?php echo date('Y-m-d H:i:s') ?>"><?php echo date('Y-m-d H:i:s') ?></time>
  <div class="p-name e-content"><p>@A_L_T I just added</p><ul><li class="h-card"><a class="p-name u-url" href="https://dearinstructionaldesigner.simplecast.com/" ><img class="u-photo" src="https://cdn.simplecast.com/images/a52643/a5264306-d461-488c-a476-f87a9b203152/f49af92a-0999-4d40-9cf8-9835ea572a8e/80x80/1543192254artwork@2x.jpg">Dear Instructional Designer</a><span class="p-note"> a podcast
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#instructionaldesgin">#InstructionalDesign</a> section of my following page. #BeYourOwnSocialNetwork
  </div>

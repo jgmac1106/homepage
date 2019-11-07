@@ -6,7 +6,7 @@
   	<div class="notewrapper">
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="<?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
+<time class="dt-published" datetime="<?php echo date('Y-m-d H:i:s') ?>"><?php echo date('Y-m-d H:i:s') ?></time>
  <div class="p-name e-content"><p>@A_L_T I just added</p><ul><li class="h-card"><a class="p-name u-url" href="http://donaldclarkplanb.blogspot.com/" ><img class="u-photo" src="http://4.bp.blogspot.com/-htw-_Q4miPU/Wjp7ZdOGlXI/AAAAAAAAF6Y/KmL_FIpwvc8CBFS0loQPfJ7-pkecQeQmwCK4BGAYYCw/s80/Donald_AI.png">Donald Clarke</a><span class="p-note"> What is Plan B? Not Plan A!
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#instructionaldesgin">#InstructionalDesign</a> section of my following page. #BeYourOwnSocialNetwork
  </div>

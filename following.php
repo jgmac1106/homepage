@@ -253,7 +253,7 @@
 
   </ul>
 <h2 id="instructionaldesign">
-  Instructional Design
+  Instructional Design</h2>
   <ul class="follow">
     <li class="h-card p-follow-of"><a class="p-name u-url" href="https://rickscafe.wordpress.com/" rel="colleague"><img class="u-photo" src="https://1.gravatar.com/avatar/42a9ddd0020442fee60b06f2a8aeaa53?s=128&d=identicon&r=G">Richard Schwier</a><span class="p-note"> 
 </span></li>
@@ -279,7 +279,6 @@
 </span></li>
    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://edheaded.com/" title="Learning Experience Designer, Tech Therapist, Music Geek, Super Mom."><img class="u-photo" src="http://edheaded.com/wp-content/uploads/2016/02/profile4x4.jpg">Sarah Kessler-Frick</a> <span class="p-note"> Learning Experience Designer, Tech Therapist, Music Geek, Super Mom.</span></li>
   </ul>
-    </h2>
    </div>
     </main>
     <footer>
