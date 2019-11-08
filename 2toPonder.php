@@ -55,7 +55,7 @@
       <p class="p-summary">Download Size: <data class="p-size" value="2000000">2 mb</data> Length<data class="p-duration" value="PTOH2M00S">Two Minutes</data>
     Do we need to rethink #literacies in our digital era?
       </p>
-      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe02Ep21.mp4"></audio><br>
+      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe02Ep21.m4a"></audio><br>
    <div class="e-content">
       <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/04/here-is-another-in-the-2toponder-series">Show Link</a>
     </div>  
