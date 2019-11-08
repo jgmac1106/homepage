@@ -27,6 +27,7 @@
             </h3></a>      
         </div>
         </div>
+        <img class="podcastart u-featured" src="https://jgregorymcverry.com/photos/assets/podcastart.jpg">
         <p class="p-summary">
             A Two Minute Podcast on Trends of Learning
           </p>
