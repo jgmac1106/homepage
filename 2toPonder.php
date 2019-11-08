@@ -50,7 +50,7 @@
       </h2>  
     </div>
     </div>
-    <div class="podbox f"><img class="u-photo" src="https://jgregorymcverry.com/photos/assets/podcastart.jpg"></div><!--You will find your background image in the css line 205 of podcast.css file-->
+    <div class="podbox f"><img class="u-featured" src="https://jgregorymcverry.com/photos/assets/podcastart.jpg"></div><!--You will find your background image in the css line 205 of podcast.css file-->
     <div class="podbox g">
       <p class="p-summary">Download Size: <data class="p-size" value="2000000">2 mb</data> Length<data class="p-duration" value="PTOH2M00S">Two Minutes</data>
     Do we need to rethink #literacies in our digital era?
