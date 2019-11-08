@@ -55,7 +55,7 @@
       <p class="p-summary">Download Size: <data class="p-size" value="2000000">2 mb</data> Length<data class="p-duration" value="PTOH2M00S">Two Minutes</data>
     Do we need to rethink #literacies in our digital era?
       </p>
-      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe02Ep21.aifc"></audio><br>
+      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe02Ep21.mp4"></audio><br>
    <div class="e-content">
       <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/04/here-is-another-in-the-2toponder-series">Show Link</a>
     </div>  
@@ -65,7 +65,7 @@
   <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
      on <time datetime="2019-10-21T15:13:14+0000">25 Oct 2019</time></p>
   <p class="p-summary">Download Size: <data class="p-size" value="2000000">2 mb</data> Length<data class="p-duration" value="PTOH2M00S">Two Minutes</data><data class="p-size" value="50">mb</data><data class="p-duration" value="0:02:00">Two Minutes</data> Ask the Right Questions to Get Critical/ </p>
-    <audio class="u-audio" controls="controls" src="https://archive.org/download/2toPonder/2toPonderSe02E20.m4a"></audio><br>
+    <audio class="u-audio" controls="controls" src="https://archive.org/download/2toPonder/2toPonderSe02Ep20.m4a"></audio><br>
   <div class="e-content">
     <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/11/01/i-can-not-get-my-podcast-to">Show Link</a> 
   </div>
