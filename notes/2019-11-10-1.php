@@ -7,7 +7,7 @@
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2019-11-10T06:54:20+0000">November 10th 2019 6:54</time>
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/arts/westrockHamden.jpg" alt="foliage shot with tree framing picture on right"> 
+          <img   class="u-photo" src="https://jgregorymcverry.com/photos/art/westrockHamden.jpg" alt="foliage shot with tree framing picture on right"> 
           
       
   
