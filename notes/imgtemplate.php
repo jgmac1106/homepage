@@ -6,13 +6,13 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/OPEN.jpg" alt="OER Ghana logo"> 
+<time class="dt-published" datetime="2019-11-10T06:54:20+0000">November 10th 2019 6:54</time>
+          <img   class="u-photo" src="https://jgregorymcverry.com/photos/arts/westrockHamden.jpg" alt="foliage shot with tree framing picture on right"> 
           
       
   
       
-        <time class="dt-published" datetime="<?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
-        <p class="e-content">Huge h/t to <a class="h-card" href="https://www.facebook.com/Creativemay/">Kretivmay Arts</a>For designing the #OER Ghana logo for our upcoming @Mozilla Leaders X Program. Contact @goifoundation to learnm more</p>
+        <p class="e-content">#silentsunday #clmooc</p>
       
  
   <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
