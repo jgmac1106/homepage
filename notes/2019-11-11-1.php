@@ -7,7 +7,7 @@
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2019-11-11T10:04:20+0000">November 10th 2019 10:04</time>
-          <video  controls poster="/videos/digitalstorytellingposter.png" class="u-video" src="https://jgregorymcverry.com/videos/EDU407DigitalStorytelling101.mp4"> 
+          <video  controls poster="/videos/digitalstorytellingposter.png" class="u-video" src="https://jgregorymcverry.com/videos/EDU407DigitalStoryTelling101.mp4"> 
           </video>
           
       
