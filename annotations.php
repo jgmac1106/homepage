@@ -153,7 +153,7 @@
   <p></p>
 
   <div id="widget" style="display: block;"><h1 id="heading_counter_1" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_1')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_1')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;10&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://xolotl.org/okp-learning-experience-rubric">OKP Learning Experience Rubric – Nate Angell</a> 
       <span class="host">xolotl.org</span>
@@ -161,7 +161,7 @@
       <div id="cards_counter_1">
         
     
-    <div class="annotationCard annotation" id="_ZwT0zgSaEeqYW5fIFm58wA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZwT0zgSaEeqYW5fIFm58wA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -193,7 +193,7 @@
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-lKFigSZEeqFRcu2ugE-vA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-lKFigSZEeqFRcu2ugE-vA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -227,8 +227,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0GS8lAYFEeq8OjsqlX4v5w" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0GS8lAYFEeq8OjsqlX4v5w" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -259,7 +259,7 @@
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ygQl3ASZEeqBweNUTOvkjw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ygQl3ASZEeqBweNUTOvkjw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -293,8 +293,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_mYc27ASjEeqZ-68yjF3HbA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_mYc27ASjEeqZ-68yjF3HbA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -324,8 +324,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22OKP%22%2C%22LER%22%2C%22Renewable%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OKP">OKP</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=LER">LER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=Renewable">Renewable</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_UWxp3AYFEeq52UNZUWYkjQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_UWxp3AYFEeq52UNZUWYkjQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -356,7 +356,7 @@
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_pkPYBASZEeqMk2NS2Hi7HA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pkPYBASZEeqMk2NS2Hi7HA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -391,7 +391,7 @@
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gHwkvgSZEeqQ26cDP-7wgg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gHwkvgSZEeqQ26cDP-7wgg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -436,8 +436,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Se2jQgSiEeq0wWtjm3rkeA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Se2jQgSiEeq0wWtjm3rkeA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -467,8 +467,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22OKP%22%2C%22LER%22%2C%22rubrics%22%2C%22bingo%22%2C%22assessment%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OKP">OKP</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=LER">LER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=rubrics">rubrics</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=bingo">bingo</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=assessment">assessment</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AQ8V3gYFEeqFLAN9d-3BoQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AQ8V3gYFEeqFLAN9d-3BoQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -499,7 +499,7 @@
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Q8ryhASZEeqvW5v9F5byJg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Q8ryhASZEeqvW5v9F5byJg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -530,8 +530,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_vMt0FASkEeqnsT9esph3OQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_vMt0FASkEeqnsT9esph3OQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -563,8 +563,8 @@
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22OKP%22%2C%22LER%22%2C%22OER%22%2C%22OEP%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OKP">OKP</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=LER">LER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OER">OER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OEP">OEP</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_oCqRKgYFEeqx4fOdDVF06g" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_oCqRKgYFEeqx4fOdDVF06g" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -596,7 +596,7 @@
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_2" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_2')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_2')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://jgregorymcverry.com/frameworkforeffectivehighered.php">INTERTEXTrEVOLUTION</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -604,7 +604,7 @@
       <div id="cards_counter_2">
         
     
-    <div class="annotationCard annotation" id="_RrZEdvzJEemySq-qoA3L1A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_RrZEdvzJEemySq-qoA3L1A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -636,7 +636,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PkCK4PzJEemCE8sxyf_Yrw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PkCK4PzJEemCE8sxyf_Yrw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -674,7 +674,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_3" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_3')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_3')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;8&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://jgregorymcverry.com/sparkgrant.html">INTERTEXTrEVOLUTION</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -682,7 +682,7 @@ Enhances the class and provided</span>
       <div id="cards_counter_3">
         
     
-    <div class="annotationCard annotation" id="_RxqS9sNSEemdysNrjvEv8g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_RxqS9sNSEemdysNrjvEv8g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -714,7 +714,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JNvAcMNSEemiCyO_hJBCBw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JNvAcMNSEemiCyO_hJBCBw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -746,7 +746,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_C0d0JMNSEem2hcf2do4EEQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_C0d0JMNSEem2hcf2do4EEQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -778,7 +778,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-mIDfMNREem-VjNKLIVy-w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-mIDfMNREem-VjNKLIVy-w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -809,7 +809,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_yz4gHMNREempooszSiLzTQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yz4gHMNREempooszSiLzTQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -841,7 +841,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_t85yIMNREemKeH--JoFp2A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_t85yIMNREemKeH--JoFp2A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -872,7 +872,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_qfEmjsNREem3rwNcjj-Bsg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qfEmjsNREem3rwNcjj-Bsg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -905,7 +905,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_oYVdssNREemcJW-UN-aE-Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_oYVdssNREemcJW-UN-aE-Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -938,7 +938,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_4" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_4')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_4')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2019/05/EJ_EvenCinderella.pdf">EJ_EvenCinderella.pdf</a> 
       <span class="host">educatorinnovator.org</span>
@@ -946,7 +946,7 @@ Enhances the class and provided</span>
       <div id="cards_counter_4">
         
     
-    <div class="annotationCard annotation" id="_k0863JA1Eem_kN96anzYyw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_k0863JA1Eem_kN96anzYyw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -977,7 +977,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_k4VaXox1EemeAR9wUAOZjQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_k4VaXox1EemeAR9wUAOZjQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1007,8 +1007,8 @@ Enhances the class and provided</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23marginalsyllabus%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#marginalsyllabus">#marginalsyllabus</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_slDI8pA0EemlhROHsOEEHg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_slDI8pA0EemlhROHsOEEHg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1040,7 +1040,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_5" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_5')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_5')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;6&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jamespaulgee.com/pdfs/Space%20in%20School.pdf">Space in School.pdf</a> 
       <span class="host">jamespaulgee.com</span>
@@ -1048,7 +1048,7 @@ Enhances the class and provided</span>
       <div id="cards_counter_5">
         
     
-    <div class="annotationCard annotation" id="__P1JHoYdEem_wZ9BF5lu0w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__P1JHoYdEem_wZ9BF5lu0w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1079,7 +1079,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_MQuYRIYbEemXDPfUXgp2Yg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MQuYRIYbEemXDPfUXgp2Yg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1110,7 +1110,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__kWipoYaEemUE2ubJgdujA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__kWipoYaEemUE2ubJgdujA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1141,7 +1141,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_BugkRoYXEemFyt-NvuTsJQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_BugkRoYXEemFyt-NvuTsJQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1172,7 +1172,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_msJAMIYWEemK6nt36Nvl3g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_msJAMIYWEemK6nt36Nvl3g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1203,7 +1203,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_eK652IYWEemIzKNyiqQLzQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_eK652IYWEemIzKNyiqQLzQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1234,7 +1234,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_6" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_6')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_6')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;6&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://quickthoughts.jgregorymcverry.com/2019/04/02/identity-by-julio-polanco-and-the-rose-that-grew-from">My Stream</a> 
       <span class="host">quickthoughts.jgregorymcverry.com</span>
@@ -1242,7 +1242,7 @@ Enhances the class and provided</span>
       <div id="cards_counter_6">
         
     
-    <div class="annotationCard annotation" id="_IC31BFX_EemHIE_ps4dOFw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IC31BFX_EemHIE_ps4dOFw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1273,7 +1273,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AKm5TFX7Eem8NGM0caOPIQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AKm5TFX7Eem8NGM0caOPIQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1304,8 +1304,8 @@ Enhances the class and provided</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22poetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=poetry">poetry</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Au1ZvFX_Eem-Bz-D8GPlOQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Au1ZvFX_Eem-Bz-D8GPlOQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1336,7 +1336,7 @@ Enhances the class and provided</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_E2GkmFX0EemM1v819jW4xw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_E2GkmFX0EemM1v819jW4xw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1367,8 +1367,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22poetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=poetry">poetry</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Ol0vMFcNEem0qJvw5GIwqQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Ol0vMFcNEem0qJvw5GIwqQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1400,7 +1400,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Sr8QBlWaEemMO_vm_VutBw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Sr8QBlWaEemMO_vm_VutBw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1430,8 +1430,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22poetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=poetry">poetry</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_NJDQSFX_EemCIB_Hv25n3A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_NJDQSFX_EemCIB_Hv25n3A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1462,7 +1462,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_KpemIFVQEemp-4P2HeT75A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_KpemIFVQEemp-4P2HeT75A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1493,7 +1493,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__JNdAFVPEemGeN_LmDrVfQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__JNdAFVPEemGeN_LmDrVfQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1524,7 +1524,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_7" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_7')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_7')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://quickthoughts.jgregorymcverry.com/2019/02/28/why-an-htmlcss-first-approach-works-for-oer-and-why">My Stream</a> 
       <span class="host">quickthoughts.jgregorymcverry.com</span>
@@ -1532,7 +1532,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_7">
         
     
-    <div class="annotationCard annotation" id="_f2R--DuNEemumKf9UXnbxg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_f2R--DuNEemumKf9UXnbxg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1562,8 +1562,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22oer%22%2C%22html%22%2C%22jgregorymcverry%22%2C%22oep%22%2C%22okp%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=oer">oer</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=html">html</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=jgregorymcverry">jgregorymcverry</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=oep">oep</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=okp">okp</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_LOEZKjuXEemvl_t4Etfv3Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_LOEZKjuXEemvl_t4Etfv3Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1596,8 +1596,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_6FZlnDudEemp5kPqh4NmPA" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_6FZlnDudEemp5kPqh4NmPA" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1628,8 +1628,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_TKhEgjugEem5zt9cHILeCw" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_TKhEgjugEem5zt9cHILeCw" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1660,7 +1660,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_8" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_8')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_8')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.arrl.org/files/file/Ham%20Radio%20License%20Manual/HRLM%203rd%20ed/Study_Guide_3rd-ed-rev%2010_2015.pdf">Study_Guide_3rd-ed-rev 10_2015.pdf</a> 
       <span class="host">www.arrl.org</span>
@@ -1668,7 +1668,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_8">
         
     
-    <div class="annotationCard annotation" id="_lnEq5Ch2Eem8nXuNii1odw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lnEq5Ch2Eem8nXuNii1odw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1699,7 +1699,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ctQytih2EemRi79IvRGkGQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ctQytih2EemRi79IvRGkGQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1730,7 +1730,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_9" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_9')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_9')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2018/11/What_s_Radical_marginal-syllabus.pdf">What_s_Radical_marginal-syllabus.pdf</a> 
       <span class="host">educatorinnovator.org</span>
@@ -1738,7 +1738,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_9">
         
     
-    <div class="annotationCard annotation" id="_ZtFN3vc8EeiXPQ8qGVdJXQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZtFN3vc8EeiXPQ8qGVdJXQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1769,7 +1769,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_J9IdIPc8Eei-qXMjeDdFyQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_J9IdIPc8Eei-qXMjeDdFyQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1800,7 +1800,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_10" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_10')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_10')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;8&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2018/10/Electing_to_Heal.pdf">Electing to Heal.pdf</a> 
       <span class="host">educatorinnovator.org</span>
@@ -1808,7 +1808,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_10">
         
     
-    <div class="annotationCard annotation" id="_qcnjOtyxEeinS9NQxqEqkQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qcnjOtyxEeinS9NQxqEqkQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1839,7 +1839,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_pQ64ltyuEei8UBMMyjBEXA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pQ64ltyuEei8UBMMyjBEXA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1888,7 +1888,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_o_7dNNwlEeiZ_BM205rxLw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_o_7dNNwlEeiZ_BM205rxLw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1918,8 +1918,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22marginalsyllabus%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=marginalsyllabus">marginalsyllabus</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_W4B1tNx-EeiDhTuWx774aA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_W4B1tNx-EeiDhTuWx774aA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1949,8 +1949,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22marginalsyllabus%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=marginalsyllabus">marginalsyllabus</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_qwWYStyvEeiw20cOgqn3Yg" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_qwWYStyvEeiw20cOgqn3Yg" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -1981,7 +1981,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2IkK9tuuEeihS4feqz0GXw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2IkK9tuuEeihS4feqz0GXw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2013,7 +2013,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_jR3F3tuuEeihSh9-QofhwA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_jR3F3tuuEeihSh9-QofhwA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2045,7 +2045,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AQhGtNuuEeipcfsoKmJALA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AQhGtNuuEeipcfsoKmJALA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2076,7 +2076,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_bMphQNusEeihR2PpSq0Itg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bMphQNusEeihR2PpSq0Itg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2106,8 +2106,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23marginalsyllabus%22%2C%22%23unboundeq%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#marginalsyllabus">#marginalsyllabus</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#unboundeq">#unboundeq</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_q3X8WNxyEeiBdj_DVRQ2KQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_q3X8WNxyEeiBdj_DVRQ2KQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2137,8 +2137,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_wj-KnNywEeil-EuxuA_3Kg" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_wj-KnNywEeil-EuxuA_3Kg" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2170,7 +2170,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_V6UoBNudEeiDDm-1rxNZKA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_V6UoBNudEeiDDm-1rxNZKA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2200,8 +2200,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_GjvDuNuuEeirmEcMXdkTeQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_GjvDuNuuEeirmEcMXdkTeQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2232,7 +2232,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_11" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_11')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_11')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2018/10/Electing_to_Heal.pdf?fbclid=IwAR0t16D9gmsE7G92eEBVsOlPVbWL__snjj5moGaJVMAh7b8jKOTSKAojS2Y">Electing to Heal.pdf</a> 
       <span class="host">educatorinnovator.org</span>
@@ -2240,7 +2240,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_11">
         
     
-    <div class="annotationCard annotation" id="_A14aOtvKEei1WSPw5zy3yQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_A14aOtvKEei1WSPw5zy3yQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2270,8 +2270,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_mS-YUNxzEeiNzi-jEki1hg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_mS-YUNxzEeiNzi-jEki1hg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2301,8 +2301,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_QDfFoNywEeiHx2uwtSlDHw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_QDfFoNywEeiHx2uwtSlDHw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2333,7 +2333,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_12" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_12')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_12')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://quickthoughts.jgregorymcverry.com">My Stream</a> 
       <span class="host">quickthoughts.jgregorymcverry.com</span>
@@ -2341,7 +2341,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_12">
         
     
-    <div class="annotationCard annotation" id="_MqT6MNXoEeiY7_ul_IMjtw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MqT6MNXoEeiY7_ul_IMjtw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2375,8 +2375,8 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_mBRXkNZVEeix8cuGyguyng" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_mBRXkNZVEeix8cuGyguyng" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2407,7 +2407,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_13" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_13')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_13')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://journals.sagepub.com/doi/pdf/10.2304/elea.2009.6.2.230">Microsoft Word - 8 Bruce ELEA 6_2.doc</a> 
       <span class="host">journals.sagepub.com</span>
@@ -2415,7 +2415,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_13">
         
     
-    <div class="annotationCard annotation" id="_imzNVNSgEeil6-uIog5AIw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_imzNVNSgEeil6-uIog5AIw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2446,7 +2446,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_14" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_14')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_14')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm">Having an Experience by John Dewey 1934</a> 
       <span class="host">www.marxists.org</span>
@@ -2454,7 +2454,7 @@ https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
       <div id="cards_counter_14">
         
     
-    <div class="annotationCard annotation" id="_Uic27NMoEei5lsPXhvPKpQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Uic27NMoEei5lsPXhvPKpQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2486,7 +2486,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_QyM4CNMoEeidIQNv4NrikQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QyM4CNMoEeidIQNv4NrikQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2517,7 +2517,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_15" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_15')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_15')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;9&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://wolfweb.unr.edu/homepage/lafer/dewey%20dewey.htm">On Democracy</a> 
       <span class="host">wolfweb.unr.edu</span>
@@ -2525,7 +2525,7 @@ Philosophers, even empirical p</span>
       <div id="cards_counter_15">
         
     
-    <div class="annotationCard annotation" id="_7fkpSNLpEeis_Ns0kUKNag" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7fkpSNLpEeis_Ns0kUKNag" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2559,7 +2559,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_1tth9NLpEeiwkS9c56ucxg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1tth9NLpEeiwkS9c56ucxg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2594,7 +2594,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_A_cEftLjEeisqudITUU2XQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_A_cEftLjEeisqudITUU2XQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2629,7 +2629,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_xzKiANLiEeiGgXdhaeQ0_A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_xzKiANLiEeiGgXdhaeQ0_A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2663,7 +2663,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_iY_BTtLiEeibzT-Tb3nE7w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_iY_BTtLiEeibzT-Tb3nE7w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2695,7 +2695,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_bJJmHtLiEeiwgwvSvXUxOQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bJJmHtLiEeiwgwvSvXUxOQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2728,7 +2728,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IHGk6NLiEeiyikeyY70Xlg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IHGk6NLiEeiyikeyY70Xlg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2762,7 +2762,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_EFYvrNLiEeiFLyeFDYx0Zw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_EFYvrNLiEeiFLyeFDYx0Zw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2796,7 +2796,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ZuLmptImEeirvG8Yp4-p4w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZuLmptImEeirvG8Yp4-p4w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2830,7 +2830,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_16" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_16')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_16')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://edu307class.networkedlearningcollaborative.com/readings/thricelessons.pdf">A Thrice-Learned Lesson from the Literate Life of a Five-Year-Old</a> 
       <span class="host">edu307class.networkedlearningcollaborative.com</span>
@@ -2838,7 +2838,7 @@ Philosophers, even empirical p</span>
       <div id="cards_counter_16">
         
     
-    <div class="annotationCard annotation" id="_7m8mFMWUEeiKPI-2odovsw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7m8mFMWUEeiKPI-2odovsw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2868,8 +2868,8 @@ Philosophers, even empirical p</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23bookclub%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#bookclub">#bookclub</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_8OdjNMXfEeiEsSvbyrwBhg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_8OdjNMXfEeiEsSvbyrwBhg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2900,7 +2900,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GqZt3BBaEei1HePlWX9YIw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GqZt3BBaEei1HePlWX9YIw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2930,8 +2930,8 @@ Philosophers, even empirical p</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22group2%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=group2">group2</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_umi0-MXeEeiJARveyLxV3Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_umi0-MXeEeiJARveyLxV3Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -2962,7 +2962,7 @@ Philosophers, even empirical p</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_17" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_17')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_17')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://boffosocko.com/?p=55718695">Chris Aldrich on the IndieWeb</a> 
       <span class="host">boffosocko.com</span>
@@ -2970,7 +2970,7 @@ Philosophers, even empirical p</span>
       <div id="cards_counter_17">
         
     
-    <div class="annotationCard annotation" id="_EUewxJm4Eeip9pdbhmVRvw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_EUewxJm4Eeip9pdbhmVRvw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3004,7 +3004,7 @@ If you do a lot of annotations </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3d5Xppm3EeiXWtfRh8Uv5w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3d5Xppm3EeiXWtfRh8Uv5w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3039,7 +3039,7 @@ Input feed: https://hypothes.i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_vmzTPpm3EeiaKD9lQO-Tuw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vmzTPpm3EeiaKD9lQO-Tuw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3075,7 +3075,7 @@ Input feed: https://hypothes.i</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_18" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_18')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_18')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://edu522.networkedlearningcollaborative.com/coc.html">Code of Conduct</a> 
       <span class="host">edu522.networkedlearningcollaborative.com</span>
@@ -3083,7 +3083,7 @@ Input feed: https://hypothes.i</span>
       <div id="cards_counter_18">
         
     
-    <div class="annotationCard annotation" id="_I2R_OpVTEeiUoe-DTFoMiQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_I2R_OpVTEeiUoe-DTFoMiQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3117,8 +3117,8 @@ Inappropriate physical contact</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22grammar%22%2C%22code%20of%20conduct%22%2C%22no%20brown%20m%26ms%20here%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=grammar">grammar</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=code%20of%20conduct">code of conduct</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=no%20brown%20m&amp;ms%20here">no brown m&amp;ms here</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_otjxJJW8Eei3Ng9jGhsqvQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_otjxJJW8Eei3Ng9jGhsqvQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3148,8 +3148,8 @@ Inappropriate physical contact</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_-o6x9pW8Eei4KP9G-9Zgdg" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_-o6x9pW8Eei4KP9G-9Zgdg" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3180,7 +3180,7 @@ Inappropriate physical contact</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_19" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_19')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_19')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://edtechfrontier.com/2013/05/11/the-pedagogy-of-moocs">The Pedagogy of MOOCs</a> 
       <span class="host">edtechfrontier.com</span>
@@ -3188,7 +3188,7 @@ Inappropriate physical contact</span>
       <div id="cards_counter_19">
         
     
-    <div class="annotationCard annotation" id="_QLDygodaEeiIIhvNDwGQtg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QLDygodaEeiIIhvNDwGQtg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3223,7 +3223,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_20" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_20')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_20')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;13&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://ies.ed.gov/funding/pdf/2019_84305A.pdf">REQUEST FOR APPLICATIONS Education Research Grants CFDA Number: 84.305A</a> 
       <span class="host">ies.ed.gov</span>
@@ -3231,7 +3231,7 @@ He goes on to explain in this </span>
       <div id="cards_counter_20">
         
     
-    <div class="annotationCard annotation" id="_-h9YYobEEei3QGt5sx8svg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-h9YYobEEei3QGt5sx8svg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3262,7 +3262,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GIufjoapEeiGggMPQ-LsXg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GIufjoapEeiGggMPQ-LsXg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3293,7 +3293,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Y8T1ynwQEeiAPT9HikH4mQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Y8T1ynwQEeiAPT9HikH4mQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3324,7 +3324,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_VO4w6HwQEei8WgNQtq9GAw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VO4w6HwQEei8WgNQtq9GAw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3355,7 +3355,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JYIoAHwQEeiYJmOBkRv35Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JYIoAHwQEeiYJmOBkRv35Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3386,7 +3386,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__5lNbHwPEeiZZEczpPdLKQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__5lNbHwPEeiZZEczpPdLKQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3417,7 +3417,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tiMXZHwNEeivfC_XsdCmOg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tiMXZHwNEeivfC_XsdCmOg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3448,7 +3448,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_mUzOlnwNEeiRR7-SKIulBQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mUzOlnwNEeiRR7-SKIulBQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3479,7 +3479,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gt42LHwNEeiWfgsGMj0LjQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gt42LHwNEeiWfgsGMj0LjQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3512,7 +3512,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Kr_PHnwNEeiZYvtqkERH3g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Kr_PHnwNEeiZYvtqkERH3g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3543,7 +3543,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_CdgM5HwNEeiOwOe7H-AyAA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CdgM5HwNEeiOwOe7H-AyAA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3574,7 +3574,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_qWMIHnwMEei0hmPJFDSXnA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qWMIHnwMEei0hmPJFDSXnA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3605,7 +3605,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3Ce92nwMEeiAPAM9yDr-zQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3Ce92nwMEeiAPAM9yDr-zQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3636,7 +3636,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_21" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_21')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_21')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://bavatuesdays.com/digital-storytelling-the-course">Digital Storytelling: the Course</a> 
       <span class="host">bavatuesdays.com</span>
@@ -3644,7 +3644,7 @@ He goes on to explain in this </span>
       <div id="cards_counter_21">
         
     
-    <div class="annotationCard annotation" id="_uNEJxIXnEeiRRROsX5V2pg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uNEJxIXnEeiRRROsX5V2pg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3675,7 +3675,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_22" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_22')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_22')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.nwp.org/cs/public/print/resource/4644">Assessing Writing, Teaching Writers - National Writing Project</a> 
       <span class="host">www.nwp.org</span>
@@ -3683,7 +3683,7 @@ He goes on to explain in this </span>
       <div id="cards_counter_22">
         
     
-    <div class="annotationCard annotation" id="_rlV97nwQEeiBr2N1JDfaTQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rlV97nwQEeiBr2N1JDfaTQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3714,7 +3714,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_23" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_23')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_23')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;17&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://jgregorymcverry.com/wp-content/uploads/2018/06/Resituating-Funds-of-Identity-Within-Contemporary-Interpretations-of-Perezhivanie.pdf">Resituating Funds of Identity Within Contemporary Interpretations of Perezhivanie</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -3722,7 +3722,7 @@ He goes on to explain in this </span>
       <div id="cards_counter_23">
         
     
-    <div class="annotationCard annotation" id="_7TiuRnVJEei1bKsgZqFU4Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7TiuRnVJEei1bKsgZqFU4Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3753,7 +3753,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_qvKvFHVJEei9VD_nuBqWVw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qvKvFHVJEei9VD_nuBqWVw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3784,7 +3784,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gdlTinVJEeibJccBu-LrWw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gdlTinVJEeibJccBu-LrWw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3815,7 +3815,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SSVP-HVJEeiMy9PWEjkyzw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SSVP-HVJEeiMy9PWEjkyzw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3845,8 +3845,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Y8JidHVJEeif0suCYa-YIA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Y8JidHVJEeif0suCYa-YIA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3877,7 +3877,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OBeZAHVJEeiMynOZkwLB1A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OBeZAHVJEeiMynOZkwLB1A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3908,7 +3908,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_kpGaxnVIEei9Nav2KGaARQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_kpGaxnVIEei9Nav2KGaARQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3939,7 +3939,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_dmeDQnVIEeiP3vfsUP-iPQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_dmeDQnVIEeiP3vfsUP-iPQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -3970,7 +3970,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_B5jWqnVIEeig5_tuN-LMnQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_B5jWqnVIEeig5_tuN-LMnQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4001,7 +4001,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_H-Si-HVHEeiFe_tKBvM1xA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_H-Si-HVHEeiFe_tKBvM1xA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4032,7 +4032,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_E8KtTnVHEeifYK8GfEhZRA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_E8KtTnVHEeifYK8GfEhZRA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4063,7 +4063,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_orTIJnVGEeij_4-aCPYIfg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_orTIJnVGEeij_4-aCPYIfg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4094,7 +4094,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_d3GYfnVGEei65Z9Mak3hvg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_d3GYfnVGEei65Z9Mak3hvg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4127,7 +4127,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_D0v4wHVGEeif0Q8Uegh1Zg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_D0v4wHVGEeif0Q8Uegh1Zg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4158,7 +4158,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_YPfWSnVFEeiSqgsE0MhqsQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_YPfWSnVFEeiSqgsE0MhqsQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4189,7 +4189,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_MyDPxHVFEeiA4WdVID9atg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MyDPxHVFEeiA4WdVID9atg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4222,7 +4222,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_smnTqHVEEeibI_vfvlW_0Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_smnTqHVEEeibI_vfvlW_0Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4253,7 +4253,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_24" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_24')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_24')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;6&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.citejournal.org/volume-18/issue-2-18/english-language-arts/the-fallacies-of-open-participatory-design-infrastructuring-and-the-pursuit-of-radical-possibility">The Fallacies of Open: Participatory Design, Infrastructuring, and the Pursuit of Radical Possibility – CITE Journal</a> 
       <span class="host">www.citejournal.org</span>
@@ -4261,7 +4261,7 @@ He goes on to explain in this </span>
       <div id="cards_counter_24">
         
     
-    <div class="annotationCard annotation" id="_dJU0GmsbEei5Na-YgiiDag" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_dJU0GmsbEei5Na-YgiiDag" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4292,8 +4292,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22clmooc%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=clmooc">clmooc</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_5lmj5mtOEeijfvNVcsYidw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_5lmj5mtOEeijfvNVcsYidw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4325,7 +4325,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_5tOyZmndEeipcrdqOz1UTw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5tOyZmndEeipcrdqOz1UTw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4357,8 +4357,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22clmooc%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=clmooc">clmooc</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0xXaTGsOEeiG9psovG2XIQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0xXaTGsOEeiG9psovG2XIQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4388,8 +4388,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22clmooc%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=clmooc">clmooc</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_evdNumtOEeiavdvICduQmw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_evdNumtOEeiavdvICduQmw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4422,7 +4422,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OZq1gmnSEeimb6N8v_D1vw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OZq1gmnSEeimb6N8v_D1vw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4459,7 +4459,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_e-WW9mnREeiE56uR2HoBdA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_e-WW9mnREeiE56uR2HoBdA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4490,7 +4490,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_c7cbMGnREeiFA08R8ALgjg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_c7cbMGnREeiFA08R8ALgjg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4523,7 +4523,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_25" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_25')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_25')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;14&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.ncte.org/library/NCTEFiles/Resources/Journals/VM/0254-may2018/VM0254Leading.pdf">VM0254Leading.pdf</a> 
       <span class="host">www.ncte.org</span>
@@ -4531,7 +4531,7 @@ He goes on to explain in this </span>
       <div id="cards_counter_25">
         
     
-    <div class="annotationCard annotation" id="_yv4ofGghEeifkJddAojsjw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yv4ofGghEeifkJddAojsjw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4563,8 +4563,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_KTNIpmiyEeit3R_jgvbSmg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_KTNIpmiyEeit3R_jgvbSmg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4594,8 +4594,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22style%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=style">style</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_iGuuqmi1EeiRShtdYBEeXQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_iGuuqmi1EeiRShtdYBEeXQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4628,8 +4628,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Os379Gl3EeiI-scwnedAFQ" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Os379Gl3EeiI-scwnedAFQ" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4659,8 +4659,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_w6ag9Gl6Eei0yb-YzJ67yw" style="display: block; margin-left: 80px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_w6ag9Gl6Eei0yb-YzJ67yw" style="display: none; margin-left: 80px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4691,7 +4691,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JBpTjGZVEeieQp9fLVnCGg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JBpTjGZVEeieQp9fLVnCGg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4733,7 +4733,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_G6KgSGZUEeiVKddRlEN09A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_G6KgSGZUEeiVKddRlEN09A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4766,7 +4766,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uzaIjGZTEeiDBV9gRusy8A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uzaIjGZTEeiDBV9gRusy8A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4797,7 +4797,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6Ub8-GZSEeib29PQLYOyjg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6Ub8-GZSEeib29PQLYOyjg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4828,7 +4828,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_s0u-fGZSEeiPqc_LN9yVyw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_s0u-fGZSEeiPqc_LN9yVyw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4860,7 +4860,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_CYvVNGZSEeiz-EMid5eGsA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CYvVNGZSEeiz-EMid5eGsA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4895,8 +4895,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22best%20practice%22%2C%22good%20practice%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=best%20practice">best practice</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=good%20practice">good practice</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_CajSNGbOEeich1O72g03vQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_CajSNGbOEeich1O72g03vQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4933,8 +4933,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22best%20practice%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=best%20practice">best practice</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_3EnmZGhzEeij9Eeoq6rh9A" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_3EnmZGhzEeij9Eeoq6rh9A" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -4966,8 +4966,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_RCdssGi2Eei5UPsczZj0BQ" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_RCdssGi2Eei5UPsczZj0BQ" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5001,7 +5001,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IfKPmGZQEeieQBNE5MNa6Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IfKPmGZQEeieQBNE5MNa6Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5031,8 +5031,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22ncte%22%2C%22digital%20native%22%2C%22reMarkable%22%2C%22analog%20writing%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=ncte">ncte</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=digital%20native">digital native</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=reMarkable">reMarkable</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=analog%20writing">analog writing</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tNXstGbOEeijRsO5-0XMnQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tNXstGbOEeijRsO5-0XMnQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5063,8 +5063,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_8kq8VGcfEeiriD8-apn9mA" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_8kq8VGcfEeiriD8-apn9mA" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5095,8 +5095,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22let's%20call%20the%20whole%20thing%20off%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=let%27s%20call%20the%20whole%20thing%20off">let's call the whole thing off</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_VwlP_mgiEeiNgQvGE5ZASw" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_VwlP_mgiEeiNgQvGE5ZASw" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5128,7 +5128,7 @@ He goes on to explain in this </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_xekPLmZPEeijG9c4MUQzDg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_xekPLmZPEeijG9c4MUQzDg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5160,8 +5160,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22indieweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=indieweb">indieweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_VvEEnmbOEeicCUvAs6GRKQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_VvEEnmbOEeicCUvAs6GRKQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5191,8 +5191,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_r1RRBmffEeiIU_vmdSdcpQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_r1RRBmffEeiIU_vmdSdcpQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5222,8 +5222,8 @@ He goes on to explain in this </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22indieweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=indieweb">indieweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_2-rdCGfoEeiYUW9upBbkvw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_2-rdCGfoEeiYUW9upBbkvw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5260,8 +5260,8 @@ But Kevin you are one of the most #IndiewWeb people I know. I often hold you up 
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22IndieWeb%22%2C%22ncte%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=IndieWeb">IndieWeb</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=ncte">ncte</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_h8wuLGfrEei7n0u0o1TkTA" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_h8wuLGfrEei7n0u0o1TkTA" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5291,8 +5291,8 @@ But Kevin you are one of the most #IndiewWeb people I know. I often hold you up 
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_GVgvDmgiEeiCjg_bb3lF6g" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_GVgvDmgiEeiCjg_bb3lF6g" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5323,7 +5323,7 @@ But Kevin you are one of the most #IndiewWeb people I know. I often hold you up 
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_26" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_26')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_26')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;9&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.gutenberg.org/files/37423/37423-h/37423-h.htm">The Project Gutenberg eBook of How We Think, by John Dewey.</a> 
       <span class="host">www.gutenberg.org</span>
@@ -5331,7 +5331,7 @@ But Kevin you are one of the most #IndiewWeb people I know. I often hold you up 
       <div id="cards_counter_26">
         
     
-    <div class="annotationCard annotation" id="_uwHDQGUTEeiPKysPfE4o0w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uwHDQGUTEeiPKysPfE4o0w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5366,7 +5366,7 @@ our mental furnitur</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_WSz_mmUTEei647_YRQavlA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WSz_mmUTEei647_YRQavlA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5399,7 +5399,7 @@ or improbable.</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IFK3HmUTEeiLlhM6CRlFHQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IFK3HmUTEeiLlhM6CRlFHQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5434,7 +5434,7 @@ fancy and considerations</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2HejFGUSEeieCrdbd8ykKQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2HejFGUSEeieCrdbd8ykKQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5477,7 +5477,7 @@ portions of the </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-jQbWmUREeinaV_0oG1yRQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-jQbWmUREeinaV_0oG1yRQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5513,7 +5513,7 @@ our waking life than we</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0q2MnGUREeiJpBcIB_XzDw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0q2MnGUREeiJpBcIB_XzDw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5550,7 +5550,7 @@ adequacy to support the belief</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GGgmwmUQEeiPKX--Cohptw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GGgmwmUQEeiPKX--Cohptw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5583,7 +5583,7 @@ mean by them</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_m0WR_GUPEeiZiYeokm-b6g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_m0WR_GUPEeiZiYeokm-b6g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5618,7 +5618,7 @@ scientific</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Rdti8GUPEeiVNY-Z6fN0dw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Rdti8GUPEeiVNY-Z6fN0dw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5660,7 +5660,7 @@ m</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_27" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_27')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_27')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.readingrockets.org/article/literacy-rich-environments">Literacy-Rich Environments</a> 
       <span class="host">www.readingrockets.org</span>
@@ -5668,7 +5668,7 @@ m</span>
       <div id="cards_counter_27">
         
     
-    <div class="annotationCard annotation" id="_yj1CEGNYEeiArW8TNdABMw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yj1CEGNYEeiArW8TNdABMw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5699,7 +5699,7 @@ m</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_28" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_28')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_28')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.speech-language-therapy.com/pdf/papers/pullenjustice2003.pdf">in-v39n2-p87</a> 
       <span class="host">www.speech-language-therapy.com</span>
@@ -5707,7 +5707,7 @@ m</span>
       <div id="cards_counter_28">
         
     
-    <div class="annotationCard annotation" id="_GetYhFxBEeiyJ6-fV0tFbQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GetYhFxBEeiyJ6-fV0tFbQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5738,7 +5738,7 @@ m</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_29" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_29')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_29')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://celi.olemiss.edu/wp-content/uploads/sites/7/2014/01/wasik-and-bond-article.pdf">wasik-and-bond-article.pdf</a> 
       <span class="host">celi.olemiss.edu</span>
@@ -5746,7 +5746,7 @@ m</span>
       <div id="cards_counter_29">
         
     
-    <div class="annotationCard annotation" id="_sQRJelxAEeiN6sOhiOjd2g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_sQRJelxAEeiN6sOhiOjd2g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5777,7 +5777,7 @@ m</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_30" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_30')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_30')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.politico.com/story/2018/05/16/scott-pruitt-epa-appropriations-committee-hearing-591851">Senator to Pruitt: EPA meddling in health study ‘unconscionable’</a> 
       <span class="host">www.politico.com</span>
@@ -5785,7 +5785,7 @@ m</span>
       <div id="cards_counter_30">
         
     
-    <div class="annotationCard annotation" id="_GkhjxlkmEeiSWhNkwVfyvA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GkhjxlkmEeiSWhNkwVfyvA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5817,7 +5817,7 @@ And earlier this week, POLITICO</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_31" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_31')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_31')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.politico.com/story/2018/05/16/republicans-daca-congress-591857">Republicans wrangle over DACA in tense private meeting</a> 
       <span class="host">www.politico.com</span>
@@ -5825,7 +5825,7 @@ And earlier this week, POLITICO</span>
       <div id="cards_counter_31">
         
     
-    <div class="annotationCard annotation" id="_nBI3rFklEeiGFvPtKeQR4Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_nBI3rFklEeiGFvPtKeQR4Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5860,7 +5860,7 @@ And earlier this week, POLITICO</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_32" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_32')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_32')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.boffosocko.com/wp-content/uploads/2018/05/An-IndieWeb-Crash-Course-v3.pdf">An-IndieWeb-Crash-Course-v3.pdf</a> 
       <span class="host">www.boffosocko.com</span>
@@ -5868,7 +5868,7 @@ And earlier this week, POLITICO</span>
       <div id="cards_counter_32">
         
     
-    <div class="annotationCard annotation" id="_jv8I5lhZEeitWu86o5fMvg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_jv8I5lhZEeitWu86o5fMvg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5899,8 +5899,8 @@ And earlier this week, POLITICO</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23indieweb.%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#indieweb.">#indieweb.</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_XabMRlhbEeiEkUOBVXsTAQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_XabMRlhbEeiEkUOBVXsTAQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5931,7 +5931,7 @@ And earlier this week, POLITICO</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_33" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_33')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_33')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://thehill.com/homenews/senate/383663-senate-gop-wary-of-new-tax-cut-sequel">Senate GOP wary of new tax cut sequel</a> 
       <span class="host">thehill.com</span>
@@ -5939,7 +5939,7 @@ And earlier this week, POLITICO</span>
       <div id="cards_counter_33">
         
     
-    <div class="annotationCard annotation" id="_DYmxDEMGEei4P6_x0lZsfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_DYmxDEMGEei4P6_x0lZsfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -5971,7 +5971,7 @@ And earlier this week, POLITICO</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_34" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_34')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_34')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://github.com/mozilla/global-sprint/issues/251">Open Web for Learning &amp; Teaching Expertise Hub (formerly TELOWEH) · Issue #251 · mozilla/global-sprint</a> 
       <span class="host">github.com</span>
@@ -5979,7 +5979,7 @@ And earlier this week, POLITICO</span>
       <div id="cards_counter_34">
         
     
-    <div class="annotationCard annotation" id="_OdXhODsgEeiEyRdO90aAZA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OdXhODsgEeiEyRdO90aAZA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6013,7 +6013,7 @@ And earlier this week, POLITICO</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_35" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_35')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_35')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://files.eric.ed.gov/fulltext/EJ768720.pdf">EJ768720.pdf</a> 
       <span class="host">files.eric.ed.gov</span>
@@ -6021,7 +6021,7 @@ And earlier this week, POLITICO</span>
       <div id="cards_counter_35">
         
     
-    <div class="annotationCard annotation" id="_GN4oILptEee29rugbPPGPg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GN4oILptEee29rugbPPGPg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6052,7 +6052,7 @@ And earlier this week, POLITICO</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_5CMmdrpsEeetnONz5aZ-8A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5CMmdrpsEeetnONz5aZ-8A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6084,7 +6084,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_36" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_36')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_36')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://districts.teachade.com/resources/support/5035b24fcdcd1.pdf">5035b24fcdcd1.pdf</a> 
       <span class="host">districts.teachade.com</span>
@@ -6092,7 +6092,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       <div id="cards_counter_36">
         
     
-    <div class="annotationCard annotation" id="_TCXMcLpsEeehuQOLPwiElQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TCXMcLpsEeehuQOLPwiElQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6123,7 +6123,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Nmu1yrpsEeeL7Et4UekFWw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Nmu1yrpsEeeL7Et4UekFWw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6154,7 +6154,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_37" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_37')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_37')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.washingtonpost.com/news/the-fix/wp/2017/07/19/why-did-trump-meet-secretly-with-putin-here-are-3-theories">Analysis | Why did Trump meet with Putin? Here are three possibilities.</a> 
       <span class="host">www.washingtonpost.com</span>
@@ -6162,7 +6162,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       <div id="cards_counter_37">
         
     
-    <div class="annotationCard annotation" id="_3OvXymyPEeen6_-WvbVB7A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3OvXymyPEeen6_-WvbVB7A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6193,7 +6193,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_38" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_38')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_38')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.nbcnews.com/better/diet-fitness/cheap-food-blamed-america-s-obesity-crisis-n112141">Cheap Food Blamed for America's Obesity Crisis</a> 
       <span class="host">www.nbcnews.com</span>
@@ -6201,7 +6201,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       <div id="cards_counter_38">
         
     
-    <div class="annotationCard annotation" id="_TQNBcGvbEeeX60__DoLn0A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TQNBcGvbEeeX60__DoLn0A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6237,7 +6237,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_39" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_39')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_39')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:ebda212abaa04a398d4a7a98fc9cbef5">TheBuzz.pdf.pdf</a> 
       <span class="host"></span>
@@ -6245,7 +6245,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       <div id="cards_counter_39">
         
     
-    <div class="annotationCard annotation" id="_fKtnLjfWEeeUvHMU2mFXUA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_fKtnLjfWEeeUvHMU2mFXUA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6276,7 +6276,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_40" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_40')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_40')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.linkedin.com/pulse/some-businesses-bleed-black-tim-o-reilly">Some Businesses Bleed Black</a> 
       <span class="host">www.linkedin.com</span>
@@ -6284,7 +6284,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       <div id="cards_counter_40">
         
     
-    <div class="annotationCard annotation" id="_iqTI2jaQEee4UA81VkkvIA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_iqTI2jaQEee4UA81VkkvIA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6315,7 +6315,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6xQNHDaPEeeujocfl_JOBg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6xQNHDaPEeeujocfl_JOBg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6346,7 +6346,7 @@ It is clear authentic tasks and models are necessary. Digital Field placements c
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_d5U_qjaPEee4T_ONQ4k3NA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_d5U_qjaPEee4T_ONQ4k3NA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6380,7 +6380,7 @@ Our secret: build products tha</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_FqtF_jaPEeeHb395oBEENw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FqtF_jaPEeeHb395oBEENw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6413,7 +6413,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_41" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_41')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_41')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://iu.app.box.com/s/vledf13tqnzq1tp1otcxknz7ehlkrwkr">DPD Project Final Report For Wide DistributionV2.pdf - File Shared from Box</a> 
       <span class="host">iu.app.box.com</span>
@@ -6421,7 +6421,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       <div id="cards_counter_41">
         
     
-    <div class="annotationCard annotation" id="_rfZlHjXSEeeNSE83JLQxww" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rfZlHjXSEeeNSE83JLQxww" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6453,7 +6453,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_42" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_42')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_42')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.buzzfeed.com/paulmcleod/heres-what-actually-true-and-false-about-the-republicans">Here’s What Is Actually True And False About The Republicans’ Health Care Plan</a> 
       <span class="host">www.buzzfeed.com</span>
@@ -6461,7 +6461,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       <div id="cards_counter_42">
         
     
-    <div class="annotationCard annotation" id="_G3B2-jH3Eeefw4cTiuFyNA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_G3B2-jH3Eeefw4cTiuFyNA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6492,7 +6492,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_43" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_43')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_43')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.hastac.org/blogs/cathy-davidson/2013/09/27/what-was-first-mooc">What Was the First MOOC?</a> 
       <span class="host">www.hastac.org</span>
@@ -6500,7 +6500,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       <div id="cards_counter_43">
         
     
-    <div class="annotationCard annotation" id="_ah4cCgc5EeeYzp9n2qKGrg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ah4cCgc5EeeYzp9n2qKGrg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6531,7 +6531,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_44" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_44')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_44')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educon21.wikispaces.com/OpenTeaching">educon21 - OpenTeaching</a> 
       <span class="host">educon21.wikispaces.com</span>
@@ -6539,7 +6539,7 @@ Reminds me of the <a href="http://firstround.com/review/how-zapier-pulled-off-it
       <div id="cards_counter_44">
         
     
-    <div class="annotationCard annotation" id="_pmKimgc4EeeIl0O5fYIHxQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pmKimgc4EeeIl0O5fYIHxQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6573,7 +6573,7 @@ What </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_45" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_45')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_45')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/wp-content/uploads/2017/03/5000204512-5000415642-1-SM.pdf">5000204512-5000415642-1-SM.pdf</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -6581,7 +6581,7 @@ What </span>
       <div id="cards_counter_45">
         
     
-    <div class="annotationCard annotation" id="_rMLqBAcvEeenMrvCsfB8qw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rMLqBAcvEeenMrvCsfB8qw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6612,7 +6612,7 @@ What </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_46" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_46')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_46')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://net.educause.edu/ir/library/pdf/pub7202.pdf">The Tower and the Cloud: Higher Education in the Age of Cloud Computing</a> 
       <span class="host">net.educause.edu</span>
@@ -6620,7 +6620,7 @@ What </span>
       <div id="cards_counter_46">
         
     
-    <div class="annotationCard annotation" id="_yMtA0gcsEeen_m9zizqynw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yMtA0gcsEeen_m9zizqynw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6651,7 +6651,7 @@ What </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LS-lAgclEee775esNemkYg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LS-lAgclEee775esNemkYg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6682,7 +6682,7 @@ What </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_fFCCBgckEeeYgu9iJijpQQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_fFCCBgckEeeYgu9iJijpQQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6713,7 +6713,7 @@ What </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PQrQEAckEeebrCcEMBsyDw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PQrQEAckEeebrCcEMBsyDw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6744,7 +6744,7 @@ What </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3lZr9gcjEeen-ycx4g3MLw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3lZr9gcjEeen-ycx4g3MLw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6775,7 +6775,7 @@ What </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_47" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_47')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_47')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.irrodl.org/index.php/irrodl/article/view/641/1389">Open Educational Resources: New Possibilities for Change and Sustainability</a> 
       <span class="host">www.irrodl.org</span>
@@ -6783,7 +6783,7 @@ What </span>
       <div id="cards_counter_47">
         
     
-    <div class="annotationCard annotation" id="_PzGG8AcjEeelvvO6H1SJug" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PzGG8AcjEeelvvO6H1SJug" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6820,7 +6820,7 @@ Enabled by  widespread adopti</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_48" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_48')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_48')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://er.educause.edu/articles/2008/1/minds-on-fire-open-education-the-long-tail-and-learning-20">Minds on Fire: Open Education, the Long Tail, and Learning 2.0</a> 
       <span class="host">er.educause.edu</span>
@@ -6828,7 +6828,7 @@ Enabled by  widespread adopti</span>
       <div id="cards_counter_48">
         
     
-    <div class="annotationCard annotation" id="_HGeLjgciEeeVQNuHTUR0DQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_HGeLjgciEeeVQNuHTUR0DQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6859,7 +6859,7 @@ Enabled by  widespread adopti</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_49" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_49')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_49')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://campustechnology.com/Articles/2014/11/12/Open-Pedagogy-Connection-Community-and-Transparency.aspx?Page=1">Open Pedagogy: Connection, Community, and Transparency -- Campus Technology</a> 
       <span class="host">campustechnology.com</span>
@@ -6867,7 +6867,7 @@ Enabled by  widespread adopti</span>
       <div id="cards_counter_49">
         
     
-    <div class="annotationCard annotation" id="_pPY0ygcbEeeYfcuStrRAow" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pPY0ygcbEeeYfcuStrRAow" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6901,7 +6901,7 @@ open post-hoc</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_aBmQzgcbEeeDdtc0qOAeCQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_aBmQzgcbEeeDdtc0qOAeCQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6939,7 +6939,7 @@ open post-hoc</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_50" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_50')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_50')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/wp-content/uploads/2017/03/battle-for-open.pdf">battle-for-open.pdf</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -6947,7 +6947,7 @@ open post-hoc</p>
       <div id="cards_counter_50">
         
     
-    <div class="annotationCard annotation" id="_-k_Q7gcaEeetXHdqFGwhtA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-k_Q7gcaEeetXHdqFGwhtA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -6983,7 +6983,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_51" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_51')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_51')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://oerresearchhub.files.wordpress.com/2014/11/oerrh-evidence-report-2014.pdf">oerrh-evidence-report-2014.pdf</a> 
       <span class="host">oerresearchhub.files.wordpress.com</span>
@@ -6991,7 +6991,7 @@ leverage massive participation</p>
       <div id="cards_counter_51">
         
     
-    <div class="annotationCard annotation" id="_3slOUAZ5EeeLxzvPhY8aYA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3slOUAZ5EeeLxzvPhY8aYA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7022,7 +7022,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_xJ_ouAZ5Eee_EfO1L3uOeQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_xJ_ouAZ5Eee_EfO1L3uOeQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7053,7 +7053,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_k59u-gZ5EeeaJ-8Xp3Ed-A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_k59u-gZ5EeeaJ-8Xp3Ed-A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7084,7 +7084,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_52" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_52')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_52')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://nextthought.com/thoughts/2015/02/ten-qualities-of-open-pedagogy">Eight Qualities of Open Pedagogy</a> 
       <span class="host">nextthought.com</span>
@@ -7092,7 +7092,7 @@ leverage massive participation</p>
       <div id="cards_counter_52">
         
     
-    <div class="annotationCard annotation" id="_-ZLCJgZ4Eee4T8fHQX_17w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-ZLCJgZ4Eee4T8fHQX_17w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7130,7 +7130,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zKxEMAZ4EeeLxf8LL_ijSg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zKxEMAZ4EeeLxf8LL_ijSg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7168,7 +7168,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_CJxPfAZ4EeeYpZf_hNGTiA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CJxPfAZ4EeeYpZf_hNGTiA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7205,7 +7205,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7yMQvAZ3Eee6r29cvs6vww" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7yMQvAZ3Eee6r29cvs6vww" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7243,7 +7243,7 @@ leverage massive participation</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_53" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_53')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_53')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.tonybates.ca/2015/02/18/the-implications-of-open-for-course-and-program-design-towards-a-paradigm-shift">The implications of ‘open’ for course and program design: towards a paradigm shift | Tony Bates</a> 
       <span class="host">www.tonybates.ca</span>
@@ -7251,7 +7251,7 @@ leverage massive participation</p>
       <div id="cards_counter_53">
         
     
-    <div class="annotationCard annotation" id="_u65OVAZ3EeeDYptMVAuUvQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_u65OVAZ3EeeDYptMVAuUvQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7284,7 +7284,7 @@ The use of open educational res</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_54" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_54')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_54')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.tonybates.ca/2015/02/16/what-do-we-mean-by-open-in-education">What do we mean by ‘open’ in education? | Tony Bates</a> 
       <span class="host">www.tonybates.ca</span>
@@ -7292,7 +7292,7 @@ The use of open educational res</span>
       <div id="cards_counter_54">
         
     
-    <div class="annotationCard annotation" id="_gbqCJgZ3EeeucyPO9r7F0w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gbqCJgZ3EeeucyPO9r7F0w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7327,7 +7327,7 @@ education for all: free or ver</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_55" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_55')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_55')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;14&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://opencontent.org/blog/archives/2975">iterating toward openness</a> 
       <span class="host">opencontent.org</span>
@@ -7335,7 +7335,7 @@ education for all: free or ver</span>
       <div id="cards_counter_55">
         
     
-    <div class="annotationCard annotation" id="_aiNeOLy5Eean-We3JaGsjg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_aiNeOLy5Eean-We3JaGsjg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7365,8 +7365,8 @@ education for all: free or ver</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22open%20pedagogy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=open%20pedagogy">open pedagogy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_7HOIhAZ2EeeWg4Oi0qEsXA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_7HOIhAZ2EeeWg4Oi0qEsXA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7397,7 +7397,7 @@ education for all: free or ver</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_1Xt2ZLvaEeasHavzuvn5vg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1Xt2ZLvaEeasHavzuvn5vg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7428,7 +7428,7 @@ education for all: free or ver</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rr9RCLvaEeakbid5MvzMxw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rr9RCLvaEeakbid5MvzMxw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7463,7 +7463,7 @@ Pp. 173-178.
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OF93LLvaEeadQEt2j7KGnw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OF93LLvaEeadQEt2j7KGnw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7496,7 +7496,7 @@ Pp. 173-178.
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_bS1qSLvXEeaPYKPgDorajA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bS1qSLvXEeaPYKPgDorajA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7529,7 +7529,7 @@ Clarity – as rated by st</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_atxICrvWEea3a59m8pCOPw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_atxICrvWEea3a59m8pCOPw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7565,7 +7565,7 @@ The quest</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ch7XFLvVEeaKE68Yu8gKjA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ch7XFLvVEeaKE68Yu8gKjA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7598,7 +7598,7 @@ The quest</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IxUucLvVEeakaPfN4iKtrw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IxUucLvVEeakaPfN4iKtrw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7631,7 +7631,7 @@ The quest</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ei0SlrvUEeasFsu8cPVOSw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ei0SlrvUEeasFsu8cPVOSw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7668,7 +7668,7 @@ Audr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_UrOqrrvUEeaqwhdPcPMFQA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_UrOqrrvUEeaqwhdPcPMFQA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7710,7 +7710,7 @@ Audr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6SRlmqqqEeaGiitGyiW1iQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6SRlmqqqEeaGiitGyiW1iQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7740,8 +7740,8 @@ Audr</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_UI1gLrvCEeapllvR9pCNMA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_UI1gLrvCEeapllvR9pCNMA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7772,7 +7772,7 @@ Audr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_qIXs6KqqEeaxBkcvLUvVzA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qIXs6KqqEeaxBkcvLUvVzA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7802,8 +7802,8 @@ Audr</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_92qiBLvBEeaTxHMGp-Jkjg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_92qiBLvBEeaTxHMGp-Jkjg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7833,8 +7833,8 @@ Audr</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23openpedagogy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#openpedagogy">#openpedagogy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_yLlfnLu_Eea3SgsghnpOsQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_yLlfnLu_Eea3SgsghnpOsQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7867,7 +7867,7 @@ Audr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Camk7qqQEeaB1qckrBesmQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Camk7qqQEeaB1qckrBesmQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7898,8 +7898,8 @@ Audr</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_XzMPSrvAEeasNG_pkCbTrw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_XzMPSrvAEeasNG_pkCbTrw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7930,7 +7930,7 @@ Audr</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_56" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_56')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_56')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://opencontent.org/blog/archives/2975">iterating toward openness</a> 
       <span class="host">opencontent.org</span>
@@ -7938,7 +7938,7 @@ Audr</span>
       <div id="cards_counter_56">
         
     
-    <div class="annotationCard annotation" id="_wL5zKgZ2EeeocZvAyhn8Og" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wL5zKgZ2EeeocZvAyhn8Og" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -7969,7 +7969,7 @@ Audr</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_57" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_57')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_57')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.wsj.com/articles/change-would-be-healthy-at-u-s-climate-agencies-1486165226">Change Would Be Healthy at U.S. Climate Agencies</a> 
       <span class="host">www.wsj.com</span>
@@ -7977,7 +7977,7 @@ Audr</span>
       <div id="cards_counter_57">
         
     
-    <div class="annotationCard annotation" id="_GyPQauyYEeaoguNxadNEng" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GyPQauyYEeaoguNxadNEng" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8008,7 +8008,7 @@ Audr</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_58" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_58')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_58')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://quests.creativecommons.org/assignments/how-does-copyright">How Does Copyright Encourage Creativity? | Quests</a> 
       <span class="host">quests.creativecommons.org</span>
@@ -8016,7 +8016,7 @@ Audr</span>
       <div id="cards_counter_58">
         
     
-    <div class="annotationCard annotation" id="_p4o8lN9YEeaNhU8ByHN-9A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_p4o8lN9YEeaNhU8ByHN-9A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8056,7 +8056,7 @@ Audr</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_59" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_59')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_59')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://github.com/jgmac1106/cc-cert-map/blob/master/core/copyright/basics.md">jgmac1106/cc-cert-map</a> 
       <span class="host">github.com</span>
@@ -8064,7 +8064,7 @@ Audr</span>
       <div id="cards_counter_59">
         
     
-    <div class="annotationCard annotation" id="_OMsS2N9YEeaTnsOttSFIfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OMsS2N9YEeaTnsOttSFIfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8095,7 +8095,7 @@ Audr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zU-7gN9XEeapeWsTt5EZKg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zU-7gN9XEeapeWsTt5EZKg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8130,7 +8130,7 @@ The purpose of copyright depen</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_KyVRgN9XEeaTncdZKx5s_w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_KyVRgN9XEeaTncdZKx5s_w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8166,7 +8166,7 @@ Copyright is so ubiquitous tha</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_60" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_60')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_60')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/how-to-search-for-images-and-use-the-flickr-cc-attribution-tool">How to Search for Images and Use the Flickr CC Attribution Tool</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -8174,7 +8174,7 @@ Copyright is so ubiquitous tha</span>
       <div id="cards_counter_60">
         
     
-    <div class="annotationCard annotation" id="_TTHHoND7EeaKFM-FX97wPA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TTHHoND7EeaKFM-FX97wPA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8208,7 +8208,7 @@ Go to cogdog.github.io/flickr</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_61" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_61')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_61')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.brookings.edu/research/teacher-observations-have-been-a-waste-of-time-and-money">Teacher observations have been a waste of time and money | Brookings Institution</a> 
       <span class="host">www.brookings.edu</span>
@@ -8216,7 +8216,7 @@ Go to cogdog.github.io/flickr</span>
       <div id="cards_counter_61">
         
     
-    <div class="annotationCard annotation" id="_OkyOqsLWEeaI14frsxZctQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OkyOqsLWEeaI14frsxZctQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8247,7 +8247,7 @@ Go to cogdog.github.io/flickr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6KSeEsLVEea85w_r-ML4XQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6KSeEsLVEea85w_r-ML4XQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8278,7 +8278,7 @@ Go to cogdog.github.io/flickr</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_q4OXXsLVEeaeHgPBq8beTQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_q4OXXsLVEeaeHgPBq8beTQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8311,7 +8311,7 @@ Teacher evaluation system</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XKWz9sLVEeaq2QekCRHgoA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XKWz9sLVEeaq2QekCRHgoA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8343,7 +8343,7 @@ Of course, research is rarely m</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_E_e0iMLVEeaeHa-erwyv_A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_E_e0iMLVEeaeHa-erwyv_A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8374,7 +8374,7 @@ Of course, research is rarely m</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_9JYWmMLUEea85M96curjkg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9JYWmMLUEea85M96curjkg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8406,7 +8406,7 @@ Of course, research is rarely m</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2SyGbMLUEeaSH6PUtIDeEQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2SyGbMLUEeaSH6PUtIDeEQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8437,7 +8437,7 @@ Of course, research is rarely m</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_62" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_62')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_62')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://wiobyrne.com/imho/2016/slow-is-smooth-smooth-is-fast">Slow is smooth. Smooth is fast</a> 
       <span class="host">wiobyrne.com</span>
@@ -8445,7 +8445,7 @@ Of course, research is rarely m</span>
       <div id="cards_counter_62">
         
     
-    <div class="annotationCard annotation" id="_39TkUsLSEea2thvReX9EyQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_39TkUsLSEea2thvReX9EyQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8478,7 +8478,7 @@ Let it flow, let yourself go</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_63" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_63')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_63')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/new-hypothes-is-stream-brings-dream-of-decentralized-lms-closer">New Hypothes.is Stream Brings Dream of Decentralized LMS Closer</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -8486,7 +8486,7 @@ Let it flow, let yourself go</p>
       <div id="cards_counter_63">
         
     
-    <div class="annotationCard annotation" id="_bFV6esJOEea2d8dpDvlD0g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bFV6esJOEea2d8dpDvlD0g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8520,8 +8520,8 @@ The new stream is broken into a</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_X1yJOsJiEeaCUwduR22oqg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_X1yJOsJiEeaCUwduR22oqg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8554,7 +8554,7 @@ The new stream is broken into a</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_1SQ9HMJNEeaqm6dsL9KDeA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1SQ9HMJNEeaqm6dsL9KDeA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8586,8 +8586,8 @@ I am excited to</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_cISASsJjEeaInHu4gIA_sw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_cISASsJjEeaInHu4gIA_sw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8622,7 +8622,7 @@ I am excited to</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_I1Hl7sJNEead1MuTKxyqtA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_I1Hl7sJNEead1MuTKxyqtA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8652,8 +8652,8 @@ I am excited to</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_4Q8JTsJiEeaxR3t9u_j3QA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_4Q8JTsJiEeaxR3t9u_j3QA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8691,7 +8691,7 @@ I am excited to</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_64" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_64')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_64')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://realsport101.com/news/sports/nhl/can-the-philadelphia-flyers-make-nhl-history-from-carrying-their-nine-game-win-streak-to-18">Can the Philadelphia Flyers make NHL history with their win streak?</a> 
       <span class="host">realsport101.com</span>
@@ -8699,7 +8699,7 @@ I am excited to</span>
       <div id="cards_counter_64">
         
     
-    <div class="annotationCard annotation" id="_z0y9MsGBEeaVw6sV5ZS2pw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_z0y9MsGBEeaVw6sV5ZS2pw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8731,7 +8731,7 @@ With a two-day break since the </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_FlQLKMGBEeaBpqfExabuZw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FlQLKMGBEeaBpqfExabuZw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8764,7 +8764,7 @@ With a two-day break since the </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-48iQMGBEea13UcGnbKyoA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-48iQMGBEea13UcGnbKyoA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8797,7 +8797,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_y_cWLsGAEeavs888D6J0ww" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_y_cWLsGAEeavs888D6J0ww" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8831,7 +8831,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_nZ043sGBEeaCpxs63AvD8Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_nZ043sGBEeaCpxs63AvD8Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8864,7 +8864,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_axZlAsGBEea12cNd4-ELyA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_axZlAsGBEea12cNd4-ELyA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8907,7 +8907,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_UxdYHMGBEea115fPCI_OUQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_UxdYHMGBEea115fPCI_OUQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8938,7 +8938,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_65" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_65')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_65')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:621c14dad62eb756341ed7b73c1abf5e">Layout 1</a> 
       <span class="host"></span>
@@ -8946,7 +8946,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_65">
         
     
-    <div class="annotationCard annotation" id="_mFnntMFAEea3bW9FRWPI6g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mFnntMFAEea3bW9FRWPI6g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -8978,7 +8978,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-jREvME_EeaglANhWk0U5Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-jREvME_EeaglANhWk0U5Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9009,7 +9009,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_66" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_66')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_66')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://rampages.us/connectedlearningcollection/wp-content/uploads/sites/11480/2015/09/TheCaseforConnectedLearning.pdf">TheCaseforConnectedLearning.pdf</a> 
       <span class="host">rampages.us</span>
@@ -9017,7 +9017,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_66">
         
     
-    <div class="annotationCard annotation" id="_57kPlrwPEeajSpOQVgw7qQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_57kPlrwPEeajSpOQVgw7qQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9048,7 +9048,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_67" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_67')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_67')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://s3.amazonaws.com/academia.edu.documents/45604306/Gogia_Conference_on_Networked_Learning.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&amp;Expires=1481067844&amp;Signature=VIAJtF9FbJZx%2BukoIenKnQUSHJ4%3D&amp;response-content-disposition=inline%3B%20filename%3DCollaborative_Curiosity_Demonstrating_re.pdf">Microsoft Word - NLC Penultimate.docx</a> 
       <span class="host">s3.amazonaws.com</span>
@@ -9056,7 +9056,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_67">
         
     
-    <div class="annotationCard annotation" id="_xmBRnLwFEeakmEe303SqQA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_xmBRnLwFEeakmEe303SqQA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9096,7 +9096,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rZOAbLwFEeaPj5_5nG3mqg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rZOAbLwFEeaPj5_5nG3mqg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9147,7 +9147,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_68" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_68')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_68')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://umwdtlt.com/a-brief-history-of-domain-of-ones-own-part-two-the-12-days-of-domains">A Brief History of Domain of One’s Own, Part 2: The 12 Days of Domains</a> 
       <span class="host">umwdtlt.com</span>
@@ -9155,7 +9155,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_68">
         
     
-    <div class="annotationCard annotation" id="_7sh9FLvbEea_h7usU472cw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7sh9FLvbEea_h7usU472cw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9186,7 +9186,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_69" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_69')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_69')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.lavc.edu/0-Kentico-Training/document-library/docs/Transitions-II-The-Old_New-Contract-(1).aspx">Microsoft Word - TransitionsII_The Old New Contract.doc</a> 
       <span class="host">www.lavc.edu</span>
@@ -9194,7 +9194,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_69">
         
     
-    <div class="annotationCard annotation" id="_a0VEnLvUEea09vM5XX94uw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_a0VEnLvUEea09vM5XX94uw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9224,8 +9224,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_3AWVPLvVEealSSswJQ-o9w" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_3AWVPLvVEealSSswJQ-o9w" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9256,7 +9256,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_70" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_70')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_70')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/wp-content/uploads/2016/12/culturalawareness.pdf">Cultural Awareness through Biographies</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -9264,7 +9264,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_70">
         
     
-    <div class="annotationCard annotation" id="_LV39ErvVEealRP8F2mYsuw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LV39ErvVEealRP8F2mYsuw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9294,8 +9294,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_nUAHGrvVEealR79_mPIfCQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_nUAHGrvVEealR79_mPIfCQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9326,7 +9326,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2IYO4rvUEeaT4I9vOUhPLg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2IYO4rvUEeaT4I9vOUhPLg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9356,8 +9356,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_t04z1LvVEeaT4iMg97F5wQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_t04z1LvVEeaT4iMg97F5wQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9388,7 +9388,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_71" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_71')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_71')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;17&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.gutenberg.org/files/2680/2680-h/2680-h.htm">
       Marcus Aurelius Antoninus the Roman Emperor, by Marcus Aurelius
@@ -9398,7 +9398,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_71">
         
     
-    <div class="annotationCard annotation" id="_kniPaJWJEeaN11vCwGI7QQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_kniPaJWJEeaN11vCwGI7QQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9437,7 +9437,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zd_LDpWHEeayXD9CNc3Qxw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zd_LDpWHEeayXD9CNc3Qxw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9468,7 +9468,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_mRQ4fpWHEeaR1GNDUph1Fw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mRQ4fpWHEeaR1GNDUph1Fw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9512,7 +9512,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_asBiBJWHEeaR00OKrodQ4A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_asBiBJWHEeaR00OKrodQ4A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9549,7 +9549,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_HxybYJWHEeatbo_qD5Y_5A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_HxybYJWHEeatbo_qD5Y_5A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9582,7 +9582,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3ZT9GJWGEeatbdt-JttxBw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3ZT9GJWGEeatbdt-JttxBw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9622,7 +9622,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_j6XOUpWGEeagPGvPEpAoXw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_j6XOUpWGEeagPGvPEpAoXw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9656,7 +9656,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3hUczpWFEeaSwgc99rtCIA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3hUczpWFEeaSwgc99rtCIA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9690,7 +9690,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_r-j5iJWFEeayWAsiRGPiEQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_r-j5iJWFEeayWAsiRGPiEQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9723,7 +9723,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gVoF7pWFEeatYJeSa-SKfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gVoF7pWFEeatYJeSa-SKfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9756,7 +9756,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_UYyWppWFEeaz_HskJasokQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_UYyWppWFEeaz_HskJasokQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9794,7 +9794,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JYdBMpWFEeaQS7v_hyqE0Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JYdBMpWFEeaQS7v_hyqE0Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9827,7 +9827,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Dn1_UpWEEeatfiOY-f_hfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Dn1_UpWEEeatfiOY-f_hfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9859,7 +9859,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__1Mb5JWEEeaSweceHdxVfg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__1Mb5JWEEeaSweceHdxVfg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9893,7 +9893,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_k7ZzXpWEEeaytrcB_tJHtA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_k7ZzXpWEEeaytrcB_tJHtA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9925,7 +9925,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_faP1eJWEEeayVTvN9KQavQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_faP1eJWEEeayVTvN9KQavQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9960,7 +9960,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__lSSCpWDEeatfScDBejlSg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__lSSCpWDEeatfScDBejlSg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -9993,7 +9993,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_72" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_72')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_72')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://thimbleprojects.org/jgmac1106/116883">Credibility</a> 
       <span class="host">thimbleprojects.org</span>
@@ -10001,7 +10001,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_72">
         
     
-    <div class="annotationCard annotation" id="_hbCh1pU9EeaBd-_qDfwvnw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_hbCh1pU9EeaBd-_qDfwvnw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10033,7 +10033,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_73" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_73')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_73')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://discours.es/?offset=10">discours.es</a> 
       <span class="host">discours.es</span>
@@ -10041,7 +10041,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_73">
         
     
-    <div class="annotationCard annotation" id="_yZCuUIBcEeaekFuQc7NpHg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yZCuUIBcEeaekFuQc7NpHg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10075,7 +10075,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ris7vIBcEeagunuBM5EUSg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ris7vIBcEeagunuBM5EUSg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10109,7 +10109,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_74" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_74')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_74')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.newhavenindependent.org/index.php/archives/entry/conncan_story">Alexander: Judge's Decision Paves Way For "Bold, Systemic" School Change  |  New Haven Independent</a> 
       <span class="host">www.newhavenindependent.org</span>
@@ -10117,7 +10117,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_74">
         
     
-    <div class="annotationCard annotation" id="_alar0nmqEea9ds-gWLpFlw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_alar0nmqEea9ds-gWLpFlw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10150,7 +10150,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_75" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_75')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_75')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;21&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/08/ItsComplicated.pdf">ItsComplicated.pdf</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -10158,7 +10158,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_75">
         
     
-    <div class="annotationCard annotation" id="_13BinnUnEeapSL-7bOIslA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_13BinnUnEeapSL-7bOIslA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10193,7 +10193,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVJ_SlX-vTW_3w8LyiBs" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVJ_SlX-vTW_3w8LyiBs" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10224,7 +10224,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_niymYDVaS_ebs36iWmTw2A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_niymYDVaS_ebs36iWmTw2A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10255,7 +10255,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2kB9KXJpQxedPrzDRV9CKA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2kB9KXJpQxedPrzDRV9CKA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10286,7 +10286,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XbSOm5R6TE-JZeVy6bOCMQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XbSOm5R6TE-JZeVy6bOCMQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10316,8 +10316,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_pAaWIgS4TR-6ZjnY5QJOFQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_pAaWIgS4TR-6ZjnY5QJOFQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10348,7 +10348,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GqvRu9M2Sk6ktxOw7wi9OA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GqvRu9M2Sk6ktxOw7wi9OA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10378,8 +10378,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_y3ESQVxtQYe3c1JRRvxVyA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_y3ESQVxtQYe3c1JRRvxVyA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10410,7 +10410,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ruvJ86L4RQGHg7hnzYoiNw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ruvJ86L4RQGHg7hnzYoiNw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10440,8 +10440,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_oq6OeezTQTWJAEib-Gx8vw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_oq6OeezTQTWJAEib-Gx8vw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10472,7 +10472,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ZJpjATalSK69QvuEfhc-wg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZJpjATalSK69QvuEfhc-wg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10503,8 +10503,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_ZB4wP7bXQNG2M3hXXFS5fQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_ZB4wP7bXQNG2M3hXXFS5fQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10537,7 +10537,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PHX3cV47QAS4ZTJRX7z9jw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PHX3cV47QAS4ZTJRX7z9jw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10567,8 +10567,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_RDYzLPDWQWeRBcaJcCK-rg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_RDYzLPDWQWeRBcaJcCK-rg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10599,7 +10599,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__KD2KkcZTKK1WyqrZIUtaQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__KD2KkcZTKK1WyqrZIUtaQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10629,8 +10629,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Tk5iequnSHKURq5CEg2Ejg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Tk5iequnSHKURq5CEg2Ejg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10665,7 +10665,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OeV9ThOJSluLzY6i2uhsrQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OeV9ThOJSluLzY6i2uhsrQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10695,8 +10695,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_xY4lMGPJT021lmaYMRpWDA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_xY4lMGPJT021lmaYMRpWDA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10731,7 +10731,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_HX6fEWgZTeiG2Bnz6LPeVA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_HX6fEWgZTeiG2Bnz6LPeVA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10762,8 +10762,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_8heL-dfARkqIAW8RTmcFdQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_8heL-dfARkqIAW8RTmcFdQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10795,7 +10795,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6e3T9pe8SGWE2Wa1XemenQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6e3T9pe8SGWE2Wa1XemenQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10825,8 +10825,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_KTlwuBnUQYOli7K-B4yi-Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_KTlwuBnUQYOli7K-B4yi-Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10859,7 +10859,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rsQunaRPTiq0qBNh5lLyVQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rsQunaRPTiq0qBNh5lLyVQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10889,8 +10889,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_liRtMKR8RSKZbcH9vphSfQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_liRtMKR8RSKZbcH9vphSfQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10921,7 +10921,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_5crBKS5HSrCnqfoJQVVZMw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5crBKS5HSrCnqfoJQVVZMw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10951,8 +10951,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_lKL2wWQ3QGOgP5n0Ypueew" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_lKL2wWQ3QGOgP5n0Ypueew" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -10983,7 +10983,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_9Eq8DuV_Rxe030FMckMNvQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9Eq8DuV_Rxe030FMckMNvQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11013,8 +11013,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_EK3tyZhwQ4as5eMXpBw4UQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_EK3tyZhwQ4as5eMXpBw4UQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11045,7 +11045,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_HqpXe2g_Sy6H33142PpWkA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_HqpXe2g_Sy6H33142PpWkA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11075,8 +11075,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_vJSog_cfQtOUsipINvs1JA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_vJSog_cfQtOUsipINvs1JA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11107,7 +11107,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gAHUH0jiSL2FV8fRymov-A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gAHUH0jiSL2FV8fRymov-A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11137,8 +11137,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0tWawDFfQ4CVbPQXLJjunw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0tWawDFfQ4CVbPQXLJjunw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11169,7 +11169,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__DW6RAq2SiSydLoYmaib5Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__DW6RAq2SiSydLoYmaib5Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11199,8 +11199,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_oMk-iPrQTim43NzAxD-96A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_oMk-iPrQTim43NzAxD-96A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11231,7 +11231,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_dK4IxK1GSmutakrcsHUsGg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_dK4IxK1GSmutakrcsHUsGg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11261,8 +11261,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_ZFcpYEujSaCd0DHKXJueJw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_ZFcpYEujSaCd0DHKXJueJw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11293,7 +11293,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_naQzyw4fS9m5bNjMkW__8g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_naQzyw4fS9m5bNjMkW__8g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11323,8 +11323,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_R8w66nXhEeaBmt-M1gBisA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_R8w66nXhEeaBmt-M1gBisA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11355,7 +11355,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_76" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_76')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_76')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:4b93092b0da02c41a8d0e85c95aa639f">685-1871-1-SM.pdf</a> 
       <span class="host"></span>
@@ -11363,7 +11363,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_76">
         
     
-    <div class="annotationCard annotation" id="_vChXgHRGEeax9Nfth_eSRA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vChXgHRGEeax9Nfth_eSRA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11395,7 +11395,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_77" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_77')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_77')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2016/01/elementary-literacy_1301429871069-1.pdf">Microsoft Word - 1_ELEM_Inside.Cover_2011_FINAL.doc</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -11403,7 +11403,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_77">
         
     
-    <div class="annotationCard annotation" id="_AVKogdERvTW_3w8LytOx" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKogdERvTW_3w8LytOx" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11433,8 +11433,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_QtEjCkddEeaPGjN9yU8lyw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_QtEjCkddEeaPGjN9yU8lyw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11465,7 +11465,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVKogAWQvTW_3w8LytOQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKogAWQvTW_3w8LytOQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11495,8 +11495,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_k5iMukddEeaYGW_YfX3iqw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_k5iMukddEeaYGW_YfX3iqw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11527,7 +11527,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_78" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_78')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_78')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:41186cff3bfcd84d9c172a96bbc9d309">REVIEW OF EDUCATIONAL RESEARCH-2014-Clarke-163-202.pdf</a> 
       <span class="host"></span>
@@ -11535,7 +11535,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_78">
         
     
-    <div class="annotationCard annotation" id="_86MS9D4dEearPpe0S91l5A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_86MS9D4dEearPpe0S91l5A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11566,7 +11566,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_79" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_79')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_79')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.weforum.org/agenda/2016/06/8-digital-skills-we-must-teach-our-children">8 digital skills we must teach our children</a> 
       <span class="host">www.weforum.org</span>
@@ -11574,7 +11574,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_79">
         
     
-    <div class="annotationCard annotation" id="_9Xhh7DSaEeaq3S9i_9iVyg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9Xhh7DSaEeaq3S9i_9iVyg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11604,8 +11604,8 @@ This goliath of a hockey team b</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22niuslc16%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=niuslc16">niuslc16</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_MeBOQjSbEeawWFf-CLVeDA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_MeBOQjSbEeawWFf-CLVeDA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11636,7 +11636,7 @@ This goliath of a hockey team b</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_80" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_80')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_80')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://anatomy.lauragibbs.net/2016/06/lem-community-portfolio.html">Anatomy of an Online Course: LEM: Community Portfolio</a> 
       <span class="host">anatomy.lauragibbs.net</span>
@@ -11644,7 +11644,7 @@ This goliath of a hockey team b</span>
       <div id="cards_counter_80">
         
     
-    <div class="annotationCard annotation" id="_LdobBjRHEeawCMt_SKnpCQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LdobBjRHEeawCMt_SKnpCQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11677,7 +11677,7 @@ R</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_81" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_81')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_81')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.digitalpedagogylab.com/hybridped/working-inat-public">Teaching as Wayfinding</a> 
       <span class="host">www.digitalpedagogylab.com</span>
@@ -11685,7 +11685,7 @@ R</span>
       <div id="cards_counter_81">
         
     
-    <div class="annotationCard annotation" id="_vRP5ZTO2RNeUm9Xp3PEAvQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vRP5ZTO2RNeUm9Xp3PEAvQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11716,8 +11716,8 @@ R</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0EXoHYjnQAukGFgZBsQ-SQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0EXoHYjnQAukGFgZBsQ-SQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11748,7 +11748,7 @@ R</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GJDNHzkBQzeWe0oARm_B7Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GJDNHzkBQzeWe0oARm_B7Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11778,8 +11778,8 @@ R</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_-segfj3gRSKvG8VjzH9Gow" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_-segfj3gRSKvG8VjzH9Gow" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11811,7 +11811,7 @@ R</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_82" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_82')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_82')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;8&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://web.hypothes.is/blog/involving-page-owners-in-annotation">Involving page owners in annotation – Hypothesis</a> 
       <span class="host">web.hypothes.is</span>
@@ -11819,7 +11819,7 @@ R</span>
       <div id="cards_counter_82">
         
     
-    <div class="annotationCard annotation" id="_dfAl0CJnEeaxuD_FjGGTkQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_dfAl0CJnEeaxuD_FjGGTkQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11850,7 +11850,7 @@ R</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3X-CUCJmEeaR7qN9S0uEog" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3X-CUCJmEeaR7qN9S0uEog" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11880,8 +11880,8 @@ R</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_rJJXXidlEeaixv8sL7_xXQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_rJJXXidlEeaixv8sL7_xXQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11912,8 +11912,8 @@ R</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0DOJHCd0EeaFiavl8eDxaQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0DOJHCd0EeaFiavl8eDxaQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11950,7 +11950,7 @@ R</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_en6L2CJmEeaRXD8djLod0g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_en6L2CJmEeaRXD8djLod0g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -11987,7 +11987,7 @@ Involve aut</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IPyexCJmEeaRWydiEDC9vg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IPyexCJmEeaRWydiEDC9vg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12018,7 +12018,7 @@ Involve aut</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_4sW1jCJlEeay-QtR4qwnNQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_4sW1jCJlEeay-QtR4qwnNQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12050,7 +12050,7 @@ Involve aut</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_q4_ydiJlEeaxt2-5mMWHgQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_q4_ydiJlEeaxt2-5mMWHgQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12082,7 +12082,7 @@ Involve aut</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ZdgkziJlEeay-KspfbOZRA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZdgkziJlEeay-KspfbOZRA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12117,7 +12117,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_83" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_83')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_83')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://glog.glennf.com/blog/2016/3/25/citation-appropriation-and-fair-use">Citation, Appropriation, and Fair Use: News Genius Picks Up Again Where Failures Left Off</a> 
       <span class="host">glog.glennf.com</span>
@@ -12125,7 +12125,7 @@ Main takeaways:
       <div id="cards_counter_83">
         
     
-    <div class="annotationCard annotation" id="_w-Ye-iJkEeaWF8-pPo6ftA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_w-Ye-iJkEeaWF8-pPo6ftA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12156,7 +12156,7 @@ Main takeaways:
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_VWZQvCJkEeaICjuG4ym4fA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VWZQvCJkEeaICjuG4ym4fA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12187,7 +12187,7 @@ Main takeaways:
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_L5b9FCJkEeaxtkOvv1hLkg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_L5b9FCJkEeaxtkOvv1hLkg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12218,7 +12218,7 @@ Main takeaways:
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVO0CalyH9ZO4OKSlZ-c" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVO0CalyH9ZO4OKSlZ-c" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12249,8 +12249,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_s2EJ3CJkEeaRWY-lOdSgRQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_s2EJ3CJkEeaRWY-lOdSgRQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12282,7 +12282,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_84" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_84')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_84')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edu307class.networkedlearningcollaborative.com/readings/fairytalecharacters.pdf">fairytalecharacters.pdf</a> 
       <span class="host">edu307class.networkedlearningcollaborative.com</span>
@@ -12290,7 +12290,7 @@ Main takeaways:
       <div id="cards_counter_84">
         
     
-    <div class="annotationCard annotation" id="_AVRaYdwoFtPwhMO7DYjx" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRaYdwoFtPwhMO7DYjx" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12321,7 +12321,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_85" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_85')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_85')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edu307class.networkedlearningcollaborative.com/readings/fairytalecharacters.pdf#">fairytalecharacters.pdf</a> 
       <span class="host">edu307class.networkedlearningcollaborative.com</span>
@@ -12329,7 +12329,7 @@ Main takeaways:
       <div id="cards_counter_85">
         
     
-    <div class="annotationCard annotation" id="_AVRYHXrTFtPwhMO7DX2K" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRYHXrTFtPwhMO7DX2K" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12359,8 +12359,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaTHoVFtPwhMO7DYiq" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaTHoVFtPwhMO7DYiq" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12391,7 +12391,7 @@ Main takeaways:
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVRYE_fPFtPwhMO7DX11" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRYE_fPFtPwhMO7DX11" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12421,8 +12421,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaXHHYFtPwhMO7DYjW" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaXHHYFtPwhMO7DYjW" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12453,7 +12453,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_86" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_86')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_86')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edu307class.networkedlearningcollaborative.com/readings/findingfantasy.pdf">findingfantasy.pdf</a> 
       <span class="host">edu307class.networkedlearningcollaborative.com</span>
@@ -12461,7 +12461,7 @@ Main takeaways:
       <div id="cards_counter_86">
         
     
-    <div class="annotationCard annotation" id="_AVQ5WB8DH9ZO4OKSl1OA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVQ5WB8DH9ZO4OKSl1OA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12491,8 +12491,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22fantasy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=fantasy">fantasy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaWlSbFtPwhMO7DYjR" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaWlSbFtPwhMO7DYjR" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12524,7 +12524,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_87" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_87')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_87')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edu307class.networkedlearningcollaborative.com/readings/findingfantasy.pdf#">findingfantasy.pdf</a> 
       <span class="host">edu307class.networkedlearningcollaborative.com</span>
@@ -12532,7 +12532,7 @@ Main takeaways:
       <div id="cards_counter_87">
         
     
-    <div class="annotationCard annotation" id="_AVRKuh0BH9ZO4OKSl4up" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRKuh0BH9ZO4OKSl4up" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12562,8 +12562,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22fantasy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=fantasy">fantasy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaVD4uFtPwhMO7DYjF" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaVD4uFtPwhMO7DYjF" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12594,7 +12594,7 @@ Main takeaways:
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVQ6-nSBH9ZO4OKSl2Ol" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVQ6-nSBH9ZO4OKSl2Ol" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12624,8 +12624,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22fantasy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=fantasy">fantasy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaVQLAFtPwhMO7DYjG" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaVQLAFtPwhMO7DYjG" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12656,7 +12656,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_88" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_88')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_88')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2016/03/EDU-307-READING-TWO.pdf#">Readability and Children's Picture Books</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -12664,7 +12664,7 @@ Main takeaways:
       <div id="cards_counter_88">
         
     
-    <div class="annotationCard annotation" id="_AVPpGjcdH9ZO4OKSlleA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVPpGjcdH9ZO4OKSlleA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12694,8 +12694,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaUa0IFtPwhMO7DYi5" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaUa0IFtPwhMO7DYi5" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12726,7 +12726,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_89" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_89')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_89')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2016/03/EDU-307-READING-TWO.pdf">Readability and Children's Picture Books</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -12734,7 +12734,7 @@ Main takeaways:
       <div id="cards_counter_89">
         
     
-    <div class="annotationCard annotation" id="_AVRaT4eqFtPwhMO7DYi3" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRaT4eqFtPwhMO7DYi3" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12765,7 +12765,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_90" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_90')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_90')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edu307class.networkedlearningcollaborative.com/readings/storeybiography.pdf#">Reading in the Content Areas: Fictionalized Biographies and Diaries for Social Studies</a> 
       <span class="host">edu307class.networkedlearningcollaborative.com</span>
@@ -12773,7 +12773,7 @@ Main takeaways:
       <div id="cards_counter_90">
         
     
-    <div class="annotationCard annotation" id="_AVRaJg6eFtPwhMO7DYgc" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRaJg6eFtPwhMO7DYgc" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12803,8 +12803,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaSuPSFtPwhMO7DYik" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaSuPSFtPwhMO7DYik" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12835,7 +12835,7 @@ Main takeaways:
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVRZhpN_FtPwhMO7DYXe" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRZhpN_FtPwhMO7DYXe" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12865,8 +12865,8 @@ Main takeaways:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22Biographymodule%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=Biographymodule">Biographymodule</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVRaS2jhFtPwhMO7DYin" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVRaS2jhFtPwhMO7DYin" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12897,7 +12897,7 @@ Main takeaways:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_91" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_91')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_91')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://googleguacamole.wordpress.com/2016/04/24/i-am-indieedtech">I am #IndieEdTech</a> 
       <span class="host">googleguacamole.wordpress.com</span>
@@ -12905,7 +12905,7 @@ Main takeaways:
       <div id="cards_counter_91">
         
     
-    <div class="annotationCard annotation" id="_AVRIz_-6H9ZO4OKSl4Tu" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVRIz_-6H9ZO4OKSl4Tu" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12938,7 +12938,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_92" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_92')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_92')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://tressiemc.com/2013/02/15/outgrowing-your-social-media">Outgrowing Your Social Media</a> 
       <span class="host">tressiemc.com</span>
@@ -12946,7 +12946,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       <div id="cards_counter_92">
         
     
-    <div class="annotationCard annotation" id="_U0buish1QiakfFa5HOv36A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_U0buish1QiakfFa5HOv36A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -12981,8 +12981,8 @@ THE TENSION BETWEEN AUTHENTICI</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tzmwfANVR_-5gsKLpweM4Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tzmwfANVR_-5gsKLpweM4Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13013,7 +13013,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_93" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_93')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_93')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://mysocalledliteracylife.com/2015/01/23/balance">Balance, Obscenity, and Our Future Citizenry</a> 
       <span class="host">mysocalledliteracylife.com</span>
@@ -13021,7 +13021,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       <div id="cards_counter_93">
         
     
-    <div class="annotationCard annotation" id="_0EUbyxytTBC__XNzkj7h6g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0EUbyxytTBC__XNzkj7h6g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13055,7 +13055,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_97A-uJujS0uLfLyVicUW8Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_97A-uJujS0uLfLyVicUW8Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13086,7 +13086,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_bhVKLEMFQVC6E5M-_BmEJA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bhVKLEMFQVC6E5M-_BmEJA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13117,7 +13117,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Hc3FSBK0RY6mxqcGDXIlFg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Hc3FSBK0RY6mxqcGDXIlFg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13149,7 +13149,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XGabcx96TH2X1319XTeFJQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XGabcx96TH2X1319XTeFJQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13181,7 +13181,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_o2H5L1vUSguDGuLcyU8SIw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_o2H5L1vUSguDGuLcyU8SIw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13214,7 +13214,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_MhITTZIvTQigVCqIouJ56g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MhITTZIvTQigVCqIouJ56g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13251,7 +13251,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_94" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_94')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_94')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.moekiss.com/about">About Me - Moe's Blog</a> 
       <span class="host">www.moekiss.com</span>
@@ -13259,7 +13259,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       <div id="cards_counter_94">
         
     
-    <div class="annotationCard annotation" id="_AVQLUFpaH9ZO4OKSlsQU" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVQLUFpaH9ZO4OKSlsQU" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13291,7 +13291,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_95" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_95')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_95')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/supporting-phonics-instruction-with-childrens-literature-and-writing/#">Supporting Phonics Instruction with Children’s Literature and Writing</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -13299,7 +13299,7 @@ THE TENSION BETWEEN AUTHENTICI</span>
       <div id="cards_counter_95">
         
     
-    <div class="annotationCard annotation" id="_AVNOAa6nH9ZO4OKSlFR-" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNOAa6nH9ZO4OKSlFR-" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13336,8 +13336,8 @@ To pilot Storyscape I had two </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22module5%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=module5">module5</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVNO3OZKH9ZO4OKSlFjk" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVNO3OZKH9ZO4OKSlFjk" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13369,7 +13369,7 @@ To pilot Storyscape I had two </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVM90kh-H9ZO4OKSlCq5" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVM90kh-H9ZO4OKSlCq5" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13399,8 +13399,8 @@ To pilot Storyscape I had two </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVNO44UtH9ZO4OKSlFkE" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVNO44UtH9ZO4OKSlFkE" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13431,7 +13431,7 @@ To pilot Storyscape I had two </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVM9TxAJH9ZO4OKSlCjW" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVM9TxAJH9ZO4OKSlCjW" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13461,8 +13461,8 @@ To pilot Storyscape I had two </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVNO4Qc8H9ZO4OKSlFj8" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVNO4Qc8H9ZO4OKSlFj8" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13494,7 +13494,7 @@ To pilot Storyscape I had two </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVMzfYyUH9ZO4OKSlAGS" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVMzfYyUH9ZO4OKSlAGS" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13527,8 +13527,8 @@ Any student or </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22module5%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=module5">module5</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVM4rdcsH9ZO4OKSlBfY" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVM4rdcsH9ZO4OKSlBfY" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13559,7 +13559,7 @@ Any student or </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_96" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_96')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_96')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/supporting-phonics-instruction-with-childrens-literature-and-writing">Supporting Phonics Instruction with Children’s Literature and Writing</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -13567,7 +13567,7 @@ Any student or </span>
       <div id="cards_counter_96">
         
     
-    <div class="annotationCard annotation" id="_AVNNOxXwH9ZO4OKSlFEK" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNNOxXwH9ZO4OKSlFEK" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13598,8 +13598,8 @@ I began by first creating a mod</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22module5%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=module5">module5</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVNO30mIH9ZO4OKSlFjw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVNO30mIH9ZO4OKSlFjw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13631,7 +13631,7 @@ I began by first creating a mod</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVM5jnpgH9ZO4OKSlB7O" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVM5jnpgH9ZO4OKSlB7O" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13663,8 +13663,8 @@ Conclusion:
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu%20307%22%2C%22Module5%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu%20307">edu 307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=Module5">Module5</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVNO4pXDH9ZO4OKSlFj_" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVNO4pXDH9ZO4OKSlFj_" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13695,7 +13695,7 @@ Conclusion:
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_97" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_97')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_97')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://marinemom94com.wordpress.com/2016/02/29/literacies-worldviews-mini-lesson">Literacies &amp; Worldviews Mini-Lesson</a> 
       <span class="host">marinemom94com.wordpress.com</span>
@@ -13703,7 +13703,7 @@ Conclusion:
       <div id="cards_counter_97">
         
     
-    <div class="annotationCard annotation" id="_AVNNH0lnH9ZO4OKSlFB2" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNNH0lnH9ZO4OKSlFB2" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13736,7 +13736,7 @@ Dear Justin,&nbsp; (remember all the</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVNNHmVEH9ZO4OKSlFBx" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNNHmVEH9ZO4OKSlFBx" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13768,7 +13768,7 @@ Then I will show them the paper</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVNNHS4RH9ZO4OKSlFBt" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNNHS4RH9ZO4OKSlFBt" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13802,7 +13802,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_98" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_98')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_98')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://laurenbarry.withknown.com/2016/readers-workshop-mini-lesson">Reader's Workshop Mini Lesson</a> 
       <span class="host">laurenbarry.withknown.com</span>
@@ -13810,7 +13810,7 @@ The week before actually introd</span>
       <div id="cards_counter_98">
         
     
-    <div class="annotationCard annotation" id="_AVNHOzqfH9ZO4OKSlEa6" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNHOzqfH9ZO4OKSlEa6" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13843,7 +13843,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVNHOWBOH9ZO4OKSlEa4" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNHOWBOH9ZO4OKSlEa4" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13874,7 +13874,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVNHNXSkH9ZO4OKSlEa1" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNHNXSkH9ZO4OKSlEa1" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13906,7 +13906,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVNHNC1WH9ZO4OKSlEaz" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNHNC1WH9ZO4OKSlEaz" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13938,7 +13938,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVNHCj-dH9ZO4OKSlEZ9" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVNHCj-dH9ZO4OKSlEZ9" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -13971,7 +13971,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_99" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_99')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_99')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/wp-content/uploads/2016/02/el200602_tatum.pdf">Engaging African American Males in Reading // Alfred W. Tatum</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -13979,7 +13979,7 @@ The week before actually introd</span>
       <div id="cards_counter_99">
         
     
-    <div class="annotationCard annotation" id="_AVLsSj-IvTW_3w8Ly9rX" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVLsSj-IvTW_3w8Ly9rX" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14009,8 +14009,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22module3%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=module3">module3</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVLyRF8OvTW_3w8Ly_QT" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVLyRF8OvTW_3w8Ly_QT" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14041,7 +14041,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_100" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_100')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_100')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.jennamcwilliams.com/2015/05/02/rationale-for-doing-queer-work-in-schools-dissertation-excerpt">rationale for doing queer work in schools: dissertation excerpt | making edible playdough is hegemonic</a> 
       <span class="host">www.jennamcwilliams.com</span>
@@ -14049,7 +14049,7 @@ The week before actually introd</span>
       <div id="cards_counter_100">
         
     
-    <div class="annotationCard annotation" id="_AVLxuQzmvTW_3w8Ly_Ch" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVLxuQzmvTW_3w8Ly_Ch" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14079,8 +14079,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22module3%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=module3">module3</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVLyOYlhvTW_3w8Ly_PJ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVLyOYlhvTW_3w8Ly_PJ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14111,7 +14111,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVLsaMIqvTW_3w8Ly9u1" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVLsaMIqvTW_3w8Ly9u1" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14141,8 +14141,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%2C%22module3%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=module3">module3</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVLyOx3dvTW_3w8Ly_Pe" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVLyOx3dvTW_3w8Ly_Pe" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14173,7 +14173,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_101" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_101')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_101')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/wp-content/uploads/2016/02/ELA_Standards1.pdf">CCSSI_ELA Standards.indd</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -14181,7 +14181,7 @@ The week before actually introd</span>
       <div id="cards_counter_101">
         
     
-    <div class="annotationCard annotation" id="_AVK3I_JsvTW_3w8LyxWb" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVK3I_JsvTW_3w8LyxWb" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14213,8 +14213,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu%20307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu%20307">edu 307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVK3bhevvTW_3w8LyxaF" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVK3bhevvTW_3w8LyxaF" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14245,7 +14245,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVK3D48DvTW_3w8LyxVU" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVK3D48DvTW_3w8LyxVU" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14275,8 +14275,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22knowledge%20edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=knowledge%20edu307">knowledge edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVK3ccKCvTW_3w8LyxaK" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVK3ccKCvTW_3w8LyxaK" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14314,7 +14314,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVKznZ76vTW_3w8Lywk5" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKznZ76vTW_3w8Lywk5" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14346,8 +14346,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVK3bJ4HvTW_3w8LyxaE" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVK3bJ4HvTW_3w8LyxaE" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14378,7 +14378,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVKzi3wAvTW_3w8LywhA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKzi3wAvTW_3w8LywhA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14410,8 +14410,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu307%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu307">edu307</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVK3cAQ_vTW_3w8LyxaH" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVK3cAQ_vTW_3w8LyxaH" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14442,7 +14442,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVKyZcIRvTW_3w8LyvzO" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKyZcIRvTW_3w8LyvzO" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14473,7 +14473,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVKyZb4XvTW_3w8LyvzM" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKyZb4XvTW_3w8LyvzM" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14504,7 +14504,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVKyZCTbvTW_3w8Lyvy_" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKyZCTbvTW_3w8Lyvy_" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14535,7 +14535,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_102" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_102')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_102')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.vice.com/read/walt-whitman-was-the-original-kanye">"Song of Myself": Why Walt Whitman Was the Original Kanye West | VICE | United States</a> 
       <span class="host">www.vice.com</span>
@@ -14543,7 +14543,7 @@ The week before actually introd</span>
       <div id="cards_counter_102">
         
     
-    <div class="annotationCard annotation" id="_AVKA0SnpvTW_3w8LyiiC" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVKA0SnpvTW_3w8LyiiC" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14576,7 +14576,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_103" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_103')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_103')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edu106.networkedlearningcollaborative.com/2016/albatross-news-vol-ii-issue-1">Albatross News Vol II Issue 1</a> 
       <span class="host">edu106.networkedlearningcollaborative.com</span>
@@ -14584,7 +14584,7 @@ The week before actually introd</span>
       <div id="cards_counter_103">
         
     
-    <div class="annotationCard annotation" id="_AVJqpXQhvTW_3w8LyeDy" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVJqpXQhvTW_3w8LyeDy" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14615,7 +14615,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_104" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_104')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_104')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;27&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.whitehouse.gov/the-press-office/2016/01/12/remarks-president-barack-obama-%E2%80%93-prepared-delivery-state-union-address">Remarks of President Barack Obama – State of the Union Address As Delivered</a> 
       <span class="host">www.whitehouse.gov</span>
@@ -14623,7 +14623,7 @@ The week before actually introd</span>
       <div id="cards_counter_104">
         
     
-    <div class="annotationCard annotation" id="_AVI48Qon8sFu_DXLVbw7" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI48Qon8sFu_DXLVbw7" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14657,7 +14657,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI47jHz8sFu_DXLVbwQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI47jHz8sFu_DXLVbwQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14688,7 +14688,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI47FU98sFu_DXLVbvy" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI47FU98sFu_DXLVbvy" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14722,8 +14722,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22nextprez%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=nextprez">nextprez</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI47WaV8sFu_DXLVbwE" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI47WaV8sFu_DXLVbwE" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14753,8 +14753,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI472lw8sFu_DXLVbwi" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI472lw8sFu_DXLVbwi" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14785,7 +14785,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI44K308sFu_DXLVbtG" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI44K308sFu_DXLVbtG" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14819,7 +14819,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI42_5T8sFu_DXLVbr8" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI42_5T8sFu_DXLVbr8" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14852,7 +14852,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI42YAl8sFu_DXLVbrP" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI42YAl8sFu_DXLVbrP" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14882,8 +14882,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI42fCZ8sFu_DXLVbrX" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI42fCZ8sFu_DXLVbrX" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14913,8 +14913,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI44y748sFu_DXLVbt1" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI44y748sFu_DXLVbt1" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14945,7 +14945,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI42Ckl8sFu_DXLVbq1" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI42Ckl8sFu_DXLVbq1" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -14981,8 +14981,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23nextprez%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#nextprez">#nextprez</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI42IDc8sFu_DXLVbq5" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI42IDc8sFu_DXLVbq5" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15012,8 +15012,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI42TBI8sFu_DXLVbrH" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI42TBI8sFu_DXLVbrH" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15043,8 +15043,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI44hGI8sFu_DXLVbth" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI44hGI8sFu_DXLVbth" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15075,7 +15075,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI41cT58sFu_DXLVbqR" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI41cT58sFu_DXLVbqR" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15108,8 +15108,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22nextprez%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=nextprez">nextprez</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI437S08sFu_DXLVbs8" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI437S08sFu_DXLVbs8" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15142,7 +15142,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI40Viy8sFu_DXLVboy" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI40Viy8sFu_DXLVboy" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15172,8 +15172,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI42Bo-8sFu_DXLVbqz" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI42Bo-8sFu_DXLVbqz" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15205,7 +15205,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI40J4N8sFu_DXLVbol" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI40J4N8sFu_DXLVbol" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15236,7 +15236,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4z67W8sFu_DXLVboY" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4z67W8sFu_DXLVboY" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15266,8 +15266,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23hfwa%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#hfwa">#hfwa</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI41T6h8sFu_DXLVbqH" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI41T6h8sFu_DXLVbqH" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15298,7 +15298,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4zGvl8sFu_DXLVbnS" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4zGvl8sFu_DXLVbnS" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15328,8 +15328,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4zNu28sFu_DXLVbnc" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4zNu28sFu_DXLVbnc" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15359,8 +15359,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4zjIe8sFu_DXLVbn5" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4zjIe8sFu_DXLVbn5" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15390,8 +15390,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4zsUg8sFu_DXLVboB" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4zsUg8sFu_DXLVboB" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15421,8 +15421,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI41Af38sFu_DXLVbpr" style="display: block; margin-left: 80px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI41Af38sFu_DXLVbpr" style="display: none; margin-left: 80px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15453,7 +15453,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4zGqP8sFu_DXLVbnQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4zGqP8sFu_DXLVbnQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15485,7 +15485,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4zA2R8sFu_DXLVbnI" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4zA2R8sFu_DXLVbnI" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15515,8 +15515,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4zPOo8sFu_DXLVbng" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4zPOo8sFu_DXLVbng" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15546,8 +15546,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4z4Z78sFu_DXLVboU" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4z4Z78sFu_DXLVboU" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15581,7 +15581,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4yqen8sFu_DXLVbmv" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4yqen8sFu_DXLVbmv" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15612,8 +15612,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22nextprez%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=nextprez">nextprez</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4zH5z8sFu_DXLVbnW" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4zH5z8sFu_DXLVbnW" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15643,8 +15643,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI40xQL8sFu_DXLVbpY" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI40xQL8sFu_DXLVbpY" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15675,7 +15675,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4xeLY8sFu_DXLVble" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4xeLY8sFu_DXLVble" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15705,8 +15705,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4xwWA8sFu_DXLVblv" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4xwWA8sFu_DXLVblv" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15738,7 +15738,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4xOjn8sFu_DXLVblQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4xOjn8sFu_DXLVblQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15769,7 +15769,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4w5Mo8sFu_DXLVbk-" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4w5Mo8sFu_DXLVbk-" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15805,8 +15805,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4xNhD8sFu_DXLVblK" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4xNhD8sFu_DXLVblK" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15836,8 +15836,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4xZA78sFu_DXLVblX" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4xZA78sFu_DXLVblX" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15868,7 +15868,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4vGY28sFu_DXLVbkL" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4vGY28sFu_DXLVbkL" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15906,7 +15906,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4u7Fr8sFu_DXLVbkG" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4u7Fr8sFu_DXLVbkG" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15939,8 +15939,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4wnjl8sFu_DXLVbky" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4wnjl8sFu_DXLVbky" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -15971,7 +15971,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4utR78sFu_DXLVbkA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4utR78sFu_DXLVbkA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16005,7 +16005,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4uawM8sFu_DXLVbj4" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4uawM8sFu_DXLVbj4" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16037,7 +16037,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4ts2n8sFu_DXLVbjq" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4ts2n8sFu_DXLVbjq" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16068,8 +16068,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23nextprez%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#nextprez">#nextprez</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI47VvH8sFu_DXLVbwC" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI47VvH8sFu_DXLVbwC" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16099,8 +16099,8 @@ The week before actually introd</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22nextprez%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=nextprez">nextprez</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_AVI4w-NV8sFu_DXLVblB" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AVI4w-NV8sFu_DXLVblB" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16131,7 +16131,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4tOiM8sFu_DXLVbje" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4tOiM8sFu_DXLVbje" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16165,7 +16165,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_105" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_105')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_105')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.whitehouse.gov/the-press-office/2015/01/20/remarks-president-state-union-address-january-20-2015">Remarks by the President in State of the Union Address | January 20, 2015</a> 
       <span class="host">www.whitehouse.gov</span>
@@ -16173,7 +16173,7 @@ The week before actually introd</span>
       <div id="cards_counter_105">
         
     
-    <div class="annotationCard annotation" id="_AVI4sTBn8sFu_DXLVbjV" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4sTBn8sFu_DXLVbjV" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16206,7 +16206,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVI4roIC8sFu_DXLVbjS" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVI4roIC8sFu_DXLVbjS" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16240,7 +16240,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_106" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_106')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_106')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://educationpost.org/are-black-parents-sheep-how-to-gin-up-charter-school-fears-with-subprime-mortgage-analogies">Are Black Parents Sheep? How to Gin Up Charter School Fears With Subprime Mortgage Analogies - Education Post</a> 
       <span class="host">educationpost.org</span>
@@ -16248,7 +16248,7 @@ The week before actually introd</span>
       <div id="cards_counter_106">
         
     
-    <div class="annotationCard annotation" id="_AVIhmvjC8sFu_DXLVYp-" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVIhmvjC8sFu_DXLVYp-" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16280,7 +16280,7 @@ The week before actually introd</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_107" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_107')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_107')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://walkmy.world">The #WalkMyWorld Project | Come share a walk in your world</a> 
       <span class="host">walkmy.world</span>
@@ -16288,7 +16288,7 @@ The week before actually introd</span>
       <div id="cards_counter_107">
         
     
-    <div class="annotationCard annotation" id="_AVIOQ6nL8sFu_DXLVWmI" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVIOQ6nL8sFu_DXLVWmI" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16323,7 +16323,7 @@ This is a p</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_108" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_108')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_108')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.nctq.org/dmsView/StateofStates2015">StateofStates2015</a> 
       <span class="host">www.nctq.org</span>
@@ -16331,7 +16331,7 @@ This is a p</span>
       <div id="cards_counter_108">
         
     
-    <div class="annotationCard annotation" id="_AVGBwlLW8sFu_DXLVMWw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBwlLW8sFu_DXLVMWw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16364,7 +16364,7 @@ This is a p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVGBwFVK8sFu_DXLVMWu" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBwFVK8sFu_DXLVMWu" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16395,7 +16395,7 @@ This is a p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVGBv0n98sFu_DXLVMWr" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBv0n98sFu_DXLVMWr" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16426,7 +16426,7 @@ This is a p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVGBvd_R8sFu_DXLVMWn" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBvd_R8sFu_DXLVMWn" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16457,7 +16457,7 @@ This is a p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVGBu18z8sFu_DXLVMWi" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBu18z8sFu_DXLVMWi" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16491,7 +16491,7 @@ This is a p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVGBvKGw8sFu_DXLVMWk" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBvKGw8sFu_DXLVMWk" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16523,7 +16523,7 @@ This is a p</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AVGBtsxA8sFu_DXLVMWc" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AVGBtsxA8sFu_DXLVMWc" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16555,7 +16555,7 @@ This is a p</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_109" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_109')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_109')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://badges.thinkoutloudclub.com/modules/how/know">Open Badges 101</a> 
       <span class="host">badges.thinkoutloudclub.com</span>
@@ -16563,7 +16563,7 @@ This is a p</span>
       <div id="cards_counter_109">
         
     
-    <div class="annotationCard annotation" id="_pOB_L6mXS_CW4O69C6GIGA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pOB_L6mXS_CW4O69C6GIGA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16597,7 +16597,7 @@ Once you have decided on an ap</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_110" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_110')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_110')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://fosswithumesh.wordpress.com/2015/11/28/mozilla-festival-2015-lets-start-again">Mozilla Festival 2015 - Lets start again!</a> 
       <span class="host">fosswithumesh.wordpress.com</span>
@@ -16605,7 +16605,7 @@ Once you have decided on an ap</span>
       <div id="cards_counter_110">
         
     
-    <div class="annotationCard annotation" id="_KtlX0bOaT_-lpFHMnpFVoQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_KtlX0bOaT_-lpFHMnpFVoQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16640,7 +16640,7 @@ http://mozilla.or.id/en/blog/n</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_d9KP8zffQjulOPVA_ilWMw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_d9KP8zffQjulOPVA_ilWMw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16671,7 +16671,7 @@ http://mozilla.or.id/en/blog/n</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_X9btA-4ETVKis9cDKzU3Ww" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_X9btA-4ETVKis9cDKzU3Ww" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16705,7 +16705,7 @@ http://mozilla.or.id/en/blog/n</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_111" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_111')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_111')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://ersanyamkhurana.wordpress.com/2015/11/25/learning-from-anups-mozfest-experience">Learning from Anup's MozFest Experience</a> 
       <span class="host">ersanyamkhurana.wordpress.com</span>
@@ -16713,7 +16713,7 @@ http://mozilla.or.id/en/blog/n</span>
       <div id="cards_counter_111">
         
     
-    <div class="annotationCard annotation" id="_pQQCksXvSaOuz6ZY0BVVLw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pQQCksXvSaOuz6ZY0BVVLw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16745,7 +16745,7 @@ In my local community too, I’ve</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gZFhBgo4QSqiDGHBUxZktA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gZFhBgo4QSqiDGHBUxZktA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16776,7 +16776,7 @@ In my local community too, I’ve</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ZEx6o0GJQbuBLXRDii8lKw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZEx6o0GJQbuBLXRDii8lKw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16807,7 +16807,7 @@ In my local community too, I’ve</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ZZumrK0wTfWfuOHEJ2vBBA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZZumrK0wTfWfuOHEJ2vBBA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16839,7 +16839,7 @@ In my local community too, I’ve</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_112" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_112')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_112')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://medium.com/digital-teaching-and-learning/small-differences-matter-the-dna-of-online-reading-comprehension-707d880959ea">Small Differences Matter: The DNA of Online Reading Comprehension — Digital Teaching and Learning — Medium</a> 
       <span class="host">medium.com</span>
@@ -16847,7 +16847,7 @@ In my local community too, I’ve</span>
       <div id="cards_counter_112">
         
     
-    <div class="annotationCard annotation" id="_HuDYasTqRBSLEENfL0W05g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_HuDYasTqRBSLEENfL0W05g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16878,8 +16878,8 @@ In my local community too, I’ve</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tTJlKIlvQ_OP97TPLdTr-Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tTJlKIlvQ_OP97TPLdTr-Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16910,7 +16910,7 @@ In my local community too, I’ve</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0V8kC3XeRV6Pw0SmdglxRQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0V8kC3XeRV6Pw0SmdglxRQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16941,8 +16941,8 @@ In my local community too, I’ve</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_TdFEhUnNQFa4UpU1eO5O2w" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_TdFEhUnNQFa4UpU1eO5O2w" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -16973,7 +16973,7 @@ In my local community too, I’ve</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_113" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_113')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_113')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://wiobyrne.com/construction-andor-creation-of-online-content">Construction and/or Creation of Online Content</a> 
       <span class="host">wiobyrne.com</span>
@@ -16981,7 +16981,7 @@ In my local community too, I’ve</span>
       <div id="cards_counter_113">
         
     
-    <div class="annotationCard annotation" id="_1HUveAm4TSO3HCA75i_clA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1HUveAm4TSO3HCA75i_clA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17012,8 +17012,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu106%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu106">edu106</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_sE8XOEE_RCCEvBMNeSSbdw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_sE8XOEE_RCCEvBMNeSSbdw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17044,7 +17044,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_114" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_114')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_114')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;8&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://medium.com/the-binder">The Binder — Medium</a> 
       <span class="host">medium.com</span>
@@ -17052,7 +17052,7 @@ Online reading comprehension </span>
       <div id="cards_counter_114">
         
     
-    <div class="annotationCard annotation" id="_WJ0EG-TGSH2RaHptVvA9uQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WJ0EG-TGSH2RaHptVvA9uQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17082,8 +17082,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22known%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=known">known</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_PP6hSfDtQTesrxBLkFZidA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_PP6hSfDtQTesrxBLkFZidA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17117,7 +17117,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GPTPIYE7SvKRB_w-8aWiNw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GPTPIYE7SvKRB_w-8aWiNw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17147,8 +17147,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22portfolio%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=portfolio">portfolio</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_I1OMy9X3Q4qAGAeg987pyg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_I1OMy9X3Q4qAGAeg987pyg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17181,7 +17181,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zqbL0j7TQ9ibQlXMnEv4BA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zqbL0j7TQ9ibQlXMnEv4BA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17211,8 +17211,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22known%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=known">known</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_L8VZ4xgZTjuDanDvQVWs-g" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_L8VZ4xgZTjuDanDvQVWs-g" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17243,7 +17243,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7Nuw7YzjQIa2ygGia54q7g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7Nuw7YzjQIa2ygGia54q7g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17273,8 +17273,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22known%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=known">known</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_lk74rUX7SO65SfNJzWdtXg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_lk74rUX7SO65SfNJzWdtXg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17305,7 +17305,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LVzZiDkKTyG1ny5w_3mSzA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LVzZiDkKTyG1ny5w_3mSzA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17335,8 +17335,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22hypothes.is%22%2C%22digital%20literacy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=hypothes.is">hypothes.is</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=digital%20literacy">digital literacy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_JhVKcsodQN264IhN72VZ2w" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_JhVKcsodQN264IhN72VZ2w" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17368,8 +17368,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_jpbU_M69RGGqgAkgOUAANw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_jpbU_M69RGGqgAkgOUAANw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17399,8 +17399,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_NUCMR3cbSzKqen461uj76g" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_NUCMR3cbSzKqen461uj76g" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17434,8 +17434,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22Binder%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=Binder">Binder</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_OtIgGBT_TSG3BQvLX8vV0Q" style="display: block; margin-left: 80px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_OtIgGBT_TSG3BQvLX8vV0Q" style="display: none; margin-left: 80px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17465,8 +17465,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 88px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_JaC12EMuQv2NLu26JVbBmg" style="display: block; margin-left: 100px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 88px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_JaC12EMuQv2NLu26JVbBmg" style="display: none; margin-left: 100px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17498,7 +17498,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uabwy6NVSB-h8aL6OMyD0Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uabwy6NVSB-h8aL6OMyD0Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17528,8 +17528,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22greg%22%2C%22connected%20learning%22%2C%22p%26t%22%2C%22promotion%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=greg">greg</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=connected%20learning">connected learning</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=p&amp;t">p&amp;t</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=promotion">promotion</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_DllfY1cHQXGyceSR5FaZ7A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_DllfY1cHQXGyceSR5FaZ7A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17560,7 +17560,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_115" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_115')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_115')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://medium.com/the-binder/building-an-open-and-connected-classroom-c2600a2ee2e8">Building an Open and Connected Classroom — The Binder — Medium</a> 
       <span class="host">medium.com</span>
@@ -17568,7 +17568,7 @@ Online reading comprehension </span>
       <div id="cards_counter_115">
         
     
-    <div class="annotationCard annotation" id="_81g_G3BJRYu4F-iFdYPaPQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_81g_G3BJRYu4F-iFdYPaPQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17598,8 +17598,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_JMR8M-g7Rp2mYjR1tw-UUg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_JMR8M-g7Rp2mYjR1tw-UUg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17631,7 +17631,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_116" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_116')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_116')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/08/9780262513623_Confronting_the_Challenges.pdf">Confronting the Challenges of Participatory Culture: Media Education for the 21st Century</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -17639,7 +17639,7 @@ Online reading comprehension </span>
       <div id="cards_counter_116">
         
     
-    <div class="annotationCard annotation" id="_2rf-hnyRTMmcqpKdkYxydA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2rf-hnyRTMmcqpKdkYxydA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17669,8 +17669,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_1XGoFE2yQCq5zG5vMaJpDA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_1XGoFE2yQCq5zG5vMaJpDA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17702,7 +17702,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_117" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_117')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_117')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;6&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/06/elementary-literacy_1301429871069-1.pdf">Microsoft Word - 1_ELEM_Inside.Cover_2011_FINAL.doc</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -17710,7 +17710,7 @@ Online reading comprehension </span>
       <div id="cards_counter_117">
         
     
-    <div class="annotationCard annotation" id="_W79_oekqSJKjvCVH8sqWgQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_W79_oekqSJKjvCVH8sqWgQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17740,8 +17740,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Yev1Lc5jTmuCWMoX5r5Cbg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Yev1Lc5jTmuCWMoX5r5Cbg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17772,7 +17772,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_vW2jHDYIQn-EXU0Kvy5NSw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vW2jHDYIQn-EXU0Kvy5NSw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17802,8 +17802,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_JhfwGw_pQyW_g-NI-MjXZA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_JhfwGw_pQyW_g-NI-MjXZA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17834,7 +17834,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_sR2Pc7sqTsqqjNP3_Oyn-g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_sR2Pc7sqTsqqjNP3_Oyn-g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17864,8 +17864,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_C-DGB2AqTrWHe0uxGQDiZw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_C-DGB2AqTrWHe0uxGQDiZw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17898,7 +17898,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_dqAoaY6JR62BNXkk2AwMzA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_dqAoaY6JR62BNXkk2AwMzA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17928,8 +17928,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tkXGKu0qSRGNhbQHYfm4Lg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tkXGKu0qSRGNhbQHYfm4Lg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17963,7 +17963,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XXp4n9IwQ6-5yil8QD69pQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XXp4n9IwQ6-5yil8QD69pQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -17993,8 +17993,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_zTLR6VQKTsupyVh8x1zJTw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_zTLR6VQKTsupyVh8x1zJTw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18026,7 +18026,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6TIwJMgqSH--F9Wb6dhBbQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6TIwJMgqSH--F9Wb6dhBbQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18056,8 +18056,8 @@ Online reading comprehension </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#edu305">#edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Zcq0egVGSm2VTaKd5rumRw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Zcq0egVGSm2VTaKd5rumRw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18088,7 +18088,7 @@ Online reading comprehension </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_118" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_118')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_118')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://badges.thinkoutloudclub.com/modules/what/intro">Open Badges 101</a> 
       <span class="host">badges.thinkoutloudclub.com</span>
@@ -18096,7 +18096,7 @@ Online reading comprehension </span>
       <div id="cards_counter_118">
         
     
-    <div class="annotationCard annotation" id="_9aBASGEYTH6OSRzVVtOVDg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9aBASGEYTH6OSRzVVtOVDg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18141,7 +18141,7 @@ This text was recognized by the built-in Ocrad engine. A better transcription ma
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_119" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_119')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_119')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://ct-scsu.blackboard.com/bbcswebdav/pid-9225731-dt-content-rid-23268982_1/courses/SCSU10621.10622.201610/Frey%20et%20al.%20-%202005%20-%20Balanced%20Literacy%20in%20an%20Urban%20School%20District%281%29.pdf">Balanced Literacy in an Urban School District</a> 
       <span class="host">ct-scsu.blackboard.com</span>
@@ -18149,7 +18149,7 @@ This text was recognized by the built-in Ocrad engine. A better transcription ma
       <div id="cards_counter_119">
         
     
-    <div class="annotationCard annotation" id="_3Ft8yhweSNCKt4x7ByC_Tw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3Ft8yhweSNCKt4x7ByC_Tw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18180,7 +18180,7 @@ This text was recognized by the built-in Ocrad engine. A better transcription ma
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_120" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_120')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_120')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.timeshighereducation.co.uk/blog/weird-and-wonderful-world-academic-twitter">The weird and wonderful world of academic Twitter</a> 
       <span class="host">www.timeshighereducation.co.uk</span>
@@ -18188,7 +18188,7 @@ This text was recognized by the built-in Ocrad engine. A better transcription ma
       <div id="cards_counter_120">
         
     
-    <div class="annotationCard annotation" id="_4A1xxiBqQ56J-YfF2mviFw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_4A1xxiBqQ56J-YfF2mviFw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18231,7 +18231,7 @@ While scholarly chat and self-p</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_121" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_121')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_121')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://web.hypothes.is/blog/using-atom-feeds-to-receive-hypothesis-notifications-in-slack">Using Atom feeds to receive Hypothesis notifications in Slack – Hypothesis</a> 
       <span class="host">web.hypothes.is</span>
@@ -18239,7 +18239,7 @@ While scholarly chat and self-p</span>
       <div id="cards_counter_121">
         
     
-    <div class="annotationCard annotation" id="_d296-CWnTVyia2MBDvQzZA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_d296-CWnTVyia2MBDvQzZA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18281,8 +18281,8 @@ You can plug these feeds int</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tvtY2GlHR4SiD2jBUabyRg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tvtY2GlHR4SiD2jBUabyRg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18313,7 +18313,7 @@ You can plug these feeds int</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OG77I8fZTMeHPVP3gRonGA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OG77I8fZTMeHPVP3gRonGA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18345,8 +18345,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_hm8O7LzLSamiUepoVFMprA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_hm8O7LzLSamiUepoVFMprA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18377,7 +18377,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_122" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_122')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_122')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://www.academia.edu/417806/Forums_and_functions_of_threaded_discussions_Using_new_literacies_to_build_traditional_comprehension_skills">Forums and functions of threaded discussions: Using new literacies to build traditional comprehension skills. </a> 
       <span class="host">www.academia.edu</span>
@@ -18385,7 +18385,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_122">
         
     
-    <div class="annotationCard annotation" id="_VsN8ynClTyOPQT_MY3vmmw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VsN8ynClTyOPQT_MY3vmmw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18416,7 +18416,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_S1G6nDYfSsWaxq8YtBAP7g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_S1G6nDYfSsWaxq8YtBAP7g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18447,7 +18447,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_123" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_123')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_123')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://edex.s3-us-west-2.amazonaws.com/publication/pdfs/National%20Standards%20Final%20PDF_9.pdf">National Standards Final PDF_9.pdf</a> 
       <span class="host">edex.s3-us-west-2.amazonaws.com</span>
@@ -18455,7 +18455,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_123">
         
     
-    <div class="annotationCard annotation" id="_mt-NiAUyRLy2Pik13lYfjA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mt-NiAUyRLy2Pik13lYfjA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18486,7 +18486,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_124" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_124')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_124')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://g.espncdn.com/s/ffldraftkit/15/NFLDK2K15_CS_PPR.pdf?addata=2015=ffldft_chtsht_PPRpos_xxx">NFLDK2K15_CS_PPR.pdf</a> 
       <span class="host">g.espncdn.com</span>
@@ -18494,7 +18494,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_124">
         
     
-    <div class="annotationCard annotation" id="_Le5KpReuRPq4oD0HCoIGnA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Le5KpReuRPq4oD0HCoIGnA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18525,7 +18525,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_UZj2sw7mSz6Ci-U8fC8exQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_UZj2sw7mSz6Ci-U8fC8exQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18556,7 +18556,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cLjY-ashT8ekqWOkG3ww5g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cLjY-ashT8ekqWOkG3ww5g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18587,7 +18587,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Sq6MvJzHRGGZ6Uz2RlgZig" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Sq6MvJzHRGGZ6Uz2RlgZig" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18618,7 +18618,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SQ7nz6o-SBaTuTGBtaRFog" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SQ7nz6o-SBaTuTGBtaRFog" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18649,7 +18649,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_aPb57WYySqKhuAwMXAaafg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_aPb57WYySqKhuAwMXAaafg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18680,7 +18680,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_VoVKo3HvR4y_LPrDkTnVfw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VoVKo3HvR4y_LPrDkTnVfw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18711,7 +18711,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_125" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_125')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_125')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.salon.com/2015/08/16/the_education_fad_thats_hurting_our_kids_what_you_need_to_know_about_growth_mindset_theory_and_the_harmful_lessons_it_imparts">The perils of “Growth Mindset” education: Why we’re trying to fix our kids when we should be fixing the system</a> 
       <span class="host">www.salon.com</span>
@@ -18719,7 +18719,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_125">
         
     
-    <div class="annotationCard annotation" id="_IFyLfLYATIaz-GdWjB5eeQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IFyLfLYATIaz-GdWjB5eeQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18750,7 +18750,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_126" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_126')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_126')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://learning.instructure.com/2015/08/networks-as-relationships">Networks as Relationships - Keep Learning</a> 
       <span class="host">learning.instructure.com</span>
@@ -18758,7 +18758,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_126">
         
     
-    <div class="annotationCard annotation" id="_2X2TkNvGSXGmyMHzYcGNhg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2X2TkNvGSXGmyMHzYcGNhg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18792,7 +18792,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uAahb_elTleeV8K9ouAzDA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uAahb_elTleeV8K9ouAzDA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18823,7 +18823,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_TDYUdmESQMWVnT84hfrl_Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TDYUdmESQMWVnT84hfrl_Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18854,7 +18854,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_wvp1HxstTsG9tBdiLABl8Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wvp1HxstTsG9tBdiLABl8Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18885,7 +18885,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_127" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_127')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_127')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.ecampusnews.com/top-news/massive-mooc-lessons-318/3">5 massive MOOC lessons learned by colleges and universities - eCampus News</a> 
       <span class="host">www.ecampusnews.com</span>
@@ -18893,7 +18893,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_127">
         
     
-    <div class="annotationCard annotation" id="_FsiGOronSdqqLCQ-yqobSQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FsiGOronSdqqLCQ-yqobSQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18925,7 +18925,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_msLFK7KUSAeL8jQun0BNAg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_msLFK7KUSAeL8jQun0BNAg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18956,7 +18956,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_128" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_128')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_128')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.ecampusnews.com/top-news/massive-mooc-lessons-318">5 massive MOOC lessons learned by colleges and universities - eCampus News</a> 
       <span class="host">www.ecampusnews.com</span>
@@ -18964,7 +18964,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_128">
         
     
-    <div class="annotationCard annotation" id="_jw3u3_ivTyGPI4SCEhXsMQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_jw3u3_ivTyGPI4SCEhXsMQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -18997,7 +18997,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_129" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_129')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_129')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;6&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/10.1002-jaal.411.pdf">Guiding Students as They Explore, Build, and Connect Online</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -19005,7 +19005,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_129">
         
     
-    <div class="annotationCard annotation" id="_Rnw3VgNAQWGn-m9AOMav3g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Rnw3VgNAQWGn-m9AOMav3g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19035,8 +19035,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_G8oz_CpoQCiYC5g-eHgLLQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_G8oz_CpoQCiYC5g-eHgLLQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19069,7 +19069,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_b6FyUHYdSu6EbGFcRi1hhQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_b6FyUHYdSu6EbGFcRi1hhQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19099,8 +19099,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_3QUBZjmNSXuQ7hex8oYSPQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_3QUBZjmNSXuQ7hex8oYSPQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19131,7 +19131,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cHZkvfOFRm2KsbWco8KIwA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cHZkvfOFRm2KsbWco8KIwA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19161,8 +19161,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_YrYQuoBMSiW71tRT0W3rlw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_YrYQuoBMSiW71tRT0W3rlw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19193,7 +19193,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_oMbOEFjrSMmRL-txMbvexg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_oMbOEFjrSMmRL-txMbvexg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19223,8 +19223,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_xqqRL9lHSnyZyG-2migGMQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_xqqRL9lHSnyZyG-2migGMQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19254,8 +19254,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_-pU1pTiTR0umWk2AGkjwCg" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_-pU1pTiTR0umWk2AGkjwCg" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19286,7 +19286,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_8GLjaQsVQWaRW72C13A-lQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_8GLjaQsVQWaRW72C13A-lQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19316,8 +19316,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_coLtDbmLStyDE_2h6oD1yQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_coLtDbmLStyDE_2h6oD1yQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19347,8 +19347,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0k6xUXA-SrmfKpNVEtD2gQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0k6xUXA-SrmfKpNVEtD2gQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19379,7 +19379,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3iQRBcysTYyuAxzwERH-3w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3iQRBcysTYyuAxzwERH-3w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19409,8 +19409,8 @@ You can plug these feeds into </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#edu573">#edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_GUtDP0TxQzeKmwLL9cVXRQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_GUtDP0TxQzeKmwLL9cVXRQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19443,7 +19443,7 @@ You can plug these feeds into </span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_130" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_130')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_130')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://wiobyrne.com/guiding-students-as-they-explore-build-connect-online">Guiding Students as They Explore, Build, &amp; Connect Online</a> 
       <span class="host">wiobyrne.com</span>
@@ -19451,7 +19451,7 @@ You can plug these feeds into </span>
       <div id="cards_counter_130">
         
     
-    <div class="annotationCard annotation" id="_miAteCH3RSOdQv8zw0W62g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_miAteCH3RSOdQv8zw0W62g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19482,8 +19482,8 @@ Yes! We need to support ALL interests; every kid needs to be web literate, but n
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_hh7HLkO1RxWaaWG_bpgHdQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_hh7HLkO1RxWaaWG_bpgHdQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19514,7 +19514,7 @@ Yes! We need to support ALL interests; every kid needs to be web literate, but n
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_DHH25oq2R2qBRvHrppsvfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_DHH25oq2R2qBRvHrppsvfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19544,8 +19544,8 @@ Yes! We need to support ALL interests; every kid needs to be web literate, but n
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_eD71B8nbQcKJIh1IkA4ghw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_eD71B8nbQcKJIh1IkA4ghw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19576,7 +19576,7 @@ Yes! We need to support ALL interests; every kid needs to be web literate, but n
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_131" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_131')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_131')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://allyvalenti.wordpress.com/2015/08/13/situated-language-and-learning">Situated Language and Learning</a> 
       <span class="host">allyvalenti.wordpress.com</span>
@@ -19584,7 +19584,7 @@ Yes! We need to support ALL interests; every kid needs to be web literate, but n
       <div id="cards_counter_131">
         
     
-    <div class="annotationCard annotation" id="_7YhPSHDrTdGlrmfnzu_1ig" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7YhPSHDrTdGlrmfnzu_1ig" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19616,7 +19616,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_132" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_132')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_132')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;17&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/james-paul-gee-situated-language-and-learning-a-critique-of-traditional-schooling-2004.pdf">SITUATED LANGUAGE AND LEARNING</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -19624,7 +19624,7 @@ Another thing that was stated i</span>
       <div id="cards_counter_132">
         
     
-    <div class="annotationCard annotation" id="_3j0Y7dqpQ320_HDPJUceDA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3j0Y7dqpQ320_HDPJUceDA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19654,8 +19654,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_UdzKB195S16eM9oKtWQ8lQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_UdzKB195S16eM9oKtWQ8lQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19686,7 +19686,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_m4EE6X3ST8KXoZbBxrmpDg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_m4EE6X3ST8KXoZbBxrmpDg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19716,8 +19716,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_6uZm7ZfZRT2ALjJa7CoTXQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_6uZm7ZfZRT2ALjJa7CoTXQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19748,7 +19748,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2Ki0iU29Q42vB81mrB7g4g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2Ki0iU29Q42vB81mrB7g4g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19778,8 +19778,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Cf615LKYQl-W4e-qGRdTAg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Cf615LKYQl-W4e-qGRdTAg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19810,7 +19810,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SBKL95h7TbahY90GNzStVA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SBKL95h7TbahY90GNzStVA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19840,8 +19840,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_kXllUl5HT0GzUjsJWOGgfQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_kXllUl5HT0GzUjsJWOGgfQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19873,7 +19873,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_d7PyUBZtRt-hjkqfFv9SJw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_d7PyUBZtRt-hjkqfFv9SJw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19903,8 +19903,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_9eG5nCW-RImxWaApDYV8bw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_9eG5nCW-RImxWaApDYV8bw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19935,7 +19935,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-3R-_wHvQniECDGSi_Cw8A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-3R-_wHvQniECDGSi_Cw8A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19965,8 +19965,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_K1K1z0k-Ra6hB8LeM-bQ6g" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_K1K1z0k-Ra6hB8LeM-bQ6g" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -19997,7 +19997,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2LfMBBwuQnOUjcrDqmJlHQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2LfMBBwuQnOUjcrDqmJlHQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20027,8 +20027,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_rRotPYOPR8Clf-zmCNNftA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_rRotPYOPR8Clf-zmCNNftA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20059,7 +20059,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_o3_bCQrKQK2XkArOPERB9A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_o3_bCQrKQK2XkArOPERB9A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20089,8 +20089,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_JTPKGBpuSCaeU9Iv0xII5Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_JTPKGBpuSCaeU9Iv0xII5Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20120,8 +20120,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_sXRYNlfDQfyOEmiFGGAqEQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_sXRYNlfDQfyOEmiFGGAqEQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20152,7 +20152,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Yn2zgnMHSK--KEwL2wdpzA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Yn2zgnMHSK--KEwL2wdpzA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20182,8 +20182,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_qwJbm64eS3q3-Exf94Zlfg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_qwJbm64eS3q3-Exf94Zlfg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20214,7 +20214,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ItuNO8MMRNa4DNqtKlzDbA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ItuNO8MMRNa4DNqtKlzDbA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20244,8 +20244,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_MysYiuX1QBq22AKxNAbp6Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_MysYiuX1QBq22AKxNAbp6Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20276,7 +20276,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_C6Bz-sypTdupdHNvCJh89g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_C6Bz-sypTdupdHNvCJh89g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20306,8 +20306,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_3ejJU3VORlmFM59Gn7ysJA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_3ejJU3VORlmFM59Gn7ysJA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20337,8 +20337,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_MdvEFaQ8RG-SsnUWH1XKtw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_MdvEFaQ8RG-SsnUWH1XKtw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20369,7 +20369,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_sX7jmD0vRU6TFMagiX4PmQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_sX7jmD0vRU6TFMagiX4PmQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20399,8 +20399,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_PfhcKTx5TZ2cR_ATl_I3rQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_PfhcKTx5TZ2cR_ATl_I3rQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20430,8 +20430,8 @@ Another thing that was stated i</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_TZaIt28ZTm-5Rwc-PBKPVw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_TZaIt28ZTm-5Rwc-PBKPVw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20466,7 +20466,7 @@ Another thing that was stated i</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_m6t72vccTmKXoLtkpOeTFQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_m6t72vccTmKXoLtkpOeTFQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20497,8 +20497,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_pzYxAHtVRme4EtO79e35ug" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_pzYxAHtVRme4EtO79e35ug" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20529,7 +20529,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2wPMcyC1RpeV4gsQxJ0vyA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2wPMcyC1RpeV4gsQxJ0vyA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20559,8 +20559,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_eXyArcMtR0mkGIwgvjdhBg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_eXyArcMtR0mkGIwgvjdhBg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20590,8 +20590,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_p-Jg43kDRTC3QKx3p9SHmQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_p-Jg43kDRTC3QKx3p9SHmQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20623,7 +20623,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_E9GhGgSuR4imfdmkpUik2g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_E9GhGgSuR4imfdmkpUik2g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20653,8 +20653,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_XITua_nmS9Kt2jTHQnGQVQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_XITua_nmS9Kt2jTHQnGQVQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20684,8 +20684,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_U9BFqMksSRCPS0npfdoktw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_U9BFqMksSRCPS0npfdoktw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20717,7 +20717,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_CXQDN8dTTh6fR5_r0uu1eg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CXQDN8dTTh6fR5_r0uu1eg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20747,8 +20747,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Wnr5JoHORrCu0Ps4mfIvCg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Wnr5JoHORrCu0Ps4mfIvCg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20779,7 +20779,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uLT6FSCERKClpt-ZCZTDSA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uLT6FSCERKClpt-ZCZTDSA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20809,8 +20809,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_YosC9Z9jS9SG40ZUAW5XVA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_YosC9Z9jS9SG40ZUAW5XVA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20841,7 +20841,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_133" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_133')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_133')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;9&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/DukePearsonStrachanBillman_prepub_Comprehension_WRST_032311.pdf">DukePearsonStrachanBillman_prepub_Comprehension_WRST_032311.pdf</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -20849,7 +20849,7 @@ Bedtime Means. *</p>
       <div id="cards_counter_133">
         
     
-    <div class="annotationCard annotation" id="_HoEvMXdrTkS8KuEt2_h1ZQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_HoEvMXdrTkS8KuEt2_h1ZQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20879,8 +20879,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="__B5AFPJiQ4eRYLhFiHSdTw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="__B5AFPJiQ4eRYLhFiHSdTw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20914,7 +20914,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_TFEadbdVScaAZI4FCVbyjA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TFEadbdVScaAZI4FCVbyjA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20944,8 +20944,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_6jzuhFBkQRCIHKHxzBobLw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_6jzuhFBkQRCIHKHxzBobLw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -20976,7 +20976,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gj8Wx_qAQK-Mxdohuxc0Zw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gj8Wx_qAQK-Mxdohuxc0Zw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21006,8 +21006,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_4TbGUP5sQ4eHSaN5kAwFYw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_4TbGUP5sQ4eHSaN5kAwFYw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21039,7 +21039,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SC4vXuheRPurzhpNJWIoxQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SC4vXuheRPurzhpNJWIoxQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21069,8 +21069,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_yIA9LNjDSpOYCUh-6vhKAA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_yIA9LNjDSpOYCUh-6vhKAA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21102,8 +21102,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_m4aRM4YjRHWZl6A_Iotw9Q" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_m4aRM4YjRHWZl6A_Iotw9Q" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21133,8 +21133,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_aSBOqKqjRRqYupttUxmW0w" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_aSBOqKqjRRqYupttUxmW0w" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21165,7 +21165,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_4N2sreEUQwiJFKfwtoafyg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_4N2sreEUQwiJFKfwtoafyg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21195,8 +21195,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_wuPKD45ySFuTM210FQGEew" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_wuPKD45ySFuTM210FQGEew" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21226,8 +21226,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_MJ7xnf_8SYOiqbSU-jVpWg" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_MJ7xnf_8SYOiqbSU-jVpWg" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21258,7 +21258,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_qteatEXbRtKEhIsFP1afNg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qteatEXbRtKEhIsFP1afNg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21288,8 +21288,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_xSvXk1ssT-OCFJq2gRcKMg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_xSvXk1ssT-OCFJq2gRcKMg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21321,7 +21321,7 @@ Bedtime Means. *</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_X_5DNHZ5RSq3rl8LaRVxKA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_X_5DNHZ5RSq3rl8LaRVxKA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21351,8 +21351,8 @@ Bedtime Means. *</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_yeu5UMwHSSyoaE9vD6XBSw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_yeu5UMwHSSyoaE9vD6XBSw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21390,7 +21390,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NQY7NRyhSTGhNLe02iMOog" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NQY7NRyhSTGhNLe02iMOog" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21420,8 +21420,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0cPVg5SaQDGYsXbDVweteg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0cPVg5SaQDGYsXbDVweteg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21452,7 +21452,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_134" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_134')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_134')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;9&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/geegettingoverslump.pdf">geegettingoverslump.pdf</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -21460,7 +21460,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       <div id="cards_counter_134">
         
     
-    <div class="annotationCard annotation" id="_NT3gGcdhSp6Oj0z5Fbo7eA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NT3gGcdhSp6Oj0z5Fbo7eA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21490,8 +21490,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_cvMm0cRYQ9ijVGGfGZgmTw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_cvMm0cRYQ9ijVGGfGZgmTw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21522,7 +21522,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_QA0r5PotTk-coUbxlC6VqQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QA0r5PotTk-coUbxlC6VqQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21552,8 +21552,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_1SSvF2_DSh-sRkTaCgCD1g" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_1SSvF2_DSh-sRkTaCgCD1g" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21584,7 +21584,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_g169a8MwRzKhddN5e5dS2Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_g169a8MwRzKhddN5e5dS2Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21614,8 +21614,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_DtDSbNuzSJO2PuvhidQjeg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_DtDSbNuzSJO2PuvhidQjeg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21651,7 +21651,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_t6Xs8X3GQomyexiiEezlAQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_t6Xs8X3GQomyexiiEezlAQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21681,8 +21681,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_zPbaXmJISNqhMEIdhlZKKA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_zPbaXmJISNqhMEIdhlZKKA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21713,7 +21713,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_WGJ-2HcES6SdpIkmGuD8vg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WGJ-2HcES6SdpIkmGuD8vg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21743,8 +21743,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_uLx5RIe6TL-3HFkwkOa5Hg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_uLx5RIe6TL-3HFkwkOa5Hg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21775,7 +21775,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_kh-ZD6P0RZa7kaDZ6LJ4rQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_kh-ZD6P0RZa7kaDZ6LJ4rQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21805,8 +21805,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_uCV49rzQQuWUpHrax7tveg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_uCV49rzQQuWUpHrax7tveg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21837,7 +21837,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_CmqAGBMPT4mHinVLypnkfw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CmqAGBMPT4mHinVLypnkfw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21867,8 +21867,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_nPbOoC2-T8q3uZez25ifWA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_nPbOoC2-T8q3uZez25ifWA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21899,8 +21899,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_k-dD46sNQfmIV8K4ogX0Tw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_k-dD46sNQfmIV8K4ogX0Tw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21930,8 +21930,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_X_uOiBc6RhicLJEiA8YxmQ" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_X_uOiBc6RhicLJEiA8YxmQ" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21967,7 +21967,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zze_j9rcQg-4h43fpH14dA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zze_j9rcQg-4h43fpH14dA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -21997,8 +21997,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_JCpLyscHTKOhaZbPwbaewA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_JCpLyscHTKOhaZbPwbaewA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22030,7 +22030,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_135" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_135')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_135')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/bea13380_ch01.pdf">[PDF] Chapter 1 from Donald Bear's "Words Their Way"</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -22038,7 +22038,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       <div id="cards_counter_135">
         
     
-    <div class="annotationCard annotation" id="_3_ZTokvaQVazflRc2D-QXg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3_ZTokvaQVazflRc2D-QXg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22068,8 +22068,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_xVUXV1WKT6KT8KcsCJcCPw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_xVUXV1WKT6KT8KcsCJcCPw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22100,7 +22100,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_lqoIWZf8Qv-T4lFGWjRLHQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lqoIWZf8Qv-T4lFGWjRLHQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22130,8 +22130,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_y0yNHmVzScaV2Wv0gcwTMA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_y0yNHmVzScaV2Wv0gcwTMA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22167,7 +22167,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_TzV541rhQd-hkJUE9RcXIw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TzV541rhQd-hkJUE9RcXIw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22197,8 +22197,8 @@ You can find scripted lessons where guides can not deviate from the map.</p>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_8MRaWDuCT4iL49MsxbGEkw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_8MRaWDuCT4iL49MsxbGEkw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22229,7 +22229,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_136" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_136')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_136')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://stream.withknown.com">Known Stream</a> 
       <span class="host">stream.withknown.com</span>
@@ -22237,7 +22237,7 @@ You can find scripted lessons where guides can not deviate from the map.</p>
       <div id="cards_counter_136">
         
     
-    <div class="annotationCard annotation" id="_GFXuYWcEQNax2tzSOOsl7A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GFXuYWcEQNax2tzSOOsl7A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22269,7 +22269,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_137" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_137')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_137')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/SupportingPhonemicAwarenessDevelopmentintheClassroom.pdf">10/00 RT #10-99-117 Yopp</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -22277,7 +22277,7 @@ Accessibility improvements: Kno</span>
       <div id="cards_counter_137">
         
     
-    <div class="annotationCard annotation" id="_y563hDwbTl2hs-sp714Qxg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_y563hDwbTl2hs-sp714Qxg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22307,8 +22307,8 @@ Accessibility improvements: Kno</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_qz73ds4WRIaZr5GS3h0Nzg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_qz73ds4WRIaZr5GS3h0Nzg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22339,7 +22339,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OxG68Y2fSSyoB5VZz1cYhA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OxG68Y2fSSyoB5VZz1cYhA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22369,8 +22369,8 @@ Accessibility improvements: Kno</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_SHuKgf7xQHOcNF734keXAg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_SHuKgf7xQHOcNF734keXAg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22401,7 +22401,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Ff2Ws28FSAeMOvYkOT0neg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Ff2Ws28FSAeMOvYkOT0neg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22431,8 +22431,8 @@ Accessibility improvements: Kno</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_l7V4jsM4RdWQtbIjWYmNlA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_l7V4jsM4RdWQtbIjWYmNlA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22470,7 +22470,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_UTyCAukzQcOFjgB9-_3X7Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_UTyCAukzQcOFjgB9-_3X7Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22500,8 +22500,8 @@ Accessibility improvements: Kno</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_iedoL2nNQ0SkoflkHTonAQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_iedoL2nNQ0SkoflkHTonAQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22533,7 +22533,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_eFFIKvD9R3y1zCE0NqBK8A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_eFFIKvD9R3y1zCE0NqBK8A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22563,8 +22563,8 @@ Accessibility improvements: Kno</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_zZIDFBP_SmWNtbkc9s0MnQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_zZIDFBP_SmWNtbkc9s0MnQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22595,7 +22595,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_138" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_138')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_138')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/practices-and-participatory-learning-environments">Practices and Participatory Learning Environments</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -22603,7 +22603,7 @@ Accessibility improvements: Kno</span>
       <div id="cards_counter_138">
         
     
-    <div class="annotationCard annotation" id="_lWOsVIi_RiSkibGUmihz1A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lWOsVIi_RiSkibGUmihz1A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22633,8 +22633,8 @@ Accessibility improvements: Kno</span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_7LH_66hZTAG9Lj0aWbfHWg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_7LH_66hZTAG9Lj0aWbfHWg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22666,7 +22666,7 @@ Accessibility improvements: Kno</span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3y9uOBh3TvaCu63D1MZ-wg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3y9uOBh3TvaCu63D1MZ-wg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22698,8 +22698,8 @@ Instead of 21st century skills </span>
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_DDWDEc2qQguJXpvN2FniHg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_DDWDEc2qQguJXpvN2FniHg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22731,7 +22731,7 @@ Instead of 21st century skills </span>
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Mph5C7ljQXulpGkRkYCxZA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Mph5C7ljQXulpGkRkYCxZA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22762,8 +22762,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_rirFC6bOSV-LkueGm4Tskg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_rirFC6bOSV-LkueGm4Tskg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22794,7 +22794,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LElqXpgASqamfL36OZmhlg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LElqXpgASqamfL36OZmhlg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22826,7 +22826,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_139" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_139')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_139')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;13&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://networkedlearningcollaborative.com/wp-content/uploads/2015/07/53e12bf10cf2d79877a53311.pdf">53e12bf10cf2d79877a53311.pdf</a> 
       <span class="host">networkedlearningcollaborative.com</span>
@@ -22834,7 +22834,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_139">
         
     
-    <div class="annotationCard annotation" id="_uJ_gNPcuSLS9ZzzM3LflJQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uJ_gNPcuSLS9ZzzM3LflJQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22864,8 +22864,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_7G1QxZxnT3SC3eyda9MBCA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_7G1QxZxnT3SC3eyda9MBCA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22896,7 +22896,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_lX06L1pSRtq_utxU88pANg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lX06L1pSRtq_utxU88pANg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22926,8 +22926,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_ZMB2gthDRkeENbSxYT4oZw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_ZMB2gthDRkeENbSxYT4oZw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22958,7 +22958,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gAiU-IZfT0OOpD-iU1viZw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gAiU-IZfT0OOpD-iU1viZw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -22988,8 +22988,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_a0j5tuvsRfSAMvbQZP2C5A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_a0j5tuvsRfSAMvbQZP2C5A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23022,7 +23022,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_049Uy152QlCvx_XMBfk1Ig" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_049Uy152QlCvx_XMBfk1Ig" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23053,7 +23053,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_oNYbFlPZRKexgj1qzR8s7g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_oNYbFlPZRKexgj1qzR8s7g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23083,8 +23083,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_3udEBv3mSi210ST7-JZWbA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_3udEBv3mSi210ST7-JZWbA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23120,7 +23120,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_v_LS1Qb_RN2-iy10q5R1Dg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_v_LS1Qb_RN2-iy10q5R1Dg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23150,8 +23150,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22EDU573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=EDU573">EDU573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_cmNiJI-BT3CLWVlHPivSBg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_cmNiJI-BT3CLWVlHPivSBg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23182,7 +23182,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_1X3MwtS0QCWWO9EUyUmP4w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1X3MwtS0QCWWO9EUyUmP4w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23213,7 +23213,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cPGeQbY9TsiGFDTly_9-hQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cPGeQbY9TsiGFDTly_9-hQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23243,8 +23243,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_vxH7bgWKT9qfkBLb37q5Kg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_vxH7bgWKT9qfkBLb37q5Kg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23275,7 +23275,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6D8FwFebRtWXtBqJrfb7GA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6D8FwFebRtWXtBqJrfb7GA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23305,8 +23305,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_H038Q3tiQPSBRj5Xg-dI1w" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_H038Q3tiQPSBRj5Xg-dI1w" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23337,7 +23337,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_lM6Yj3rTT3GcWNyvNn9C9w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lM6Yj3rTT3GcWNyvNn9C9w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23367,8 +23367,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_oaBQipRAQ-SaiLOC9s0Z7A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_oaBQipRAQ-SaiLOC9s0Z7A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23399,7 +23399,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PlLoeFNGRjqnzD6Hj3ROhg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PlLoeFNGRjqnzD6Hj3ROhg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23429,8 +23429,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_eE9Z30e5Tm2WzL7Vv1E5eQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_eE9Z30e5Tm2WzL7Vv1E5eQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23461,7 +23461,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_W7twq0hDT-Gi-3JqF065EQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_W7twq0hDT-Gi-3JqF065EQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23491,8 +23491,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu573%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu573">edu573</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_iS0kvGXRQ6euuQ0h8b4Hng" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_iS0kvGXRQ6euuQ0h8b4Hng" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23523,7 +23523,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7PBgr8a-RIid92vj-zFLRQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7PBgr8a-RIid92vj-zFLRQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23554,7 +23554,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_140" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_140')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_140')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.irrodl.org/index.php/irrodl/article/view/1041/2025">Open Educational Resources: New Possibilities for Change and Sustainability</a> 
       <span class="host">www.irrodl.org</span>
@@ -23562,7 +23562,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_140">
         
     
-    <div class="annotationCard annotation" id="_FM89VTrxSBOKHV1C3svP9w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FM89VTrxSBOKHV1C3svP9w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23594,7 +23594,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_48LzsxeWS9aFlAGbpsplgA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_48LzsxeWS9aFlAGbpsplgA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23625,7 +23625,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JNyYtxQjSd6qUhnO8ki00A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JNyYtxQjSd6qUhnO8ki00A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23656,7 +23656,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2SC35Nd4T22MQHfvK3EsiQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2SC35Nd4T22MQHfvK3EsiQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23687,8 +23687,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_8DG-9DHJQhaC2RTGwCdZNQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_8DG-9DHJQhaC2RTGwCdZNQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23719,7 +23719,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_141" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_141')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_141')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://badges.thinkoutloudclub.com">Open Badges 101</a> 
       <span class="host">badges.thinkoutloudclub.com</span>
@@ -23727,7 +23727,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_141">
         
     
-    <div class="annotationCard annotation" id="_WPkW6-zNS6Gu5bY2sNbsZw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WPkW6-zNS6Gu5bY2sNbsZw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23772,7 +23772,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_6unXhfEHRgKxi-M0xWHq_g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_6unXhfEHRgKxi-M0xWHq_g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23802,8 +23802,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Og98xuHMRmqv8Ej_EhqZpA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Og98xuHMRmqv8Ej_EhqZpA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23833,8 +23833,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_APdM9lVmQLGQltZSTF1MUw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_APdM9lVmQLGQltZSTF1MUw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23864,8 +23864,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22ob101%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=ob101">ob101</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_BIylSdFKQsCbIr3qrRigEg" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_BIylSdFKQsCbIr3qrRigEg" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23895,8 +23895,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_WkDLF9B_Rk-Bi3wjG5MrNw" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_WkDLF9B_Rk-Bi3wjG5MrNw" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23927,7 +23927,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_142" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_142')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_142')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.forefront.io/a/beginners-guide-to-arduino">The Absolute Beginner's Guide to Arduino</a> 
       <span class="host">www.forefront.io</span>
@@ -23935,7 +23935,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_142">
         
     
-    <div class="annotationCard annotation" id="_vaat1HGhQDiqKUg6SvlwFQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vaat1HGhQDiqKUg6SvlwFQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23966,7 +23966,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_eBHtf4myRx-E2ht-Q3Dm1Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_eBHtf4myRx-E2ht-Q3Dm1Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -23997,7 +23997,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_143" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_143')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_143')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;18&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:c7316b113c88e4c8255de9b8764d6be">Microsoft Word - 1_ELEM_Inside.Cover_2011_FINAL.doc</a> 
       <span class="host"></span>
@@ -24005,7 +24005,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_143">
         
     
-    <div class="annotationCard annotation" id="_ETMGJW0gQT2w3rwrUHRI2A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ETMGJW0gQT2w3rwrUHRI2A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24036,7 +24036,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XdwBaE94TduSFzjFG3HsLA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XdwBaE94TduSFzjFG3HsLA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24067,7 +24067,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_bHPziMCZQk2iAJBCONQ_OA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bHPziMCZQk2iAJBCONQ_OA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24098,7 +24098,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_l7k8sw91RW6wlznv3G_w0A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_l7k8sw91RW6wlznv3G_w0A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24128,8 +24128,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_gV1AS2-WT8y-ynSY9dR8Og" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_gV1AS2-WT8y-ynSY9dR8Og" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24160,7 +24160,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_5amJ7LscTgKzIl91Y82bow" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5amJ7LscTgKzIl91Y82bow" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24190,8 +24190,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_4fJeV1NJQLWJkm8P_JiApw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_4fJeV1NJQLWJkm8P_JiApw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24222,7 +24222,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_FS2r467bTuaH8zRVqyNXnw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FS2r467bTuaH8zRVqyNXnw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24252,8 +24252,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_2LrqOwlISfWYlK5gUbg1Rw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_2LrqOwlISfWYlK5gUbg1Rw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24284,7 +24284,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_sMFbKU4CSDGO1aA1uRsZfw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_sMFbKU4CSDGO1aA1uRsZfw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24314,8 +24314,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_WEijZRQwS2SKOBSvIrSKFQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_WEijZRQwS2SKOBSvIrSKFQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24346,7 +24346,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_BWLwuHKOQJCFMhv9e0gTSQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_BWLwuHKOQJCFMhv9e0gTSQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24377,7 +24377,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rCng1Mp4TL2lCE8CRPUFww" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rCng1Mp4TL2lCE8CRPUFww" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24408,7 +24408,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NR6gzGtKRoG4N_t0n4yC9Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NR6gzGtKRoG4N_t0n4yC9Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24439,7 +24439,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_B51DVMkST6qxe9rh3LNPSw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_B51DVMkST6qxe9rh3LNPSw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24469,8 +24469,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_m4FULuBFRY-Qp7t2A2N28g" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_m4FULuBFRY-Qp7t2A2N28g" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24502,7 +24502,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_S1WK07rSR461_013MqHoBg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_S1WK07rSR461_013MqHoBg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24532,8 +24532,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_EsKYO7XzRau1UIriXi9Ibg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_EsKYO7XzRau1UIriXi9Ibg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24565,7 +24565,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0sZbVtq-SUWKneYKWia4gA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0sZbVtq-SUWKneYKWia4gA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24595,8 +24595,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_cFBnfov2ShyayUbt5Rm4cQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_cFBnfov2ShyayUbt5Rm4cQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24630,7 +24630,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PhegdkqEQay0315f4czmew" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PhegdkqEQay0315f4czmew" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24660,8 +24660,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_BQJMalToSnOC5ceAN4Lu5w" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_BQJMalToSnOC5ceAN4Lu5w" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24692,7 +24692,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-nZUPi6xR5u5jP5nBWuO7Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-nZUPi6xR5u5jP5nBWuO7Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24722,8 +24722,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_xrR0CnmnT72K40HDhSKoTQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_xrR0CnmnT72K40HDhSKoTQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24753,8 +24753,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Q8TJdOmfQ9GBHuSN9Ck-7Q" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Q8TJdOmfQ9GBHuSN9Ck-7Q" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24785,7 +24785,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GgUZHZQ3QtGPOZ-PoslHMA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GgUZHZQ3QtGPOZ-PoslHMA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24815,8 +24815,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_kA-PIopWRgu8K5yTWbkJrg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_kA-PIopWRgu8K5yTWbkJrg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24847,7 +24847,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_KIqmHsAwSqykknFEJvKwPg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_KIqmHsAwSqykknFEJvKwPg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24877,8 +24877,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22edu305%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=edu305">edu305</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_iXUiF-HISgSmWsgEvRAV-Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_iXUiF-HISgSmWsgEvRAV-Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24909,7 +24909,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_144" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_144')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_144')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://all4ed.org/a-just-right-approach-to-fixing-no-child-left-behind">A “Just Right” Approach to Fixing No Child Left Behind</a> 
       <span class="host">all4ed.org</span>
@@ -24917,7 +24917,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_144">
         
     
-    <div class="annotationCard annotation" id="_guGiQWdWSVyCZoABw3IIhA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_guGiQWdWSVyCZoABw3IIhA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24948,7 +24948,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_s8s-MNcFRWOT5NjmqaLzlA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_s8s-MNcFRWOT5NjmqaLzlA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -24979,7 +24979,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_DS7pQeMgS3i5qFNQgTWjhA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_DS7pQeMgS3i5qFNQgTWjhA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25010,7 +25010,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_145" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_145')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_145')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:b66558a7cfd1e34192ccbdcd7a48c85">9781107025745_foreword_pdf_1.pdf</a> 
       <span class="host"></span>
@@ -25018,7 +25018,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_145">
         
     
-    <div class="annotationCard annotation" id="_EF0bsJm-R6yAo1OShKzShQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_EF0bsJm-R6yAo1OShKzShQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25049,7 +25049,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NGBvqB4MTg6xTTqJ07G2SQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NGBvqB4MTg6xTTqJ07G2SQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25080,7 +25080,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_146" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_146')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_146')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:bd93336cda81b1fde5bfc911cbee8ff">St Pierre 2004 Deleuzian Concepts for Education (2).pdf</a> 
       <span class="host"></span>
@@ -25088,7 +25088,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_146">
         
     
-    <div class="annotationCard annotation" id="_WeXAgG9FQ1a5f8rxFSzMTA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WeXAgG9FQ1a5f8rxFSzMTA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25118,8 +25118,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22D%26G%22%2C%22rhizomatic%20learning%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=D&amp;G">D&amp;G</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=rhizomatic%20learning">rhizomatic learning</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_MR8euJjlQoKHxwdiPnE83Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_MR8euJjlQoKHxwdiPnE83Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25150,7 +25150,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_147" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_147')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_147')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:dcc355136673ddef4e4d9c3272d1c6cb">Honan 2007 (1).pdf</a> 
       <span class="host"></span>
@@ -25158,7 +25158,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_147">
         
     
-    <div class="annotationCard annotation" id="_Zgc2E7yuTD6hkbWVqlhq_w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Zgc2E7yuTD6hkbWVqlhq_w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25189,7 +25189,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rQg2MNmTQLuXSfvnzQBYUw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rQg2MNmTQLuXSfvnzQBYUw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25220,7 +25220,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_148" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_148')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_148')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:baa897922fcd457485e37da54ab499c">Confronting the Challenges of Participatory Culture: Media Education for the 21st Century</a> 
       <span class="host"></span>
@@ -25228,7 +25228,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_148">
         
     
-    <div class="annotationCard annotation" id="_l1tRuq5tSROeRxnGY3xcEg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_l1tRuq5tSROeRxnGY3xcEg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25259,7 +25259,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_149" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_149')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_149')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;41&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:139698934ea5f57478d49da68e59280">Mapping literacy spaces in motion: A rhizomatic analysis of a classroom literacy performance</a> 
       <span class="host"></span>
@@ -25267,7 +25267,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_149">
         
     
-    <div class="annotationCard annotation" id="_MZhyia3CT7e34CcjOk3hfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MZhyia3CT7e34CcjOk3hfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25298,7 +25298,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_YENSQeVrRu-AEuFMg0nYAg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_YENSQeVrRu-AEuFMg0nYAg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25329,7 +25329,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_YiY6vY6KTH-dQgXSmj3IBA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_YiY6vY6KTH-dQgXSmj3IBA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25360,7 +25360,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_c79I6QxHRTqr-tJVVg-GEw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_c79I6QxHRTqr-tJVVg-GEw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25391,7 +25391,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_F-XMm7iBQJKPsdRZsMf9UQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_F-XMm7iBQJKPsdRZsMf9UQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25422,7 +25422,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_TUWmLiOqRa26wwct1AAfLA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_TUWmLiOqRa26wwct1AAfLA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25453,7 +25453,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_hPBdE7pERkO9Hv6qSrh1_g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_hPBdE7pERkO9Hv6qSrh1_g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25484,7 +25484,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="__ReBOO6qTviF68mwuVqqxg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="__ReBOO6qTviF68mwuVqqxg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25515,7 +25515,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_wpwYtZR9TiuzH6B26Nv-1g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wpwYtZR9TiuzH6B26Nv-1g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25546,7 +25546,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tZni67iJSW6ouRhBIPIr1Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tZni67iJSW6ouRhBIPIr1Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25577,7 +25577,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_9mGfrWcjRoSApVd3ZbOq4w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9mGfrWcjRoSApVd3ZbOq4w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25608,7 +25608,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_b4SC8_OpSYumkP2-qaBhmA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_b4SC8_OpSYumkP2-qaBhmA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25639,7 +25639,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_eXpmoAitT8Owy2c9n0ACjw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_eXpmoAitT8Owy2c9n0ACjw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25670,7 +25670,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ftS2RFltRmWBlblu-dUT5A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ftS2RFltRmWBlblu-dUT5A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25701,7 +25701,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zi2PTk0yTByqfHlsOmjCiw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zi2PTk0yTByqfHlsOmjCiw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25733,7 +25733,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0vzUm9vWTwGQDpE4J4k81A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0vzUm9vWTwGQDpE4J4k81A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25764,7 +25764,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tJMvmLJXTwChEVwOIYxhqA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tJMvmLJXTwChEVwOIYxhqA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25795,7 +25795,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_V0uBjgT3RSWFLtQajeEMEQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_V0uBjgT3RSWFLtQajeEMEQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25826,7 +25826,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2Ifv0FJZSpqkR5j4M5ZY5g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2Ifv0FJZSpqkR5j4M5ZY5g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25858,7 +25858,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_GwTzUR70RXO3JkGuEpwggA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_GwTzUR70RXO3JkGuEpwggA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25889,7 +25889,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_BQu8gGaZQ3yszw3UWO1hAA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_BQu8gGaZQ3yszw3UWO1hAA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25920,7 +25920,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_WtVOee8GTiyowqDDyx8dtg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WtVOee8GTiyowqDDyx8dtg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25951,7 +25951,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_soqbhjqLRO6G58glF5Lo4w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_soqbhjqLRO6G58glF5Lo4w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -25982,7 +25982,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_btXLh0baQKWbkvzKlEoGUg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_btXLh0baQKWbkvzKlEoGUg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26013,7 +26013,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_u5-mfBxyRmGDV_bzDMzqqQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_u5-mfBxyRmGDV_bzDMzqqQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26044,7 +26044,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_RW2mpkGdTg-oJYr1qEKVlQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_RW2mpkGdTg-oJYr1qEKVlQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26075,7 +26075,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_QCtVaL88SU-QIwrlHR0dKw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QCtVaL88SU-QIwrlHR0dKw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26107,7 +26107,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_kkUU60lrSMyt2j38G9xEmw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_kkUU60lrSMyt2j38G9xEmw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26138,7 +26138,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_wWyFT0ymQhSIsb4T1wMiAA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wWyFT0ymQhSIsb4T1wMiAA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26169,7 +26169,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LFOm_9_DSQ2M34dtxsVSZA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LFOm_9_DSQ2M34dtxsVSZA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26200,7 +26200,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SCavFKfnSmGRP4v98zgFow" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SCavFKfnSmGRP4v98zgFow" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26231,7 +26231,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uXfnUs6LSMSYBchh9fky5w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uXfnUs6LSMSYBchh9fky5w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26262,7 +26262,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_x2OUkGznT1WqITz5vaXGRg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_x2OUkGznT1WqITz5vaXGRg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26293,7 +26293,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_4Z_zeTmWRHmNKrSlTLYn4g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_4Z_zeTmWRHmNKrSlTLYn4g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26324,7 +26324,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_alejlUfxQU6RMiSfufWr9Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_alejlUfxQU6RMiSfufWr9Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26355,7 +26355,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_FCEbr0l_Q62FjaA8Sh3pNA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FCEbr0l_Q62FjaA8Sh3pNA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26386,7 +26386,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2T5v_iqdRrW0iXC7ZYQhPw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2T5v_iqdRrW0iXC7ZYQhPw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26417,7 +26417,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_DDkvg8FjS-mFsg9hPEnlDA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_DDkvg8FjS-mFsg9hPEnlDA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26448,7 +26448,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_R6I3cDm6Sdi9iowlvr51Kg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_R6I3cDm6Sdi9iowlvr51Kg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26479,7 +26479,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_05poSVhEQiaTS-nomV5x7Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_05poSVhEQiaTS-nomV5x7Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26510,7 +26510,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_lo_RddeGTjqgs0-_doHVzw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lo_RddeGTjqgs0-_doHVzw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26541,7 +26541,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_150" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_150')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_150')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://blogs.edweek.org/edweek/learning_deeply/2015/04/the_paradox_of_deeper_learning_the_unlearning_curve.html">The Paradox of Deeper Learning: The Unlearning Curve</a> 
       <span class="host">blogs.edweek.org</span>
@@ -26549,7 +26549,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_150">
         
     
-    <div class="annotationCard annotation" id="_1S61NaFMQdWA7_X8QSrRzw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1S61NaFMQdWA7_X8QSrRzw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26584,7 +26584,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SlELzvvwSJK3OzAN6b7wrg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SlELzvvwSJK3OzAN6b7wrg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26615,7 +26615,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3HFgI_PvQl6pbyfNxJQQMg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3HFgI_PvQl6pbyfNxJQQMg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26646,7 +26646,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-cO6UHb6RL-Twz3YtI7KYg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-cO6UHb6RL-Twz3YtI7KYg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26678,7 +26678,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ctvpPrOnRGaGvAofD3LzcQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ctvpPrOnRGaGvAofD3LzcQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26711,7 +26711,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_151" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_151')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_151')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.thesummitprep.org/pmisterovich/2015/04/24/rhizo15-week-2-measurables">#rhizo15 | Week 2 | Measurables</a> 
       <span class="host">www.thesummitprep.org</span>
@@ -26719,7 +26719,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_151">
         
     
-    <div class="annotationCard annotation" id="_fcqx_R-4QIaAYROOKQ_ktQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_fcqx_R-4QIaAYROOKQ_ktQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26750,7 +26750,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_152" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_152')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_152')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:9929a18c96faa43947b38978ee5a078">0001536473.INDD</a> 
       <span class="host"></span>
@@ -26758,7 +26758,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_152">
         
     
-    <div class="annotationCard annotation" id="_VT9jafHCRImq7SoI2_sRxg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VT9jafHCRImq7SoI2_sRxg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26789,7 +26789,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_153" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_153')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_153')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://htmlgiant.com/random/the-beginners-guide-to-deleuze">The Beginner’s Guide to Deleuze | HTMLGIANT</a> 
       <span class="host">htmlgiant.com</span>
@@ -26797,7 +26797,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_153">
         
     
-    <div class="annotationCard annotation" id="_Mca3TISvQGKc1kGR1Es8pw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Mca3TISvQGKc1kGR1Es8pw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26827,8 +26827,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23rhizo15%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#rhizo15">#rhizo15</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_YmNqhM42SD2wwHm5M9s0GQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_YmNqhM42SD2wwHm5M9s0GQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26858,8 +26858,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_og9lnE1_R5SaJQF3WBdwyA" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_og9lnE1_R5SaJQF3WBdwyA" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26889,8 +26889,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23rhizo15%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#rhizo15">#rhizo15</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_854qRtlJSE6b9jrlv4Ez3g" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_854qRtlJSE6b9jrlv4Ez3g" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26921,7 +26921,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NPn1ImO0RkuOG-neNpRzhg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NPn1ImO0RkuOG-neNpRzhg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26951,8 +26951,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23rhizo15%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#rhizo15">#rhizo15</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_11Qa3QFnQhuKIBwuksfnHA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_11Qa3QFnQhuKIBwuksfnHA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -26983,7 +26983,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_154" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_154')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_154')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;14&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://blog.webmaker.org/understanding-web-literacy-within-the-web-journey">Understanding Web Literacy within the Web Journey</a> 
       <span class="host">blog.webmaker.org</span>
@@ -26991,7 +26991,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_154">
         
     
-    <div class="annotationCard annotation" id="_oh-hlo6FRduD9MvxOEtCmw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_oh-hlo6FRduD9MvxOEtCmw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27024,7 +27024,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Hgqe92fDSf-_m75Go8-J_Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Hgqe92fDSf-_m75Go8-J_Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27055,7 +27055,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_nGuHvmvwQT2LwoSJCDCILw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_nGuHvmvwQT2LwoSJCDCILw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27087,7 +27087,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_pL1oRZVJRgKpb-VKA94HGA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pL1oRZVJRgKpb-VKA94HGA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27118,7 +27118,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_QXflyLqCS0CMQjbdWKdnwA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QXflyLqCS0CMQjbdWKdnwA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27149,7 +27149,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_p3JpC2BxTVuIoINcIB5exw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_p3JpC2BxTVuIoINcIB5exw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27180,7 +27180,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AWpdrfScR_mL4DhrAsymSw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AWpdrfScR_mL4DhrAsymSw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27211,7 +27211,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NEPUYQp7Que7eHB-j8H2OQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NEPUYQp7Que7eHB-j8H2OQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27243,7 +27243,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_fwgCLGJxQXyBDZ1y5aAcgg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_fwgCLGJxQXyBDZ1y5aAcgg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27275,7 +27275,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Ywmh-217TsOJ1vADjeUDvg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Ywmh-217TsOJ1vADjeUDvg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27306,7 +27306,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_z1KTUuk-RU6Mxz_ur2JBIQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_z1KTUuk-RU6Mxz_ur2JBIQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27337,7 +27337,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XuOQyKvZQv-BKNKI3o-svA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XuOQyKvZQv-BKNKI3o-svA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27368,7 +27368,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_sT_BknXFRLmSPpe9WL-zgw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_sT_BknXFRLmSPpe9WL-zgw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27399,7 +27399,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0FCDmrS9Rua9PmLnqUsn3A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0FCDmrS9Rua9PmLnqUsn3A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27430,7 +27430,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_155" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_155')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_155')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.preservenet.com/theory/Illich/Deschooling/chap6.html">http://www.preservenet.com/theory/Illich/Deschooling/chap6.html</a> 
       <span class="host">www.preservenet.com</span>
@@ -27438,7 +27438,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_155">
         
     
-    <div class="annotationCard annotation" id="_rQVBU3UgTY-FmQx6sjmEtQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rQVBU3UgTY-FmQx6sjmEtQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27468,8 +27468,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22mozacademy%22%2C%22open%20fluency%22%2C%22teachtheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=mozacademy">mozacademy</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=open%20fluency">open fluency</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_sxrLH4dDTSK43hnmcHaucg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_sxrLH4dDTSK43hnmcHaucg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27503,7 +27503,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_156" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_156')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_156')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:844232ab61348bca5adbfdcb4cea0cf">INDIA_FINAL.indd</a> 
       <span class="host"></span>
@@ -27511,7 +27511,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_156">
         
     
-    <div class="annotationCard annotation" id="_lfQUjbYJR9mmuPVhvEfWVQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_lfQUjbYJR9mmuPVhvEfWVQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27542,7 +27542,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_157" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_157')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_157')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;12&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.zythepsary.com/techie/open-fluency">  Open Fluency</a> 
       <span class="host">www.zythepsary.com</span>
@@ -27550,7 +27550,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_157">
         
     
-    <div class="annotationCard annotation" id="_a62LhffvQXObHU4h03okGg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_a62LhffvQXObHU4h03okGg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27581,7 +27581,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_F1Ii7eNLReeQEKQ-8hn1IA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_F1Ii7eNLReeQEKQ-8hn1IA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27612,7 +27612,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_N5QzON8bRhytm8ePonPXeQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_N5QzON8bRhytm8ePonPXeQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27644,7 +27644,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_VQ5TkT-URvG-QwRAAV1zMQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VQ5TkT-URvG-QwRAAV1zMQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27675,7 +27675,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Z1C-kzFFQXm7or78WTGBsQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Z1C-kzFFQXm7or78WTGBsQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27706,7 +27706,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_5wWbmCCLRDmz5ATFRWCVrA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5wWbmCCLRDmz5ATFRWCVrA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27737,7 +27737,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_VJugtQ5cRwyVaBeYmBJocQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VJugtQ5cRwyVaBeYmBJocQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27768,7 +27768,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cfOCW3AsRWaza2LQJ9W1qQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cfOCW3AsRWaza2LQJ9W1qQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27799,8 +27799,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22teachtheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tFaCi4gMQJWLyf0uPh583A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tFaCi4gMQJWLyf0uPh583A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27831,7 +27831,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Iv1K9G7qR4aF5tJtVgdQqw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Iv1K9G7qR4aF5tJtVgdQqw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27862,7 +27862,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_FR7sdzD3QzCqSOLBP3-YAQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FR7sdzD3QzCqSOLBP3-YAQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27893,7 +27893,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_yV6LxwgRTNOgXxOmhaRPmA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yV6LxwgRTNOgXxOmhaRPmA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27924,7 +27924,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_158" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_158')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_158')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.huffingtonpost.com/arthur-e-levine/accountability-a-gift-to-_b_7011302.html?utm_hp_ref=tw">Accountability: A Gift to Teacher Education</a> 
       <span class="host">www.huffingtonpost.com</span>
@@ -27932,7 +27932,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_158">
         
     
-    <div class="annotationCard annotation" id="_VeeV60wnSi-2_e68P-7d6Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VeeV60wnSi-2_e68P-7d6Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27963,7 +27963,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_oeWlYzJVRBmcC_R0ccwrjQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_oeWlYzJVRBmcC_R0ccwrjQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -27994,7 +27994,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_y6NOdU0nTWO6gU5vqNpXsw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_y6NOdU0nTWO6gU5vqNpXsw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28025,7 +28025,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_yxduRkE3Rn-zAnOiJxfe9g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yxduRkE3Rn-zAnOiJxfe9g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28056,7 +28056,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_pkIuNV9UQB6FimhO8FK9RA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pkIuNV9UQB6FimhO8FK9RA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28087,7 +28087,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_159" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_159')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_159')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;10&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:31415926535897932384626433832795">CS 224D: Deep Learning for NLP</a> 
       <span class="host"></span>
@@ -28095,7 +28095,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_159">
         
     
-    <div class="annotationCard annotation" id="_wlpr7h-xSKiZyfC04oZ6zQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wlpr7h-xSKiZyfC04oZ6zQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28126,7 +28126,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_wGb6J-dwRRO5pTw0yV5eqQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wGb6J-dwRRO5pTw0yV5eqQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28157,7 +28157,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cw8fyQ2GQpC8MJNbNou3mA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cw8fyQ2GQpC8MJNbNou3mA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28188,7 +28188,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_EJ0DliEMQKOWQe3gM3S-Dg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_EJ0DliEMQKOWQe3gM3S-Dg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28219,7 +28219,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_sE188xSzQoetQqcjWL221Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_sE188xSzQoetQqcjWL221Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28250,7 +28250,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Ahf6frdPRn-uHfXKmphhdA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Ahf6frdPRn-uHfXKmphhdA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28281,7 +28281,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rtadQEEBSeeTmcG7T4OLeA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rtadQEEBSeeTmcG7T4OLeA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28312,7 +28312,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_xvBrYo5GQsevMc4RyBh5_A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_xvBrYo5GQsevMc4RyBh5_A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28343,7 +28343,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_dU-_085CTq28BTB69YwKbQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_dU-_085CTq28BTB69YwKbQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28374,7 +28374,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_8D7FSuOYRSWJS54nWpfb5w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_8D7FSuOYRSWJS54nWpfb5w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28405,7 +28405,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_160" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_160')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_160')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;13&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://blog.webmaker.org/building-an-academy">Building an Academy</a> 
       <span class="host">blog.webmaker.org</span>
@@ -28413,7 +28413,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_160">
         
     
-    <div class="annotationCard annotation" id="_ohYmZBOyTwyTswDD7nLO6Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ohYmZBOyTwyTswDD7nLO6Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28444,7 +28444,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7DDuRaphQPS2ZUMCiOCh9g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7DDuRaphQPS2ZUMCiOCh9g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28475,7 +28475,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_fc8zx2ZVR8aEJSH3h2wDNA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_fc8zx2ZVR8aEJSH3h2wDNA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28506,7 +28506,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7vxNeseQR9GpnS8wye-UBQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7vxNeseQR9GpnS8wye-UBQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28537,7 +28537,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_fK4BZfGCST-hAqH5uSwRiQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_fK4BZfGCST-hAqH5uSwRiQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28568,7 +28568,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cgkzUC5VRoeqyvwlnKrdyQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cgkzUC5VRoeqyvwlnKrdyQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28599,7 +28599,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_17zTLeToQ_a12MqYyZoZug" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_17zTLeToQ_a12MqYyZoZug" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28629,8 +28629,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22teachtheweb%22%2C%22mozacademy%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=mozacademy">mozacademy</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_IzcrUKVdSZa2-3d3sz5Iew" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_IzcrUKVdSZa2-3d3sz5Iew" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28661,7 +28661,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uT-TWjf7QWOjb4MO_9SToA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uT-TWjf7QWOjb4MO_9SToA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28692,7 +28692,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_uLFfy_hYTR6CajFLWLj6mQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uLFfy_hYTR6CajFLWLj6mQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28723,7 +28723,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_DMZMLDlUQDq4HD7vG2cJJA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_DMZMLDlUQDq4HD7vG2cJJA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28754,7 +28754,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zW0mNRgwTKKJpfi8IYMikA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zW0mNRgwTKKJpfi8IYMikA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28785,7 +28785,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_8ty396nCQZCmsyQMcq8zow" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_8ty396nCQZCmsyQMcq8zow" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28816,7 +28816,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_161" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_161')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_161')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;8&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://web.hypothes.is/blog/synchronizing-annotations-between-local-and-remote-pdfs">Synchronizing annotations between local and remote PDFs | Hypothesis</a> 
       <span class="host">web.hypothes.is</span>
@@ -28824,7 +28824,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_161">
         
     
-    <div class="annotationCard annotation" id="_yL8JaOI7SUS0oLqLo5JrzQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yL8JaOI7SUS0oLqLo5JrzQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28854,8 +28854,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_z6im1evITGWtoHr1NNuxOw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_z6im1evITGWtoHr1NNuxOw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28887,7 +28887,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0e8SiOiaRvKYl3I29l34PA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0e8SiOiaRvKYl3I29l34PA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28918,7 +28918,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Q5L-wa-lS0alKOZrL9PdwA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Q5L-wa-lS0alKOZrL9PdwA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28949,7 +28949,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_w5jtKTssTxacBJ7PYVu8vg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_w5jtKTssTxacBJ7PYVu8vg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -28979,8 +28979,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_kVsYYDD5RZyfVVQvy4Xa0A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_kVsYYDD5RZyfVVQvy4Xa0A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29012,7 +29012,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_FZirVSYHQyamWZfI-FtI7A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_FZirVSYHQyamWZfI-FtI7A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29043,8 +29043,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_sbkClVd-TBunNN17v1BXmQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_sbkClVd-TBunNN17v1BXmQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29074,8 +29074,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_7-7i_8q0TpSwI-uRBMfFjg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_7-7i_8q0TpSwI-uRBMfFjg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29108,8 +29108,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_pjb9GuxaQ1ynaM12AmM2ng" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_pjb9GuxaQ1ynaM12AmM2ng" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29141,7 +29141,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_WHhraGuiQyedAtWvknxw8A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WHhraGuiQyedAtWvknxw8A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29171,8 +29171,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0AU89sNvSr6aj0AliFBTGA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0AU89sNvSr6aj0AliFBTGA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29203,7 +29203,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_162" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_162')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_162')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://web.hypothes.is/blog/announcing-anno-fund">https://web.hypothes.is/blog/announcing-anno-fund/</a> 
       <span class="host">web.hypothes.is</span>
@@ -29211,7 +29211,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_162">
         
     
-    <div class="annotationCard annotation" id="_O2vevU0lTOK-DIg_PERgHQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_O2vevU0lTOK-DIg_PERgHQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29242,8 +29242,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_rRhw4xeuTZuArg8N9joOlw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_rRhw4xeuTZuArg8N9joOlw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29274,7 +29274,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_163" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_163')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_163')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.fastcoexist.com/1680264/why-web-literacy-should-be-part-of-every-education">Why Web Literacy Should Be Part of Every Education  </a> 
       <span class="host">www.fastcoexist.com</span>
@@ -29282,7 +29282,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_163">
         
     
-    <div class="annotationCard annotation" id="_5IysB8dpR-OqgRsKmbI5hA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5IysB8dpR-OqgRsKmbI5hA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29315,8 +29315,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22walkmyworld%22%2C%22teachtheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=walkmyworld">walkmyworld</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_0fLTthL9S_iHbCwlWQc7DQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0fLTthL9S_iHbCwlWQc7DQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29346,8 +29346,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22teachtheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_jd_qQlH0RB-eMr24gLKXDA" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_jd_qQlH0RB-eMr24gLKXDA" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29379,7 +29379,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_164" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_164')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_164')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://blog.mahabali.me/blog/educational-technology-2/moms-adventurous-bedtime-hangout-w-dmlcommons">Mom's Adventurous Bedtime Hangout w #dmlcommons</a> 
       <span class="host">blog.mahabali.me</span>
@@ -29387,7 +29387,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_164">
         
     
-    <div class="annotationCard annotation" id="_uHZP9lL9RFm0iJXpchNpoA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_uHZP9lL9RFm0iJXpchNpoA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29420,7 +29420,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_165" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_165')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_165')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;12&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:59368a4484f7aaafc843efca349178b">Winn-mca.pdf</a> 
       <span class="host"></span>
@@ -29428,7 +29428,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_165">
         
     
-    <div class="annotationCard annotation" id="_euCb1JSyQJCWnsCSTWKcQQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_euCb1JSyQJCWnsCSTWKcQQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29459,7 +29459,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cvFY6bgSTXuEANpp_xR_HA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cvFY6bgSTXuEANpp_xR_HA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29490,7 +29490,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XAkA1cw6ScacS1O1N6Ad6Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XAkA1cw6ScacS1O1N6Ad6Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29521,7 +29521,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tVcxsnMbRcCH5gYbvQLtxg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tVcxsnMbRcCH5gYbvQLtxg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29552,7 +29552,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PfugHp63Q0ugOVrfjoymeg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PfugHp63Q0ugOVrfjoymeg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29583,7 +29583,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_nSwGx4nLQ863A3sCkzE5AA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_nSwGx4nLQ863A3sCkzE5AA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29614,7 +29614,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_XCl7o3RuSO2spOFEQXVsbw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_XCl7o3RuSO2spOFEQXVsbw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29645,7 +29645,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_1M-LRFGlQX-BBQIXsNrNMw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1M-LRFGlQX-BBQIXsNrNMw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29676,7 +29676,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_zLZ7Bm8NQOSqlv-PeSDzmQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_zLZ7Bm8NQOSqlv-PeSDzmQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29707,7 +29707,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_8jTIZ_ziTcumz5LymeSvsQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_8jTIZ_ziTcumz5LymeSvsQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29738,7 +29738,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7uesh6aiSPWr6Tv85Tij6g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7uesh6aiSPWr6Tv85Tij6g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29769,7 +29769,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LpK8oHrLSpCq--VBBSueQw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LpK8oHrLSpCq--VBBSueQw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29800,7 +29800,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_166" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_166')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_166')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:cb51aed699b535fbebd5279a4045effd">22-1-winn.pdf</a> 
       <span class="host"></span>
@@ -29808,7 +29808,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_166">
         
     
-    <div class="annotationCard annotation" id="_1ef4l6KoQ4WdoUt6fY6nlw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1ef4l6KoQ4WdoUt6fY6nlw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29838,8 +29838,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_wnawTyOBRy6URDiWtHtRJQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_wnawTyOBRy6URDiWtHtRJQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29871,7 +29871,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_167" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_167')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_167')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://blog.webmaker.org/web-literacy-map-v1-5">Web Literacy Map v1.5</a> 
       <span class="host">blog.webmaker.org</span>
@@ -29879,7 +29879,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_167">
         
     
-    <div class="annotationCard annotation" id="_vw3RvEFNRWy5RxWCFzEqiw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vw3RvEFNRWy5RxWCFzEqiw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29911,7 +29911,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LDVdANyURx2mYXTt6Qntog" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LDVdANyURx2mYXTt6Qntog" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29945,7 +29945,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_168" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_168')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_168')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:1e7abfcaa68296539339c7c5335dd58">patw11_99.PDF</a> 
       <span class="host"></span>
@@ -29953,7 +29953,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_168">
         
     
-    <div class="annotationCard annotation" id="_ldATUSXJQMiPSv75nBVvnQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ldATUSXJQMiPSv75nBVvnQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -29983,8 +29983,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_bYG4pCa9TpCGddt85N9_5Q" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_bYG4pCa9TpCGddt85N9_5Q" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30014,8 +30014,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_17RSxFrtQyy13HsSFibZRw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_17RSxFrtQyy13HsSFibZRw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30045,8 +30045,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_amC5Uj66RSWEPyJjm4snMg" style="display: block; margin-left: 60px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_amC5Uj66RSWEPyJjm4snMg" style="display: none; margin-left: 60px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30076,8 +30076,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_hUyPHpROQ7SwlDe0o9dgaA" style="display: block; margin-left: 80px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 68px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_hUyPHpROQ7SwlDe0o9dgaA" style="display: none; margin-left: 80px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30107,8 +30107,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 88px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_eR9VHgj_SVqgHxmKlQd5zg" style="display: block; margin-left: 100px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 88px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_eR9VHgj_SVqgHxmKlQd5zg" style="display: none; margin-left: 100px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30138,8 +30138,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 108px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_gJJL4VVAQKmjibIJLYUhvA" style="display: block; margin-left: 120px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 108px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_gJJL4VVAQKmjibIJLYUhvA" style="display: none; margin-left: 120px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30169,8 +30169,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 128px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_M-g-cl_gQ6eq2TGhS7Q63w" style="display: block; margin-left: 140px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 128px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_M-g-cl_gQ6eq2TGhS7Q63w" style="display: none; margin-left: 140px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30200,8 +30200,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 148px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_RBn1VDSBTG-VHIj7gHrP1Q" style="display: block; margin-left: 160px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 148px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_RBn1VDSBTG-VHIj7gHrP1Q" style="display: none; margin-left: 160px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30233,7 +30233,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_169" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_169')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_169')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://etale.org/main/2015/03/24/will-openbadges-remain-open-that-is-up-to-us">Will #OpenBadges Remain Open? That is up to us.</a> 
       <span class="host">etale.org</span>
@@ -30241,7 +30241,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_169">
         
     
-    <div class="annotationCard annotation" id="_xX0pJkIMTCeS5Z9fGzyO-A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_xX0pJkIMTCeS5Z9fGzyO-A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30272,7 +30272,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Gqjk9na8T7Cc7Sh6NezHTw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Gqjk9na8T7Cc7Sh6NezHTw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30304,7 +30304,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AmFE6j3dSAKZUOWvCo0VnA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AmFE6j3dSAKZUOWvCo0VnA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30335,7 +30335,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_BgiyAZioRHWrmAn1rke1bA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_BgiyAZioRHWrmAn1rke1bA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30366,7 +30366,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_bwiEbDCqQJaybPkXfZ-rhw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_bwiEbDCqQJaybPkXfZ-rhw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30398,7 +30398,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_170" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_170')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_170')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://adamlofting.com/1320/2015-mozilla-foundation-metrics-strategyish-roadmapish/?utm_source=twitterfeed&amp;utm_medium=twitter&amp;utm_campaign=Feed:+adamlofting/blog+(@adamlofting)">2015 Mozilla Foundation Metrics Strategy(ish) &amp; Roadmap(ish) | Adam Lofting</a> 
       <span class="host">adamlofting.com</span>
@@ -30406,7 +30406,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_170">
         
     
-    <div class="annotationCard annotation" id="_ey78mtyQSp6e0fM5m8Ve1w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ey78mtyQSp6e0fM5m8Ve1w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30437,7 +30437,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_C5CUcaq5RH6t6zQtrA33TA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_C5CUcaq5RH6t6zQtrA33TA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30468,7 +30468,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LmOahNOcSTSiIKubQdBzrQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LmOahNOcSTSiIKubQdBzrQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30499,7 +30499,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IcYh6F2zTme-oglqjM2OZA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IcYh6F2zTme-oglqjM2OZA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30530,7 +30530,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_PJ9uucRBTaO7jOgtVlcOYw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_PJ9uucRBTaO7jOgtVlcOYw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30561,7 +30561,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_171" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_171')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_171')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/web-literacy-map-slow-your-roll-reflections-on-1214-call">Web Literacy Map-Slow Your Roll-Reflections on 12/14 Call</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -30569,7 +30569,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_171">
         
     
-    <div class="annotationCard annotation" id="_Q0mqAOhFSXWnwD4eiRiNLQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Q0mqAOhFSXWnwD4eiRiNLQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30600,7 +30600,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_172" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_172')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_172')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.tandfonline.com/doi/full/10.1080/03626784.2014.995063">Learning connected civics: Narratives, practices, infrastructures</a> 
       <span class="host">www.tandfonline.com</span>
@@ -30608,7 +30608,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_172">
         
     
-    <div class="annotationCard annotation" id="_QGBDHfzpSuKAQ4DUFiMdKw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QGBDHfzpSuKAQ4DUFiMdKw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30638,8 +30638,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22tjc15%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=tjc15">tjc15</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_s36bnnydRH6FoB30M1WlRQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_s36bnnydRH6FoB30M1WlRQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30670,7 +30670,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_173" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_173')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_173')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;22&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:b36449a8dbee4d3e829d782f25844a7a">Documenting and Accessing Learning in Informal and Media-Rich Environments</a> 
       <span class="host"></span>
@@ -30678,7 +30678,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_173">
         
     
-    <div class="annotationCard annotation" id="_9qqmnI2pTzii6GMYw9vw1g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9qqmnI2pTzii6GMYw9vw1g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30709,7 +30709,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SK3pfYX8TtaeBdj_Tfb-xQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SK3pfYX8TtaeBdj_Tfb-xQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30740,7 +30740,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Lv2ge8S1TLanvhayYSgdVA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Lv2ge8S1TLanvhayYSgdVA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30771,7 +30771,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_EGAxzR6ZRYGec78y5ewtrw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_EGAxzR6ZRYGec78y5ewtrw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30802,7 +30802,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2t5OOmTtRbWeNzeLuq2qYQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2t5OOmTtRbWeNzeLuq2qYQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30833,7 +30833,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_rkRarudOTYK2VzzQX7JFfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rkRarudOTYK2VzzQX7JFfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30864,7 +30864,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3cLLymjYQjysH59r9uPFjA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3cLLymjYQjysH59r9uPFjA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30895,7 +30895,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ZUob3rQASCulQsjtw7HAng" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ZUob3rQASCulQsjtw7HAng" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30926,7 +30926,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_awprkkyETumWLmDfGOZ1lA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_awprkkyETumWLmDfGOZ1lA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30957,7 +30957,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_WREINvSrTemDsbG3SmcR_g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_WREINvSrTemDsbG3SmcR_g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -30988,7 +30988,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_u4SisUNaQaiS450xe-otCg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_u4SisUNaQaiS450xe-otCg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31019,7 +31019,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_0a5VnK3STr2G4jh8W9goDw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_0a5VnK3STr2G4jh8W9goDw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31050,7 +31050,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_N6PSlWMORaWgFUxM4ujKhg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_N6PSlWMORaWgFUxM4ujKhg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31081,7 +31081,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_n_ERwKEwS4eZd3g1p61WKw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_n_ERwKEwS4eZd3g1p61WKw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31113,7 +31113,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Pa59BEL6QpGmznwM3Nj7NA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Pa59BEL6QpGmznwM3Nj7NA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31144,7 +31144,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_W8wCOc8KTxmAiJuxGMIafg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_W8wCOc8KTxmAiJuxGMIafg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31175,7 +31175,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_e_l83iSbSciGq-JYt2i8Fw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_e_l83iSbSciGq-JYt2i8Fw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31206,7 +31206,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_aEP7aktxQGG43oKmtNfPOg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_aEP7aktxQGG43oKmtNfPOg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31237,7 +31237,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_jKwdTjInTJGNmFZ6XsRPfA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_jKwdTjInTJGNmFZ6XsRPfA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31268,7 +31268,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_MGAhTKfIQGS-9ZMsqTRq_w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MGAhTKfIQGS-9ZMsqTRq_w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31299,7 +31299,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_RjENM6T4Tbuc7mqNtS9uBA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_RjENM6T4Tbuc7mqNtS9uBA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31330,7 +31330,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tz3dfcDqRLuLP2AEm9M-fw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tz3dfcDqRLuLP2AEm9M-fw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31361,7 +31361,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_174" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_174')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_174')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jeffreykeefer.com">Home</a> 
       <span class="host">jeffreykeefer.com</span>
@@ -31369,7 +31369,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_174">
         
     
-    <div class="annotationCard annotation" id="_pfu--3DTSzmKsNoW_G_NPQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_pfu--3DTSzmKsNoW_G_NPQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31401,7 +31401,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_175" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_175')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_175')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.edjustice.org/motion-dismiss-denial">PEJ Statement on Motion Dismiss Decision Denial - Partnership for Educational Justice</a> 
       <span class="host">www.edjustice.org</span>
@@ -31409,7 +31409,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_175">
         
     
-    <div class="annotationCard annotation" id="_u9pKfGHdTDyMGmM7hmG_wQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_u9pKfGHdTDyMGmM7hmG_wQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31440,7 +31440,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_176" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_176')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_176')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://justywk.blogspot.com/2015/03/truthseeking-onward-to-next-tjc15-event.html">K-Log: Truthseeking: Onward to the Next #TJC15 eventptto13 generated by WOWSlider.com</a> 
       <span class="host">justywk.blogspot.com</span>
@@ -31448,7 +31448,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_176">
         
     
-    <div class="annotationCard annotation" id="_gM2AQDxdTbanu889Jn8-3A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gM2AQDxdTbanu889Jn8-3A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31478,8 +31478,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22tjc15%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=tjc15">tjc15</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_48AO7TR3SfauBN23yBROrA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_48AO7TR3SfauBN23yBROrA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31509,8 +31509,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_7ZBfSxUdQP6LlkQ2MNHjQQ" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_7ZBfSxUdQP6LlkQ2MNHjQQ" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31547,7 +31547,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_177" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_177')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_177')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://justywk.blogspot.com">K-Logptto13 generated by WOWSlider.com</a> 
       <span class="host">justywk.blogspot.com</span>
@@ -31555,7 +31555,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_177">
         
     
-    <div class="annotationCard annotation" id="_5ti1B5imQ_SjhA6Ca3OwDg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5ti1B5imQ_SjhA6Ca3OwDg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31588,7 +31588,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_-gt4knpaRpWGucrZwLCXSQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-gt4knpaRpWGucrZwLCXSQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31621,7 +31621,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_MWCcGAcbTG2vcpE4OlwfDg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_MWCcGAcbTG2vcpE4OlwfDg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31652,7 +31652,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_cmL7pUWJSR6hP1wQ-XrqKg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_cmL7pUWJSR6hP1wQ-XrqKg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31683,7 +31683,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_178" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_178')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_178')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://rt.com/news/176828-world-water-crisis-2040">World faces 'insurmountable' water crisis by 2040 – report</a> 
       <span class="host">rt.com</span>
@@ -31691,7 +31691,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_178">
         
     
-    <div class="annotationCard annotation" id="_iu-5yyOfSBCAjR6tbFzbPQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_iu-5yyOfSBCAjR6tbFzbPQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31722,7 +31722,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_af8siUawQq60oBW7_LDuvQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_af8siUawQq60oBW7_LDuvQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31753,7 +31753,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OH084dXaRpOuQctVg18fnw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OH084dXaRpOuQctVg18fnw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31783,8 +31783,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22author%22%2C%22questiontheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=author">author</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=questiontheweb">questiontheweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_4uPiRi5TTwSQYf2QER2mCg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_4uPiRi5TTwSQYf2QER2mCg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31815,7 +31815,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_179" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_179')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_179')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.rollingstone.com/music/features/robert-hunter-on-grateful-deads-early-days-wild-tours-sacred-songs-20150309?page=5">Robert Hunter on Grateful Dead's Early Days, Wild Tours, 'Sacred' Songs</a> 
       <span class="host">www.rollingstone.com</span>
@@ -31823,7 +31823,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_179">
         
     
-    <div class="annotationCard annotation" id="_IKmyBrOsQIuQRpoqrIr9fw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IKmyBrOsQIuQRpoqrIr9fw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31854,7 +31854,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_180" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_180')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_180')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://pardalisfallingforward.blogspot.com/2015/03/edcampswct-wonderings-and-wanderings.html">Falling Forward: EdcampSWCT Wonderings and Wanderings</a> 
       <span class="host">pardalisfallingforward.blogspot.com</span>
@@ -31862,7 +31862,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_180">
         
     
-    <div class="annotationCard annotation" id="_LN63d5tQQLW9McGAtKljgA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LN63d5tQQLW9McGAtKljgA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31893,7 +31893,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_99--ydm5RMKalMS-YGBytw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_99--ydm5RMKalMS-YGBytw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31924,7 +31924,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_wmElCXbLR36clQafaDLw4A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_wmElCXbLR36clQafaDLw4A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31955,7 +31955,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_181" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_181')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_181')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;7&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.cassiemcdaniel.com/blog">Plot 47A</a> 
       <span class="host">www.cassiemcdaniel.com</span>
@@ -31963,7 +31963,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_181">
         
     
-    <div class="annotationCard annotation" id="_CF_z-9UTR56Vckhs3_EaVA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CF_z-9UTR56Vckhs3_EaVA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -31996,7 +31996,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_R833wyrrRx6HY_u_rYKb6w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_R833wyrrRx6HY_u_rYKb6w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32027,7 +32027,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NPQKe6tlS5GYqi_2ovyK3w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NPQKe6tlS5GYqi_2ovyK3w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32059,7 +32059,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IiUwKvVAQB-dxF8OODWyyQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IiUwKvVAQB-dxF8OODWyyQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32090,7 +32090,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_9jlslZI9SqyGpUs3eBXYlw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9jlslZI9SqyGpUs3eBXYlw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32123,7 +32123,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_KPSE0Gb2SJmaSUi1iPz9jA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_KPSE0Gb2SJmaSUi1iPz9jA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32153,8 +32153,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22teachtheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_tKwze4cWQFOBsvSI_HQUkA" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_tKwze4cWQFOBsvSI_HQUkA" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32185,7 +32185,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_182" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_182')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_182')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:5d95c9c1e235be8ba312dc9d7118176e">untitled</a> 
       <span class="host"></span>
@@ -32193,7 +32193,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_182">
         
     
-    <div class="annotationCard annotation" id="_953tErBGS2WdiNkGhftfuw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_953tErBGS2WdiNkGhftfuw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32224,7 +32224,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_qjvdr-4wQP2A9G3R2_MN4g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_qjvdr-4wQP2A9G3R2_MN4g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32255,7 +32255,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_H9vfIZOGSz6zpCACT4b3hA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_H9vfIZOGSz6zpCACT4b3hA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32286,7 +32286,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_183" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_183')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_183')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://jlambert56.wordpress.com/2015/02/07/walkmyworld-my-reflection">#walkmyworld - My Reflection</a> 
       <span class="host">jlambert56.wordpress.com</span>
@@ -32294,7 +32294,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_183">
         
     
-    <div class="annotationCard annotation" id="_OeLsF1xUQwCwQZSM6Au57g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OeLsF1xUQwCwQZSM6Au57g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32325,7 +32325,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_184" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_184')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_184')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://mrsloomis.wordpress.com/2015/02/02/walkmyworld-doctor-who-edition">#walkmyworld: Doctor Who Edition</a> 
       <span class="host">mrsloomis.wordpress.com</span>
@@ -32333,7 +32333,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_184">
         
     
-    <div class="annotationCard annotation" id="_VVxvo5tWR_2C3LrC4iiEJA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VVxvo5tWR_2C3LrC4iiEJA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32365,7 +32365,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_185" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_185')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_185')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://docjsmitchell.wordpress.com/2015/02/06/walkmyworld">#walkmyworld</a> 
       <span class="host">docjsmitchell.wordpress.com</span>
@@ -32373,7 +32373,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_185">
         
     
-    <div class="annotationCard annotation" id="_mxvv8Y3bQYiwFYsuzPz7uw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mxvv8Y3bQYiwFYsuzPz7uw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32404,7 +32404,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_X_mrO7LVTH2sR72cbO78gg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_X_mrO7LVTH2sR72cbO78gg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32435,7 +32435,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_kVWr5MpeSfih-ExCASsPIA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_kVWr5MpeSfih-ExCASsPIA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32466,7 +32466,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_R39I7LuHRA6xuAI8hwpitw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_R39I7LuHRA6xuAI8hwpitw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32497,7 +32497,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_186" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_186')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_186')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://wiobyrne.com/im-a-webmaker-i-build-and-break-things-online">I'm a Webmaker: I build and break things online</a> 
       <span class="host">wiobyrne.com</span>
@@ -32505,7 +32505,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_186">
         
     
-    <div class="annotationCard annotation" id="_soCurLTfR2K9z5MqDxQ2OA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_soCurLTfR2K9z5MqDxQ2OA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32536,7 +32536,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_yM0cdJfEQ-WanZhOz7PMoA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yM0cdJfEQ-WanZhOz7PMoA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32567,7 +32567,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_NS1_JTW_REOcRq0lWhEQNw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_NS1_JTW_REOcRq0lWhEQNw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32598,7 +32598,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_e91swUjPRwujtyBinFtrMg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_e91swUjPRwujtyBinFtrMg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32630,7 +32630,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_187" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_187')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_187')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;10&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://hrast.pef.uni-lj.si/~joze/podiplomci/prs/clanki03/CSILE_Scardamaila.htm">http://hrast.pef.uni-lj.si/~joze/podiplomci/prs/clanki03/CSILE_Scardamaila.htm</a> 
       <span class="host">hrast.pef.uni-lj.si</span>
@@ -32638,7 +32638,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_187">
         
     
-    <div class="annotationCard annotation" id="_9IafZmwaQFKHThkO4hivQw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9IafZmwaQFKHThkO4hivQw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32669,7 +32669,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JnGQ1j0ESbiX5zAgsnUduA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JnGQ1j0ESbiX5zAgsnUduA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32700,7 +32700,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_mCkeDHa1SB-jPO4pZ0mVYg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mCkeDHa1SB-jPO4pZ0mVYg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32731,7 +32731,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_LK80du4iRta5jJRTPTlSiA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_LK80du4iRta5jJRTPTlSiA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32762,7 +32762,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_RcIWnRTBT5an1Ga8Jl0_XQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_RcIWnRTBT5an1Ga8Jl0_XQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32793,7 +32793,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_F57sH_wGSqOwfjTODWxvkw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_F57sH_wGSqOwfjTODWxvkw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32824,7 +32824,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_hayGiw0DRyS0aAQufSudSg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_hayGiw0DRyS0aAQufSudSg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32855,7 +32855,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_OTJOUvFKRjC0_dfscssgWw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OTJOUvFKRjC0_dfscssgWw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32886,7 +32886,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_W3Xa2jZcR_KeTM9o8pzOHw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_W3Xa2jZcR_KeTM9o8pzOHw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32917,7 +32917,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_vhC_iZ52QTeDGQrWD8HiwA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_vhC_iZ52QTeDGQrWD8HiwA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32948,7 +32948,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_188" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_188')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_188')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:b1b382c87275fd877bae043f95644d">preface.pdf</a> 
       <span class="host"></span>
@@ -32956,7 +32956,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_188">
         
     
-    <div class="annotationCard annotation" id="_-156kd12REWK1gCnSWoxqA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_-156kd12REWK1gCnSWoxqA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -32987,7 +32987,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2satV4X7SIm8hJoSjFek1g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2satV4X7SIm8hJoSjFek1g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33018,7 +33018,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_hE6tL8PcQCa3FWIwW7YHzQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_hE6tL8PcQCa3FWIwW7YHzQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33049,7 +33049,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_o466GrRrT7OFB-d2-FTJ5Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_o466GrRrT7OFB-d2-FTJ5Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33080,7 +33080,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_189" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_189')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_189')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://wiobyrne.com/grokkability-ontology-nomological-network">Grokkability, Ontology, and the Nomological Network</a> 
       <span class="host">wiobyrne.com</span>
@@ -33088,7 +33088,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_189">
         
     
-    <div class="annotationCard annotation" id="_l4hYgFXDSW-Jj3fZ7AfbSg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_l4hYgFXDSW-Jj3fZ7AfbSg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33119,7 +33119,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Zcm-sqOXTDGDyXcCRI5T3g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Zcm-sqOXTDGDyXcCRI5T3g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33150,7 +33150,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_EkBgVuo2S8i4ohyNM5M5gA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_EkBgVuo2S8i4ohyNM5M5gA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33182,7 +33182,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_7oRUYhQBQGGd4BpMwe1GLQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_7oRUYhQBQGGd4BpMwe1GLQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33213,7 +33213,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_190" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_190')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_190')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://themighty.com/2015/01/the-day-i-found-out-my-daughter-wouldnt-grow-up">When We Found Out Our Child Would Not Grow Up</a> 
       <span class="host">themighty.com</span>
@@ -33221,7 +33221,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_190">
         
     
-    <div class="annotationCard annotation" id="_QCY5DSsSSf2zEEVOApyXXA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_QCY5DSsSSf2zEEVOApyXXA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33252,7 +33252,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ClHHFIzySCCpYXiFVaQhPA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ClHHFIzySCCpYXiFVaQhPA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33283,7 +33283,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_191" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_191')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_191')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/reflection-from-learning-event-one-our-first-walk">Reflection from Learning Event One: Our First Walk</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -33291,7 +33291,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_191">
         
     
-    <div class="annotationCard annotation" id="_VUXcXNvoRaaTyeYdNATexQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_VUXcXNvoRaaTyeYdNATexQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33321,8 +33321,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22walkmyworld%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=walkmyworld">walkmyworld</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_Q-xZeB8nQvuWQMZyuD0rAQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Q-xZeB8nQvuWQMZyuD0rAQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33354,7 +33354,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_J3SzrqqdTtGqRbaTMn_jgw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_J3SzrqqdTtGqRbaTMn_jgw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33384,8 +33384,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22walkmyworld%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=walkmyworld">walkmyworld</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_BINJGBNNRb6h80o9jEi-Pg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_BINJGBNNRb6h80o9jEi-Pg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33416,7 +33416,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_192" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_192')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_192')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.esurance.com/competition-rules/sxsw-mashable-sweepstakes">SXSW My Way (powered by #esuranceaccess) | Esurance</a> 
       <span class="host">www.esurance.com</span>
@@ -33424,7 +33424,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_192">
         
     
-    <div class="annotationCard annotation" id="_73SHCqPhSGS4KrrILz7Ltg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_73SHCqPhSGS4KrrILz7Ltg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33455,7 +33455,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tDODfXMGQkGa4PUET1vvcg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tDODfXMGQkGa4PUET1vvcg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33486,7 +33486,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_193" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_193')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_193')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://commonspace.wordpress.com">commonspace</a> 
       <span class="host">commonspace.wordpress.com</span>
@@ -33494,7 +33494,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_193">
         
     
-    <div class="annotationCard annotation" id="_k7N0EgOxSqi5sClvThqriQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_k7N0EgOxSqi5sClvThqriQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33526,7 +33526,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_194" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_194')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_194')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:2c89d27972418ccafd58ab2836641aa">MoFoMozillaLearning2015StrategicPlan_--_FINAL.pdf</a> 
       <span class="host"></span>
@@ -33534,7 +33534,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_194">
         
     
-    <div class="annotationCard annotation" id="_gU1A60_CQEOUxs-4Y2KqYQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gU1A60_CQEOUxs-4Y2KqYQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33567,7 +33567,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_195" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_195')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_195')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://learnlayout.com/display.html">CSS - the "display" property</a> 
       <span class="host">learnlayout.com</span>
@@ -33575,7 +33575,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_195">
         
     
-    <div class="annotationCard annotation" id="_rBdQ4CJlQh-tmXQzcWl3WA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rBdQ4CJlQh-tmXQzcWl3WA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33607,7 +33607,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       
     </div>
       <h1 id="heading_counter_196" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_196')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_196')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://learnlayout.com/box-sizing.html">CSS - box-sizing</a> 
       <span class="host">learnlayout.com</span>
@@ -33615,7 +33615,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_196">
         
     
-    <div class="annotationCard annotation" id="_CQgnG5uiSeuPZlguZzDOEQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_CQgnG5uiSeuPZlguZzDOEQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33646,7 +33646,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_197" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_197')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_197')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://learnlayout.com/position.html">CSS - position</a> 
       <span class="host">learnlayout.com</span>
@@ -33654,7 +33654,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_197">
         
     
-    <div class="annotationCard annotation" id="_3SgqBMokRlm0FsZRoV22GA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3SgqBMokRlm0FsZRoV22GA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33684,8 +33684,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22teachtheweb%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=teachtheweb">teachtheweb</a></div></div>
       
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_shEqkKANSSmPuj3w6d8YBg" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_shEqkKANSSmPuj3w6d8YBg" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33716,7 +33716,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_2fHKuBi4Qz6CixXjw7govA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_2fHKuBi4Qz6CixXjw7govA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33747,7 +33747,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </span></div><h1 id="heading_counter_198" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_198')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_198')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jessicaklein.blogspot.com/2015/01/shall-we-dance-on-boarding-webmakers.html">JESS KLEIN: Shall we dance? On-boarding Webmakers</a> 
       <span class="host">jessicaklein.blogspot.com</span>
@@ -33755,7 +33755,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_198">
         
     
-    <div class="annotationCard annotation" id="_u2XtbbSDSIKtTs2En3yMkA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_u2XtbbSDSIKtTs2En3yMkA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33788,7 +33788,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_199" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_199')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_199')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://mashable.com/2015/01/19/sxsw-twitter-challenge">Tweet your way to Texas with the SXSW My Way contest</a> 
       <span class="host">mashable.com</span>
@@ -33796,7 +33796,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_199">
         
     
-    <div class="annotationCard annotation" id="_Ie3iSBmURoafYRuT2gudSw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Ie3iSBmURoafYRuT2gudSw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33827,7 +33827,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_200" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_200')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_200')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;5&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://literaci.es/ontology-mentorship-and-web-literacy">Ontology, mentorship and web literacy • Literacies</a> 
       <span class="host">literaci.es</span>
@@ -33835,7 +33835,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_200">
         
     
-    <div class="annotationCard annotation" id="_rpHYrSbaQ5SHtX2nXdlddg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_rpHYrSbaQ5SHtX2nXdlddg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33866,7 +33866,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_gxJucC55TWehdDTMyxAdiQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_gxJucC55TWehdDTMyxAdiQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33898,7 +33898,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_tI397ZKUStCPAzF7OVJS8w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_tI397ZKUStCPAzF7OVJS8w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33929,7 +33929,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_omVdRMmPT2CLtQZ1OnaGeQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_omVdRMmPT2CLtQZ1OnaGeQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33960,7 +33960,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_heG1-w6sRm2FFxmQ9AXGgw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_heG1-w6sRm2FFxmQ9AXGgw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -33991,7 +33991,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_201" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_201')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_201')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;9&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://blog.webmaker.org/2015_plan">Mozilla Learning in 2015</a> 
       <span class="host">blog.webmaker.org</span>
@@ -33999,7 +33999,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_201">
         
     
-    <div class="annotationCard annotation" id="_8hSKfOCLQbuizKkmIdBQig" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_8hSKfOCLQbuizKkmIdBQig" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34030,7 +34030,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Re7QQrAQT9SrKbH7nqCSpg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Re7QQrAQT9SrKbH7nqCSpg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34061,7 +34061,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_E7sy5AsNS6OcOdOEnVZzBg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_E7sy5AsNS6OcOdOEnVZzBg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34092,7 +34092,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_IoWrObUyTSSwwvJZU5OmRA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_IoWrObUyTSSwwvJZU5OmRA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34123,7 +34123,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_Bz1LbmAhQ1eEvCAW0DphzA" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_Bz1LbmAhQ1eEvCAW0DphzA" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34155,7 +34155,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_3eBVfuqKT5iYEClvZwHj1A" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_3eBVfuqKT5iYEClvZwHj1A" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34186,7 +34186,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_ImGbC-TqTV21ku7MJTWY0Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ImGbC-TqTV21ku7MJTWY0Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34217,7 +34217,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_mFhcYg4NSlmuF_oPYI2ZAw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_mFhcYg4NSlmuF_oPYI2ZAw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34248,7 +34248,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_5dG9za63QOuAH7IjBhB3pQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_5dG9za63QOuAH7IjBhB3pQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34279,7 +34279,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_202" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_202')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_202')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;4&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://dmlcentral.net/blog/howard-rheingold/assessing-measuring-connected-learning-outcomes">Assessing, Measuring Connected Learning Outcomes | DMLcentral</a> 
       <span class="host">dmlcentral.net</span>
@@ -34287,7 +34287,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_202">
         
     
-    <div class="annotationCard annotation" id="_SNUOecJ5Qx2ikzbH7z5jhQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SNUOecJ5Qx2ikzbH7z5jhQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34318,7 +34318,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_AySbnFMgQVG_4y8tNvd58Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_AySbnFMgQVG_4y8tNvd58Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34349,7 +34349,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_4wJrvMB3RoqjwejBt-qDmQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_4wJrvMB3RoqjwejBt-qDmQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34380,7 +34380,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_9iHE3d_nSqm8tX7PNAw_Dg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9iHE3d_nSqm8tX7PNAw_Dg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34411,7 +34411,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_203" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_203')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_203')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.seton.net/about_seton/news/2015/01/15/profound_joy_and_surreal_grief_parents_wed_at_dell_childrens_right_before_their_son_passes_away">'Profound Joy and Surreal Grief': Parents Wed at Dell Children's Right Before Their Son Passes Away</a> 
       <span class="host">www.seton.net</span>
@@ -34419,7 +34419,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_203">
         
     
-    <div class="annotationCard annotation" id="_njTrMigtTRyHQfbx8eVDLw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_njTrMigtTRyHQfbx8eVDLw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34450,8 +34450,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22family%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=family">family</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_x58TaMT9QmiW5Yd14I9Y1A" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_x58TaMT9QmiW5Yd14I9Y1A" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34481,8 +34481,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_QxadWKaaQuSnJgI9323gOw" style="display: block; margin-left: 40px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_QxadWKaaQuSnJgI9323gOw" style="display: none; margin-left: 40px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34513,7 +34513,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_204" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_204')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_204')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jgregorymcverry.com/walkmyworld-2015-connect-before-content">#Walkmyworld 2015 Connect before Content</a> 
       <span class="host">jgregorymcverry.com</span>
@@ -34521,7 +34521,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_204">
         
     
-    <div class="annotationCard annotation" id="_ogiwykBRT36oYJ-4V4ECsw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ogiwykBRT36oYJ-4V4ECsw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34552,8 +34552,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22walkmyworld%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=walkmyworld">walkmyworld</a></div></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_SK5aPfPvQYeptno03Y65Pw" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_SK5aPfPvQYeptno03Y65Pw" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34587,7 +34587,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_205" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_205')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_205')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="urn:x-pdf:4e16637a273e11e3a72021e9e255a8">ItsComplicated.pdf</a> 
       <span class="host"></span>
@@ -34595,7 +34595,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_205">
         
     
-    <div class="annotationCard annotation" id="_9Z6YHcIoQVS8aBEGRHTo2w" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_9Z6YHcIoQVS8aBEGRHTo2w" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34635,7 +34635,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_206" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_206')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_206')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;3&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://medium.com/message/an-old-fogeys-analysis-of-a-teenagers-view-on-social-media-5be16981034d">An Old Fogey’s Analysis of a Teenager’s View on Social Media — The Message — Medium</a> 
       <span class="host">medium.com</span>
@@ -34643,7 +34643,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_206">
         
     
-    <div class="annotationCard annotation" id="_yg38BkRhRbSilW1ZPsoD8Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_yg38BkRhRbSilW1ZPsoD8Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34674,7 +34674,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_SWb__uM2R6GrSwWyXpBmeg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_SWb__uM2R6GrSwWyXpBmeg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34705,7 +34705,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_JuTBkgGCStCqe39d2cI7iQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_JuTBkgGCStCqe39d2cI7iQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34736,7 +34736,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_207" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_207')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_207')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://dogtrax.edublogs.org/2015/01/11/book-review-best-american-infographics-2014">Kevin's Meandering Mind | Book Review: Best American Infographics 2014</a> 
       <span class="host">dogtrax.edublogs.org</span>
@@ -34744,7 +34744,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_207">
         
     
-    <div class="annotationCard annotation" id="_kkRvy6qtRze6pOelITeEKg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_kkRvy6qtRze6pOelITeEKg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34775,7 +34775,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_YIurpHl3Rh2jLZVennOyWg" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_YIurpHl3Rh2jLZVennOyWg" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34806,7 +34806,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_208" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_208')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_208')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://dogtrax.edublogs.org">Kevin's Meandering Mind | If you don't live it, it won't come out of your horn. ~ Charlie Parker</a> 
       <span class="host">dogtrax.edublogs.org</span>
@@ -34814,7 +34814,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_208">
         
     
-    <div class="annotationCard annotation" id="_OvEegrp1RdW2gSlHixfCxQ" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_OvEegrp1RdW2gSlHixfCxQ" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34845,7 +34845,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_N5TWGj-DSHy-zkYQEnPa5g" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_N5TWGj-DSHy-zkYQEnPa5g" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34876,7 +34876,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_209" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_209')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_209')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;1&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://davecormier.com/edblog/2014/12/21/learnings-first-principle-the-most-important-thing-i-learned-this-year">Learning’s first principle – the most important thing i learned this year | Dave's Educational Blog</a> 
       <span class="host">davecormier.com</span>
@@ -34884,7 +34884,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_209">
         
     
-    <div class="annotationCard annotation" id="_4_hS8lxzSTSIgSYmtQzF_Q" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_4_hS8lxzSTSIgSYmtQzF_Q" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34914,8 +34914,8 @@ I think that part of the problem is in that magic word focus.  If you want to ex
         <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
       </annotation-editor>
     </div>
-    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: block;">⤷</div>
-    <div class="annotationCard reply" id="_k-CtCBdxRC2CH4S0DZ0HoQ" style="display: block; margin-left: 20px;">
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_k-CtCBdxRC2CH4S0DZ0HoQ" style="display: none; margin-left: 20px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34946,7 +34946,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
       </div><h1 id="heading_counter_210" class="urlHeading">
-      <a title="collapse" href="javascript:hlib.toggle('counter_210')"> <span class="toggle" title="collapse">▼</span></a>
+      <a title="expand" href="javascript:hlib.toggle('counter_210')"> <span class="toggle" title="expand">▶</span></a>
       <span class="counter">&nbsp;2&nbsp;</span>
       <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://dropoutnation.net/2013/04/22/matt-barnum-testing-is-good-for-teachers-and-children">Matt Barnum: Testing is Good for Teachers and Children</a> 
       <span class="host">dropoutnation.net</span>
@@ -34954,7 +34954,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       <div id="cards_counter_210">
         
     
-    <div class="annotationCard annotation" id="_ylKUkVNRQJaU8_SkZhlxPw" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_ylKUkVNRQJaU8_SkZhlxPw" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
@@ -34986,7 +34986,7 @@ I think that part of the problem is in that magic word focus.  If you want to ex
       </annotation-editor>
     </div>
     
-    <div class="annotationCard annotation" id="_1kDUipIdT_W_j8P3_dkLew" style="display: block; margin-left: 0px;">
+    <div class="annotationCard annotation" id="_1kDUipIdT_W_j8P3_dkLew" style="display: none; margin-left: 0px;">
       <annotation-editor state="viewing">
         
         <div class="annotationHeader">
