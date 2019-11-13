@@ -61,6 +61,1947 @@
      <button onclick="hlib.collapseAll()">collapse all</button>
      <button onclick="downloadHTML()">download HTML</button></div>
 
+  <div id="widget" style="display: block;"><h1 id="heading_counter_1" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_1')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;10&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://xolotl.org/okp-learning-experience-rubric">OKP Learning Experience Rubric – Nate Angell</a> 
+      <span class="host">xolotl.org</span>
+      </h1>
+      <div id="cards_counter_1">
+        
+    
+    <div class="annotationCard annotation" id="_ZwT0zgSaEeqYW5fIFm58wA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 3:46 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/ZwT0zgSaEeqYW5fIFm58wA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('ZwT0zgSaEeqYW5fIFm58wA')})();">ZwT0zgSaEeqYW5fIFm58wA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">empower</span>
+        </div>
+        <div class="annotationText">
+          <p>your key levers here seem to be share, explore, and empower...will raters know the difference? Are they related but different enough?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_-lKFigSZEeqFRcu2ugE-vA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 3:43 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/-lKFigSZEeqFRcu2ugE-vA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('-lKFigSZEeqFRcu2ugE-vA')})();">-lKFigSZEeqFRcu2ugE-vA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Exploring roles &amp; relationships</span>
+        </div>
+        <div class="annotationText">
+          <p>nothing on the role of reflection and/or feedback. I would think that important.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_0GS8lAYFEeq8OjsqlX4v5w" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/13/2019 11:07 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/0GS8lAYFEeq8OjsqlX4v5w" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('0GS8lAYFEeq8OjsqlX4v5w')})();">0GS8lAYFEeq8OjsqlX4v5w</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Good learning design for open requires good learning principles. I would seperate it out and add another criterion for assessment/feedback practices</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_ygQl3ASZEeqBweNUTOvkjw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 3:41 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/ygQl3ASZEeqBweNUTOvkjw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('ygQl3ASZEeqBweNUTOvkjw')})();">ygQl3ASZEeqBweNUTOvkjw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Renewable work</span>
+        </div>
+        <div class="annotationText">
+          <p>Do your scale descriptors of "value" equal renewable work? What makes value the key element of renewable?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_mYc27ASjEeqZ-68yjF3HbA" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=nateangell">nateangell</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 4:52 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/mYc27ASjEeqZ-68yjF3HbA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('mYc27ASjEeqZ-68yjF3HbA')})();">mYc27ASjEeqZ-68yjF3HbA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>I don't really understand the question here. Did you see <a href="https://hyp.is/8bIPygSMEeqF2V_oH7tnhg/xolotl.org/okp-learning-experience-rubric/">the super helpful input Rajiv added</a>, anchored to the next cell?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22OKP%22%2C%22LER%22%2C%22Renewable%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OKP">OKP</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=LER">LER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=Renewable">Renewable</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_UWxp3AYFEeq52UNZUWYkjQ" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/13/2019 11:04 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/UWxp3AYFEeq52UNZUWYkjQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('UWxp3AYFEeq52UNZUWYkjQ')})();">UWxp3AYFEeq52UNZUWYkjQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>You are defining the criteria as "renewab;e work" yet in your scale descriptors your key lever (the thing that changes to indicate qualitative scale) revolves around value. Thus value=renewable work, and what makes something more renewable is an increase in value? Just not sure they fit the same ontological net.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_pkPYBASZEeqMk2NS2Hi7HA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 3:40 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/pkPYBASZEeqMk2NS2Hi7HA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('pkPYBASZEeqMk2NS2Hi7HA')})();">pkPYBASZEeqMk2NS2Hi7HA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Participants apply skills in new situations outside the experience.</span>
+        </div>
+        <div class="annotationText">
+          <p>How am I measuring this transfer? Do I have access to students after 1 week, 1 month? 1 year? Do you expect any kind of half-life?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_gHwkvgSZEeqQ26cDP-7wgg" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 3:39 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/gHwkvgSZEeqQ26cDP-7wgg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('gHwkvgSZEeqQ26cDP-7wgg')})();">gHwkvgSZEeqQ26cDP-7wgg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">
+            Emerging
+            Developing
+            Transforming</span>
+        </div>
+        <div class="annotationText">
+          <p>I dig four point scales because I hate the squishy middle and the low variance found in three point scales. Can create false reliability among raters...but many folks like a midpoint....and we are treating ordinal data as numerical so it probably doesn't matter anyway...all the numbers are nonsense</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Se2jQgSiEeq0wWtjm3rkeA" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=nateangell">nateangell</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 4:42 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/Se2jQgSiEeq0wWtjm3rkeA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('Se2jQgSiEeq0wWtjm3rkeA')})();">Se2jQgSiEeq0wWtjm3rkeA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>I'm not in love with rubrics either, especially as a mechanism to quantify feedback that should probably remain qualitative anyway. I've been thinking that maybe rather than a rubric, this might be better seen as a kind of "bingo" card, where one held it up against learning experiences to see how many squares the experience included. So not so much to be an evaluation tool, but to be a tool to help generate rich experiences.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22OKP%22%2C%22LER%22%2C%22rubrics%22%2C%22bingo%22%2C%22assessment%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OKP">OKP</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=LER">LER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=rubrics">rubrics</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=bingo">bingo</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=assessment">assessment</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_AQ8V3gYFEeqFLAN9d-3BoQ" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/13/2019 11:01 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/AQ8V3gYFEeqFLAN9d-3BoQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('AQ8V3gYFEeqFLAN9d-3BoQ')})();">AQ8V3gYFEeqFLAN9d-3BoQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>If you present a scale in a linear form it will be used this way, I tried to counter that in my design by using concentric circles: https://archive.jgregorymcverry.com/practices-and-participatory-learning-environments/</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_Q8ryhASZEeqvW5v9F5byJg" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 3:38 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/Q8ryhASZEeqvW5v9F5byJg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('Q8ryhASZEeqvW5v9F5byJg')})();">Q8ryhASZEeqvW5v9F5byJg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">apply open practices </span>
+        </div>
+        <div class="annotationText">
+          <p>This makes the criteria very multi dimensional? Are all open practices equal? only feels like they are consuming? No creation or open practices on learning out loud/reflecting</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_vMt0FASkEeqnsT9esph3OQ" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=nateangell">nateangell</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/11/2019 5:00 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/vMt0FASkEeqnsT9esph3OQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('vMt0FASkEeqnsT9esph3OQ')})();">vMt0FASkEeqnsT9esph3OQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Sorry, I don't understand what you are saying here. I struggled with this cell most of all, so I'm sure the language I used is not clear.</p>
+<p>The word "apply" here is trying to convey the idea that participants engage in creation.</p>
+<p>I realize that as it reads, it sounds like it's maybe just talking about directly intervening in something closed, when what I was trying to convey is not just that, but the idea of creating something open that could serve instead of something closed (in the way that <a href="http://www.americanyawp.com/">The American Yawp</a> serves in place of a proprietary history textbook, or Firefox serves in the place of a closed-source web browser, etc).</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22OKP%22%2C%22LER%22%2C%22OER%22%2C%22OEP%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OKP">OKP</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=LER">LER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OER">OER</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=OEP">OEP</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_oCqRKgYFEeqx4fOdDVF06g" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/13/2019 11:06 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/oCqRKgYFEeqx4fOdDVF06g" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('oCqRKgYFEeqx4fOdDVF06g')})();">oCqRKgYFEeqx4fOdDVF06g</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>"apply open practices" seems to consist of many dimensions. Meaning in this example the ontological net is too broad and will hurt your rater agreement. </p>
+<p>Are some open practices more important than others/ Do they all need to be stuffed into one criterion?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_2" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_2')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;2&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://jgregorymcverry.com/frameworkforeffectivehighered.php">INTERTEXTrEVOLUTION</a> 
+      <span class="host">jgregorymcverry.com</span>
+      </h1>
+      <div id="cards_counter_2">
+        
+    
+    <div class="annotationCard annotation" id="_RrZEdvzJEemySq-qoA3L1A" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/1/2019 5:01 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/RrZEdvzJEemySq-qoA3L1A" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('RrZEdvzJEemySq-qoA3L1A')})();">RrZEdvzJEemySq-qoA3L1A</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">rubric</span>
+        </div>
+        <div class="annotationText">
+          <p>word should be material</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_PkCK4PzJEemCE8sxyf_Yrw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">11/1/2019 5:01 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/PkCK4PzJEemCE8sxyf_Yrw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('PkCK4PzJEemCE8sxyf_Yrw')})();">PkCK4PzJEemCE8sxyf_Yrw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Draft Framework for Effective Teaching and Higher Ed</span>
+        </div>
+        <div class="annotationText">
+          <p>Need to look at contrast of CSS shee, no way this meets accessibility guidelines</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_3" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_3')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;8&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://jgregorymcverry.com/sparkgrant.html">INTERTEXTrEVOLUTION</a> 
+      <span class="host">jgregorymcverry.com</span>
+      </h1>
+      <div id="cards_counter_3">
+        
+    
+    <div class="annotationCard annotation" id="_RxqS9sNSEemdysNrjvEv8g" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:56 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/RxqS9sNSEemdysNrjvEv8g" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('RxqS9sNSEemdysNrjvEv8g')})();">RxqS9sNSEemdysNrjvEv8g</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Dialogical Learning in a Social Community Space.</span>
+        </div>
+        <div class="annotationText">
+          <p>Heading, and I hate going heading to heading which means adding a framing paragraph after the h2 heading</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_JNvAcMNSEemiCyO_hJBCBw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:55 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/JNvAcMNSEemiCyO_hJBCBw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('JNvAcMNSEemiCyO_hJBCBw')})();">JNvAcMNSEemiCyO_hJBCBw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">.</span>
+        </div>
+        <div class="annotationText">
+          <p>Based on framing paragraph should be a section on learning how to learn.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_C0d0JMNSEem2hcf2do4EEQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:54 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/C0d0JMNSEem2hcf2do4EEQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('C0d0JMNSEem2hcf2do4EEQ')})();">C0d0JMNSEem2hcf2do4EEQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Digital Literacies.</span>
+        </div>
+        <div class="annotationText">
+          <p>heading</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_-mIDfMNREem-VjNKLIVy-w" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:54 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/-mIDfMNREem-VjNKLIVy-w" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('-mIDfMNREem-VjNKLIVy-w')})();">-mIDfMNREem-VjNKLIVy-w</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">must then</span>
+        </div>
+        <div class="annotationText">
+          <p>awkard must then, just choose and it isn't must</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_yz4gHMNREempooszSiLzTQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:52 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/yz4gHMNREempooszSiLzTQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('yz4gHMNREempooszSiLzTQ')})();">yz4gHMNREempooszSiLzTQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Transaction</span>
+        </div>
+        <div class="annotationText">
+          <p>transaction or transactional. Double check.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_t85yIMNREemKeH--JoFp2A" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:52 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/t85yIMNREemKeH--JoFp2A" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('t85yIMNREemKeH--JoFp2A')})();">t85yIMNREemKeH--JoFp2A</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">New Haven schools</span>
+        </div>
+        <div class="annotationText">
+          <p>add Hartford</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_qfEmjsNREem3rwNcjj-Bsg" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:51 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/qfEmjsNREem3rwNcjj-Bsg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('qfEmjsNREem3rwNcjj-Bsg')})();">qfEmjsNREem3rwNcjj-Bsg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">three</span>
+        </div>
+        <div class="annotationText">
+          <p>four</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_oYVdssNREemcJW-UN-aE-Q" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">8/20/2019 1:51 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/oYVdssNREemcJW-UN-aE-Q" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('oYVdssNREemcJW-UN-aE-Q')})();">oYVdssNREemcJW-UN-aE-Q</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Every year students will enroll into higher education for the first time and never step on campus</span>
+        </div>
+        <div class="annotationText">
+          <p>Re-read this and make sure to add key outcomes.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_4" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_4')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;2&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2019/05/EJ_EvenCinderella.pdf">EJ_EvenCinderella.pdf</a> 
+      <span class="host">educatorinnovator.org</span>
+      </h1>
+      <div id="cards_counter_4">
+        
+    
+    <div class="annotationCard annotation" id="_k0863JA1Eem_kN96anzYyw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/16/2019 12:52 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/k0863JA1Eem_kN96anzYyw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('k0863JA1Eem_kN96anzYyw')})();">k0863JA1Eem_kN96anzYyw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">The CFT model encourages these girls to take traditional fairy tales and rewrite the narrative from their perspective</span>
+        </div>
+        <div class="annotationText">
+          <p>Forget the identity work this is just such stellar learning, and you can never forget the identity work. It is why this is stellar learning</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_k4VaXox1EemeAR9wUAOZjQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=ccantrill">ccantrill</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/12/2019 9:07 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/k4VaXox1EemeAR9wUAOZjQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('k4VaXox1EemeAR9wUAOZjQ')})();">k4VaXox1EemeAR9wUAOZjQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Black women writ-ers and poets, including Maya Angelou’s I Know Why the Caged Bird Sings and Toni Morrison’s Be-loved,provide Black female students a purview into the narratives of pain, restoration, and Black suffer-ing from the voices of Black women.</span>
+        </div>
+        <div class="annotationText">
+          <p>This is reminding me how I had a history of Education class in graduate school that included Song of Solomon as required reading and how powerful that was in my experience in that course. Makes me think more about the ways I might bring in literature by Black women into my current graduate teaching.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23marginalsyllabus%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#marginalsyllabus">#marginalsyllabus</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_slDI8pA0EemlhROHsOEEHg" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/16/2019 12:46 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/slDI8pA0EemlhROHsOEEHg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('slDI8pA0EemlhROHsOEEHg')})();">slDI8pA0EemlhROHsOEEHg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>I have been using Maya Angelou when the Caged Bird Sings in my classes but also worry am I just tokeninzing by using well known sources, "Im not racist, I read a poem by a black woman."</p>
+<p>Here is the lesson: https://docs.google.com/document/d/13WYQ2xB9-llCby7lgHDWjYseHCViAKtvr5I5S2nf25I/edit</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_5" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_5')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;6&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://jamespaulgee.com/pdfs/Space%20in%20School.pdf">Space in School.pdf</a> 
+      <span class="host">jamespaulgee.com</span>
+      </h1>
+      <div id="cards_counter_5">
+        
+    
+    <div class="annotationCard annotation" id="__P1JHoYdEem_wZ9BF5lu0w" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/3/2019 4:38 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/_P1JHoYdEem_wZ9BF5lu0w" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('_P1JHoYdEem_wZ9BF5lu0w')})();">_P1JHoYdEem_wZ9BF5lu0w</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Knowledge resides in one’s ability to work with and build knowledge with others and to seek out and use good tools, just as much as it resides in one’sown head.</span>
+        </div>
+        <div class="annotationText">
+          <p>Will have to describe situated cognition without going in too deeply,</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_MQuYRIYbEemXDPfUXgp2Yg" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/3/2019 4:18 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/MQuYRIYbEemXDPfUXgp2Yg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('MQuYRIYbEemXDPfUXgp2Yg')})();">MQuYRIYbEemXDPfUXgp2Yg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">The more collegial Simslearning communities stress and model high standards for design, learning, critique, and discussion.  They are organized to allow everyone tomeet these standardsif they have enough desire and sufficient practice.  Theyoffer mentoring and supportive feedback all along, but they do not dumb down the standards.</span>
+        </div>
+        <div class="annotationText">
+          <p>role of standards as both a learning and semiotic tool</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="__kWipoYaEemUE2ubJgdujA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/3/2019 4:16 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/_kWipoYaEemUE2ubJgdujA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('_kWipoYaEemUE2ubJgdujA')})();">_kWipoYaEemUE2ubJgdujA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">focuses on their shared interest and passion for learning, designing, and participating and not on socialization just for its own sake, though there is plenty of socialization.</span>
+        </div>
+        <div class="annotationText">
+          <p>leadership and learning open spaces</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_BugkRoYXEemFyt-NvuTsJQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/3/2019 3:48 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/BugkRoYXEemFyt-NvuTsJQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('BugkRoYXEemFyt-NvuTsJQ')})();">BugkRoYXEemFyt-NvuTsJQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Often the tacit knowledge is built up in the game and the explicit knowledge is built up in the learning community associated with the game.</span>
+        </div>
+        <div class="annotationText">
+          <p>Need to think about how OER makes tacit knowledge more explicit as everything gets docuented</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_msJAMIYWEemK6nt36Nvl3g" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/3/2019 3:45 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/msJAMIYWEemK6nt36Nvl3g" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('msJAMIYWEemK6nt36Nvl3g')})();">msJAMIYWEemK6nt36Nvl3g</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">In video games (and in science and life) “content”means problems to solvewhere facts, formulas, and information are recruited as useful toolsfor solving them</span>
+        </div>
+        <div class="annotationText">
+          <p>community is the content</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_eK652IYWEemIzKNyiqQLzQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">6/3/2019 3:44 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/eK652IYWEemIzKNyiqQLzQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('eK652IYWEemIzKNyiqQLzQ')})();">eK652IYWEemIzKNyiqQLzQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">There are a number of large learning communitiesassociated with The Sims.  These communities are interest-driven,fan-based Internet siteswhere players learn how to move from being players to being designers</span>
+        </div>
+        <div class="annotationText">
+          <p>the key is the space is helping people move from learners to designers.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_6" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_6')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;6&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://quickthoughts.jgregorymcverry.com/2019/04/02/identity-by-julio-polanco-and-the-rose-that-grew-from">My Stream</a> 
+      <span class="host">quickthoughts.jgregorymcverry.com</span>
+      </h1>
+      <div id="cards_counter_6">
+        
+    
+    <div class="annotationCard annotation" id="_IC31BFX_EemHIE_ps4dOFw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/3/2019 10:56 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/IC31BFX_EemHIE_ps4dOFw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('IC31BFX_EemHIE_ps4dOFw')})();">IC31BFX_EemHIE_ps4dOFw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">jagged </span>
+        </div>
+        <div class="annotationText">
+          <p>To me this word has a ton of power and it's the hard g's in jagged</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_AKm5TFX7Eem8NGM0caOPIQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=dogtrax">dogtrax</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/3/2019 10:27 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/AKm5TFX7Eem8NGM0caOPIQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('AKm5TFX7Eem8NGM0caOPIQ')})();">AKm5TFX7Eem8NGM0caOPIQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">"Drop a Mouse into Poetry" </span>
+        </div>
+        <div class="annotationText">
+          <p>via https://www.poemhunter.com/poem/introduction-to-poetry/</p>
+<p><img src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fslideplayer.com%2F8483211%2F26%2Fimages%2F6%2FI%2Bsay%2Bdrop%2Ba%2Bmouse%2Binto%2Ba%2Bpoem%2Band%2Bwatch%2Bhim%2Bprobe%2Bhis%2Bway%2Bout.jpg&amp;f=1" alt=""></p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22poetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=poetry">poetry</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Au1ZvFX_Eem-Bz-D8GPlOQ" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/3/2019 10:55 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/Au1ZvFX_Eem-Bz-D8GPlOQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('Au1ZvFX_Eem-Bz-D8GPlOQ')})();">Au1ZvFX_Eem-Bz-D8GPlOQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Here as my multimodal reteling: https://www.youtube.com/watch?v=tZ3gBf29z_0</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_E2GkmFX0EemM1v819jW4xw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=dogtrax">dogtrax</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/3/2019 9:37 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/E2GkmFX0EemM1v819jW4xw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('E2GkmFX0EemM1v819jW4xw')})();">E2GkmFX0EemM1v819jW4xw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Funny it seems, but by keeping it's dreams</span>
+        </div>
+        <div class="annotationText">
+          <p>I am a sucker for internal rhymes. Although these lyrics (for me) don't always hold up as a poem on its own, the art of internal rhyme to create rhythm against the backdrop of bass and drums is a key element of HipHop that I greatly admire. 
+https://www.youtube.com/watch?v=BfgR2bEjAFg</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22poetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=poetry">poetry</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_Ol0vMFcNEem0qJvw5GIwqQ" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/4/2019 7:09 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/Ol0vMFcNEem0qJvw5GIwqQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('Ol0vMFcNEem0qJvw5GIwqQ')})();">Ol0vMFcNEem0qJvw5GIwqQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>This is why I am starting to push back against the idea that phonemic awareness education should stop in 2nd grade.</p>
+<p>Let kids play with the beat of words for ever. </p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_Sr8QBlWaEemMO_vm_VutBw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=dogtrax">dogtrax</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/2/2019 10:54 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/Sr8QBlWaEemMO_vm_VutBw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('Sr8QBlWaEemMO_vm_VutBw')})();">Sr8QBlWaEemMO_vm_VutBw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">I'd rather be unseen</span>
+        </div>
+        <div class="annotationText">
+          <p>Making a choice? Or maybe not ...</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22poetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=poetry">poetry</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_NJDQSFX_EemCIB_Hv25n3A" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/3/2019 10:56 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/NJDQSFX_EemCIB_Hv25n3A" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('NJDQSFX_EemCIB_Hv25n3A')})();">NJDQSFX_EemCIB_Hv25n3A</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Yes what would be the seen but also unique alternative?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_KpemIFVQEemp-4P2HeT75A" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/2/2019 2:04 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/KpemIFVQEemp-4P2HeT75A" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('KpemIFVQEemp-4P2HeT75A')})();">KpemIFVQEemp-4P2HeT75A</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">ugly weed</span>
+        </div>
+        <div class="annotationText">
+          <p>Why is the author using the word ugly? It has a negative connotation? What does it do to give this word power?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="__JNdAFVPEemGeN_LmDrVfQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">4/2/2019 2:02 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/_JNdAFVPEemGeN_LmDrVfQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('_JNdAFVPEemGeN_LmDrVfQ')})();">_JNdAFVPEemGeN_LmDrVfQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">harnessed</span>
+        </div>
+        <div class="annotationText">
+          <p>poets can find power in verbs</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23annotatepoetry%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#annotatepoetry">#annotatepoetry</a></div></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_7" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_7')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;2&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://quickthoughts.jgregorymcverry.com/2019/02/28/why-an-htmlcss-first-approach-works-for-oer-and-why">My Stream</a> 
+      <span class="host">quickthoughts.jgregorymcverry.com</span>
+      </h1>
+      <div id="cards_counter_7">
+        
+    
+    <div class="annotationCard annotation" id="_f2R--DuNEemumKf9UXnbxg" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=nateangell">nateangell</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">2/28/2019 7:17 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/f2R--DuNEemumKf9UXnbxg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('f2R--DuNEemumKf9UXnbxg')})();">f2R--DuNEemumKf9UXnbxg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">For too long the field of #OER has simply been a field studying itself. We debate what is open and what is not. What is a resource what is pedagogy...and is that pedagogy really praxis....</span>
+        </div>
+        <div class="annotationText">
+          <p>I don't really get this opinion, or how it pertains to Greg's otherwise important point about the format of OER. Seems like it ignores BOTH the great many tangible contributions folks have made in the field of OER AND the very important conversations that also take place around topics as or more important than technical formats, like pedagogy, and the socio-economic ecosystem in which OER participates.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22oer%22%2C%22html%22%2C%22jgregorymcverry%22%2C%22oep%22%2C%22okp%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=oer">oer</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=html">html</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=jgregorymcverry">jgregorymcverry</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=oep">oep</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=okp">okp</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_LOEZKjuXEemvl_t4Etfv3Q" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">2/28/2019 8:26 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/LOEZKjuXEemvl_t4Etfv3Q" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('LOEZKjuXEemvl_t4Etfv3Q')})();">LOEZKjuXEemvl_t4Etfv3Q</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Your right. I should have stuck to post positive. The argument I am trying to make in this paragraph is important but it dissuades from muy message and invalidates the work of the past.</p>
+<p>It's like I am proving with that paragraph the futility of arguing that I argue against in the paragraph.</p>
+<p>But I do wonder if we went back through and did a content analysis of the other #OER19 would they be about talks about the work or meta talks  on process.</p>
+<p>I am going to revise this (hey what happens to an unanchored annotation before I do)?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_6FZlnDudEemp5kPqh4NmPA" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=nateangell">nateangell</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">2/28/2019 9:15 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/6FZlnDudEemp5kPqh4NmPA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('6FZlnDudEemp5kPqh4NmPA')})();">6FZlnDudEemp5kPqh4NmPA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Annotations that lose their anchors persist, but as orphans. You'll see a new "orphans" view at the top of the sidebar, alongside annotations and page notes.</p>
+<p>In other news: one person's process is another's work, so I try not to make blanket judgments.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 48px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_TKhEgjugEem5zt9cHILeCw" style="display: none; margin-left: 60px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">2/28/2019 9:32 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/TKhEgjugEem5zt9cHILeCw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('TKhEgjugEem5zt9cHILeCw')})();">TKhEgjugEem5zt9cHILeCw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>No it's an important point I want to make but it can be done better in a piece where it belongs.....I think I need to make opermalinks to my edits.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_8" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_8')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;2&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://www.arrl.org/files/file/Ham%20Radio%20License%20Manual/HRLM%203rd%20ed/Study_Guide_3rd-ed-rev%2010_2015.pdf">Study_Guide_3rd-ed-rev 10_2015.pdf</a> 
+      <span class="host">www.arrl.org</span>
+      </h1>
+      <div id="cards_counter_8">
+        
+    
+    <div class="annotationCard annotation" id="_lnEq5Ch2Eem8nXuNii1odw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">2/4/2019 12:15 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/lnEq5Ch2Eem8nXuNii1odw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('lnEq5Ch2Eem8nXuNii1odw')})();">lnEq5Ch2Eem8nXuNii1odw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">adio wave travel through free space?</span>
+        </div>
+        <div class="annotationText">
+          <p>speed of light</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_ctQytih2EemRi79IvRGkGQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">2/4/2019 12:14 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/ctQytih2EemRi79IvRGkGQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('ctQytih2EemRi79IvRGkGQ')})();">ctQytih2EemRi79IvRGkGQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">What is the name for the distance a radio wave travels during one complete cycle?</span>
+        </div>
+        <div class="annotationText">
+          <p>wavelength</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_9" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_9')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;2&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2018/11/What_s_Radical_marginal-syllabus.pdf">What_s_Radical_marginal-syllabus.pdf</a> 
+      <span class="host">educatorinnovator.org</span>
+      </h1>
+      <div id="cards_counter_9">
+        
+    
+    <div class="annotationCard annotation" id="_ZtFN3vc8EeiXPQ8qGVdJXQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">12/3/2018 8:45 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/ZtFN3vc8EeiXPQ8qGVdJXQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('ZtFN3vc8EeiXPQ8qGVdJXQ')})();">ZtFN3vc8EeiXPQ8qGVdJXQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">underground writers. . . .</span>
+        </div>
+        <div class="annotationText">
+          <p>I love this piece by Maisha Winn on a similar thread: https://www.tandfonline.com/doi/abs/10.1080/10749039.2014.990037</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_J9IdIPc8Eei-qXMjeDdFyQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">12/3/2018 8:43 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/J9IdIPc8Eei-qXMjeDdFyQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('J9IdIPc8Eei-qXMjeDdFyQ')})();">J9IdIPc8Eei-qXMjeDdFyQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Radical</span>
+        </div>
+        <div class="annotationText">
+          <p>I usually avoid extra modifies. I find them repetitive and redundant, but if any can bring radical to the writing classroom it is Marcelle M. Haddix</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_10" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_10')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;8&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2018/10/Electing_to_Heal.pdf">Electing to Heal.pdf</a> 
+      <span class="host">educatorinnovator.org</span>
+      </h1>
+      <div id="cards_counter_10">
+        
+    
+    <div class="annotationCard annotation" id="_qcnjOtyxEeinS9NQxqEqkQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/31/2018 2:07 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/qcnjOtyxEeinS9NQxqEqkQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('qcnjOtyxEeinS9NQxqEqkQ')})();">qcnjOtyxEeinS9NQxqEqkQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">made part and parcel of teaching and learning in classrooms</span>
+        </div>
+        <div class="annotationText">
+          <p>As English teachers we often begin by asking what exemplar text would you use. So let's start to curate a list of what kind of healing text you would use as models to admire and pick at or simply wiggle around in our heads?</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_pQ64ltyuEei8UBMMyjBEXA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/31/2018 2:04 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/pQ64ltyuEei8UBMMyjBEXA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('pQ64ltyuEei8UBMMyjBEXA')})();">pQ64ltyuEei8UBMMyjBEXA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">fear and pain that crease the fabric of our work, noting intersec-tions between our disciplinary commitments, theoretical traditions, and democracy.</span>
+        </div>
+        <div class="annotationText">
+          <ul>
+<li>find healing power </li>
+<li>pedagogy</li>
+<li>giving students  space</li>
+<li>to write,</li>
+<li>a place to be. </li>
+<li>Check out our  <a href="https://http://edu106class.networkedlearningcollaborative.com/feeds.html">feeds</a></li>
+<li>Though the honesty and openness falls</li>
+<li>on engendered roles</li>
+<li>much pain still hidden</li>
+<li>behind masculine masks. </li>
+<li>or Expressed in Anger</li>
+<li>Justified? Misplaced?</li>
+<li>Heal without hate</li>
+<li>Let healing writing scream</li>
+<li>in quiet tears</li>
+<li>embrace your space</li>
+<li>and simply try to be</li>
+</ul>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_o_7dNNwlEeiZ_BM205rxLw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=dogtrax">dogtrax</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/30/2018 9:24 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/o_7dNNwlEeiZ_BM205rxLw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('o_7dNNwlEeiZ_BM205rxLw')})();">o_7dNNwlEeiZ_BM205rxLw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">we also recognize that some readers did</span>
+        </div>
+        <div class="annotationText">
+          <p>Good to acknowledge this. The votes didn't come out of nowhere. They came from within various communities, and communities of practice.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22marginalsyllabus%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=marginalsyllabus">marginalsyllabus</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_W4B1tNx-EeiDhTuWx774aA" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=tayken">tayken</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/30/2018 7:59 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/W4B1tNx-EeiDhTuWx774aA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('W4B1tNx-EeiDhTuWx774aA')})();">W4B1tNx-EeiDhTuWx774aA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Good to acknowledge but also difficult given the social dynamics of <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2822059">group-think</a> and <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">Dunning-Kruger</a>. The human condition has to be considered.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22marginalsyllabus%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=marginalsyllabus">marginalsyllabus</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_qwWYStyvEeiw20cOgqn3Yg" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/31/2018 1:52 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/qwWYStyvEeiw20cOgqn3Yg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('qwWYStyvEeiw20cOgqn3Yg')})();">qwWYStyvEeiw20cOgqn3Yg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>In my town. It went Trump. Probably still would again. It wasn't group think. Though many do not recognize that the ability to ignore attacks of race and gender and focus on "other issues" itself comes from a historical imbalance of race and gender.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_2IkK9tuuEeihS4feqz0GXw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 7:14 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/2IkK9tuuEeihS4feqz0GXw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('2IkK9tuuEeihS4feqz0GXw')})();">2IkK9tuuEeihS4feqz0GXw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">healing of pain wrought by policy and politics. Our field—particularly our expertise with modes of communication—is uniquely suited for sustaining ways</span>
+        </div>
+        <div class="annotationText">
+          <p>I think we should have a disclaimer that teachers are mandatory reporters and trauma education can lead to situations you must report.</p>
+<p>Students should be aware of these obligations before these efforts begin.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_jR3F3tuuEeihSh9-QofhwA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 7:12 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/jR3F3tuuEeihSh9-QofhwA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('jR3F3tuuEeihSh9-QofhwA')})();">jR3F3tuuEeihSh9-QofhwA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">Testimony, Witness,</span>
+        </div>
+        <div class="annotationText">
+          <p>I find giving my students a domain and the freedom to write leads to healing through words. To data I have had students discuss their journey with dating violence, bulimia, and addiction.</p>
+<p>Looking back as I write this, however, it seems the ability  to engage in healing writing is an engendered practice. Not sure I have had any students who identify as male take a risk in their healing.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_AQhGtNuuEeipcfsoKmJALA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 7:08 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/AQhGtNuuEeipcfsoKmJALA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('AQhGtNuuEeipcfsoKmJALA')})();">AQhGtNuuEeipcfsoKmJALA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">morning after the election</span>
+        </div>
+        <div class="annotationText">
+          <p>It wasn't the morning after for me. I saw three county returns in the middle of Florida and new we were done.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_bMphQNusEeihR2PpSq0Itg" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=bali">bali</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 6:57 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/bMphQNusEeihR2PpSq0Itg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('bMphQNusEeihR2PpSq0Itg')})();">bMphQNusEeihR2PpSq0Itg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">not prepared to address the intersections of healing, politics, and emotion in classrooms.</span>
+        </div>
+        <div class="annotationText">
+          <p>This seems like an overseen dimension of teacher prep, right? As if teaching can occur in a vacuum and emotions need not be addressed or recognized in the classroom, let alone be brought in explicitly and handled with sensitivity. </p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%22%23marginalsyllabus%22%2C%22%23unboundeq%22%5D"><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#marginalsyllabus">#marginalsyllabus</a></div><div class="annotationTag"><a target="_tag" href="https://jonudell.info/h/facet/?tag=#unboundeq">#unboundeq</a></div></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_q3X8WNxyEeiBdj_DVRQ2KQ" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=DaneStickney">DaneStickney</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/30/2018 6:36 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/q3X8WNxyEeiBdj_DVRQ2KQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('q3X8WNxyEeiBdj_DVRQ2KQ')})();">q3X8WNxyEeiBdj_DVRQ2KQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>It should be, Bali, but I'm not sure it's done with fidelity. The rise of nGSE's (Sposato, Relay, etc.) that are infatuated with discreet teacher practices sure don't help. </p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_wj-KnNywEeil-EuxuA_3Kg" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/31/2018 2:00 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/wj-KnNywEeil-EuxuA_3Kg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('wj-KnNywEeil-EuxuA_3Kg')})();">wj-KnNywEeil-EuxuA_3Kg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Every teacher prep program right now is collecting darts at the wall data on teacher dispositions and making pretty charts for accreditation.</p>
+<p>I think providing space for reflective and restorative writing in teacher prep is almost a better way to watch dispositions play out in situ. </p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    
+    <div class="annotationCard annotation" id="_V6UoBNudEeiDDm-1rxNZKA" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=adolid">adolid</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 5:09 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/V6UoBNudEeiDDm-1rxNZKA" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('V6UoBNudEeiDDm-1rxNZKA')})();">V6UoBNudEeiDDm-1rxNZKA</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">The nuances of a “safe space” for SEL in our classrooms requires looking across social, political, and cultural factors for all members of a school community.</span>
+        </div>
+        <div class="annotationText">
+          <p>One of the complexities of this is that teachers sometimes don't believe the academic space is where these conversations should occur, despite adoption of SEL approaches by a school; we have cultivated teachers who, because of pressures around test accountability, grades, and perceptions of traditional models of success, experience conflict around the heart and mind binary - school is for academics and thinking, while spaces outside of school are for nourishing the heart.  Obviously we need to interrupt this stance to show how each feed the other.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_GjvDuNuuEeirmEcMXdkTeQ" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 7:09 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/GjvDuNuuEeirmEcMXdkTeQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('GjvDuNuuEeirmEcMXdkTeQ')})();">GjvDuNuuEeirmEcMXdkTeQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>More than that teachers have been taught to be apolitical (which of course is political) and leave value education to the home.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_11" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_11')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;1&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="https://educatorinnovator.org/wp-content/uploads/2018/10/Electing_to_Heal.pdf?fbclid=IwAR0t16D9gmsE7G92eEBVsOlPVbWL__snjj5moGaJVMAh7b8jKOTSKAojS2Y">Electing to Heal.pdf</a> 
+      <span class="host">educatorinnovator.org</span>
+      </h1>
+      <div id="cards_counter_11">
+        
+    
+    <div class="annotationCard annotation" id="_A14aOtvKEei1WSPw5zy3yQ" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=betinahsieh">betinahsieh</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/29/2018 10:28 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/A14aOtvKEei1WSPw5zy3yQ" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('A14aOtvKEei1WSPw5zy3yQ')})();">A14aOtvKEei1WSPw5zy3yQ</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"> teachers are generally not prepared to address the intersections of healing, politics, and emotion in today’s classrooms</span>
+        </div>
+        <div class="annotationText">
+          <p>Not only are teachers underprepared, often teacher educators are underprepared to do so, and we are woefully fearful that our words and and actions may be taken out of context and used against us.  The fear climate created in these last 2 years is real.</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_mS-YUNxzEeiNzi-jEki1hg" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=DaneStickney">DaneStickney</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/30/2018 6:42 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/mS-YUNxzEeiNzi-jEki1hg" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('mS-YUNxzEeiNzi-jEki1hg')})();">mS-YUNxzEeiNzi-jEki1hg</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>I totally agree. As a teacher educator, my gut instinct is to encourage teachers to be braver and bolder both in the activities they plan and the way they engage with current events and build resistance with their students. That's what I would have done in the classroom. But these novice teachers aren't me, and I feel that tension between what I want to do versus what I responsibly should do in working with them. </p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 28px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_QDfFoNywEeiHx2uwtSlDHw" style="display: none; margin-left: 40px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/31/2018 1:56 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/QDfFoNywEeiHx2uwtSlDHw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('QDfFoNywEeiHx2uwtSlDHw')})();">QDfFoNywEeiHx2uwtSlDHw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>But I think this is why it s at the natural praxis of English teaching. Get pictures of people whose lives are effected by fears of deportation and write. make a digital essay, a song. Study <a href="https://www.poetryfoundation.org/poets/natasha-trethewey">Trethewey</a> and have students write documentary poems remembering the sounds of their homes  streets and schools the next day. </p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div><h1 id="heading_counter_12" class="urlHeading">
+      <a title="expand" href="javascript:hlib.toggle('counter_12')"> <span class="toggle" title="expand">▶</span></a>
+      <span class="counter">&nbsp;1&nbsp;</span>
+      <a class="urlTitle" title="visit annotated page" target="annotatedPage" href="http://quickthoughts.jgregorymcverry.com">My Stream</a> 
+      <span class="host">quickthoughts.jgregorymcverry.com</span>
+      </h1>
+      <div id="cards_counter_12">
+        
+    
+    <div class="annotationCard annotation" id="_MqT6MNXoEeiY7_ul_IMjtw" style="display: none; margin-left: 0px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=gyuri">gyuri</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/22/2018 10:49 AM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/MqT6MNXoEeiY7_ul_IMjtw" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('MqT6MNXoEeiY7_ul_IMjtw')})();">MqT6MNXoEeiY7_ul_IMjtw</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact">return power to the people. Invest in the local web.</span>
+        </div>
+        <div class="annotationText">
+          <p>Indeed</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+    <div class="downRightArrow" style="margin-top: -14px; margin-bottom: -20px; margin-left: 8px; display: none;">⤷</div>
+    <div class="annotationCard reply" id="_mBRXkNZVEeix8cuGyguyng" style="display: none; margin-left: 20px;">
+      <annotation-editor state="viewing">
+        
+        <div class="annotationHeader">
+          <span class="user">
+            <a title="search user" target="_user" href="https://jonudell.info/h/facet/?user=jgmac1106">jgmac1106</a>
+          </span>
+          <span>&nbsp;</span>
+          <span class="dateTime">10/22/2018 11:52 PM</span>
+          <span>&nbsp;</span>
+          <span class="groupSlug">in Public</span>
+          <span>&nbsp;</span>
+          <span class="externalLink"><a target="_standalone" href="https://hypothes.is/a/mBRXkNZVEeix8cuGyguyng" title="view/edit/reply"><svg style="display:inline; width:.6em; height:.6em; margin-left:2px;margin-top:3px; fill:#2c1409b5" class="icon-external-link"><use xlink:href="#icon-external-link"></use></svg></a></span><span class="deleteButton"></span>
+          <span>&nbsp;</span>
+          <span class="copyIdButton">
+    <button onclick="(function(){navigator.clipboard.writeText('mBRXkNZVEeix8cuGyguyng')})();">mBRXkNZVEeix8cuGyguyng</button></span>
+        </div>
+        <div class="annotationQuote">
+          <span title="quote" class="quoteExact"></span>
+        </div>
+        <div class="annotationText">
+          <p>Thanks, really excited about the grant opportunity,</p>
+        </div>
+        <div is="annotation-tags-editor" state="viewing" class="annotationTags" user-can-edit="false" tags="%5B%5D"></div>
+      </annotation-editor>
+    </div>
+      </div>
   
   <div id="widget" style="display: block;"><h1 id="heading_counter_1" class="urlHeading">
     <a title="collapse" href="javascript:hlib.toggle('counter_1')"> <span class="toggle" title="expand">▶</span></a>
