@@ -6,14 +6,14 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="2019-11-11T16:14:20+0000">November 10th 2019 16:14</time>
-          <video  controls poster="/videos/vanhookchilLitisWonderful.jpg" class="u-video" src="https://jgregorymcverry.com/videos/EDU307MondayUpdate2019-11-11.mp4"> 
+<time class="dt-published" datetime="2019-11-11T09:14:20+0000">November 14th 2019 9:14</time>
+          <video  controls class="u-video" src="https://jgregorymcverry.com/videos/WeLoveData.mp4"> 
           </video>
           
       
   
       
-        <p class="e-content">Hey #edu307Fall19 Here is your Monday update. I cover how we will finish out the rest of the modules for the semester.</p>
+        <p class="e-content">We love data.</p>
       
  
   <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
