@@ -7,7 +7,7 @@
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2019-11-11T16:04:20+0000">November 14th 2019 16:04</time>
-          <video  controls poster="/videos/sevenminutevocab.png "class="u-video" src="https://jgregorymcverry.com/videos/VocabGraphicOrganizers"> 
+          <video  controls poster="/videos/sevenminutevocab.png "class="u-video" src="https://jgregorymcverry.com/videos/VocabGraphicOrganizers.mp4"> 
           </video>
           
       
