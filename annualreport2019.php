@@ -70,9 +70,10 @@
   <div class="circle">
     <div class="aligner">
       <p class="h-event">
-        <span class="p-name"><a href="https://edu106.jgregorymcverry.com">EDU 106: New Literacies</a></span>
+        <span class="p-name url"><a href="https://edu106.jgregorymcverry.com">EDU 106: New Literacies</a></span>
       <br>
-        <time class="dt-start" datetime="2019">Spring Semester</time>
+        <time class="dt-start" datetime="2019">Spring Semester</time><br>
+        <a href="https://quickthoughts.jgregorymcverry.com/tag/edu106">Class Feed</a>
       </p>
     </div>
   </div>
@@ -81,7 +82,8 @@
       <p class="h-event">
       <a class="p-name u-url" href="https://edu307.jgregorymcverry.com">EDU 307(8): Children's Literature</a>
       <br>
-        <time class="dt-start" datetime="2011">Spring and Fall Semester</time>
+        <time class="dt-start" datetime="2011">Spring and Fall Semester</time><br>
+        <a href="https://quickthoughts.jgregorymcverry.com/tag/edu307">Class Feed</a>
       </p>
     </div>
   </div>
@@ -90,7 +92,8 @@
       <p class="h-event">
       <a class="p-name u-url" href="https://edu305.jgregorymcverry.com">EDU 305: Emergent Literacy</a>
       <br>
-        <time class="dt-start" datetime="2019">Spring Semester</time>
+        <time class="dt-start" datetime="2019">Spring Semester</time><br>
+        <a href="https://quickthoughts.jgregorymcverry.com/tag/edu305">Class Feed</a>
       </p>
     </div>
   </div>
@@ -99,7 +102,8 @@
       <p class="h-event">
         <span class="p-name"> <a href="https://edu407.jgregorymcverry.com">EDU 407: Beginnger Literacy</a></span>
       <br>
-        <time class="dt-start" datetime="2019">Summer and Spring</time>
+        <time class="dt-start" datetime="2019">Summer and Spring</time><br>
+        <a href="https://quickthoughts.jgregorymcverry.com/tag/edu407">Class Feed</a>
       </p>
     </div>
   </div>
@@ -237,8 +241,8 @@
 <summary>
          Wikis and Websites
               </summary>
-          <p class="h-cite"><a class="u-url p-name" href="https://indieweb.org">Indieweb.org</a><span class="p-note">Made 548 wiki edits and 57 pages created on a site that gets 25,000 unique monthly visitors.</span></p>
-            <p class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/">Mozilla Web Docs</a><span class="p-note">Editor on articles that get on average 5,000 unique monthly visitors.</span></p>
+          <p class="h-cite"> <a class="u-url p-name" href="https://indieweb.org">Indieweb.org</a><span class="p-note">Made 548 wiki edits and 57 pages created on a site that gets 25,000 unique monthly visitors.</span></p>
+            <p class="h-cite"> <a class="u-url p-name" href="https://developer.mozilla.org/en-US/">Mozilla Web Docs</a><span class="p-note">Editor on articles that get on average 5,000 unique monthly visitors.</span></p>
              </details>
               </div>
         <div class="item3">
@@ -246,15 +250,15 @@
 <summary>
          Creative Writing and Curriculum
               </summary>
-          <p class="h-cite"><a class="u-url p-name" href="https://clmoocwebring.jgregorymcveryr.com">CLMOOC</a><span class="p-note">Create and mantain a community of writers in the connected learning MOOC</span></p>
-            <p class="h-cite"><a class="u-url p-name" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?">Small Poems</a><span class="p-note">A Collection of 67 poems (as of 2019-11-15)</span></p>
-            <p class="h-cite"><a class="u-url p-name" href="https://jgregorymcverry.com/articles">Articles</a><span class="p-note">Collection of Learning Articles </span></p>
-            <p class="h-cite"><a class="u-url p-name" href="https://jgregorymcverry.com/articles">Articles</a><span class="p-note">Collection of Learning Articles </span></p>
-            <p class="h-cite"><a class="u-url p-name" href="https://glitch.com/@jgmac1106/fun-stuff-to-teach-the-web">Fun Stuff to Teach the Web</a><span class="p-note">Collection of Lessons to Learn HTML/CSS </span></p>
-             <p class="h-cite"><a class="u-url p-name" href="https://glitch.com/@jgmac1106/indie-web-learning-networks">IndieWeb Learnign Network</a><span class="p-note">Open Source Tools to Build Open Pedagogy Classrooms</span></p>
-             <p class="h-cite"><a class="u-url p-name" href="https://archive.org/details/@jgmac1106">Openly Licesned Videos</a><span class="p-note">Learning Videos Posted on </span></p>
-             <p class="h-cite"><a class="u-url p-name" href="https://jgregorymcverry.com/2toPonder">2toPonder</a><span class="p-note">Two Minute Podcast on Learning Sciences</span></p>
-             <p class="h-cite"><a class="u-url p-name" href="https://archive.org/details/@jgmac1106">Openly Licesned Videos</a><span class="p-note">Learning Videos Posted on Archive.org</span></p>
+          <p class="h-cite"> <a class="u-url p-name" href="https://clmoocwebring.jgregorymcveryr.com">CLMOOC</a><span class="p-note">Create and mantain a community of writers in the connected learning MOOC</span></p>
+            <p class="h-cite"> <a class="u-url p-name" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?">Small Poems</a><span class="p-note">A Collection of 67 poems (as of 2019-11-15)</span></p>
+            <p class="h-cite"> <a class="u-url p-name" href="https://jgregorymcverry.com/articles">Articles</a><span class="p-note">Collection of Learning Articles </span></p>
+            <p class="h-cite"> <a class="u-url p-name" href="https://jgregorymcverry.com/articles">Articles</a><span class="p-note">Collection of Learning Articles </span></p>
+            <p class="h-cite"> <a class="u-url p-name" href="https://glitch.com/@jgmac1106/fun-stuff-to-teach-the-web">Fun Stuff to Teach the Web</a><span class="p-note">Collection of Lessons to Learn HTML/CSS </span></p>
+             <p class="h-cite"> <a class="u-url p-name" href="https://glitch.com/@jgmac1106/indie-web-learning-networks">IndieWeb Learnign Network</a><span class="p-note">Open Source Tools to Build Open Pedagogy Classrooms</span></p>
+             <p class="h-cite"> <a class="u-url p-name" href="https://archive.org/details/@jgmac1106">Openly Licesned Videos</a><span class="p-note">Learning Videos Posted on </span></p>
+             <p class="h-cite"> <a class="u-url p-name" href="https://jgregorymcverry.com/2toPonder">2toPonder</a><span class="p-note">Two Minute Podcast on Learning Sciences</span></p>
+             <p class="h-cite"> <a class="u-url p-name" href="https://archive.org/details/@jgmac1106">Openly Licesned Videos</a><span class="p-note">Learning Videos Posted on Archive.org</span></p>
              </details>
               </div>
       </div>
