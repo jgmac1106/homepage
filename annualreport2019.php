@@ -208,7 +208,7 @@
          White Papers
               </summary>
  <cite class="h-cite">
-     <span class="p-author h-card">Hawke, S. (eds).</span>, (<time class="dt-published" datetime="2019-10-11">2019-10-11</time>).<span class="p-name">Technological Approaches to Improving Credibility Assessment on the Web</span><span class="p-publication"> World Wide web Consortium</span>.
+     <span class="p-author h-card">Hawke, S. (eds).</span>, (<time class="dt-published" datetime="2019-10-11">2019-10-11</time>).<a class="p-name u-url" href="https://w3c.github.io/credweb/report/snapshot.html">Technological Approaches to Improving Credibility Assessment on the Web</a><span class="p-publication"> World Wide web Consortium</span>.
     </cite>
      </details>
     </div>
