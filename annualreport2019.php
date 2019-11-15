@@ -63,10 +63,7 @@
        </h2>
     </div>
   </div>
-  <div class="circle">
-    <div class="aligner">
-      
-  </div>
+  
   <div class="circle">
     <div class="aligner">
       <p class="h-event">
@@ -130,7 +127,7 @@
               Funders: <span class="p-organization">Internal</span>
             </p>
         </div>
-        <div class="item1 h-event">
+        <div class="item2 h-event">
             <h3 class="p-note">
               $10,000
             </h3>
@@ -147,7 +144,7 @@
               Funders: <span class="p-organization">University of Connecticut</span>
             </p>
         </div>
-          <div class="item2 h-event">
+          <div class="item3 h-event">
             <h3 class="p-note">
               $150,000
             </h3>
