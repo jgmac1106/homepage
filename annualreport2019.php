@@ -79,7 +79,7 @@
   <div class="circle">
     <div class="aligner">
       <p class="h-event">
-      <span class="p-name">EDU 307(8): Children's Literature</span>
+      <a class="p-name u-url" href="https://edu307.jgregorymcverry.com">EDU 307(8): Children's Literature</a>
       <br>
         <time class="dt-start" datetime="2011">Spring and Fall Semester</time>
       </p>
@@ -88,7 +88,7 @@
   <div class="circle">
     <div class="aligner">
       <p class="h-event">
-      <span class="p-name"> EDU 305: Emergent Literacy</span>
+      <a class="p-name u-url" href="https://edu305.jgregorymcverry.com">EDU 305: Emergent Literacy</a>
       <br>
         <time class="dt-start" datetime="2019">Spring Semester</time>
       </p>
