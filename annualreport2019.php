@@ -179,7 +179,8 @@
               Funders: <span class="p-organization">Internal</span>
             </p>
         </div>
-     </div>   
+     </div> 
+     </div>  
      <div class="history">
        <h3>
         Publications
