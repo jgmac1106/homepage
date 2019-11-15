@@ -97,7 +97,7 @@
    <div class="circle">
     <div class="aligner">
       <p class="h-event">
-        <span class="p-name"> <a href="https://edu407.jgregorymcverry.com">EDU 407: Beginnger Literacy</span>
+        <span class="p-name"> <a href="https://edu407.jgregorymcverry.com">EDU 407: Beginnger Literacy</a></span>
       <br>
         <time class="dt-start" datetime="2019">Summer and Spring</time>
       </p>
@@ -235,7 +235,7 @@
         <div class="item3">
           <details>
 <summary>
-         <h3>Wikis and Websites</h3>
+         Wikis and Websites
               </summary>
           <p class="h-cite"><a class="u-url p-name" href="https://indieweb.org">Indieweb.org</a><span class="p-note">Made 548 wiki edits and 57 pages created on a site that gets 25,000 unique monthly visitors.</span></p>
             <p class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/">Mozilla Web Docs</a><span class="p-note">Editor on articles that get on average 5,000 unique monthly visitors.</span></p>
@@ -244,7 +244,7 @@
         <div class="item3">
           <details>
 <summary>
-         <h3>Creative Writing and Curriculum</h3>
+         Creative Writing and Curriculum
               </summary>
           <p class="h-cite"><a class="u-url p-name" href="https://clmoocwebring.jgregorymcveryr.com">CLMOOC</a><span class="p-note">Create and mantain a community of writers in the connected learning MOOC</span></p>
             <p class="h-cite"><a class="u-url p-name" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?">Small Poems</a><span class="p-note">A Collection of 67 poems (as of 2019-11-15)</span></p>
