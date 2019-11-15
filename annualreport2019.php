@@ -161,13 +161,13 @@
               Funders: <span class="p-organization">Mozilla</span>
             </p>
         </div>
-        <div class="item4 h-event">
+        <div class="item4 h-event" style="margin-left:10px;">
            
           <h3 class="p-note">
               $4,000
             </h3>
           <p>
-            <time class="dt-start" datetime="2019">2019</time><data class="p-category">Funded</data>
+            <time class="dt-start" datetime="2019">2019</time><data class="p-category" value="funded"> Funded</data>
           </p>
           <hr>
             <p class="p-name"><a href="https://jgregorymcverry.com/femhackgrant">#FemHack</a></p>
@@ -196,29 +196,45 @@
    <cite class="h-cite">
      <span class="p-author h-card">Chandler-Olcott, K.</span>,  <span class="p-author h-card">Draper,R.</span> <span class="p-author h-card">R. Hiebert, E.</span>, <span class="p-author h-card"> Hruby, G.</span>, <span class="p-author h-card"> MacGill-Franzen, A.</span><a class="u-author h-card" href="https://jgregorymcverry.com">McVerry, J. G.</a>,<a class="u-author h-card" href="https://wiobyrne.com"> O’Byrne, W. I.</a>, &amp; <span class="p-author h-card"> Serafini, F.</span> (<time class="dt-published" datetime="in press">in press</time>).<span class="p-name"> Defining Instructional Text: Eight literacy scholars discuss framing and trade-offs.</span><span class="p-publication"> Ubiquity: The Journal of Literature, Literacy, and the Arts</span>.
     </cite>
-    <cite class="h-cite">
-     <span class="p-author h-card">Miller, M.</span>,  <span class="p-author h-card">Brown, M</span> <span class="p-author h-card">Okobi, E.</span>, ><a class="u-author h-card" href="https://jgregorymcverry.com">McVerry, J. G.</a><time class="dt-published" datetime="in press">under review</time>).<span class="p-name"> Aligning GIS Teacher Training with K-12 Social Studies Curriculums</span><span class="p-publication"> Journal of Geography</span>.
-    </cite>
-  </details>
-  <details>
-      <summary>
+    <details>
+              <summary>
+         Invited Journals
+      </summary>
+      </details></div>
+        <div class="item3">
+       <details>
+  <summary>
+         Book Chapters
+              </summary>
+</details>
+        </div>
+        <div class="item3">
+          <details>
+<summary>
          White Papers
               </summary>
-   <cite class="h-cite">
-     <span class="p-author h-card">Hawke, S. (ed).</span><a class="p-name u-url" href="https://w3c.github.io/credweb/report/snapshot.html">Technological Approaches to Improving Credibility Assessment on the Web</a><time class="dt-published" datetime="2019-10-23">2019</time><span class="p-publication"> World Wide Web Consortium</span>.
-    </cite>
-    </details>
-    <detals>
-      <summary>
-        Wikis and Websites
-      </summary>
-      <p class="h-entry"><strong class="p-name">IndieWeb Wiki</strong> In 2019 <span class="p-author h-card"><a class="u-author h-card" href="https://jgregorymcverry.com">McVerry, J. G.</a> made 548 wiki edits and created 57 pages on the <a class="u-url" href="https://indieweb.org">Indieweb.org wiki.</a>The website gets 25,000 unique vistors a month</p>
-          <p class="h-entry"><strong class="p-name">Mozilla Web Development</strong> In 2019 <span class="p-author h-card"><a class="u-author h-card" href="https://jgregorymcverry.com">McVerry, J. G.</a> maintained the microformats and the sectionioning pages of  <a class="u-url" href="https://developer.mozilla.org">Mozilla Weeb Developer Documents.</a>These articles each exceed over 5,000 unique visitors a month.</p>
+ 
 
-    </detals>
+     </details>
+    </div>
+     <div class="item3">
+         
+           <details>
+            <summary>
          Conference Papers and Proceedings
               </summary>
-              
+
+
+            </details>
+        </div>
+        <div class="item3">
+          <details>
+<summary>
+         Invited Keynotes
+              </summary>
+          
+             </details>
+              </div>
       </div>
       </div>
      <div class="service">
@@ -244,7 +260,6 @@
     </h4>
     </div>
     <div class="box3" style="background-color: #3c2d23; color:white; font-size:.6em"><time class="dt-start" datetime="2017">2017</time>-<time class="dt-end" datetime="2019">2019</time></div></div>
- 
           </div>
           <div class="item2">
             <h3>
@@ -257,7 +272,7 @@
               </div>
   <div class="box3" style="background-color: #3c2d23; color:white; font-size:.6em"><time class="dt-start" datetime="2017">2017</time>-<time class="dt-end" datetime="2019">2019</time></div>
         </div>
-    </div>
+         </div>
           <div class="item3">
             <h3>
               Field
@@ -268,11 +283,8 @@
     </h4>
               </div>
   <div class="box3" style="background-color: #3c2d23; color:white; font-size:.6em"><time class="dt-start" datetime="2018">2018</time>-<time class="dt-end" datetime="2019">2019</time></div>
-       
+        </div>
   
-       
-  
-    
 
           </div>
        </div>

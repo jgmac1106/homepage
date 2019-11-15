@@ -97,7 +97,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="edcampct">#edCampCT</data> 2019 reflection
         </div>
-        <a  href="/edcampct" class="u-url button">Read More</a>
+        <a  href="/edcampct19" class="u-url button">Read More</a>
 
     </article> 
     <article class="h-entry card">
