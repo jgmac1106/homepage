@@ -252,6 +252,9 @@
             <p class="h-cite"><a class="u-url p-name" href="https://jgregorymcverry.com/articles">Articles</a><span class="p-note">Collection of Learning Articles </span></p>
             <p class="h-cite"><a class="u-url p-name" href="https://glitch.com/@jgmac1106/fun-stuff-to-teach-the-web">Fun Stuff to Teach the Web</a><span class="p-note">Collection of Lessons to Learn HTML/CSS </span></p>
              <p class="h-cite"><a class="u-url p-name" href="https://glitch.com/@jgmac1106/indie-web-learning-networks">IndieWeb Learnign Network</a><span class="p-note">Open Source Tools to Build Open Pedagogy Classrooms</span></p>
+             <p class="h-cite"><a class="u-url p-name" href="https://archive.org/details/@jgmac1106">Openly Licesned Videos</a><span class="p-note">Learning Videos Posted on </span></p>
+             <p class="h-cite"><a class="u-url p-name" href="https://jgregorymcverry.com/2toPonder">2toPonder</a><span class="p-note">Two Minute Podcast on Learning Sciences</span></p>
+             <p class="h-cite"><a class="u-url p-name" href="https://archive.org/details/@jgmac1106">Openly Licesned Videos</a><span class="p-note">Learning Videos Posted on Archive.org</span></p>
              </details>
               </div>
       </div>
