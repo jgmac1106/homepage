@@ -544,7 +544,8 @@ details[open] summary {
 .grants .grid-container {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-gap: 10px;
+  grid-column-gap: 10px;
+  grid-row-gap: 20px;
   border: 10px solid #fff;
   background-color: #C4F2E8;
   color: #C4F2E8;

@@ -42,14 +42,15 @@
         Current Projects
       </h2>
      <ul>
+      <li>
        Committing to Open Source Research and Publications
-      </ul>
-      <ul>
+      </li>
+      <li>
         Supporting Global #IndieWeb Movement
-      </ul>
-      <ul>
+      </li>
+      <li>
         Creating an <a href="https://goifnetwork.org">OER learning network </a>in Ghana. 
-      </ul>
+      </li>
     </div>
      </div>
      </div>
@@ -100,7 +101,6 @@
       </p>
     </div>
   </div>
-</div> 
 </div> 
 </section>
     <div class="grants">
