@@ -182,7 +182,7 @@
         <div class="p-summary card__description">
           <data class="p-category" value="pressedconf19">#PressedConf19</data> presentation on webmention badges
         </div>
-        <a  href="href=/webmentionbadgespressedconf19" class="u-url button">Read More</a>
+        <a  href="/webmentionbadgespressedconf19" class="u-url button">Read More</a>
 
     </article> 
      <article class="h-entry card">
