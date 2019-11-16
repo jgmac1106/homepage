@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <?php include 'head.php'; ?>
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%237minuteTips">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23edu307s">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23indieweb">
+
+
 </head>
 <?php include 'header.php'; ?>
     </header>
@@ -55,22 +59,50 @@
       <div class="h-entry">
         <p class="p-name">Nov 11th Monday Update</p>
         <a class="p-author" href="/"></a>
-    <video  controls poster="/videos/vanhookchilLitisWonderful.jpg" class="u-video" src="https://jgregorymcverry.com/videos/EDU307MondayUpdate2019-11-11.mp4">
+    <video  controls poster="/videos/vanhookchilLitisWonderful.jpg" class="u-video" src="https://jgregorymcverry.com/videos/EDU307MondayUpdate2019-11-11.mp4"></video>
       
       <p class="p-summary">Getting Started on Poetry Module</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
     </div>
-          </video>
   </div>
+       </section>   
    <section id="indieweb" class="videofeed h-feed">
     <h2 class="p-name">IndieWeb Videos</h2>
     <div class="videoblock">
-    <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 
+      <div class="h-entry">
+        <p class="p-name">OER and Ghana</p>
+    <video controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 
           </video>
+          <p class="p-summary">Launch of the OER Ghana Video</p>
+      <time class="dt-published" datetime="2019-11-07T11:24:20+0000">2019-11-07</time>
+    </div>
+    <div class="h-entry">
+      <p class="p-name">IndieWeb Education Meet Up</p>
           <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebeducationmeetup/2019-07-15IndieWebEducationMeetUp.mp4"> 
           </video>
-
-  </div>
+           <p class="p-summary">Talking Course design and IndieWeb</p>
+      <time class="dt-published" datetime="2019-07-15T11:24:20+0000">2019-07-15</time>
+    </div>
+</div>
+ </section>
+  <section id="indieweb" class="videofeed h-feed">
+    <h2 class="p-name">Foundations of Reading Videos</h2>
+    <div class="videoblock">
+      <div class="h-entry">
+        <p class="p-name">OER and Ghana</p>
+    <video controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 
+          </video>
+          <p class="p-summary">Launch of the OER Ghana Video</p>
+      <time class="dt-published" datetime="2019-11-07T11:24:20+0000">2019-11-07</time>
+    </div>
+    <div class="h-entry">
+      <p class="p-name">IndieWeb Education Meet Up</p>
+          <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebeducationmeetup/2019-07-15IndieWebEducationMeetUp.mp4"> 
+          </video>
+           <p class="p-summary">Talking Course design and IndieWeb</p>
+      <time class="dt-published" datetime="2019-07-15T11:24:20+0000">2019-07-15</time>
+    </div>
+</div>
  </section>
     </div>
   </div>
