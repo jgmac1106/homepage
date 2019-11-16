@@ -1764,9 +1764,11 @@ flex-wrap: wrap;
 }
 .videoblock div{
   margin-right: 20px;
+  margin-bottom: 20px;
 }
 .videoblock video {
   width:320px;
+  height:240px;
 }
 .videofeed {
   margin-bottom: 20px;
