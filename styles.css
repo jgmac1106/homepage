@@ -372,10 +372,13 @@ strong {
 .classes .circle {
     border: 5px solid #6b6b6b;
     background-color: #202020;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 1000px; 
     margin: 0.5em;
+}
+.classes .circle a {
+    color: yellow;
 }
 
 
