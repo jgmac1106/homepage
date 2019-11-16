@@ -1770,6 +1770,10 @@ flex-wrap: wrap;
   width:320px;
   height:240px;
 }
+.videoblock p {
+  font-size:2.3vmin;
+  line-height:2.3vmin;
+}
 .videofeed {
   margin-bottom: 20px;
 }
