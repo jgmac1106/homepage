@@ -9,16 +9,18 @@
   <div class="pubinfo">
   <span class="summary">
     <p class="p-summary">My Video Feeds</p>
+     <time class="dt-updated" datetime="2019-11-16T11:24:20+0000">November 16th 2019 11:24</time>
     </span>
  </div>
     <div class="copy">
   <div class="e-content">
  <section class="h-feed" id="7minuteTips">
   <h2 class="p-name">7 Minute Teaching Tips</h2>
-  <time class="dt-updated" datetime="2019-11-16T11:24:20+0000">November 16th 2019 11:24</time>
+ 
   <div class="videoblock">
     <div class="h-entry">
       <p class="p-name">NoteTaking 101</p>
+
       <a class="p-author" href="/"></a>
    <video  controls class="u-video" poster="/videos/notetaking.png" src="https://jgregorymcverry.com/videos/notetaking101.mp4"> 
           </video>
