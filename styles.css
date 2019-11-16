@@ -1758,8 +1758,10 @@ tr, td {
   border-style:groove;
 }
 .videoblock {
-flex-direction: row;
+flex-direction: column;
 justify-content: center;
+flex-wrap: wrap;
+
 }
 .videoblock video {
   width:320px;
