@@ -67,7 +67,7 @@
     <div class="h-entry">
         <p class="p-name">How to Write A Reading Response</p>
         <a class="p-author" href="/"></a>
-    <video  controls poster="/videos/vanhookchilLitisWonderful.jpg" class="u-video" src="https://jgregorymcverry.com/videos/https://archive.org/embed/howtowriteareflectiontoreading/HowToWriteAReflectionToReading.mp4"></video>
+    <video  controls poster="/videos/vanhookchilLitisWonderful.jpg" class="u-video" src="https://archive.org/download/howtowriteareflectiontoreading/HowToWriteAReflectionToReading.mp4"></video>
       
       <p class="p-summary">Getting Started on Poetry Module</p>
       <time class="dt-published" datetime="2019-09-14T01:24:20+0000">2019-09-14</time>
@@ -101,7 +101,7 @@
         <p class="p-name">Phonemic Awareness and Phonics</p>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/FoundationsofReadingestPrep.mp4"> 
           </video>
-          <p class="p-summary">Review of the First Two Sections of Practice Questions</p>
+          <p class="p-summary">Review of Two Sections</p>
       <time class="dt-published" datetime="2013-11-07011:24:20+0000">2013-11-00</time>
     </div>
     <div class="h-entry">
