@@ -18,23 +18,29 @@
   <time class="dt-updated" datetime="2019-11-16T11:24:20+0000">November 16th 2019 11:24</time>
   <div class="videoblock">
     <div class="h-entry">
+      <p class="p-name">NoteTaking 101</p>
+      <a class="p-author" href="/"></a>
    <video  controls class="u-video" poster="/videos/notetaking.png" src="https://jgregorymcverry.com/videos/notetaking101.mp4"> 
           </video>
-          <p class="p-name">NoteTaking 101</p>
+          
       <p class="p-summary">Research, Assumptions, and Tips</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
         </div>
         <div class="h-entry">
+          <p class="p-name">Poetry Response</p>
+          <a class="p-author" href="/"></a>
            <video  controls poster="https://jgregorymcverry.com/videos/respond2poetry.png "class="u-video" src="https://jgregorymcverry.com/videos/RespondToPoetryWithPictures.mp4"> 
           </video>
-           <p class="p-name">Poetry Response</p>
+           
       <p class="p-summary">Research, Assumptions, and Tips</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
         </div>
         <div class="h-entry">
+          <p class="p-name">Teaching Vocabulary</p>
+          <a class="p-author" href="/"></a>
            <video  controls poster="/videos/sevenminutevocab.png "class="u-video" src="https://jgregorymcverry.com/videos/VocabGraphicOrganizers.mp4"> 
           </video>
-          <p class="p-name">Teaching Vocabulary</p>
+          
       <p class="p-summary">Strategies for Informational Texts</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
         </div>
@@ -44,8 +50,10 @@
     <h2 class="p-name">EDU 307 Videos</h2>
     <div class="videoblock">
       <div class="h-entry">
+        <p class="p-name">Nov 11th Monday Update</p>
+        <a class="p-author" href="/"></a>
     <video  controls poster="/videos/vanhookchilLitisWonderful.jpg" class="u-video" src="https://jgregorymcverry.com/videos/EDU307MondayUpdate2019-11-11.mp4">
-      <p class="p-name">Nov 11th Monday Update</p>
+      
       <p class="p-summary">Getting Started on Poetry Module</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
     </div>
