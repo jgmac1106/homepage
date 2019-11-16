@@ -14,7 +14,7 @@
  </div>
     <div class="copy">
   <div class="e-content">
- <section class="h-feed" id="7minuteTips">
+ <section class="h-feed videofeed" id="7minuteTips">
   <h2 class="p-name">7 Minute Teaching Tips</h2>
  
   <div class="videoblock">
@@ -48,7 +48,7 @@
         </div>
         </div>
  </section>
-  <section id="edu307 h-feed">
+  <section id="edu307" class="videofeed h-feed">
     <h2 class="p-name">EDU 307 Videos</h2>
     <div class="videoblock">
       <div class="h-entry">
@@ -61,7 +61,7 @@
     </div>
           </video>
   </div>
-   <section id="edu307 h-feed">
+   <section id="indieweb" class="videofeed h-feed">
     <h2 class="p-name">IndieWeb Videos</h2>
     <div class="videoblock">
     <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 

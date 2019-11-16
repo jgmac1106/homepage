@@ -1768,3 +1768,6 @@ flex-wrap: wrap;
 .videoblock video {
   width:320px;
 }
+.videofeed {
+  margin-bottom: 20px;
+}
