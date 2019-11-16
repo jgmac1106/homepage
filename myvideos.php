@@ -62,9 +62,9 @@
    <section id="edu307 h-feed">
     <h2 class="p-name">IndieWeb Videos</h2>
     <div class="videoblock">
-    <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer.mp4"> 
+    <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 
           </video>
-          <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src=" https://archive.org/download/indiewebeducationmeetup.mp4"> 
+          <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebeducationmeetup/2019-07-15IndieWebEducationMeetUp.mp4"> 
           </video>
 
   </div>
