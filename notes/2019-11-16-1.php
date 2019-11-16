@@ -6,7 +6,7 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="2019-11-11T09:14:20+0000">November 14th 2019 9:14</time>
+<time class="dt-published" datetime="2019-11-16T10:34:20+0000">November 16th 2019 10:34</time>
           <video  controls class="u-video" poster="https://jgregorymcverry.com/videos/tantekwcus.png" src="https://jgregorymcverry.com/videos/tantekwcus.mp4"> 
           </video>
           
