@@ -1758,7 +1758,7 @@ tr, td {
   border-style:groove;
 }
 .videoblock {
-flex-direction: column;
+display:flex;
 justify-content: center;
 flex-wrap: wrap;
 
