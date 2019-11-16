@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php include 'head.php'; ?>
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%237minuteTips">
 </head>
 <?php include 'header.php'; ?>
     </header>
