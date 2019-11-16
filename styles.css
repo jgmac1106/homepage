@@ -1761,6 +1761,7 @@ tr, td {
 display:flex;
 flex-wrap: wrap;
  justify-content: flex-start;
+ margin-bottom:20px;
 }
 .videoblock div{
   margin-right: 20px;
