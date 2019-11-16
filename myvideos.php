@@ -76,12 +76,12 @@
           <p class="p-summary">Launch of the OER Ghana Video</p>
       <time class="dt-published" datetime="2019-11-07T11:24:20+0000">2019-11-07</time>
     </div>
-    <div class="h-entry">
-      <p class="p-name">IndieWeb Education Meet Up</p>
-          <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebeducationmeetup/2019-07-15IndieWebEducationMeetUp.mp4"> 
+   <div class="h-entry">
+        <p class="p-name">OER and Ghana</p>
+    <video controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 
           </video>
-           <p class="p-summary">Talking Course design and IndieWeb</p>
-      <time class="dt-published" datetime="2019-07-15T11:24:20+0000">2019-07-15</time>
+          <p class="p-summary">Launch of the OER Ghana Video</p>
+      <time class="dt-published" datetime="2019-11-07T11:24:20+0000">2019-11-07</time>
     </div>
 </div>
  </section>
@@ -96,11 +96,11 @@
       <time class="dt-published" datetime="2019-11-07T11:24:20+0000">2019-11-07</time>
     </div>
     <div class="h-entry">
-      <p class="p-name">IndieWeb Education Meet Up</p>
-          <video class="h-entry" controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebeducationmeetup/2019-07-15IndieWebEducationMeetUp.mp4"> 
+        <p class="p-name">OER and Ghana</p>
+    <video controls poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" class="u-video" src="https://archive.org/download/indiewebandoer/IndieWeb%20and%20OER.mp4"> 
           </video>
-           <p class="p-summary">Talking Course design and IndieWeb</p>
-      <time class="dt-published" datetime="2019-07-15T11:24:20+0000">2019-07-15</time>
+          <p class="p-summary">Launch of the OER Ghana Video</p>
+      <time class="dt-published" datetime="2019-11-07T11:24:20+0000">2019-11-07</time>
     </div>
 </div>
  </section>
