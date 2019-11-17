@@ -186,7 +186,7 @@
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/howtowriteasciencepoem.mp4"> 
           </video>
           <p class="p-summary">Interdisciplinary Poetry</p>
-      <time class="dt-published" datetime="2016-09-22T11:24:20+0000">2016-09-122</time>
+      <time class="dt-published" datetime="2016-09-22T11:24:20+0000">2016-09-12</time>
     </div>
     <div class="h-entry">
         <p class="p-name">Good Book Review</p>
@@ -194,7 +194,7 @@
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/GoodBookReview.mp4"> 
           </video>
           <p class="p-summary">Exemplar Book Review</p>
-      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-122</time>
+      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-12</time>
     </div>
     <div class="h-entry">
         <p class="p-name">Weak Book Review</p>
@@ -202,7 +202,31 @@
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/WeakerBookReview.mp4"> 
           </video>
           <p class="p-summary">Exemplar Book Review</p>
-      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-122</time>
+      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-12</time>
+    </div>
+     <div class="h-entry">
+        <p class="p-name">Pre-writing Scaffold</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/Pre-WritingScaffolds.mp4"> 
+          </video>
+          <p class="p-summary">Writing Always Begins Before</p>
+      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-12</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Basic of Literary Analysis</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/LiteraryAnalysisPost.mp4"> 
+          </video>
+          <p class="p-summary">So They Said Do an Analysis Post?</p>
+      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-12</time>
+    </div>
+      <div class="h-entry">
+        <p class="p-name">Billy Collins Remix</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/NCTEPoetryProject.mp4"> 
+          </video>
+          <p class="p-summary">Multimodal Remx of Poem for NCTE08</p>
+      <time class="dt-published" datetime="2008-09-21T11:24:20+0000">2008-09-21</time>
     </div>
     
 </div>
@@ -254,18 +278,20 @@
      <div class="h-entry">
         <p class="p-name">Sock Puppets on Affinity Spaces</p>
          <a class="p-author" href="/"></a>
-    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/TheNetworkedSociety.mp4"> 
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/SockPuppetsOnAffinitySpaces.mp4"> 
           </video>
-          <p class="p-summary">Implications for Our Digital World</p>
+          <p class="p-summary">JPG's Affinity Spaces</p>
       <time class="dt-published" datetime="2016-07-16T11:24:20+0000">2016-07-16</time>
     </div>
      <div class="h-entry">
-        <p class="p-name">Sock Puppets on Affinity Spaces</p>
+        <p class="p-name">Opening the Syllabi in Higher Education</p>
          <a class="p-author" href="/"></a>
-    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/TheNetworkedSociety.mp4"> 
-          </video>
-          <p class="p-summary">Implications for Our Digital World</p>
-      <time class="dt-published" datetime="2016-07-16T11:24:20+0000">2016-07-16</time>
+    <video class="u-video" controls>
+           <source src="https://jgregorymcverry.com/videos/OpenEd19Presentation.mp4" type="video/mp4">
+            <track label="English" kind="subtitles" srclang="en" src="https://jgregorymcverry.com/videos/OpenEd19Presentation.sbv" default>
+            </video>
+          <p class="p-summary">#OpenEd19 Presentation</p>
+      <time class="dt-published" datetime="2019-10-31T11:24:20+0000">2019-10-31</time>
     </div>
 </div>
  </section>
