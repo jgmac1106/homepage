@@ -116,7 +116,18 @@
   <section id="indieweb" class="videofeed h-feed">
     <h2 class="p-name">Literacies</h2>
     <div class="videoblock">
+    
+          <div class="h-entry">
+
+        <p class="p-name">Academic Writing Tutorial One</p>
+          <a class="p-author" href="/"></a>
+     <video  controls class="u-video" src="https://jgregorymcverry.com/videos/PajamaPoetryParty.mp4"> 
+          </video>
+          <p class="p-summary">Rule One: It's a Game</p>
+      <time class="dt-published" datetime="2014-03-17T11:24:20+0000">2014-03-17</time>
+    </div>
       <div class="h-entry">
+
         <p class="p-name">Academic Writing Tutorial One</p>
           <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/AcademicWritingTutorialOne-WinningtheGame.mp4"> 
