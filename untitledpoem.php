@@ -6,7 +6,7 @@
   <article class="h-entry">
   <h1 class="p-name">Untitled Poem, No Title Till its Done</h1>
   <div class="pubinfo">
-  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
+  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a> and <a class="p-author h-card" href="https://dogtrax.edublogs.com">Kevin Hodgson</a>
      on <time class="dt-published" datetime="2019-11-217 09:04:20">17<sup>th</sup>November 2019</time></p>
     <p>
       Updated <time class="dt-updated" datetime="2019-11-217 09:04:20">17<sup>th</sup> November  2019</time></p>
