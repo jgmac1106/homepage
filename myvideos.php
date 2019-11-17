@@ -94,7 +94,7 @@
     </div>
 </div>
  </section>
-  <section id="indieweb" class="videofeed h-feed">
+  <section id="Fort" class="videofeed h-feed">
     <h2 class="p-name">Foundations of Reading Videos</h2>
     <div class="videoblock">
       <div class="h-entry">
@@ -118,6 +118,7 @@
     <div class="videoblock">
       <div class="h-entry">
         <p class="p-name">Academic Writing Tutorial One</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/AcademicWritingTutorialOne-WinningtheGame.mp4"> 
           </video>
           <p class="p-summary">Rule One: It's a Game</p>
@@ -125,6 +126,7 @@
     </div>
     <div class="h-entry">
         <p class="p-name">Academic Writing Tutorial Two</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/AcademicWritingTutorialTwoDoNotBeWishyWashy.mp4"> 
           </video>
           <p class="p-summary">Rule Two: Don't Be Wishy Washy</p>
@@ -132,6 +134,7 @@
     </div>
    <div class="h-entry">
         <p class="p-name">Academic Writing Tutorial Three</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/AcademicWritingTutorialThreePlaywithWords.mp4"> 
           </video>
           <p class="p-summary">Rule Three: Play with Words</p>
@@ -139,6 +142,7 @@
     </div>
       <div class="h-entry">
         <p class="p-name">Academic Writing Tutorial Four</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/AcademicWritingTutorialFour-TheIdeaPocket.mp4"> 
           </video>
           <p class="p-summary">Rule Four: The Idea Pocket</p>
@@ -146,6 +150,7 @@
     </div>
     <div class="h-entry">
         <p class="p-name">Blending SyllablesPart One</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/BlendingSyllablesLessonPartOne.mp4"> 
           </video>
           <p class="p-summary">Learn how to Teach Syllable Blending</p>
@@ -153,6 +158,7 @@
     </div>
     <div class="h-entry">
         <p class="p-name">Blending Syllables Part Two</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/BlendingSyllablesPartTwo.mp4"> 
           </video>
           <p class="p-summary">Learn how to Teach Syllable Blending</p>
@@ -160,19 +166,107 @@
     </div>
     <div class="h-entry">
         <p class="p-name">BlendingSyllables Part Three</p>
+          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/BlendingSyllablesPart3.mp4"> 
           </video>
           <p class="p-summary">Learn how to Teach Syllable Blending</p>
       <time class="dt-published" datetime="2014-03-17T11:24:20+0000">2014-03-17</time>
     </div>
     <div class="h-entry">
-        <p class="p-name">Bananas and the History of Literacy</p>
-    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/BananasandtheHistoryofLiteracy.mp4"> 
+        <p class="p-name">Blogging Basics</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/BloggingBasics.mp4"> 
           </video>
-          <p class="p-summary">Pecha Flickr Talk on History of Literacy</p>
-      <time class="dt-published" datetime="2014-03-17T11:24:20+0000">2014-03-17</time>
+          <p class="p-summary">Get Started Blogging Today</p>
+      <time class="dt-published" datetime="2016-09-22T11:24:20+0000">2016-09-122</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Science Poems</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/howtowriteasciencepoem.mp4"> 
+          </video>
+          <p class="p-summary">Interdisciplinary Poetry</p>
+      <time class="dt-published" datetime="2016-09-22T11:24:20+0000">2016-09-122</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Good Book Review</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/GoodBookReview.mp4"> 
+          </video>
+          <p class="p-summary">Exemplar Book Review</p>
+      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-122</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Weak Book Review</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/WeakerBookReview.mp4"> 
+          </video>
+          <p class="p-summary">Exemplar Book Review</p>
+      <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-122</time>
     </div>
     
+</div>
+ </section>
+   <section id="theoryandresearch" class="videofeed h-feed">
+    <h2 class="p-name">Theoy and Research</h2>
+    <div class="videoblock">
+      <div class="h-entry">
+        <p class="p-name">Connected Learning</p>
+         <a class="p-author" href="/"></a>
+         <a class="p-author" href="/"></a>
+    <video controls  class="u-video" src="https://jgregorymcverry.com/videos/FoundationsofReadingestPrep.mp4"> 
+          </video>
+          <p class="p-summary">Connected Learning Ignite Talk</p>
+      <time class="dt-published" datetime="2014-07-13T11:24:20+0000">2014-07-13</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Participatory Culture</p>
+         <a class="p-author" href="/"></a>
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/ParticipatoryCulture.mp4"> 
+          </video>
+          <p class="p-summary">Over of Jenkin's Theory</p>
+      <time class="dt-published" datetime="2014-10-07T11:24:20+0000">2014-10-07</time>
+    </div>
+     <div class="h-entry">
+        <p class="p-name">Participatory Skills</p>
+         <a class="p-author" href="/"></a>
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/ParticipatoryLearningSkills.mp4"> 
+          </video>
+          <p class="p-summary">Skills Required in our World</p>
+      <time class="dt-published" datetime="2014-10-07T11:24:20+0000">2014-10-07</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Goblets of Research</p>
+         <a class="p-author" href="/"></a>
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/PechaFlickPoemGobletsofResearch.mp4"> 
+          </video>
+          <p class="p-summary">Pecha Flickr Poem Defining Research</p>
+      <time class="dt-published" datetime="2014-10-07T11:24:20+0000">2014-10-07</time>
+    </div>
+    <div class="h-entry">
+        <p class="p-name">Networked Society</p>
+         <a class="p-author" href="/"></a>
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/TheNetworkedSociety.mp4"> 
+          </video>
+          <p class="p-summary">Implications for Our Digital World</p>
+      <time class="dt-published" datetime="2014-10-07T11:24:20+0000">2014-10-07</time>
+    </div>
+     <div class="h-entry">
+        <p class="p-name">Sock Puppets on Affinity Spaces</p>
+         <a class="p-author" href="/"></a>
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/TheNetworkedSociety.mp4"> 
+          </video>
+          <p class="p-summary">Implications for Our Digital World</p>
+      <time class="dt-published" datetime="2016-07-16T11:24:20+0000">2016-07-16</time>
+    </div>
+     <div class="h-entry">
+        <p class="p-name">Sock Puppets on Affinity Spaces</p>
+         <a class="p-author" href="/"></a>
+    <video controls p class="u-video" src="https://jgregorymcverry.com/videos/TheNetworkedSociety.mp4"> 
+          </video>
+          <p class="p-summary">Implications for Our Digital World</p>
+      <time class="dt-published" datetime="2016-07-16T11:24:20+0000">2016-07-16</time>
+    </div>
 </div>
  </section>
     </div>
