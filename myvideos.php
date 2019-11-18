@@ -245,9 +245,18 @@
    <section id="theoryandresearch" class="videofeed h-feed">
     <h2 class="p-name">Theoy and Research</h2>
     <div class="videoblock">
+      
+        <div class="h-entry">
+        <p class="p-name">How to Read Qualitative Research</p>
+         <a class="p-author" href="/"></a>
+       
+    <video controls  class="u-video" src="https://archive.org/download/howtoreadqualreasearch/HowToReadQualReasearch.mp4"> 
+          </video>
+          <p class="p-summary">Overview on Qualititative Research</p>
+      <time class="dt-published" datetime="2014-07-13T11:24:20+0000">2014-07-13</time>
+    </div>
       <div class="h-entry">
         <p class="p-name">Connected Learning</p>
-         <a class="p-author" href="/"></a>
          <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/FoundationsofReadingestPrep.mp4"> 
           </video>
