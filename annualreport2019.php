@@ -41,18 +41,35 @@
        <h2>
         Current Projects
       </h2>
-     <ul>
+      <ul>
+        <li>Improving Teaching with #OpenPedagogy
+          <ul>
+            <li>All classes are openly licensed.</li>
+            <li>Create public feed</li>li>
+            <li>Encourage, but do not require, students to learn from their own domain</li>l
+          </ul>
       <li>
        Committing to Open Source Research and Publications
+     </li>
+       <ul>
+        <li>Published two open sorce papers</li>
+        <li>Made 615 commits to Open Source Repos on Ghana</li>
+        <li>Assisted in the Mozilla Thimble Project</li>
+        <li>Recognized as a Mozilla Open Leader X Fellow</li>
+       </ul>
       </li>
       <li>
         Supporting Global #IndieWeb Movement
       </li>
+      <ul>
       <li>Organize IndieWebCamp New Haven</li>
+      <li>Organize IndieWebCamp Online
       <li>Organize IndieWebCamp NYC</li>
       <li>
         Creating an <a href="https://goifnetwork.org">OER learning network </a>in Ghana. 
       </li>
+    </ul>
+  </ul>
     </div>
      </div>
      </div>
@@ -242,7 +259,7 @@
          Wikis and Websites
               </summary>
           <p class="h-cite"> <a class="u-url p-name" href="https://indieweb.org">Indieweb.org</a><span class="p-note">Made 548 wiki edits and 57 pages created on a site that gets 25,000 unique monthly visitors.</span></p>
-            <p class="h-cite"> <a class="u-url p-name" href="https://developer.mozilla.org/en-US/">Mozilla Web Docs</a><span class="p-note">Editor on articles that get on average 5,000 unique monthly visitors.</span></p>
+            <p class="h-cite"> <a class="u-url p-name" href="https://developer.mozilla.org/en-US/">Mozilla Web Docs</a><span class="p-note">Edits on articles lead to a 20% bump in traffic even thirty days after changes published. </span></p>
              </details>
               </div>
         <div class="item3">
