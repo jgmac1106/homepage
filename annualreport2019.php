@@ -51,7 +51,7 @@
       <li>
        Committing to Open Source Research and Publications
      </li>
-       <ul class="smalllist">>
+       <ul class="smalllist">
         <li>Published two open source peer reviewed papers</li>
         <li>Made 618 commits to Open Source Repos on GitHub</li>
         <li>Assisted in the Mozilla Thimble Project</li>
