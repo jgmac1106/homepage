@@ -56,6 +56,7 @@
         <li>Made 615 commits to Open Source Repos on Ghana</li>
         <li>Assisted in the Mozilla Thimble Project</li>
         <li>Recognized as a Mozilla Open Leader X Fellow</li>
+        <li>Applied for 1.5 million dollars ingrants to support Open Source</li>
        </ul>
       </li>
       <li>
@@ -200,6 +201,23 @@
             <hr>
             <p class="h-card">
               Funders: <span class="p-organization">Internal</span>
+            </p>
+        </div>
+         <div class="item5 h-event">
+          <h3 class="p-note">
+              $1,200,000
+            </h3>
+          <p>
+            <time class="dt-start" datetime="2019">2019</time><data class="p-category">Pending</data>
+          </p>
+          <hr>
+            <p class="p-name">#QuestionTheWeb</p>
+            <p class="p-summary">Building Argumentative Writting Skills</p>
+          <hr>
+          <p><a class="u-author h-card" href="https://jgregorymcverry.com">McVerry, J. G.</a>, Abrams, S.s, & Hicks, T</p>
+            <hr>
+            <p class="h-card">
+              Funders: <span class="p-organization">Institute of Educational Sciences</span>
             </p>
         </div>
      </div> 
