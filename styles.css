@@ -337,7 +337,8 @@ strong {
 }
 .smalllist {
   list-style-type: circle;
-  font-size 80%;
+  font-size 40%;
+  margin-left:5px;
 }
 @media only screen and (max-width: 700px) {
   .goals .grid-container{
