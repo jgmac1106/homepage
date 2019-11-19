@@ -43,15 +43,15 @@
       </h2>
       <ul>
         <li>Improving Teaching with #OpenPedagogy
-          <ul>
+          <ul class="smalllist">
             <li>All classes are openly licensed.</li>
-            <li>Create public feed</li>li>
-            <li>Encourage, but do not require, students to learn from their own domain</li>l
+            <li>Create public feed</li>
+            <li>Encourage, but do not require, students to learn from their own domain</li>
           </ul>
       <li>
        Committing to Open Source Research and Publications
      </li>
-       <ul>
+       <ul class="smalllist">>
         <li>Published two open sorce papers</li>
         <li>Made 615 commits to Open Source Repos on Ghana</li>
         <li>Assisted in the Mozilla Thimble Project</li>
@@ -61,7 +61,7 @@
       <li>
         Supporting Global #IndieWeb Movement
       </li>
-      <ul>
+      <ul class="smalllist">>
       <li>Organize IndieWebCamp New Haven</li>
       <li>Organize IndieWebCamp Online
       <li>Organize IndieWebCamp NYC</li>
