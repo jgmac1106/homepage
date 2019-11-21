@@ -24,6 +24,16 @@
  
   <div class="videoblock">
     <div class="h-entry">
+      <p class="p-name">4 Note Taking Strategies</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/7minutesnotetaking.png" src="https://jgregorymcverry.com/videos/4NoteTakingStrategies.mp4"> 
+          </video>
+          
+      <p class="p-summary">Note taking methods for elemntary school or higher ed</p>
+      <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
+        </div>
+    <div class="h-entry">
       <p class="p-name">NoteTaking 101</p>
 
       <a class="p-author" href="/"></a>
@@ -224,7 +234,7 @@
       <time class="dt-published" datetime="2012-05-17T11:24:20+0000">2016-09-12</time>
     </div>
     <div class="h-entry">
-        <p class="p-name">Basic of Literary Analysis</p>
+        <p class="p-name">Basics of Literary Analysis</p>
           <a class="p-author" href="/"></a>
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/LiteraryAnalysisPost.mp4"> 
           </video>
@@ -237,6 +247,14 @@
     <video controls  class="u-video" src="https://jgregorymcverry.com/videos/NCTEPoetryProject.mp4"> 
           </video>
           <p class="p-summary">Multimodal Remx of Poem for NCTE08</p>
+      <time class="dt-published" datetime="2008-09-21T11:24:20+0000">2008-09-21</time>
+    </div>
+     <div class="h-entry">
+        <p class="p-name">Introduction to Text Structure</p>
+          <a class="p-author" href="/"></a>
+    <video controls  class="u-video" poster="intrototextstructure.png" src="https://jgregorymcverry.com/videos/TextStructureTutorialOne.mp4"> 
+          </video>
+          <p class="p-summary">Focus on Text Structure for Better Readers and Writers</p>
       <time class="dt-published" datetime="2008-09-21T11:24:20+0000">2008-09-21</time>
     </div>
     
