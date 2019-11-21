@@ -33,8 +33,8 @@
 <div class="goals">
   <div class="grid-container">
    <div class="item1">
-       <div class="p-summary">
-         <p>In 2019 I continued my journey as a digitally engaged scholar emersed in #openpedagogy. I held my committment to only publish openly licensed content and not attend any research conference that does not openly license and release the materials of the conference.</p><p> Social justice and the decolonization of the Academy require us to take a stand against models of engagement based on the false scarcity of knowledge. To this end I am helping to organize conferences and movements across the globe. The current Higher Education system is designed to reinforce inequity and we must work towards a better future.</p><p>While a blanket refusal not to attend any research conference that monetizes the labor of the professoriate without releasing conference materials openly keeps me from Literacy Research Association, International Literacy Association, National Council's of Teacher of English, and the American Educational Research Association I can take solace knowing mI can celebrate my work impacting 1,000s rather than worry about an impact rating of a journal read by hundreds.</p><p>For these efforts I continue to grow as an international scholar. In fact in 2019 I was recognized as a Mozilla Open Leaders X Fellow. In partnership with Southern Connecticut State University, Mozilla, and the Global Open Initiative Foundation I am training a group pf local leaders in Ghana to create sustainable Open Education Resource groups.</p>
+       <div class="overview p-summary">
+         <p>In 2019 I continued my journey as a digitally engaged scholar emersed in #openpedagogy. I held my committment to only publish openly licensed content and to not attend any research conference that does not openly license and release materials.</p><p> Social justice and the decolonization of the Academy require us to take a stand against models of engagement based on the false scarcity of knowledge. To this end I am helping to organize conferences and movements across the globe to provide an alternative to the exploitation of faculty and students.</p><p> The current Higher Education system is designed to reinforce inequity and we must work towards a better future.</p><p>While a blanket refusal not to attend any research conference that monetizes the labor of the professoriate  keeps me from Literacy Research Association, International Literacy Association, National Council's of Teacher of English, and the American Educational Research Association I can take solace knowing mI can celebrate my work impacting 1,000s rather than worry about an impact rating of a journal read by hundreds, usually dozens.</p><p>For these efforts I continue to get recognized and grow as an international scholar. </p><p>In fact in 2019 I was recognized as a Mozilla Open Leaders X Fellow. In partnership with Southern Connecticut State University, Mozilla, and the Global Open Initiative Foundation I am training a group pf local leaders in Ghana to create sustainable Open Education Resource groups.</p>
      </div>
     </div>
     <div class="item2">
@@ -51,20 +51,20 @@
       <li>
        Committing to Open Source Research and Publications
      </li>
-       <ul class="smalllist">>
-        <li>Published two open sorce papers</li>
-        <li>Made 615 commits to Open Source Repos on Ghana</li>
+       <ul class="smalllist">
+        <li>Published two open source peer reviewed papers</li>
+        <li>Made 618 commits to Open Source Repos on GitHub</li>
         <li>Assisted in the Mozilla Thimble Project</li>
         <li>Recognized as a Mozilla Open Leader X Fellow</li>
-        <li>Applied for 1.5 million dollars ingrants to support Open Source</li>
+        <li>Applied for 1.5 million dollars in grants to support Open Source</li>
        </ul>
       </li>
       <li>
         Supporting Global #IndieWeb Movement
       </li>
-      <ul class="smalllist">>
+      <ul class="smalllist">
       <li>Organize IndieWebCamp New Haven</li>
-      <li>Organize IndieWebCamp Online
+      <li>Organize IndieWebCamp Online</li>
       <li>Organize IndieWebCamp NYC</li>
       <li>
         Creating an <a href="https://goifnetwork.org">OER learning network </a>in Ghana. 
