@@ -61,6 +61,25 @@
       <p class="p-summary">Strategies for Informational Texts</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
         </div>
+         <div class="h-entry">
+          <p class="p-name">Reading Novels in Elementary School</p>
+          <a class="p-author" href="/"></a>
+           <video  controls poster="/videos/7minnovels.png" class="u-video" src="https://jgregorymcverry.com/videos/7MinuteTeachingTipsWholeClassNovels.mp4"> 
+          </video>
+          
+      <p class="p-summary">Common Strategies to Organize Novels</p>
+      <time class="dt-published" datetime="2019-11-21T11:24:20+0000">2019-11-21</time>
+        </div>
+
+        <div class="h-entry">
+          <p class="p-name">Reading Novels in Elementary School</p>
+          <a class="p-author" href="/"></a>
+           <video  controls poster="/videos/7minWholeNovel.png "class="u-video" src="https://jgregorymcverry.com/videos/7MinuteTeachingTipsWholeClassNovels.mp4"> 
+          </video>
+          
+      <p class="p-summary">Reading Whole Class Novels h/t to <a href="http://howtoteachanovel.blogspot.com/2010/05/alternative-assessments-for-reading.html">Kieth Schoch</a></p>
+      <time class="dt-published" datetime="2019-11-21T11:24:20+0000">2019-11-21</time>
+        </div>
         </div>
  </section>
   <section id="edu307" class="videofeed h-feed">
