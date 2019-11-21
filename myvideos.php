@@ -77,7 +77,7 @@
            <video  controls poster="/videos/7minWholeNovel.png "class="u-video" src="https://jgregorymcverry.com/videos/7MinuteTeachingTipsWholeClassNovels.mp4"> 
           </video>
           
-      <p class="p-summary">Reading Whole Class Novels h/t to <a href="http://howtoteachanovel.blogspot.com/2010/05/alternative-assessments-for-reading.html">Kieth Schoch</a></p>
+      <p class="p-summary">Reading Whole Class Novels<br> h/t to <a href="http://howtoteachanovel.blogspot.com/2010/05/alternative-assessments-for-reading.html">Kieth Schoch</a></p>
       <time class="dt-published" datetime="2019-11-21T11:24:20+0000">2019-11-21</time>
         </div>
         </div>
@@ -280,7 +280,7 @@
 </div>
  </section>
    <section id="theoryandresearch" class="videofeed h-feed">
-    <h2 class="p-name">Theoy and Research</h2>
+    <h2 class="p-name">Theory and Research</h2>
     <div class="videoblock">
       
         <div class="h-entry">
@@ -289,7 +289,7 @@
        
     <video controls  class="u-video" src="https://archive.org/download/howtoreadqualreasearch/HowToReadQualReasearch.mp4"> 
           </video>
-          <p class="p-summary">Overview on Qualititative Research</p>
+          <p class="p-summary">Overview on Qualitative Research</p>
       <time class="dt-published" datetime="2014-07-13T11:24:20+0000">2014-07-13</time>
     </div>
       <div class="h-entry">
