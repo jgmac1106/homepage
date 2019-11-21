@@ -21,13 +21,13 @@
     <a class="h-card p-author" href="/"></a>
     <p class="p-name">2019-11-21</p>
     <ul>
-      <li class="h-item" class="20191121-1">Annotate ACUE Effective Online Learning Modules 🍅🍅🍅🍅🍅</li>
-      <li class="h-item" class="20191121-2">Elm CityWebmaker emails 🍅</li>
-      <li class="h-item" class="20191121-3">OER Ghana 10 Week Curriculum Map 🍅🍅</li>
-      <li class="h-item" class="20191121-4">Post EDU 407 Teaching Novels Video 🍅</li>
-      <li class="h-item" class="20191121-5">Read EDU 307 Teaching Write Post 🍅🍅</li>
-      <li class="h-item" class="20191121-6">Video feedback to EDU 407 Lesson Plans 🍅🍅🍅🍅🍅</li>
-      <li class="h-item" class="20191121-7">Write a post about building a video page, annual report 🍅</li>
+      <li class="h-item" id="20191121-1">Annotate ACUE Effective Online Learning Modules 🍅🍅🍅🍅🍅</li>
+      <li class="h-item" id="20191121-2">Elm CityWebmaker emails 🍅</li>
+      <li class="h-item" id="20191121-3">OER Ghana 10 Week Curriculum Map 🍅🍅</li>
+      <li class="h-item" id="20191121-4">Post EDU 407 Teaching Novels Video 🍅</li>
+      <li class="h-item" id="20191121-5">Read EDU 307 Teaching Write Post 🍅🍅</li>
+      <li class="h-item" id="20191121-6">Video feedback to EDU 407 Lesson Plans 🍅🍅🍅🍅🍅</li>
+      <li class="h-item" id="20191121-7">Write a post about building a video page, annual report 🍅</li>
     </ul>
   </div>
       </div>
