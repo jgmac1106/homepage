@@ -30,7 +30,7 @@
    <video  controls class="u-video" poster="/videos/7minutesnotetaking.png" src="https://jgregorymcverry.com/videos/4NoteTakingStrategies.mp4"> 
           </video>
           
-      <p class="p-summary">Note taking methods for elemntary school or higher ed</p>
+      <p class="p-summary">Note taking methods for any age</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
         </div>
     <div class="h-entry">
