@@ -39,7 +39,7 @@
           <a href="/annotations" class="navLinks">Annotations</a>
         </div>
         <div class="Navbar__Link" >
-          <a href="/imagecredits" class="navLinks">Img Credits</a>
+          <a href="/myvideos" class="navLinks">Videos</a>
         </div>
       </nav>
     
