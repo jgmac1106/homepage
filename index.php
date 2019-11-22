@@ -69,6 +69,53 @@
         <section  class="card-container" >
           <article class="h-entry card">
         <header class="card__title">
+            <h3 class="p-name">Misreading the Science of Reading</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+         <time class="dt-published" datetime="2019-11-21 10:24:20">21<sup>st</sup>November 2019</time>
+      </div>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="https://farm8.static.flickr.com/7165/6833229625_584914b659_z.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Response to pushback presenters got at #ncte19 for calling BS
+          </p>
+        </div>
+        <a  href="/annualreport2019" class="u-url button">Read More</a>
+
+    </article> 
+ 
+  <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">2019 Annual Report</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+         <time class="dt-published" datetime="2019-11-21 10:24:20">21<sup>st</sup>November 2019</time>
+      </div>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src=" https://farm8.static.flickr.com/7650/27024397852_278d1a2ec5_z.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            My Faculty and Annual Activity Report
+          </p>
+        </div>
+        <a  href="/annualreport2019" class="u-url button">Read More</a>
+
+    </article> 
+          <article class="h-entry card">
+        <header class="card__title">
             <h3 class="p-name">Opening the Syllabi in Higher Education</h3>
         </header>
       <div class="authorInfo">
@@ -89,52 +136,20 @@
         </div>
         <a  href="/opened19presentation" class="u-url button">Read More</a>
 
-    </article> 
-          <article class="h-entry card">
-        <header class="card__title">
-            <h3 class="p-name">IndieWebCamp NYC Day 2 Update</h3>
-        </header>
-      <div class="authorInfo">
-         <div class="h-card"> 
-           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
-         </div>
+    </article>
+    <article class="h-entry">
         
-         <time class="dt-published" datetime="2019-10-06 10:59:00">6<sup>th</sup> October 2019</time>
-      </div>
-        <figure class="card__thumbnail">
-            <img class="u-featured" src="/photos/assets/control.jpg" alt="" >
-         
-        </figure>
-        <div class="p-summary card__description">
-          <p>
-            A Live Update from IndieWebCamp NYC
-          </p>
-        </div>
-        <a  href="/iwcupdatenyc2019.html" class="u-url button">View Now</a>
+            <h3 class="p-name">Full Article Feed</h3>
+       
+     
+        <a class="p-author h-card" href="/"></a>
+        
+         <time class="dt-published" datetime="2019-11-21 10:24:20">21<sup>st</sup>November 2019</time>
+  
+        <a  href="/articles" class="u-url button">Read Them All</a>
 
     </article> 
-          <article class="h-entry card">
-            <header class="card__title">
-              <h3 class="p-name">Designs that Inspire</h3>
-            </header>
-            <div class="authorInfo">
-              <div class="h-card">
-                <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p>
-              </div>
-              
-              <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
-            </div>
-            <figure class="card__thumbnail">
-              <img class="u-featured" src="/photos/assets/ferriswheel.jpg" alt="time lapse of ferris wheel at night with RV in front" >
-              
-            </figure>
-            <div class="p-summary card__description">
-              <p>
-                Websites from around IndieWeb that inspire me
-              </p>
-            </div>
-            <a  href="/inspiringdesigns.html" class="u-url button">Read More</a>
-          </article>
+         
        
          
           
