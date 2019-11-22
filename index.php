@@ -137,9 +137,16 @@
         <a  href="/opened19presentation" class="u-url button">Read More</a>
 
     </article>
-    <article class="h-entry">
+    
+         
+       
+         
+          
+          
+        </section>
+        <article class="h-entry">
         
-            <h3 class="p-name">Full Article Feed</h3>
+            <p class="p-name">Full Article Feed</p>
        
      
         <a class="p-author h-card" href="/"></a>
@@ -149,12 +156,6 @@
         <a  href="/articles" class="u-url button">Read Them All</a>
 
     </article> 
-         
-       
-         
-          
-          
-        </section>
       </div>
     </main>
     <footer>
