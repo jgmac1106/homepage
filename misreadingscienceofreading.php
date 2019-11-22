@@ -17,7 +17,7 @@
  </div>
     <div class="copy">
   <div class="e-content">
-   <div class="notewrapper">
+   <div>
 <div class="row t-tweet">
 <div class="col-12">
 <div id="tweet_1" data-screenname="jgmac1106"  class="h-entry note" dir="auto">
@@ -131,10 +131,9 @@ but I hold that true for most diagnostic assessments, by time they get to classr
 </div>
 </div>
 </div>
+</div>
 </article>
-  </div>
-      </div>
-</article>
+</div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>
