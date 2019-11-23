@@ -59,7 +59,8 @@ flex-wrap: wrap;
 <pre>  &lt;div class="h-entry"&gt;
           &lt;p class="p-name"&gt;Poetry Response&lt;/p&gt;
           &lt;a class="p-author" href="/"&gt;&lt;/a&gt;
-           &lt;video  controls poster="https://jgregorymcverry.com/videos/respond2poetry.png "class="u-video" src="https://jgregorymcverry.com/videos/RespondToPoetryWithPictures.mp4"&gt; 
+           &lt;video  controls poster="https://jgregorymcverry.com/videos/respond2poetry.png "class="u-video"
+           src="https://jgregorymcverry.com/videos/RespondToPoetryWithPictures.mp4"&gt; 
           &lt;/video&gt;
            
       &lt;p class="p-summary"&gt;Respond to Poetry with Images?&lt;/p&gt;
