@@ -291,7 +291,7 @@
      <div class="h-entry">
         <p class="p-name">Compare and Contrast Text Structure</p>
           <a class="p-author" href="/"></a>
-    <video controls  class="u-video" poster="/videos/compareandcontrast.png" src="https://jgregorymcverry.com/videos/TextStructureTutorial3-CompareandContrast"> 
+    <video controls  class="u-video" poster="/videos/compareandcontrast.png" src="https://jgregorymcverry.com/videos/TextStructureTutorial3-CompareandContrast.mp4"> 
           </video>
           <p class="p-summary">Signals and Patterns in Differences</p>
       <time class="dt-published" datetime="2008-09-21T11:24:20+0000">2008-09-21</time>
