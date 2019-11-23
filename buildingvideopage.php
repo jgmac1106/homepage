@@ -85,6 +85,7 @@ flex-wrap: wrap;
 <p> Featured img a remix of   <small><a title="construction" href="https://flickr.com/photos/mini_malist/48703542623">construction</a> flickr photo by <a href="https://flickr.com/people/mini_malist">mini_malist (off is the new on)</a> shared under a <a href="https://creativecommons.org/licenses/by-nd/2.0/">Creative Commons (BY-ND) license</a> </small> and <small><a title="Videographer" href="https://flickr.com/photos/photosofsrilanka/6967007333">Videographer</a> flickr photo by <a href="https://flickr.com/people/photosofsrilanka">Dhammika Heenpella / CWSSIP Images of Sri Lanka</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
 </p>
 </div>
+<p>Also on <a class="u-syndication" href="https://news.indieweb.org/en/">IndieWeb News</a>
 </div>
 </article>
     </main>

@@ -14,5 +14,5 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-9ralMzdK1QYsk4yBY680hmsb4/hJ98xK3w0TIaJ3ll4POWpWUYaA2bRjGGujGT8w" crossorigin="anonymous">
      <link href="https://fonts.googleapis.com/css?family=Heebo|Quicksand&display=swap" rel="stylesheet"> 
      <link href="https://fonts.googleapis.com/css?family=Creepster|Griffy&display=swap" rel="stylesheet"> 
-<link  href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical">
+
  

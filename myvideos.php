@@ -53,7 +53,7 @@
            <video  controls poster="https://jgregorymcverry.com/videos/respond2poetry.png "class="u-video" src="https://jgregorymcverry.com/videos/RespondToPoetryWithPictures.mp4"> 
           </video>
            
-      <p class="p-summary">Research, Assumptions, and Tips</p>
+      <p class="p-summary">Respond to Poetry with Images?</p>
       <time class="dt-published" datetime="2019-11-1111:24:20+0000">2019-11-11</time>
         </div>
         <div class="h-entry">
