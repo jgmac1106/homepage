@@ -12,11 +12,11 @@
      
       
 
-  <span class="summary">
+  <div class="summary">
     <p class="p-summary">Reflection on Building My Video Page</p>
-    </span>
+    </div>
  </div>
- <img class="featured u-featured" src="https://jgregorymcverry.com/photos/assets/buildingavideofeed.jpg">
+ <img class="featured u-featured" src="https://jgregorymcverry.com/photos/assets/buildingvideofeed.jpg">
     <div class="copy">
   <div class="e-content">
     <p>Often we fear the scaffolds that surrond us. Building out your own infastructure takes time and effort. Over the last few months I have looked to alternatives for hosting my videos rather than relying on YouTube. I don't want people having to swim through trackers to watch my content. I am not making money on pre-roll advertisments, nobody watches my stuff. Finally I disagree with YouTube's terms of service and their creative commons content. How can something have a license that allows for remixing but to download the video to edit you violate YouTube's Terms of Service? Basically you trap content meant for the world behind a silo. </p>
