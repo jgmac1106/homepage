@@ -21,7 +21,7 @@
   <div class="e-content">
     <p>Often we fear the scaffolds that surrond us. Building out your own infastructure takes time and effort. Over the last few months I have looked to alternatives for hosting my videos rather than relying on YouTube. I don't want people having to swim through trackers to watch my content. I am not making money on pre-roll advertisments, nobody watches my stuff. Finally I disagree with YouTube's terms of service and their creative commons content. How can something have a license that allows for remixing but to download the video to edit you violate YouTube's Terms of Service? Basically you trap content meant for the world behind a silo. </p>
     <p>I needed a new way forward. I first turned to the Internet Archive. You can see all my <a href="https://archive.org/details/@jgmac1106">videos here</a>. I might still use archive.org for my class videos, stuff for a very specific audience, but I wanted to create feeds of videos on my own site. I find the msot resilient content you can build online begins with your own domain</p>
-    <p>You can see the results of <a href="https://jgregorymcverry.com/myvideos">my video page</a>.
+    <p>You can see the results of <a href="https://jgregorymcverry.com/myvideos">my video page</a>.</p>
     <h2>How I did it?</h2>
     <p>I began by thinking about my design. I sketched it out quickly on paper. I wanted to organize videos by topics or shows and have a feed for each. So I decided to use flexbox to make a quick video grid. I could have used CSS Grid but I only needed to think in one dimension so flexbox would do.</p>
     <h3>Layout and MarkUp</h3>
@@ -65,14 +65,14 @@ flex-wrap: wrap;
       &lt;p class="p-summary"&gt;Respond to Poetry with Images?&lt;/p&gt;
       &lt;time class="dt-published" datetime="2019-11-1111:24:20+0000"&gt;2019-11-11&lt;/time&gt;
         &lt;/div&gt;</pre>
-  </div>
+  
   <p>In term of the video I am mainly shooting in 720p. These are instructional videos. I see no reason in wasting bandwidth on anythign higher. Personal videos I may step up the resolution.</p>
   <p>If you are worried about hosting or don't have enough space you can use the Internet archive. In fact many of the videos on my page are still hosted there. Just copy the embed link to the video form archive.org and switch archive.org/embed/file to archive.org/download/file. If you have multiple videos in an archive.org item you will need to use the inspect tool to grad the link. You will need to replace details with download in this case. As a final note archive.org only allows openly licensed content.</p>
   <p>I ended up adding a div around each video. .This means each div is like it's own box and flexbox. Anything contained in the div sticks together. I made each video an h-entry. This is a kind of data called <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/microformats">microfomats</a> that tells social readers this is a post containing stuff. The microformats are also important to generate an RSS feed for my videos.</p>
   <h3>Building h-feeds and RSS feeds</h3>
 <pre> &lt;section class="h-feed videofeed" id="7minuteTips"&gt;
   &lt;h2 class="p-name"&gt;7 Minute Teaching Tips&lt;/h2&gt;</pre>
-      </div>
+     
       <p>I arranged each feed into sections. The semnatic HTML elements are not required. I could have used a div but stuff like section and article make it easier for me to see my website as a bunch of restackable pieces. When I just use div it is hard to tell what piece I am working with</p>
       <p>I also made each section have an id. This allows me to use a fragment link to get to each section. So if I want to link directly to my 7 mintue teaching tip videos I can add <a href="https://jgregorymcverry.com/myvideos#7mintueTips">https://jgregorymcverry.com/myvideos#7mintueTips</a></p>
       <p>The feeds were a bit oo close together so I added som margin to the bottom. If you use a social reader that can add to h-feed you can now add my videos</p>
@@ -82,6 +82,9 @@ flex-wrap: wrap;
         <p>I have started to caption all of my videos. It takes my about 3X the video length to clean up captions after importing them into the same tool. I also need to learn the syntax of how to display text overlays in my captions. If I am just repeating words I say for emphasis I wouldn't include them but sometimes I incldue extra information. I wonder if there is a way to put this in captions or if it doesn't belong.</p>
        
 <p> Featured img a remix of   <small><a title="construction" href="https://flickr.com/photos/mini_malist/48703542623">construction</a> flickr photo by <a href="https://flickr.com/people/mini_malist">mini_malist (off is the new on)</a> shared under a <a href="https://creativecommons.org/licenses/by-nd/2.0/">Creative Commons (BY-ND) license</a> </small> and <small><a title="Videographer" href="https://flickr.com/photos/photosofsrilanka/6967007333">Videographer</a> flickr photo by <a href="https://flickr.com/people/photosofsrilanka">Dhammika Heenpella / CWSSIP Images of Sri Lanka</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
+</p>
+</div>
+</div>
 </article>
     </main>
     <footer>
