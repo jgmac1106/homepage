@@ -11,6 +11,29 @@
 <section class="card-container">
   <article class="h-entry card">
         <header class="card__title">
+            <h3 class="p-name">Building a Video Page</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+         <p><time class="dt-published" datetime="2019-11-23 10:14:20">23<sup>rd</sup> Novemeber 2019</time></p>
+      </div>
+        <figure class="card__thumbnail">
+            <img class="u-featured" src="https://jgregorymcverry.com/photos/assets/buildingvideofeed.jpg" alt="" >
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            How I built a page for my videos
+          </p>
+        </div>
+        <a  href="/buildingvideopage" class="u-url button">Read More</a>
+
+    </article> 
+  <article class="h-entry card">
+        <header class="card__title">
             <h3 class="p-name">Misreading the Science of Reading</h3>
         </header>
       <div class="authorInfo">
@@ -29,7 +52,7 @@
             Response to pushback presenters got at #ncte19 for calling BS
           </p>
         </div>
-        <a  href="/annualreport2019" class="u-url button">Read More</a>
+        <a  href="/misreadingscienceofreading" class="u-url button">Read More</a>
 
     </article> 
  
