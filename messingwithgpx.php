@@ -17,7 +17,7 @@
  </div>
     <div class="copy">
   <div class="e-content">
-    <iframe style="width:90%;height:90vh;" src="https://jgregorymcverry.com/music/index.php/apps/gpxmotion/view?path=%2Fgpx%2F2019-06-27-17-04-00.gpx"></iframe>
+    <iframe style="width:90%;height:90vh;" src="https://jgregorymcverry.com/music/index.php/apps/gpxmotion/publicview?token=MRk02LafhzziEqo&layer=OpenStreetMap&autoplay=1&autozoom=1&loop=0&path=%2F&filename=2019-06-27-17-04-00.gpx"></iframe>
   </div>
       </div>
 </article>
