@@ -8,9 +8,9 @@
       <a class="u-author" href="/"></a>
 
         
-  
+  <time class="dt-published" datetime="2019-11-22 10:04:20">22<sup>nd</sup>November 2019</time></p>
       
-        <time class="dt-published" datetime="<?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
+      ?php echo date("Y/m/d")?>"><?php echo date("Y/m/d")?></time>
        <p>In reply to <a class="u-in-reply-to" href="https://dailyconnector.com/2018/10/10/testing-out-indieweb-with-poetry">poetry</a> by <a class="h-card p-name" href="https://dogratx.edublogs.com">@dogtrax</a></p>
       
 
