@@ -30,6 +30,15 @@
       <li class="h-item" id="20191121-7">Write a post about building a video page, annual report 🍅</li>
     </ul>
   </div>
+   <div class="h-entry" id="20191126">
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-11-26</p>
+    <ul>
+      <li class="h-item" id="20191126-1">EDU 407 Lesson Plan video feedback🍅🍅🍅🍅🍅</li>
+      <li class="h-item" id="20191126-2"> EDU 307 Video feedback 🍅🍅🍅🍅🍅🍅🍅🍅</li>
+       <li class="h-item" id="20191126-3"> Client work on data analysis🍅🍅</li>
+    </ul>
+  </div>
       </div>
 </article>
     </main>
