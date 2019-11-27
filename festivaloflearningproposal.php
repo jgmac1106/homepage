@@ -16,7 +16,7 @@
  </div>
     <div class="copy">
   <div class="e-content">
-    <p>Please note this draft reperesents the ideas of only one of the presenters. Other authors have not had chance to offer ideas or shape proposal. This will change before submission.</p>
+    <p>Please note this draft represents the ideas of only one of the presenters. Other authors have not had chance to offer ideas or shape proposal. This will change before submission.</p>
    <h2>Striving for Remote Parity: Reducing the Carbon Crater Left By Academic Conferences</h2>
 <p>As our world burns and cities of the indigenous sink many scholars around the world seek to lower their impact on the climate crisis. Our biggest carbon sink fills as we seek out conferences. 1,000s of academics with the privilege and power to travel descend on cities through air, rail, and car. Sales reps pitch consumption in vendor halls awash in swag.. All to present a paper for 20 minutes. Is there a better way forward?</p>
 <p>This session examines three case studies of alternative conference models that can drastically reduce the carbon impact of conferences while also embracing open pedagogies; increasing the knowledge growth of participants; and providing access to learning to contingent faculty, marginalized peoples, and other less privileged learners.</p>
