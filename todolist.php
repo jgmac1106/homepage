@@ -39,6 +39,16 @@
        <li class="h-item" id="20191126-3"> Client work on data analysis🍅🍅</li>
     </ul>
   </div>
+   <div class="h-entry" id="20191127">
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-11-27</p>
+    <ul>
+      
+      <li class="h-item" id="20191127-1"> Finish EDU 307 Video feedback 🍅🍅🍅🍅🍅</li>
+       <li class="h-item" id="20191127-2">Work on Climate Crisis and Academic Conference Proposal🍅🍅</li>
+       <li class="h-item" id="20191127-3">EDU 407 Lesson Plan video feedback🍅🍅🍅🍅🍅</li>
+    </ul>
+  </div>
       </div>
 </article>
     </main>
