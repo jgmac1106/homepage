@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name">Y3 hun s3m: Global Learning at Local Scale </h1>
+  <h1 class="p-name">Yε hun sεm: Global Learning at Local Scale </h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-11-27 14:44:20">27<sup>th</sup> Novemner 2019</time></p>
@@ -29,7 +29,7 @@
 <p>Wew will utilize all open source tools for this project. Any participant in New Haven and Ghana who attend the event will be given a personal website using the Open Source platform <a href="https://withknown.com">Known</a>. Every local network also gets a private chatroom and a wiki.</p>
 <h3>Stakeholder Responsibilities</h3>
 <p>Dr. J Gregory McVerry will act as the principal investigator of the project. He will be developing the twn week curriculum and planning and facilitating the meet up in Ghana.</p>
-<p>Sadik Shadu will host the bi-weekly online meetings leading up to the event. This will include time for event planning, leadership training for participants, and time to work on your websites. Sadik will handle alllogistic planning for the two day event.</p>
+<p>Sadik Shahadu will host the bi-weekly online meetings leading up to the event. This will include time for event planning, leadership training for participants, and time to work on your websites. Sadik will handle alllogistic planning for the two day event.</p>
 <p>Jennifer Ricker, Executive Director of CfAL, will coordinate the local event in New haven. She, and the CfAL team, in coordination with Dr. McVerry, will host bimonthly IndieWe meet ups to build personal websites. She will also plan and handle all logistics for the New Haven event.</p>
 <h3>Timeline</h3>
 <ul>
