@@ -8,8 +8,7 @@
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-11-27 10:10:20">25<sup>th</sup> Novemner 2019</time></p>
-    <p>
-      Updated <time class="dt-updated" datetime="2019-11-27 10:04:20">25<sup>th</sup> July 2019</time></p>
+    
    
   <span class="summary">
     <p class="p-summary">How Can We Reduce the Carbon Impact of Academic Conferencres?</p>
