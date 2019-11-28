@@ -17,17 +17,19 @@
  </div>
     <div class="copy">
   <div class="e-content">
+     <details>
      <div class="h-entry" >
-    <details>
       <summary>
         <a class="h-card p-author" href="/"></a>
     <p class="p-name">Important Deadlines and Dates</p>
       </summary>
-    </details>
+    
     <ul>
       <li class="h-event"><span class="p-name">Sabbatical Interview</span><time class="dt-start" datetime="2019-12-02 9:00">2<sup>nd</sup>December 2019, 9:00</time><time class="dt-end" datetime="2019-12-02 9:00">2<sup>nd</sup>December 2019, 10:00</time></li>
          <li class="h-event"><span class="p-name">Social Justice Grant Due</span><time class="dt-start" datetime="2019-12-03 16:00">3<sup>rd</sup>December 2019, 16:00</time></li>
          <li class="h-event"><span class="p-name">NSF Small Business Innovation Research Program Phase I</span><time class="dt-start" datetime="2019-06-14 9:00">14<sup>th</sup>June2019, 9:00</time><time class="dt-end" datetime="2019-12-12 9:00">12<sup>th</sup>December 2019, 16:00</time></li>
+       </ul>
+     </div>
     <details>
   <div class="h-entry" >
     <summary>
@@ -59,8 +61,9 @@
     </ul>
   </div>
 </details>
+<details>
    <div class="h-entry" id="20191127">
-    <details>
+    
       <summary>
     <a class="h-card p-author" href="/"></a>
     <p class="p-name">2019-11-27</p>
@@ -71,8 +74,9 @@
        <li class="h-item" id="20191127-2">Work on Climate Crisis and Academic Conference Proposal🍅🍅</li>
        <li class="h-item" id="20191127-3">EDU 407 Lesson Plan video feedback🍅🍅🍅🍅🍅</li>
     </ul>
-    </details>
+    
   </div>
+  </details>
       </div>
 </article>
     </main>
