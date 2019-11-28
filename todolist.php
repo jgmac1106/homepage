@@ -28,6 +28,7 @@
     <ul>
       <li class="h-event"><span class="p-name">Sabbatical Interview</span><time class="dt-start" datetime="2019-12-02 9:00">2<sup>nd</sup>December 2019, 9:00</time><time class="dt-end" datetime="2019-12-02 9:00">2<sup>nd</sup>December 2019, 10:00</time></li>
          <li class="h-event"><span class="p-name">Social Justice Grant Due</span><time class="dt-start" datetime="2019-12-03 16:00">3<sup>rd</sup>December 2019, 16:00</time></li>
+          <li class="h-event"><span class="p-name">OER20 Proposal Due</span><time class="dt-start" datetime="2019-18-08 10:00">8<sup>th</sup>December 2019, 10:00</time></li>
          <li class="h-event"><span class="p-name">NSF Small Business Innovation Research Program Phase I</span><time class="dt-start" datetime="2019-06-14 9:00">14<sup>th</sup>June2019, 9:00</time><time class="dt-end" datetime="2019-12-12 9:00">12<sup>th</sup>December 2019, 16:00</time></li>
        </ul>
        </details>
