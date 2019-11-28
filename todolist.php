@@ -18,7 +18,8 @@
     <div class="copy">
   <div class="e-content">
      <details>
-     <div class="h-entry" >
+     <div class="h-entry">
+
       <summary>
         <a class="h-card p-author" href="/"></a>
     <p class="p-name">Important Deadlines and Dates</p>
@@ -30,6 +31,7 @@
          <li class="h-event"><span class="p-name">NSF Small Business Innovation Research Program Phase I</span><time class="dt-start" datetime="2019-06-14 9:00">14<sup>th</sup>June2019, 9:00</time><time class="dt-end" datetime="2019-12-12 9:00">12<sup>th</sup>December 2019, 16:00</time></li>
        </ul>
      </div>
+   </details>
     <details>
   <div class="h-entry" >
     <summary>
