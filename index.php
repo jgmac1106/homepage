@@ -84,10 +84,10 @@ Recent Articles
         </figure>
         <div class="p-summary card__description">
           <p>
-            Response to pushback presenters got at #ncte19 for calling BS
+            Proposal for the Festvale of Learning BC Conference
           </p>
         </div>
-        <a  href="/misreadingscienceofreading" class="u-url button">Read More</a>
+        <a  href="/festivaloflearningproposal" class="u-url button">Read More</a>
 
     </article>
   <article class="h-entry card">
