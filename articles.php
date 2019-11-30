@@ -32,6 +32,29 @@
         <a  href="/buildingvideopage" class="u-url button">Read More</a>
 
     </article> 
+    <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">Reducing the Carbon Crater Left By Academic Conferences</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+         <time class="dt-published" datetime="2019-11-30 06:54:20">30<sup>th</sup>November 2019</time>
+      </div>
+        <figure class="card__thumbnail">
+             <img class="u-featured" src="/photos/conferenceclimate.png" alt="7% of annual average carbon output">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Response to pushback presenters got at #ncte19 for calling BS
+          </p>
+        </div>
+        <a  href="/misreadingscienceofreading" class="u-url button">Read More</a>
+
+    </article> 
   <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Misreading the Science of Reading</h3>
