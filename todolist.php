@@ -88,6 +88,23 @@
     </ul>
     </details>
   </div>
+  <div class="h-entry" id="20191203">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-03</p>
+  </summary>
+    <ul>
+      
+      <li class="h-item" id="20191203-1"> Shovel Snow 🍅🍅🍅</li>
+       <li class="h-item" id="20191203-2">Edit Elm City Webmaker website 🍅</li>
+       <li class="h-item" id="20191203-3">Write up Post About Elm Cuty Webmaker 🍅 </li>
+       <li class="h-item" id="20191203-3">Update Goifnetwork.org webiste 🍅 </li>
+       <li class="h-item" id="20191203-4"> Video reviews of #edu407 lesson plans 🍅🍅🍅🍅 </li>
+        <li class="h-item" id="20191203-1"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
+    </ul>
+    </details>
+  </div>
   
       </div>
 </article>
