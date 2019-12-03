@@ -14,7 +14,7 @@
 								
 							</p>
  </p>
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-25-1" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-25-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-24-2" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-29-1" rel="next">Next Note</a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>

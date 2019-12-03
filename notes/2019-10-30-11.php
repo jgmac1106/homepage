@@ -17,7 +17,7 @@
             <track label="English" kind="subtitles" srclang="en" src="https://jgregorymcverry.com/videos/OpenEd19Presentation.sbv" default>
             </video>
           </div>
-  Also on  <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1189593197875531776" ><strong>Twitter</strong></a>
+  Also on  <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1189593197875531776" ><strong>Twitter</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-30-10" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-30-12" rel="next">Next Note</a>
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
 </div>

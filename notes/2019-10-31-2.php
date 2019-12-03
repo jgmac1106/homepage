@@ -17,7 +17,7 @@
 <p class="p-name e-content">@Ihaveabug thx for the heads up the second link was to the <a href="https://jgregorymcverry.com/note/2019-10-31-1">canonical</a> note on my website I can't fix the tweet without the delete.</p>
      
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-31-2" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-31-2" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-31-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-31-3" rel="next">Next Note</a>
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
 </div>

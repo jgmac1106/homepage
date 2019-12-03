@@ -9,7 +9,7 @@
 <time class="dt-published" datetime="2019-10-06T13:26:05+0000">October 6th 2019</time>
  <p class="p-name e-content">Hey #OpenEd19 #digped #ds106 #clmooc #literacies #edtechchat #edu106 #edu307 #edu407 Who else is throwing a Halloween costume on their homepage? Here is mine <a href="https://jgregorymcverry.com">https://jgregorymcverry.com</a>.
  </p>
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-31-3" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-31-3" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-31-2" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-11-01-1" rel="next">Next Note</a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>

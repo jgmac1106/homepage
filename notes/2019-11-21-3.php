@@ -10,7 +10,7 @@
  <div class="p-name e-content"><p>I just added</p><ul><li><a class="p-name u-url" href="https://literacylenses.com/" rel="colleague">Dr Mary Howard</a><span class="p-note"> Literacy Lenses
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#literacies">#Literacies</a> section of my following page. #ncte19 #BeYourOwnSocialNetwork
  </div>
-  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
+  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-11-21-2" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-11-21-4" rel="next">Next Note</a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>

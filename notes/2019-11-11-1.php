@@ -16,7 +16,7 @@
         <p class="e-content">Hey #edu407Fall19 update I made a quick tutorial on how you can use PowerPoint or Google Slides to make a quick digital story. Here is my example https://moussedomain.glitch.me (I used HTML but slide decks work fine)</p>
       
  
-  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
+  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-11-10-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-11-11-2" rel="next">Next Note</a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
 </div>

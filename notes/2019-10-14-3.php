@@ -14,8 +14,8 @@
         <p class="e-content">If you would like to learn more about the Wangunk here is a decent paper: https://www.iaismuseum.org/wp-content/uploads/2017/02/Pre-colonial_History_of_the_Wangunk-1.pdf Please take this day and reflect on the genocide that built our nation</p>
      
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-14-3" rel="canonical"><strong>My Notes</strong></a>
-  <a class="u-syndication" href="<a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-14-3" rel="canonical"><strong>My Notes</strong></a><a href="https://jgregorymcverry.com/notes/2019-10-13-2" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-15-2" rel="next">Next Note</a>
+  <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
 </div>
   	</main>

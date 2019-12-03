@@ -15,7 +15,7 @@
         <p class="e-content">Wow what an amazing turn out for our Accra #IndieWeb meet up on the @goifoundation community call!!. So many folks excited to launch their website and talk about #IndieWeb and @wikimedia connections </p>
       
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-20-2" rel="canonical"><strong>My Notes</strong></a>
+  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-20-2" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-20-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-24-1" rel="next">Next Note</a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a><br /><a class="u-syndication" href="https://news.indieweb.org/en">IndieWeb News</a>
 </div>
 </div>

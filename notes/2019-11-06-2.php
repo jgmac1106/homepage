@@ -10,7 +10,7 @@
  <div class="p-name e-content"><p> @JRDingwall <ul><li class="h-card"><a class="p-name u-url" href="https://jrdingwall.ca/blogwall/" rel="colleague"><img class="u-photo" src="https://jrdingwall.ca/wp-content/uploads/2018/05/10154625899945836.jpg">JR Dingwall</a><span class="p-note"> Reclaiming my digital life
 </span></li></ul><p>to the <a href="https://jgregorymcverry.com/following#openpedagogy">#OpenPedagogy</a> section of my following page. #BeYourOwnSocialNetwork
  </div>
-  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
+  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-11-06-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-11-06-3" rel="next">Next Note</a>
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
