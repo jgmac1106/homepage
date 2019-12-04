@@ -54,6 +54,7 @@
       <li class="h-item" id="20191121-5">Read EDU 307 Teaching Write Post 🍅🍅</li>
       <li class="h-item" id="20191121-6">Video feedback to EDU 407 Lesson Plans 🍅🍅🍅🍅🍅</li>
       <li class="h-item" id="20191121-7">Write a post about building a video page, annual report 🍅</li>
+      <li class="h-item" id="20191121-8">Make a template for #edu106 final portfolio 🍅🍅</li>
     </ul>
    </details>
   </div>
