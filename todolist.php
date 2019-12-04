@@ -104,6 +104,22 @@
         <li class="h-item" id="20191203-1"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
     </ul>
     </details>
+  </div>  <div class="h-entry" id="20191204">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-04</p>
+  </summary>
+    <ul>
+      
+      <li class="h-item" id="20191204-1"> Upload videos begin caption work 🍅</li>
+      <li class="h-item"id="20191204-2">Design Studio-Record Ignite Talks 🍅🍅🍅</li>
+       <li class="h-item" id="20191204-3">Make tutorial on doing formuals in Google Sheets 🍅</li>
+       <li class="h-item" id="20191204-4">Make a post about the times for #edu307 book clubs 🍅 </li>
+       <li class="h-item" id="20191203-5"> Video reviews of #edu407 lesson plans 🍅🍅🍅🍅 </li>
+        
+    </ul>
+    </details>
   </div>
   
       </div>
