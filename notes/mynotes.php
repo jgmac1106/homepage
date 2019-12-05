@@ -55,7 +55,8 @@
 </div>
 </div>
 <h3>Rabbit Hole</h3>
-<a href="https://jgregorymcverry.com/mynotes2" rel="next">October </a>
+<p>Check out notes from other months</p>
+<a href="https://jgregorymcverry.com/notes/mynotes2" rel="next">October </a>
 </div>.
   	</main>
   		<footer>

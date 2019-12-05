@@ -191,7 +191,7 @@ Reply to
 </div>
 </div>
 <h3>Rabbit Hole</h3>
-<a href="https://jgregorymcverry.com/mynotes3" rel="prev">September </a> <a href="https://jgregorymcverry.com/mynotes3" rel="next">November </a>
+<a href="https://jgregorymcverry.com/notes/mynotes" rel="prev">September </a> <a href="https://jgregorymcverry.com/notes/mynotes3" rel="next">November </a>
 </div>
   	</main>
   		<footer>
