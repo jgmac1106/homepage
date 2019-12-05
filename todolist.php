@@ -105,7 +105,8 @@
         <li class="h-item" id="20191203-1"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
     </ul>
     </details>
-  </div>  <div class="h-entry" id="20191204">
+  </div> 
+   <div class="h-entry" id="20191204">
     <details>
       <summary>
     <a class="h-card p-author" href="/"></a>
@@ -122,7 +123,24 @@
     </ul>
     </details>
   </div>
-  
+   <div class="h-entry" id="20191205">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-05</p>
+  </summary>
+    <ul>
+      
+      
+       <li class="h-item" id="20191205-1">Make tutorial on doing formuals in Google Sheets 🍅</li>
+       <li class="h-item" id="20191205-2">Work on monthly view of notes 🍅🍅 </li>
+       <li class="h-item" id="20191205-3"> Video reviews of #edu407 lesson plans 🍅🍅🍅🍅 </li>
+        <li class="h-item" id="20191205-4"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
+        <li class="h-item" id="20191205-5"> #edu307 Online book clubs 🍅🍅 </li>
+        <li class="h-item" id="20191205-6"> #lra19 paper 🍅🍅 </li>
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
