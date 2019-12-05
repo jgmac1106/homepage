@@ -6,7 +6,7 @@
    	<div class="h-feed">
    		<a class="u-author" href="/"></a>
    		<h2 class="p-name">My Notes</h2>
-   		<h3 class="p-summary">My September rants, thoughts, and notes</h3>
+   		<h3 class="p-summary">My October rants, thoughts, and notes</h3>
    		<time class="dt-updated" datetime="2019-12-05 07:14:20">5<sup>th</sup>December 2019</time>
   	<div class="notewrapper">
   	 	<div class="note h-entry" id="note1">
@@ -190,7 +190,8 @@ Reply to
   <a href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
 </div>
-<a href="https://jgregorymcverry.com/mynotes3" rel="next">November </a>
+<h3>Rabbit Hole</h3>
+<a href="https://jgregorymcverry.com/mynotes3" rel="prev">September </a> <a href="https://jgregorymcverry.com/mynotes3" rel="next">November </a>
 </div>
   	</main>
   		<footer>
