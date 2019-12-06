@@ -1,8 +1,7 @@
 <?php include 'head.php'; ?>
 </head>
 <?php include 'header.php'; ?>
-    </header>
-  <main class="longreads">   
+    </header> 
   <article class="h-entry">
   <h1 class="p-name">Response to Misreading the Science of Reading</h1>
   <div class="pubinfo">
@@ -479,8 +478,6 @@ but I hold that true for most diagnostic assessments, by time they get to classr
 </div>
 </div>
 </article>
-
-    </main>
     <footer>
 <?php include 'footer.php'; ?>
 
