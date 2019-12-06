@@ -159,7 +159,7 @@ but I hold that true for most diagnostic assessments, by time they get to classr
                           datetime="2019-11-29T04:38:12+0000">29 Nov 2019</time></a>                                 
         </div>
          <div
-                    class="col-md-8 col-md-offset-2 h-entry idno-replies idno-object idno-content">
+                    class="note h-entry idno-replies idno-object idno-content">
                     <div style="display: none"> <!-- This is useful for webmentions -->
                         <p class="p-author author h-card vcard">
                             <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
