@@ -18,6 +18,7 @@
     <div class="copy">
   <div class="e-content">
    <div>
+    <div class="notewrapper">
 <div class="row t-tweet">
 <div class="col-12">
 <div id="tweet_1" data-screenname="jgmac1106"  class="h-entry note" dir="auto">
@@ -127,6 +128,7 @@ but I hold that true for most diagnostic assessments, by time they get to classr
 <div id="tweet_14" data-screenname="jgmac1106"  class="h-entry note" dir="auto">
 <a class="entity-mention entity-mention-first" href="https://twitter.com/ehanford">@ehanford</a> <a class="entity-mention entity-mention-first" href="https://twitter.com/karenvaites">@karenvaites</a> <a class="entity-mention entity-mention-first" href="https://twitter.com/LaurenTTutor718">@LaurenTTutor718</a> If variable like motivation and family do not matter. Why is ist we find setting up text messaging in early childhood classrooms may improve literacy rates? Could it be two people can be right at the same through… <a class="entity-url" data-preview="true" href="https://quickthoughts.jgregorymcverry.com/2019/11/22/ehanford-karenvaites-laurenttutor718-if-variable-like">quickthoughts.jgregorymcverry.com/2019/11/22/eha…</a>
 <sup class="tw-permalink"><i class="fas fa-link"></i>Also on <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1197882380360523776">Twitter</a></sup>
+</div>
 </div>
 </div>
 </div>
