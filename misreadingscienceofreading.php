@@ -101,7 +101,380 @@ but I hold that true for most diagnostic assessments, by time they get to classr
 <div id="tweet_14" data-screenname="jgmac1106"  class="h-entry note" dir="auto">
 <a class="entity-mention entity-mention-first" href="https://twitter.com/ehanford">@ehanford</a> <a class="entity-mention entity-mention-first" href="https://twitter.com/karenvaites">@karenvaites</a> <a class="entity-mention entity-mention-first" href="https://twitter.com/LaurenTTutor718">@LaurenTTutor718</a> If variable like motivation and family do not matter. Why is ist we find setting up text messaging in early childhood classrooms may improve literacy rates? Could it be two people can be right at the same through… <a class="entity-url" data-preview="true" href="https://quickthoughts.jgregorymcverry.com/2019/11/22/ehanford-karenvaites-laurenttutor718-if-variable-like">quickthoughts.jgregorymcverry.com/2019/11/22/eha…</a>
 <sup class="tw-permalink"><i class="fas fa-link"></i>Also on <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1197882380360523776">Twitter</a></sup>
+<div class="note h-entry">
+   don't quite understand why your criticism is merely an assertion ('also not based in reality') and personal response ('I find it insulting') with no counter-argument or evidence.</div>
+</div>
+ <div class="h-entry note">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://twitter.com/SaraJPeden/status/1200265700801007616" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>twitter.com</strong>
+                                                        </a>:
+                                            </p>
 
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content"><a href="https://twitter.com/SaraJPeden" target="_blank">@SaraJPeden</a> I wasn&#039;t trying to make a criticism or assertion spointing our people were using two words in very different ways. "factor" and "skills" in  current zeitgeist of research phonics is considered a skill, something taught to automaticity. </p>
+                    </div>
+          
+        <div class="note h-entry">
+          <p class="p-name e-content">Are you saying that you weren't intending to criticize @ehanford  when you speak of an 'agenda' and say 'look at how you frame the narrative'?</p>
+</div>
+<div class="h-entry note">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://twitter.com/SaraJPeden/status/1200267696916455424" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>twitter.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                           
+                  <p class="p-name e-content entry-content"><a href="https://twitter.com/SaraJPeden" target="_blank">@SaraJPeden</a> ooooh now I get it...I crossed streams, was discussing same topic in two different threads...yeah the advocacy is nonsense and it is being framed as a blame game of teachers and teacher prep...also conflates miscue analysis</p>
+                   <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/sarajpeden-ooooh-now-i-get-iti-crossed" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T04:38:12+0000">29 Nov 2019</time></a>                                 
+        </div>
+         <div
+                    class="col-md-8 col-md-offset-2 h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://quickthoughts.jgregorymcverry.com/2019/11/29/sarajpeden-ooooh-now-i-get-iti-crossed" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>quickthoughts.jgregorymcverry.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">But I pretty much agree with folks that most commercial programs, Caulkins, F+P Guided Reading, are nonsense..nor am I fan of self selected readers workshop, mainluy because teachers need to know books to teach them well, can&#039;t know 25 at once.</p>
+                    </div>
+                  
+       </div>
+       <div class="note h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://twitter.com/jgmac1106/status/1200273113973432320" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>twitter.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                           
+                  <p class="p-name e-content entry-content">Yet we also know phonics instruction we have to do "whole class" as when teachers try to individualize...the whole class control  out performs. So now with Fundations.....my kid stuck drawing letters in air and studying digraphs he has long mastered</p>
+                  
+                   
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/yet-we-also-know-phonics-instruction-we" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T04:44:03+0000">29 Nov 2019</time></a>
+                            
+        
+                                                    </p>
+        </div>
+        <div
+                    class="note h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://quickthoughts.jgregorymcverry.com/2019/11/29/yet-we-also-know-phonics-instruction-we" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>quickthoughts.jgregorymcverry.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">Where I think tech can help (actually one of the highest grossing verticals in app stores...kids reading apps), phonics so systematic machine learning will be better than people. Now when I want to know a kids phonics level, I look at their writing</p>
+                    </div>
+                    
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/where-i-think-tech-can-help-actually" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T04:46:34+0000">29 Nov 2019</time></a>
+                            
+
+                                                    </p>
+        </div>             
+        <div
+                    class="note h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://twitter.com/jgmac1106/status/1200274844199333888" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>twitter.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">Terms of theoretical models of reading, Snow&#039;s reader, text, activity...all situated in socio-historical context, probably least nuaseating of current bunch. Watch <a href="https://quickthoughts.jgregorymcverry.com/tag/lra19" class="p-category" rel="tag">#lra19</a> hashtag..I will ask around for other models...but SVR...not accepted science</p>
+                    </div>
+                
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/terms-of-theoretical-models-of-reading-snows" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T04:51:38+0000">29 Nov 2019</time></a>
+                            
+       
+
+                                                    </p>
+        </div>
+         <div
+                    class="note  h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://quickthoughts.jgregorymcverry.com/2019/11/29/terms-of-theoretical-models-of-reading-snows" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>quickthoughts.jgregorymcverry.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">I think my current definition (and I borrow heavily from Gee;  Leander and Knobel, Snow) Active process of encoding and decoding meaning on the world through agentive participation in different discourses and communities</p>
+                    </div>
+                    
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/i-think-my-current-definition-and-i" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T04:55:29+0000">29 Nov 2019</time></a>
+                            
+        
+
+                                                    </p>
+        </div>
+</div>
+<div
+                    class="note h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://quickthoughts.jgregorymcverry.com/2019/11/29/it-is-teacher-blaming-they-are-either" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>quickthoughts.jgregorymcverry.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">Just calling it "Science of Reading" is proof enough... Who would be against science? Just those ignorant brainwashed teachers, that&#039;s who... Yet scratch surface and you find it is a very limited survey (or disproven like SVR) view of science</p>
+                    </div>
+                    
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/just-calling-it-science-of-reading-is" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T12:02:46+0000">29 Nov 2019</time></a>
+                            
+        
+
+                                                    </p>
+        </div>
+</div>
+
+                <div
+                    class="note h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://quickthoughts.jgregorymcverry.com/2019/11/29/sarajpeden-i-will-it-was-late-on" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>quickthoughts.jgregorymcverry.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">It is teacher blaming. They are either too ignorant to know they are wrong because all those teachers in education programs preach "whole language" which in pop culture articles like @ehanford work means three cueing systems and anything not phonics</p>
+                    </div>
+                  
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/it-is-teacher-blaming-they-are-either" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T11:59:05+0000">29 Nov 2019</time></a>
+                            
+       
+
+                                                    </p>
+        </div>
+</div>
+ <div
+                    class="note h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://twitter.com/SaraJPeden/status/1200293257487368192?s=20" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>twitter.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content"><a href="https://twitter.com/SaraJPeden" target="_blank">@SaraJPeden</a> I will. It was late on Thanksgiving and citations didn&#039;t fit in tweets. Will need to  write a blog post. All back versions of Handbook on Reading Research openly released. Good place to start<br />
+. </p>
+                    </div>
+                    
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/sarajpeden-i-will-it-was-late-on" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T11:53:15+0000">29 Nov 2019</time></a>
+                            
+     
+
+                                                    </p>
+        </div>
+</div>
+<div
+                    class="col-md-8 col-md-offset-2 h-entry idno-replies idno-object idno-content">
+                    <div style="display: none"> <!-- This is useful for webmentions -->
+                        <p class="p-author author h-card vcard">
+                            <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" class="icon-container"><img
+                                    class="u-logo logo u-photo photo" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"/></a>
+                            <a class="p-name fn u-url url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>
+                            <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">
+                                <!-- This is here to force the hand of your MF2 parser --></a>
+                        </p>
+                    </div>
+                                                <div class="reply-text">
+                            
+                                            <p>
+                                                <i class="fa fa-reply"></i> Replied to
+                                                                                            <a href="https://quickthoughts.jgregorymcverry.com/2019/11/29/just-calling-it-science-of-reading-is" rel="in-reply-to"
+                                                       class="u-in-reply-to">a post on
+                                                        <strong>quickthoughts.jgregorymcverry.com</strong>
+                                                        </a>:
+                                            </p>
+
+                                                                    </div>
+                                            <div class="idno-body">
+                  <p class="p-name e-content entry-content">@SaraJPeden  Grab of relevant readings I could quickly curate together: <a href="https://jgregorymcverry.com/music/index.php/s/Eq8ZB5rUHPEeYKN" target="_blank" >https://<wbr />jgregorymcverry.com/<wbr />music/<wbr />index.php/<wbr />s/<wbr />Eq8ZB5rUHPEeYKN</a> Basic gist: even Tunmer uses a more complicated model, the biggest critque of SVR is lack of vocab and prior knowledge, then lack of distal mediators </p>
+
+                    </div>
+                   
+                    
+        <div class="permalink">
+            <p>
+                <a href="https://quickthoughts.jgregorymcverry.com/profile/jgmac1106">Greg McVerry</a>published this                <a class="u-url url" href="https://quickthoughts.jgregorymcverry.com/2019/11/29/sarajpeden-grab-of-relevant-readings-i" rel="permalink"><time class="dt-published"
+                          datetime="2019-11-29T13:38:22+0000">29 Nov 2019</time></a>
+                            
+      
+
+                                                    </p>
+        </div>
 </div>
 </div>
 </article>
