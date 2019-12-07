@@ -4,7 +4,7 @@
 </header>  
   <main class="longreads"> 
     <div class="notewrapper">
-  	<div class="note h-entry" id="#">
+  	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
           <img   class="u-photo" src="/photos/indiewebmeetupaccra2019-10-20.png" alt="screenshot of Google Hangout with 10 people in it"> 
           
