@@ -3,7 +3,7 @@
  <?php include '../header.php'; ?>
 </header>  
    <main class="longreads"> 
-   	<div class="h-feed">
+   	<div class="h-feed notefeed">
    		<a class="u-author" href="/"></a>
    		<h2 class="p-name">My Notes</h2>
    		<h3 class="p-summary">My Septmeber rants, thoughts, and notes</h3>
@@ -28,8 +28,8 @@
         <p class="e-content"> I made a video describing my 5 best tips for teaching #writing in #elemchat #nctevillage #literacies</p>
       
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-09-18-2" rel="canonical"><strong>My Notes</strong></a>
-  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  <p> Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-09-18-2" rel="canonical"><strong>My Notes</strong></a>
+  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
 <div class="note h-entry" >
 <a class="u-author" href="/"></a>
@@ -50,8 +50,8 @@
         <p class="e-content"> UPDATE: Fixed the vdieo link to the correct video. I made a video describing my 5 best tips for teaching #writing in #elemchat #nctevillage #literacies</p>
       
  
-  Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-09-18-1" rel="canonical"><strong>My Notes</strong></a>
-  <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
+  <p> Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-09-18-1" rel="canonical"><strong>My Notes</strong></a>
+  <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a></p>
 </div>
 </div>
 <h3>Rabbit Hole</h3>

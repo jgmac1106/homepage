@@ -2,7 +2,7 @@
 </head>
 <?php include '../header.php'; ?>
 </header>
-<div class="h-feed">
+<div class="h-feed notefeed">
 <a class="u-author" href="/"></a>
 <h2 class="p-name">My Notes</h2>
 <h3 class="p-summary">My October rants, thoughts, and notes</h3>
