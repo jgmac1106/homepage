@@ -16,7 +16,7 @@
         <p class="e-content">Congrats to the Mindsweepers who had an amazing showing at the First Lego League Connecticut State Championship</p>
       
  
-  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a>
+  <a class="u-url url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?> "rel="canonical"><strong>My Notes</strong></a><br><a href="https://jgregorymcverry.com/notes/2019-12-05-1" rel="prev">Previous Note</a> <a href="#" rel="next">Next Note </a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
 </div>
