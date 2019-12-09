@@ -141,6 +141,24 @@
     </ul>
     </details>
   </div>
+  <div class="h-entry" id="20191209">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-09</p>
+  </summary>
+    <ul>
+      
+      
+       <li class="h-item" id="20191209-1">Make tutorial on doing formuals in Google Sheets 🍅</li>
+       
+       <li class="h-item" id="20191209-2"> Video reviews of #edu407 lesson plans 🍅🍅🍅🍅 </li>
+       <li class="h-item" id="20191209-3"> Video reviews of #edu307 book reviews 🍅🍅🍅🍅 </li>
+       
+      
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
