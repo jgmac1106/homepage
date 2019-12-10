@@ -164,6 +164,22 @@
     </ul>
     </details>
   </div>
+   <div class="h-entry" id="20191209">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-10</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20191210-1">Make tutorial on doing images in Glitch 🍅</li>
+        <li class="h-item" id="20191210-2">Make tutorial on using flexbox to make image grid 🍅</li>
+          <li class="h-item" id="20191210-3">Make tutorial on making a podcast bumper 🍅</li>
+       <li class="h-item" id="201912010-4"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
+       <li class="h-item" id="201912010-5"> Video reviews of #edu307 book reviews 🍅🍅 </li>
+       <li class="h-item" id="201912010-6"> ACUE Effective Online Teaching modules 🍅🍅 </li>
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
