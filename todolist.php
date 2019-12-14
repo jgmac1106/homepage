@@ -9,7 +9,7 @@
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-11-21 07:34:20">21<sup>st</sup> November 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-11-21 07:34:20">21<sup>st</sup> November 2019</time></p>
+      Updated <time class="dt-updated" datetime="2019-12-09 10:14:20">9<sup>th</sup> December 2019</time></p>
    
   <span class="summary">
     <p class="p-summary">My To-Do List for Non-Teaching Days</p>
@@ -26,11 +26,10 @@
       </summary>
     
     <ul>
-      <li class="h-event"><span class="p-name">Sabbatical Interview</span> <time class="dt-start" datetime="2019-12-02 9:00">2<sup>nd</sup>December 2019, 9:00</time> <time class="dt-end" datetime="2019-12-02 9:00">2<sup>nd</sup>December 2019, 10:00</time></li>
-         <li class="h-event"><span class="p-name">Social Justice Grant Due</span> <time class="dt-start" datetime="2019-12-03 16:00">3<sup>rd</sup>December 2019, 16:00</time></li>
-          <li class="h-event"><span class="p-name">OER20 Proposal Due</span> <time class="dt-start" datetime="2019-18-08 10:00">8<sup>th</sup>December 2019, 10:00</time></li>
+      
          <li class="h-event"><span class="p-name">NSF Small Business Innovation Research Program Phase I</span> <time class="dt-start" datetime="2019-06-14 9:00">14<sup>th</sup>June2019, 9:00</time> <time class="dt-end" datetime="2019-12-12 9:00">12<sup>th</sup>December 2019, 16:00</time></li>
-         <li class="h-event"><span class="p-name">American Council of Learned Societies</span> <a class="u-url" href="https://www.acls.org/programs/digitalextension/">Link</a><time class="dt-start" datetime="2020-1-20 10:00">10<sup>th</sup>January  2019, 10:00</time></li>
+         <li class="h-event"><span class="p-name">American Council of Learned Societies</span> <a class="u-url" href="https://www.acls.org/programs/digitalextension/">Link</a><time class="dt-start" datetime="2020-1-20 10:00">31<sup>st</sup>January  2019, 10:00</time></li>
+         <li class="h-event"><span class="p-name">Berkman Klein Center for Internet & Society Fellowship</p><a class="u-url" href="https://cyber.harvard.edu/getinvolved/fellowships/2021Fellows"><time class="dt-end" datetime="2020-1-20 10:00">10<sup>th</sup>January  2019, 10:00</time></li>
           <li class="h-event"><span class="p-name">Sloan Foundation Scholary Communication</span> <a class="u-url" href="https://sloan.org/programs/digital-technology/scholarly-communication">Link</a></li>
         <li class="h-event"><span class="p-name">Pan-African Awards for Entrepreneurship in Education</span> <a class="u-url" href="http://teachamantofish.org.uk/pan-african-awards">Link</a> <time class="dt-start" datetime="2020-08-20 9:00">16<sup>th</sup>August 2020, 9:00</time></li>
         <li class="h-event"><span class="p-name">Motorola Solutions Foundation</span><a class="u-url" href="https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html">Link</a><time class="dt-start" datetime="2020-02-20 9:00">16<sup>th</sup>August 2020, 9:00</time></li></ul>
@@ -162,6 +161,22 @@
        <li class="h-item" id="20191209-3"> Video reviews of #edu307 book reviews 🍅🍅🍅🍅 </li>
        
       
+    </ul>
+    </details>
+  </div>
+   <div class="h-entry" id="20191209">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-10</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20191210-1">Make tutorial on doing images in Glitch 🍅</li>
+        <li class="h-item" id="20191210-2">Make tutorial on using flexbox to make image grid 🍅</li>
+          <li class="h-item" id="20191210-3">Make tutorial on making a podcast bumper 🍅</li>
+       <li class="h-item" id="201912010-4"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
+       <li class="h-item" id="201912010-5"> Video reviews of #edu307 book reviews 🍅🍅 </li>
+       <li class="h-item" id="201912010-6"> ACUE Effective Online Teaching modules 🍅🍅 </li>
     </ul>
     </details>
   </div>
