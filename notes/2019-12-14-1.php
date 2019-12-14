@@ -13,7 +13,7 @@
       
        <p>In reply to <a class="u-in-reply-to" href="https://twitter.com/SCSU/status/1205561317660057600">@scsu</a> </p>
         <img   class="u-photo" src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" alt="overworked typing"> 
-          <img   class="u-photo" src="https://media.giphy.com/media/lRwiAPgpdNYmk/giphy.gif" alt="angry writing"> 
+        
           
            
           
