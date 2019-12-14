@@ -21,7 +21,7 @@
 <p class="p-name e-content">Then as the next semester peeks around the corner and we need to pivot to syllabi we simply conclude...</p>
      
  
-<a class="u-url url" href="https://jgregorymcverry.com/notes/2019-12-14-4" rel="canonical"><strong>My Notes</strong></a><br><a href="https://jgregorymcverry.com/notes/2019-12-14-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-12-14-5" rel="next">Next Note </a>
+<a class="u-url url" href="https://jgregorymcverry.com/notes/2019-12-14-4" rel="canonical"><strong>My Notes</strong></a><br><a href="https://jgregorymcverry.com/notes/2019-12-14-3" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-12-14-5" rel="next">Next Note </a>
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
 </div>
