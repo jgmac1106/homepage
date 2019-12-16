@@ -9,7 +9,7 @@
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-11-21 07:34:20">21<sup>st</sup> November 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-12-09 10:14:20">9<sup>th</sup> December 2019</time></p>
+      Updated <time class="dt-updated" datetime="2019-12-16 12:24:20">16<sup>th</sup> December 2019</time></p>
    
   <span class="summary">
     <p class="p-summary">My To-Do List for Non-Teaching Days</p>
@@ -164,7 +164,7 @@
     </ul>
     </details>
   </div>
-   <div class="h-entry" id="20191209">
+   <div class="h-entry" id="20191210">
     <details>
       <summary>
     <a class="h-card p-author" href="/"></a>
@@ -177,6 +177,21 @@
        <li class="h-item" id="201912010-4"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
        <li class="h-item" id="201912010-5"> Video reviews of #edu307 book reviews 🍅🍅 </li>
        <li class="h-item" id="201912010-6"> ACUE Effective Online Teaching modules 🍅🍅 </li>
+    </ul>
+    </details>
+  </div>
+     <div class="h-entry" id="20191216">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-16: First day between semesters</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20191216-1">EDU106 Feedback on Portfolios 🍅🍅🍅</li>
+        <li class="h-item" id="20191216-2">EDU 407 Lesson Plan Portfolio Video Feedback 🍅🍅🍅🍅</li>
+          <li class="h-item" id="20191210-3">GOIF OER Network Curriculum  🍅🍅</li>
+       <li class="h-item" id="201912010-4"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
+       <li class="h-item" id="201912010-6"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
     </ul>
     </details>
   </div>
