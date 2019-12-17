@@ -189,9 +189,24 @@
     <ul>
        <li class="h-item" id="20191216-1">EDU106 Feedback on Portfolios 🍅🍅🍅</li>
         <li class="h-item" id="20191216-2">EDU 407 Lesson Plan Portfolio Video Feedback 🍅🍅🍅🍅</li>
-          <li class="h-item" id="20191210-3">GOIF OER Network Curriculum  🍅🍅</li>
-       <li class="h-item" id="201912010-4"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
-       <li class="h-item" id="201912010-6"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
+          <li class="h-item" id="20191216-3">GOIF OER Network Curriculum  🍅🍅</li>
+       <li class="h-item" id="201912016-4"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
+       <li class="h-item" id="201912016-6"> ACUE Effective Online Teaching modules 🍅🍅🍅🍅 </li>
+    </ul>
+    </details>
+  </div>
+  <div class="h-entry" id="20191216">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-17: Ice Storm Borks the day</p>
+  </summary>
+    <ul>
+      <li>Kids home, partner working, grades due, power flickering</li>
+       <li class="h-item" id="20191217-1">Break Up Ice 🍅🍅🍅 (to watch it refreeze) </li>
+          <li class="h-item" id="20191217-2">GOIF OER Network Curriculum  🍅🍅</li>
+       <li class="h-item" id="201912017-3"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
+     
     </ul>
     </details>
   </div>
