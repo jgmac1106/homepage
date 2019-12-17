@@ -9,7 +9,7 @@
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-11-21 07:34:20">21<sup>st</sup> November 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-12-16 12:24:20">16<sup>th</sup> December 2019</time></p>
+      Updated <time class="dt-updated" datetime="2019-12-17 13:04:20">17<sup>th</sup> December 2019</time></p>
    
   <span class="summary">
     <p class="p-summary">My To-Do List for Non-Teaching Days</p>
