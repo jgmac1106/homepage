@@ -195,7 +195,7 @@
     </ul>
     </details>
   </div>
-  <div class="h-entry" id="20191216">
+  <div class="h-entry" id="20191217">
     <details>
       <summary>
     <a class="h-card p-author" href="/"></a>
@@ -207,6 +207,19 @@
           <li class="h-item" id="20191217-2">GOIF OER Network Curriculum  🍅🍅</li>
        <li class="h-item" id="201912017-3"> Video reviews of #edu407 lesson plans 🍅🍅 </li>
      
+    </ul>
+    </details>
+  </div>
+   <div class="h-entry" id="20191218">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-18: Another 2 hour delay, late start. Partner had 12 hr double yesterday, way behind</p>
+  </summary>
+    <
+       <li class="h-item" id="20191218-1">Grades due...all that matters</li>
+          <li class="h-item" id="20191218-2">If I need a mental break...GOIF OER Network Curriculum  🍅🍅</li>
+       
     </ul>
     </details>
   </div>
