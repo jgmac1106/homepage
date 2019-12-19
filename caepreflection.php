@@ -62,7 +62,7 @@
       </li>
     </ul>
 
-Standard #2: Learning Differences. The teacher uses understanding of individual differences and diverse cultures and communities to ensure inclusive learning environments that enable each learner to meet high standards.
+<h2>Standard #2: Learning Differences. The teacher uses understanding of individual differences and diverse cultures and communities to ensure inclusive learning environments that enable each learner to meet high standards.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <ul><li>Evaluate how voices can be silenced or hidden in curriculum. More importantly we will explore how to use literature as tool for trajectory.
@@ -88,7 +88,7 @@ Standard #2: Learning Differences. The teacher uses understanding of individual 
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
     <p>In EDU 407 we focus on differentiating based on content knowledge. While all forms are modification are encouraged in the classroom students demonstrate an ability to differntiate based on knowledge. For each lesson plan they must return to their stanrdards and find what the grade level expecations are for one grade above and one below. They then come up with differentiation using these expectations</p>
-Standard #3: Learning Environments. The teacher works with others to create environments that support individual and collaborative learning, and that encourage positive social interaction, active engagement in learning, and self motivation.
+<h2>Standard #3: Learning Environments. The teacher works with others to create environments that support individual and collaborative learning, and that encourage positive social interaction, active engagement in learning, and self motivation.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -98,7 +98,7 @@ Standard #3: Learning Environments. The teacher works with others to create envi
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #4: Content Knowledge. The teacher understands the central concepts, tools of inquiry, and structures of the discipline(s) he or she teaches and creates learning experiences that make the discipline accessible and meaningful for learners to assure mastery of the content.
+<h2>Standard #4: Content Knowledge. The teacher understands the central concepts, tools of inquiry, and structures of the discipline(s) he or she teaches and creates learning experiences that make the discipline accessible and meaningful for learners to assure mastery of the content.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -108,7 +108,7 @@ Standard #4: Content Knowledge. The teacher understands the central concepts, to
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #5: Application of Content. The teacher understands how to connect concepts and use differing perspectives to engage learners in critical thinking, creativity, and collaborative problem solving related to authentic local and global issues.
+<h2>Standard #5: Application of Content. The teacher understands how to connect concepts and use differing perspectives to engage learners in critical thinking, creativity, and collaborative problem solving related to authentic local and global issues.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -118,7 +118,7 @@ Standard #5: Application of Content. The teacher understands how to connect conc
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #6: Assessment. The teacher understands and uses multiple methods of assessment to engage learners in their own growth, to monitor learner progress, and to guide the teacher’s and learner’s decision making.
+<h2>Standard #6: Assessment. The teacher understands and uses multiple methods of assessment to engage learners in their own growth, to monitor learner progress, and to guide the teacher’s and learner’s decision making.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -128,7 +128,7 @@ Standard #6: Assessment. The teacher understands and uses multiple methods of as
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #7: Planning for Instruction. The teacher plans instruction that supports every student in meeting rigorous learning goals by drawing upon knowledge of content areas, curriculum, cross-disciplinary skills, and pedagogy, as well as knowledge of learners and the community context.
+<h2>Standard #7: Planning for Instruction. The teacher plans instruction that supports every student in meeting rigorous learning goals by drawing upon knowledge of content areas, curriculum, cross-disciplinary skills, and pedagogy, as well as knowledge of learners and the community context.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -138,7 +138,7 @@ Standard #7: Planning for Instruction. The teacher plans instruction that suppor
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #8: Instructional Strategies. The teacher understands and uses a variety of instructional strategies to encourage learners to develop deep understanding of content areas and their connections, and to build skills to apply knowledge in meaningful ways.
+<h2>Standard #8: Instructional Strategies. The teacher understands and uses a variety of instructional strategies to encourage learners to develop deep understanding of content areas and their connections, and to build skills to apply knowledge in meaningful ways.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -148,7 +148,7 @@ Standard #8: Instructional Strategies. The teacher understands and uses a variet
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #9: Professional Learning and Ethical Practice. The teacher engages in ongoing professional learning and uses evidence to continually evaluate his/her practice, particularly the effects of his/her choices and actions on others (learners, families, other professionals, and the community), and adapts practice to meet the needs of each learner.
+<h2>Standard #9: Professional Learning and Ethical Practice. The teacher engages in ongoing professional learning and uses evidence to continually evaluate his/her practice, particularly the effects of his/her choices and actions on others (learners, families, other professionals, and the community), and adapts practice to meet the needs of each learner.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
@@ -158,7 +158,7 @@ Standard #9: Professional Learning and Ethical Practice. The teacher engages in 
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-Standard #10: Leadership and Collaboration. The teacher seeks appropriate leadership roles and opportunities to take responsibility for student learning, to collaborate with learners, families, colleagues, other school professionals, and community members to ensure learner growth, and to advance the profession.
+<h2>Standard #10: Leadership and Collaboration. The teacher seeks appropriate leadership roles and opportunities to take responsibility for student learning, to collaborate with learners, families, colleagues, other school professionals, and community members to ensure learner growth, and to advance the profession.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
