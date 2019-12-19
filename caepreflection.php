@@ -15,8 +15,8 @@
  </div>
     <div class="copy">
   <div class="e-content">
-    <h2>Standard #1: Learner Development. </h2>
-    <p>The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</p>
+    <h2>Standard #1: Learner Development. 
+    The teacher understands how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, and physical areas, and designs and implements developmentally appropriate and challenging learning experiences.</h2>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
     <ul>
