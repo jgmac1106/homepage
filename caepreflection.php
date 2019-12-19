@@ -87,17 +87,30 @@
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
-    <p>In EDU 407 we focus on differentiating based on content knowledge. While all forms are modification are encouraged in the classroom students demonstrate an ability to differntiate based on knowledge. For each lesson plan they must return to their stanrdards and find what the grade level expecations are for one grade above and one below. They then come up with differentiation using these expectations</p>
+    <p >In EDU 407 we focus on differentiating based on content knowledge. While all forms are modification are encouraged in the classroom students demonstrate an ability to differntiate based on knowledge. For each lesson plan they must return to their stanrdards and find what the grade level expecations are for one grade above and one below. They then come up with differentiation using these expectations</p>
 <h2>Standard #3:</h2><p>Learning Environments. The teacher works with others to create environments that support individual and collaborative learning, and that encourage positive social interaction, active engagement in learning, and self motivation.</p>
+<p>Think about a 3rd grade students who showed the same areas of growth and other areas the students should target what would you do? Then pick someone else's third grade student and develop a mini lesson for their targeted areas of growth</p>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
+    <li>Describe effective spaces to create communities of reading and writing</li>
+    <li></li></ul>
     <h4>Assignments and Assessments</h4>
+    <p>Evaluate classroom videos and identify how teachers create a space for readers and writers to thrive. Students watch a series of video. They pay specific attention to the space and community</p>
     <h3>EDU 305</h3>
     <h4>Objectives and Goals</h4>
     <h4>Assignments and Assessments</h4>
     <h3>EDU 407</h3>
     <h4>Objectives and Goals</h4>
+    <ul>
+      <li>Engage in the writing process</li>
+      <li>Reflect on how you contribute to a community of writers</li>
+    </ul>
     <h4>Assignments and Assessments</h4>
+
+    <ul>
+      <li> Write 5 out of the seven days. Writing is defined any way you want. Here is the first prompt. Have you grown as a writer? Did blogging make you better or worse? </li>
+      <li>Choose a piece from writing challenge. Develop this and engage in the writie process. Publish a post reflecting on each stage of the writing process.</li>
+    </ul>
 <h2>Standard #4: Content Knowledge.</h2><p> The teacher understands the central concepts, tools of inquiry, and structures of the discipline(s) he or she teaches and creates learning experiences that make the discipline accessible and meaningful for learners to assure mastery of the content.</p>
     <h3>EDU 307</h3>
     <h4>Objectives and Goals</h4>
