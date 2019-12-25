@@ -1398,7 +1398,7 @@ flex-grow:12;
    flex-direction: column;
   height: 33vh;
   padding: 30px;
-  background: url('/photos/assets/headerbackground.jpg') center #333 no-repeat;
+  background: url('https://farm4.static.flickr.com/3209/3115431483_72f39810e1_z.jpg') center #333 no-repeat;
   background-size: cover;
   color: white;
    text-align:center;
@@ -1433,6 +1433,7 @@ flex-grow:12;
   
   font-size:1em;
   line-height: 1.4em;
+  font-family: 'Amita', cursive;
 }
 @media only screen and (max-width: 700px) {
   
@@ -1442,6 +1443,7 @@ flex-grow:12;
   font-size:1em;
   font-weight: bold;
    text-align:center;
+   font-family: 'Amita', cursive;
   
 }
 .leading h1 {

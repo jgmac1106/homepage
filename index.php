@@ -4,12 +4,12 @@
 <link rel="alternate" type="application/rss+xml" href="https://example.withknown.com/content/all?_t=rss" title="blog">
 <link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
 <link rel="alternate" type="application/rss+xml" href="https://granary.iourl?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyphotos" title="photos">
-<link href="https://fonts.googleapis.com/css?family=Creepster|Griffy&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Amita|Mountains+of+Christmas&display=swap" rel="stylesheet"> 
 </head>
 <?php include 'header.php'; ?>
 <script src="/script.js" defer></script>
 </header>
-<main>
+<main style="font-family: 'Amita', cursive;">
 <style>
 /* customizable snowflake styling */
 .snowflake {
@@ -80,7 +80,7 @@
   </div>
   <div class="item2">
     <div class="h-card">
-      <img class="u-photo" style="border-radius:50%" src="/photos/assets/thumb.jpg" alt=""><br>
+      <img class="u-photo" style="border-radius:50%" src="/photos/assets/elfgreg.png" alt="me as an elf"><br>
       <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
       <a class="u-email" href="mailto:jgregmcverry@gmail.com">Email</a> <br>
       
