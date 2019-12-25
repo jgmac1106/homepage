@@ -216,9 +216,22 @@
     <a class="h-card p-author" href="/"></a>
     <p class="p-name">2019-12-18: Another 2 hour delay, late start. Partner had 12 hr double yesterday, way behind</p>
   </summary>
-    <
+    <ul>
        <li class="h-item" id="20191218-1">Grades due...all that matters</li>
           <li class="h-item" id="20191218-2">If I need a mental break...GOIF OER Network Curriculum  🍅🍅</li>
+       
+    </ul>
+    </details>
+  </div>
+   <div class="h-entry" id="20191223">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2019-12-23: Working from the library</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20191223-1">ACUE Modules 🍅🍅🍅🍅</li>
+          <li class="h-item" id="20191218-2">GOIF Curriculum 🍅🍅</li>
        
     </ul>
     </details>
