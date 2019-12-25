@@ -20,6 +20,7 @@ header {
  background-color: #6B6B6B;
   font-size: 2em;
   z-index:5;
+   font-family: 'Amita', cursive;
   
    
 }
@@ -42,6 +43,7 @@ header {
   font-size: .75em;
   color: white;
  background-color: #6B6B6B;
+  font-family: 'Amita', cursive;
   
 }
 .footer_info .flex-item {
@@ -58,6 +60,7 @@ display:none;
  } 
  header a {
    text-decoration: none;
+    font-family: 'Amita', cursive;
 }
 
 h1 {
@@ -1413,7 +1416,7 @@ flex-grow:12;
   font-size:2em;
   font-weight: bold;
    text-align:center;
-  
+   font-family: 'Amita', cursive;
 }
 .leading h1 {
   font-size:2em;

@@ -80,7 +80,7 @@
   </div>
   <div class="item2">
     <div class="h-card">
-      <img class="u-photo" style="border-radius:50%" src="/photos/assets/elfgreg.png" alt="me as an elf"><br>
+      <img class="u-photo" style=" width:250px; border-radius:50%" src="/photos/assets/elfgreg.png" alt="me as an elf"><br>
       <a class="p-name u-url" href="http://jgregorymcverry.com" rel="me">Greg McVerry</a><br>
       <a class="u-email" href="mailto:jgregmcverry@gmail.com">Email</a> <br>
       
