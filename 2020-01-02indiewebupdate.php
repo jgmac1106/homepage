@@ -16,7 +16,7 @@
     <div class="copy">
  
        
-      <audio controls src="https://jgregorymcverry.com/podcasts/iwc/2020-01-2IndieWebUpdate.mp3"></audio>
+      <audio controls src="https://jgregorymcverry.com/podcasts/iwc/2020-01-02indiewebupdate.mp3"></audio>
 
  <div class="e-content">
 
