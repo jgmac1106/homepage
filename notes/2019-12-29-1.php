@@ -6,11 +6,10 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="2019-11-10T06:54:20+0000">November 10th 2019 6:54</time>
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/arts/2019-12-29sheepskinhollow1.jpg" alt="lake through trees"> 
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/arts/2019-12-29sheepskinhollow2.jpg" alt="closeup of trail marker"> 
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/arts/2019-12-29sheepskinhollow3.jpg" alt="waterfall over rocks framed by tree"> 
-          <img   class="u-photo" src="https://jgregorymcverry.com/photos/arts/2019-12-29sheepskinhollow4.jpg" alt="clsoe up of moss on rock"> 
+<time class="dt-published" datetime="2019-12-29T09:54:20+0000">December 29th 2019 9:54</time>
+          <img   class="u-photo" src="https://jgregorymcverry.com/photos/art/2019-12-29sheepskinhollow2.jpg" alt="closeup of trail marker"> 
+          <img   class="u-photo" src="https://jgregorymcverry.com/photos/art/2019-12-29sheepskinhollow3.jpg" alt="waterfall over rocks framed by tree"> 
+          <img   class="u-photo" src="https://jgregorymcverry.com/photos/art/2019-12-29sheepskinhollow4.jpg" alt="clsoe up of moss on rock"> 
           
       
   
