@@ -1,5 +1,5 @@
 body {
-font-family: 'Heebo', sans-serif;
+
   scroll-behavior: smooth;
   font-size: 16px; }
   @media (min-width: 45em) {
@@ -20,7 +20,7 @@ header {
  background-color: #6B6B6B;
   font-size: 2em;
   z-index:5;
-   font-family: 'Amita', cursive;
+
   
    
 }
@@ -43,7 +43,7 @@ header {
   font-size: .75em;
   color: white;
  background-color: #6B6B6B;
-  font-family: 'Amita', cursive;
+
   
 }
 .footer_info .flex-item {
@@ -60,7 +60,7 @@ display:none;
  } 
  header a {
    text-decoration: none;
-    font-family: 'Amita', cursive;
+
 }
 
 h1 {
@@ -1401,7 +1401,7 @@ flex-grow:12;
    flex-direction: column;
   height: 33vh;
   padding: 30px;
-  background: url('https://farm4.static.flickr.com/3209/3115431483_72f39810e1_z.jpg') center #333 no-repeat;
+  background: url('/photos/assets/headerbackground') center #333 no-repeat;
   background-size: cover;
   color: white;
    text-align:center;
