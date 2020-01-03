@@ -1401,7 +1401,7 @@ flex-grow:12;
    flex-direction: column;
   height: 33vh;
   padding: 30px;
-  background: url('/photos/assets/headerbackground') center #333 no-repeat;
+  background: url('/photos/assets/headerbackground.jpg') center #333 no-repeat;
   background-size: cover;
   color: white;
    text-align:center;
