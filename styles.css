@@ -1631,7 +1631,7 @@ margin-bottome: 3em;
 
 }
 .longreads .avatar {
-  width: 250px;
+  max-width: 250px;
 }
  
 .myFeeds li {
