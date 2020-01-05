@@ -28,7 +28,7 @@
       <h2>Who Should Attend IndieWebCamp Online?</h2>
       <p>Everyone. Whether you have never created a website or you spun up your own CMS these camps are open to all ages and all skill levels. You can come to the event and two days l;ater leave with your first website or a new feature for your publishing platform.</p>
       <p>We also encourage sessions from around the wold and hope to offer a multilingual program. This year we hope facilitator's offer sessions possibly in Russian, Spanish, and Portuguese. We need to make the plurarlity of the web a global movement. To that end this year we are pleased to announce our keynote speaker <a href="http://sadik.goifnetwork.org/">Sadik Shahdua</a> who will share their tale about creating an Open Educational Resource network in Ghana using IndieWeb building blocks.</p>
-      <img src="http://sadik.goifnetwork.org/file/c825c19235bd50be5d5a11b0dc05246e/thumb.jpg">
+      <img class="avatar" src="http://sadik.goifnetwork.org/file/c825c19235bd50be5d5a11b0dc05246e/thumb.jpg">
       <h2>How Do I get Involved</h2>
       <p>Over the next few weeks we will release more information on how to propose sessions, but if you want to attend IndieWebCamp Online you can get your ticket now! Just visit the <a href="https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv">event page</a> and choose a ticket. You can also send an IndieWeb RSVP if you support webmentions</p>
       <p>Of course you can get started before we meet in Febuarary. Volunteers have scheduled many events in 2020 already. These included local weekly and biweekly meet ups as well as even more IndieWebCamps. Feel free to stop by <a href="https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv">chat</a> to learn more.

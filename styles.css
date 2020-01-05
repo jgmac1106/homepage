@@ -1630,6 +1630,9 @@ margin-bottome: 3em;
   width:85%;
 
 }
+.longreads .avatar {
+  width: 250px;
+}
  
 .myFeeds li {
   text-decoration: none;
