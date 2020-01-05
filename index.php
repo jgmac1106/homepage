@@ -4,7 +4,6 @@
 <link rel="alternate" type="application/rss+xml" href="https://example.withknown.com/content/all?_t=rss" title="blog">
 <link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
 <link rel="alternate" type="application/rss+xml" href="https://granary.iourl?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyphotos" title="photos">
-<link href="https://fonts.googleapis.com/css?family=Amita|Mountains+of+Christmas&display=swap" rel="stylesheet"> 
 </head>
 <?php include 'header.php'; ?>
 <script src="/script.js" defer></script>
@@ -68,6 +67,29 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
+      <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">Announcing IndieWebCamp Online 2020</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+         <time class="dt-published" datetime="2020-005-8 09:44:20">5<sup>th</sup> January 2020</time></p>
+      </div>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured" src="photos/assets/iwc2020header.jpg">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            On Feb 8-9th bloggers, hackers, developers, educators, and others will gather for a two day online IndieWebCamp.
+          </p>
+        </div>
+        <a  href="/indiewebcamponline2020" class="u-url button">Read More</a>
+
+    </article> 
     <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Reducing the Carbon Crater Left By Academic Conferences</h3>
@@ -113,28 +135,7 @@ Recent Articles
     </div>
     <a  href="/buildingvideopage" class="u-url button">Read More</a>
   </article>
-  <article class="h-entry card">
-    <header class="card__title">
-      <h3 class="p-name">Misreading the Science of Reading</h3>
-    </header>
-    <div class="authorInfo">
-      <div class="h-card">
-        <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p>
-      </div>
-      
-      <time class="dt-published" datetime="2019-11-21 10:24:20">21<sup>st</sup>November 2019</time>
-    </div>
-    <figure class="card__thumbnail">
-      <img class="u-featured" src="https://farm8.static.flickr.com/7165/6833229625_584914b659_z.jpg" alt="" >
-      
-    </figure>
-    <div class="p-summary card__description">
-      <p>
-        Response to pushback presenters got at #ncte19 for calling BS
-      </p>
-    </div>
-    <a  href="/misreadingscienceofreading" class="u-url button">Read More</a>
-  </article>
+
 </section>
 <article class="h-entry">
   
