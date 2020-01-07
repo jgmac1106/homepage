@@ -236,6 +236,85 @@
     </ul>
     </details>
   </div>
+  <div class="h-entry" id="20200102">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-02: Working from the library</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20200102-1">ACUE Modules 🍅🍅🍅🍅</li>
+   
+       
+    </ul>
+    </details>
+  </div>
+      </div>
+      <div class="h-entry" id="20200103">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-03: Working from home</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20200103-1">ACUE Modules 🍅🍅🍅🍅</li>
+   
+       
+    </ul>
+    </details>
+  </div>
+  <div class="h-entry" id="20200104">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-04: Working from home</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20200104-1">ACUE Modules 🍅🍅🍅🍅</li>
+   
+       
+    </ul>
+    </details>
+  </div>
+  <div class="h-entry" id="20200105">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-05: Working from home</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20200105-1">ACUE Modules 🍅🍅🍅🍅</li>
+   <li class="h-item" id="20200105-1">IndieWebCamp Online Announcement 🍅🍅🍅</li>
+       
+    </ul>
+    </details>
+  </div>
+    <div class="h-entry" id="20200106">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-06: Working from Southern</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20200106-1">EDU 106 Assessments 🍅🍅</li>
+   <li class="h-item" id="20200106-2">START PPOC Grant Work 🍅🍅🍅</li>
+       
+    </ul>
+    </details>
+  </div>
+    <div class="h-entry" id="20200107">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-05: Working from Home</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="20200104-1">ACUE Modules 🍅🍅🍅🍅</li>
+       <li class="h-item" id="20191218-2">GOIF Curriculum 🍅🍅</li>
+       
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
