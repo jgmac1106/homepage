@@ -43,5 +43,6 @@
       <a   href="https://indieweb.org"><img src="https://indieweb.org/images/4/4a/indiewebcamp-button.png"></a>
       <a  href="https://indieweb.org/webmention"><img src="https://indieweb.org/images/0/03/webmention-button.png"></a>
       <a href="https://microformats.org"><img src="https://indieweb.org/images/7/72/microformats-button.png"></a>
+      <img src="https://adalytics-live.glitch.me/counter.png?fallback=MY_WEBSITE&color=black" alt="" style="vertical-align: bottom;" aria-hidden="true">
     </div>
   </footer>
