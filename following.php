@@ -208,6 +208,9 @@
 
 <h2><h2>education</h2>
   <ul class="follow">
+    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://ericmacknight.com/wordpress/" title="Teaching, reading, good habits, and more
+
+    Learning to Write"><img class="u-photo" src="http://ericmacknight.com/wordpress/FT2_22sep14_sm.png"  alt="John Spencer quest to transform schools into bastions of creativity and wonder"  title="quest to transform schools into bastions of creativity and wonder" /> Eric MacKnight</a> <span class="p-note"> Teaching, reading, good habits, and more</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://www.spencerauthor.com/" title="quest to transform schools into bastions of creativity and wonder"><img class="u-photo" src="http://www.spencerauthor.com/wp-content/uploads/2017/07/profile-pic-2-1.png"  alt="John Spencer quest to transform schools into bastions of creativity and wonder"  title="quest to transform schools into bastions of creativity and wonder" /> John Spencer</a> <span class="p-note"> quest to transform schools into bastions of creativity and wonder</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://hackeducation.com/" title="mucracker and pigeon lover">Audrey Waters</a> <span class="p-note"> mucracker and pigeon lover</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://readingyear.blogspot.com/" title="two educators to read a lot">Year of Reading</a> <span class="p-note"> two educators to read a lot</span></li>
