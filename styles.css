@@ -20,6 +20,7 @@ header {
  background-color: #6B6B6B;
   font-size: 2em;
   z-index:5;
+
   
    
 }
@@ -42,6 +43,7 @@ header {
   font-size: .75em;
   color: white;
  background-color: #6B6B6B;
+
   
 }
 .footer_info .flex-item {
@@ -58,6 +60,7 @@ display:none;
  } 
  header a {
    text-decoration: none;
+
 }
 
 h1 {
@@ -1433,6 +1436,7 @@ flex-grow:12;
   
   font-size:1em;
   line-height: 1.4em;
+
 }
 @media only screen and (max-width: 700px) {
   
@@ -1442,6 +1446,7 @@ flex-grow:12;
   font-size:1em;
   font-weight: bold;
    text-align:center;
+   font-family: 'Amita', cursive;
   
 }
 .leading h1 {
@@ -1624,6 +1629,9 @@ margin-bottome: 3em;
 .longreads article .copy  img {
   width:85%;
 
+}
+.longreads .avatar {
+  max-width: 250px;
 }
  
 .myFeeds li {

@@ -1,7 +1,7 @@
   <header>
       <a href="index.html">
         <div class="leading">
-          <p >
+          <p>
             INTERTEXTrEVOLUTION
           </p>
           <p class="tagline" >
