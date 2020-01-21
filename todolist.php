@@ -350,6 +350,19 @@
     </ul>
     </details>
   </div>
+  <div class="h-entry" id="20200121">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-21: First Day of the Semester</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="20200121-1">EDU506 Build LMS 🍅🍅🍅🍅</li>
+       <li class="h-item" id="20200121-2">EDU307 Build LMS 🍅🍅🍅🍅</li>
+
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
