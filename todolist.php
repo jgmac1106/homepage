@@ -236,6 +236,45 @@
     </ul>
     </details>
   </div>
+  <div class="h-entry" id="20200119">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-19: Workign from home</p>
+  </summary>
+    <ul>
+      
+       <li class="h-item" id="20200119-1">ACUE Modules 🍅🍅🍅🍅</li>
+    </ul>
+    </details>
+  </div>
+   <div class="h-entry" id="20200121">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-20: Working from Home</p>
+  </summary>
+    <ul>
+      
+       <li class="h-item" id="20200120-1">ACUE Modules 🍅🍅🍅🍅</li>
+    </ul>
+    </details>
+  </div>
+      
+
+   <div class="h-entry" id="20201121">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-01-21: First day of semester on Campus</p>
+  </summary>
+    <ul>
+       <li class="h-item" id="20201121-1">EDU 307 Build LMS 🍅🍅🍅🍅</li>
+        <li class="h-item" id="20200121-1">EDU 506 Build LMS 🍅🍅🍅🍅</li>
+       <li class="h-item" id="20191223-1">ACUE Modules 🍅🍅🍅🍅</li>
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
