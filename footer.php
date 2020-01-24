@@ -43,6 +43,5 @@
       <a   href="https://indieweb.org"><img src="https://indieweb.org/images/4/4a/indiewebcamp-button.png"></a>
       <a  href="https://indieweb.org/webmention"><img src="https://indieweb.org/images/0/03/webmention-button.png"></a>
       <a href="https://microformats.org"><img src="https://indieweb.org/images/7/72/microformats-button.png"></a>
-      <a href="https://www.php.net/"><img src="https://www.php.net/images/logos/elephpant-running-78x48.gif"></a>
     </div>
   </footer>
