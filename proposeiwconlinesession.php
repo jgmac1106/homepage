@@ -15,7 +15,7 @@
     <p class="p-summary">How to propose a session for IndieWebCampOnline</p>
     </span>
  </div>
-   <video class="featured u-video" controls preload="metadata" src="https://jgregorymcverry.com/videos/IndieWebCampOnline2020.mp4">
+   <video class="featured u-video" controls preload="metadata" poster="https://jgregorymcverry.com/photos/assets/iwc2020header.jpg" src="https://jgregorymcverry.com/videos/IndieWebCampOnline2020.mp4">
     <track label="English" kind="subtitles" srclang="en" src="https://jgregorymcverry.com/videos/indiewebcamponlineeng.sbv" default>
    </video>
     <div class="copy">
