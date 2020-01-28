@@ -7,9 +7,9 @@
   <h1 class="p-name">My IndieWeb Summit Trip</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
-     on <time class="dt-published" datetime="2019-11-25 18:14:20">25<sup>th</sup> Novemner 2019</time></p>
+     on <time class="dt-published" datetime="2019-11-25 18:14:20">25<sup>th</sup> Novemeber 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-11-25 18:14:20">25<sup>th</sup> July 2019</time></p>
+       on <time class="dt-published" datetime="2019-11-27 18:14:20">27<sup>th</sup> Novemeber 2019</time></p>
    
   <span class="summary">
     <p class="p-summary">Messing About with GPX</p>
