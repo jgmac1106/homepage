@@ -186,6 +186,7 @@
 
 <h2 id="literacies">literacies</h2>
   <ul class="follow">
+    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://www.galaxykate.com/#blog" title="Maker of many interesting things">GalaxyKate</a> <span class="p-note"> Maker of many interesting things</span></li>
     <li class="h-card"><a class="p-name u-url" href="https://literacylenses.com/" rel="colleague">Dr Mary Howard</a><span class="p-note"> Literacy Lenses
 </span></li>
     <li class="h-card"><a class="p-name p-follow-of" href="https://traceyflores.wordpress.com/" rel="colleague ">Tracey Flores</a><span class="p-note">Capturing moments of my educational journey from student to scholar
