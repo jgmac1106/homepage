@@ -496,27 +496,27 @@ let go remains<br>
 to be seen<br>
   </p>
   <p class="Greg">
-    dragon drawn chariots
-chasing
-firefish in
-rivers of knowledge
-drawn
-from endless wells
-of ignorance.
-
-sewn together,
-stiched in time by an
-arrow piercing the eye of wayward gods
-wreathed,
-twisted in folds
-will the flesh of the hunt
-serve the sullied
-at a feast of the righteous?
-
-Can those who hear
-the Way on the river
-beating upon our shore
-a hundred time over
+    dragon drawn chariots<br>
+chasing<br>
+firefish in<br>
+rivers of knowledge<br>
+drawn<br>
+from endless wells<br>
+of ignorance.<br>
+<br>
+sewn together,<br>
+stiched in time by an<br>
+arrow piercing the eye of wayward gods<br>
+wreathed,<br>
+twisted in folds<br>
+will the flesh of the hunt<br>
+serve the sullied<br>
+at a feast of the righteous?<br>
+<br>
+Can those who hear<br>
+the Way on the river<br>
+beating upon our shore<br>
+a hundred time over<br>
 actually know it's sound?
   </p>
   <p class="Greg">
