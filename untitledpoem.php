@@ -9,7 +9,7 @@
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a> and <a class="p-author h-card" href="https://dogtrax.edublogs.com">Kevin Hodgson</a>
      on <time class="dt-published" datetime="2019-11-17 09:04:20">17<sup>th</sup>November 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-11-21 22:54:20">21<sup>st</sup> November  2019</time></p>
+      Updated <time class="dt-updated" datetime="2020-01-31 08:54:20">1<sup>st</sup>January  2020</time></p>
    
   <span class="summary">
     <p class="p-summary">A daily collaborative poem between Greg McVerry and Kevin Hodgson started on 2019-11-09</p>
@@ -422,6 +422,167 @@ unburnt<br>
 as time never touched<br>
 tattered souls<br>
 </p>
+<p class="Kevin">
+Canis Major wags<br>
+her tail, brushing aside<br>
+sky stars and scratching<br>
+her moon fleas, <br>
+the playful pup of night<br>
+calls the bluff of Ursa, <br>
+the Milky Way suddenly<br>
+a vast field of play <br>
+and possibilities<br>
+  </p>
+  <p class="Greg">
+ What happens when the brightest star<br>
+dims that which is within?<br>
+Knowing your beacon<br>
+opens floods<br>
+The sharp one,<br>
+a trianlge<br>
+dividing the two<br>
+into broken threes<br>
+of past memories<br>
+Even Pulpin growls<br>
+warnings of<br>
+warrior, nimrod, king<br>
+the same?<br>
+  </p>
+  <p class="Kevin">
+    All light<br>
+deceives<br>
+the eyes<br>
+<br>
+the soul<br>
+believes<br>
+the lies<br>
+<br>
+stars<br>
+bend<br>
+stories<br>
+end<br>
+<br>
+we take<br>
+the loose<br>
+piece and begin<br>
+again<br>
+  </p>
+  <p class="Greg">
+  let loose moorings<br>
+of a crescent<br>
+moon while<br>
+our heavenly wolf<br>
+howls<br>
+Through words<br>
+spilled,<br>
+we seek, yet never find,<br>
+a path of souls<br>
+Inanna, Venus, Ishtar, Aphrodite,<br>
+bits loosely joined in<br>
+stories that never begin in<br>
+poems with no end<br>
+  </p>
+  <p class="Kevin">
+All moorings<br>
+eventually<br>
+break free -<br>
+the wind<br>
+chews rope,<br>
+the rain<br>
+drenches hope -<br>
+whether<br>
+we hold on or<br>
+let go remains<br>
+to be seen<br>
+  </p>
+  <p class="Greg">
+    dragon drawn chariots<br>
+chasing<br>
+firefish in<br>
+rivers of knowledge<br>
+drawn<br>
+from endless wells<br>
+of ignorance.<br>
+<br>
+sewn together,<br>
+stiched in time by an<br>
+arrow piercing the eye of wayward gods<br>
+wreathed,<br>
+twisted in folds<br>
+will the flesh of the hunt<br>
+serve the sullied<br>
+at a feast of the righteous?<br>
+<br>
+Can those who hear<br>
+the Way on the river<br>
+beating upon our shore<br>
+a hundred time over<br>
+actually know it's sound?
+  </p>
+  <p class="Greg">
+leaping into expectation<br>
+upon thread bare<br>
+histories<br>
+his<br>
+consistencies unwound<br>
+chasing hopes eternal mysteries<br>
+unbound<br>
+racing fates<br>
+scissors<br>
+through blizzards of hope<br>
+all poetry<br>
+meant to be set free<br>
+so he sails<br>
+seas of misery<br>
+  </p>
+  <p class="Kevin">
+Scissors cut<br>
+poetry, poems<br>
+into pieces,<br>
+stanzas become <br>
+sails, these tales<br>
+race fate, erase<br>
+fate, sea history,<br>
+the mysteries of<br>
+these stories may yet<br>
+free hope from<br>
+its misery<br>
+  </p>
+  <p class="Greg">
+   words roll with waves<br>
+churning frosted thoughts<br>
+through the chop of<br>
+thoughts<br>
+atop peacful crests and<br>
+violent troughs<br>
+truth sought<br>
+stanzas swell<br>
+   as    wind bells <br>
+chime through a<br>
+rusted, but trusted<br>
+buoy<br>
+  </p>
+  <p class="Kevin">
+    Some say<br>
+the crest of<br>
+the wave is<br>
+the best of<br>
+the wave but<br>
+I say it’s the lull<br>
+of the wave,<br>
+the slow-motion<br>
+slowing-down, <br>
+calming, floating <br>
+of the mind<br>
+part of the wave, <br>
+the bobbing buoy<br>
+of words at rest,<br>
+that that is the best<br>
+kind of wave<br>
+there is<br>
+<br>
+#smallpoems at sea<br>
+  </p>
   </div>
       </div>
 </article>
