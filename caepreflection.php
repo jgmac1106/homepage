@@ -51,15 +51,17 @@
     </ul>
     <h4>Assignments and Assessments</h4>
     <ul>
-      <li>Publish a portfolio of lessonsfinal portfolio will contain a revised submission and a reflection on your instructional design. The lessons can be for reading or writing The lessons will include:
+      <li>Publish a portfolio of lessonsfinal portfolio will contain a revised submission and a reflection on your instructional design. The lessons can be for reading or writing The lessons will include:</li>
 
-    Phonics/Spelling Screencast
-    Text Structure
-    Fiction Lesson Plan
-    Poetry Lesson Plan
-    Novel lesson
+    <ul>
+      <li>Phonics/Spelling Screencast</li>
+    <li>Text Structure</li>
+    <li>Fiction Lesson Plan</li>
+    <li>Poetry Lesson Plan</li>
+    <li>Novel lessonM</li>
+  </ul>
 
-      </li>
+      
     </ul>
 
 <h2>Standard #2: </h2><p>Learning Differences. The teacher uses understanding of individual differences and diverse cultures and communities to ensure inclusive learning environments that enable each learner to meet high standards.</p>
