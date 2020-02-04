@@ -18,7 +18,7 @@
         <p class="e-content">Hey #IndieWeb here is a quick video on what to expect at @IndieWebCamp Online</p>
       
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2019-12-09-2" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-01-1" rel="prev">Previous Note</a> 
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2019-12-09-2" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-01-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2020-02-04-1" rel="next">Next Note</a>  
   
 </div>
 </div>
