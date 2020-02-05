@@ -27,9 +27,7 @@
     
     <ul>
       
-         <li class="h-event"><span class="p-name">NSF Small Business Innovation Research Program Phase I</span> <time class="dt-start" datetime="2019-06-14 9:00">14<sup>th</sup>June 2019, 9:00</time> <time class="dt-end" datetime="2019-12-12 9:00">12<sup>th</sup>December 2019, 16:00</time></li>
-         <li class="h-event"><span class="p-name">American Council of Learned Societies</span> <a class="u-url" href="https://www.acls.org/programs/digitalextension/">Link</a><time class="dt-start" datetime="2020-1-20 10:00">31<sup>st</sup>January  2019, 10:00</time></li>
-         <li class="h-event"><span class="p-name">Berkman Klein Center for Internet & Society Fellowship</p><a class="u-url" href="https://cyber.harvard.edu/getinvolved/fellowships/2021Fellows"><time class="dt-end" datetime="2020-1-31 10:00">31<sup>st</sup>January  2019, 10:00</time></li>
+       
           <li class="h-event"><span class="p-name">Sloan Foundation Scholary Communication</span> <a class="u-url" href="https://sloan.org/programs/digital-technology/scholarly-communication">Link</a></li>
         <li class="h-event"><span class="p-name">Pan-African Awards for Entrepreneurship in Education</span> <a class="u-url" href="http://teachamantofish.org.uk/pan-african-awards">Link</a> <time class="dt-start" datetime="2020-08-20 9:00">16<sup>th</sup>August 2020, 9:00</time></li>
         <li class="h-event"><span class="p-name">Motorola Solutions Foundation</span><a class="u-url" href="https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html">Link</a><time class="dt-start" datetime="2020-02-20 9:00">16<sup>th</sup>August 2020, 9:00</time></li></ul>
