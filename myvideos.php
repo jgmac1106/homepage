@@ -23,6 +23,31 @@
  </div>
     <div class="copy">
   <div class="e-content">
+  <section class="h-feed videofeed" id="ActiveReadinginCollege">
+     <div class="videoblock">
+      <div class="h-entry">
+      <p class="p-name">Active Reading in Online Learning: Setting a Purpose</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/activereading1.png" src="https://jgregorymcverry.com/videos/ActiveReading1Purpose.mp4"> 
+          </video>
+          
+      <p class="p-summary">Using discussion questions to set a purpose</p>
+      <time class="dt-published" datetime="2020-02-01T11:24:20+0000">2020-02-01</time>
+        </div>
+        <div class="h-entry">
+      <p class="p-name">Active Reading in Online Learning: Using Headings</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/activereading2.png" src="https://jgregorymcverry.com/videos/ActiveReading2UsingHeadings.mp4"> 
+          </video>
+          
+      <p class="p-summary">Using article headings to plan notes</p>
+      <time class="dt-published" datetime="2020-02-02T11:24:20+0000">2020-02-02</time>
+        </div>
+     </div>
+
+  </section>
  <section class="h-feed videofeed" id="7minuteTips">
   <h2 class="p-name">7 Minute Teaching Tips</h2>
  
