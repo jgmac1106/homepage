@@ -379,6 +379,22 @@
     </ul>
     </details>
   </div>
+   <div class="h-entry" id="20200206">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-02-06: Workign from Home</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="20200206-1"> EDU 506 Writing Reflection Guide 🍅🍅🍅</li>
+       <li class="h-item" id="20200206-2"> EDU 506 Writing module launch 🍅🍅🍅</li>
+        <li class="h-item" id="20200206-3"> EDU 506 Respond to posts and Learning Logs 🍅🍅</li>
+        <li class="h-item" id="20200206-4"> EDU 506 Respond to posts and Learning Logs 🍅🍅</li>
+        <li class="h-item" id="20200206-5"> IWC Accra Planning 🍅🍅🍅</li>
+
+    </ul>
+    </details>
+  </div>
       </div>
 </article>
     </main>
