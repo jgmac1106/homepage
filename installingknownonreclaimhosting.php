@@ -29,7 +29,7 @@
       <li>Change directories direectories to your new domain or subdomain by typing: cd directoryname</li>
       <li>Copy this line into Terminal. It updates to the latest version: git clone <pre>https://github.com/idno/known.git</pre></li>
       <li>Go to <a href="https://getcomposer.org/download/"> Get Composer</a></li>
-      <li>Copy the code at the top and paste it into Terminal. I can not add the download code here as it changes with new versions of Terminal</li>
+      <li>Copy the code at the top and paste it into Terminal. I can not add the download code here as it changes with new versions of Composer</li>
       <li>Then paste this line into Terminal: <pre>cd known; composer install</pre></li>
       <li>When that is done paste the following line into Terminal to remove a file permissions error: <pre>find . -type f | xargs -i{} chmod 644 {}</pre></li>
       <li>You are done and your Known site is now up to date</li>
