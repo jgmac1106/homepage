@@ -24,7 +24,7 @@
       <li>Make a domain or subdomain in CPanel</li>
       <li>Issue a Let's Encrypt Certifcate</li>
       <li>Go back to CPanel and click on All Applications</li>
-      <li>Choose Known and then select your new domain or subdomain. make sure to install in https</li>li>
+      <li>Choose Known and then select your new domain or subdomain. make sure to install in https</li>
       <li>After installation go back to CPanel and chose Terminal</li>
       <li>Change directories direectories to your new domain or subdomain by typing: cd directoryname</li>
       <li>Copy this line into Terminal. It updates to the latest version: git clone <pre>https://github.com/idno/known.git</pre></li>
