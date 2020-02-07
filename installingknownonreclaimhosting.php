@@ -7,7 +7,7 @@
   <h1 class="p-name">How to Install Known on Reclaim Hosting</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
-     on <time class="dt-published" datetime="2020-02-06T15:14:20">2<sup>nd</sup>February 2020</time></p>
+     on <time class="dt-published" datetime="2020-02-07T15:14:20">7<sup>th</sup> February 2020</time></p>
     
 
     
