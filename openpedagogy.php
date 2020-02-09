@@ -1,4 +1,4 @@
-h2 id="openpedagogy">Open Pedagogy</h2>
+<h2 id="openpedagogy">Open Pedagogy</h2>
   <ul class="follow">
     <li class="h-card p-follow-of"><a class="p-name u-url" href="https://jrdingwall.ca/blogwall/" rel="colleague"><img class="u-photo" src="https://jrdingwall.ca/wp-content/uploads/2018/05/10154625899945836.jpg">JR Dingwall</a><span class="p-note"> Reclaiming my digital life
 </span></li>

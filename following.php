@@ -17,6 +17,7 @@
       <?php include 'indieweb.php'; ?>
       <?php include 'literacies.php'; ?>
       <?php include 'poetry.php'; ?>
+      <?php include 'education.php'; ?>
       <?php include 'bloggers.php'; ?>
       <?php include 'edreform.php'; ?>
        <?php include 'instructionaldesign.php'; ?>

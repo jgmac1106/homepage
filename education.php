@@ -1,0 +1,16 @@
+<h2>education</h2>
+  <ul class="follow">
+    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://ericmacknight.com/wordpress/" title="Teaching, reading, good habits, and more
+
+    Learning to Write"><img class="u-photo" src="http://ericmacknight.com/wordpress/FT2_22sep14_sm.png"  alt="John Spencer quest to transform schools into bastions of creativity and wonder"  title="quest to transform schools into bastions of creativity and wonder" /> Eric MacKnight</a> <span class="p-note"> Teaching, reading, good habits, and more</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://www.spencerauthor.com/" title="quest to transform schools into bastions of creativity and wonder"><img class="u-photo" src="http://www.spencerauthor.com/wp-content/uploads/2017/07/profile-pic-2-1.png"  alt="John Spencer quest to transform schools into bastions of creativity and wonder"  title="quest to transform schools into bastions of creativity and wonder" /> John Spencer</a> <span class="p-note"> quest to transform schools into bastions of creativity and wonder</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://hackeducation.com/" title="mucracker and pigeon lover">Audrey Waters</a> <span class="p-note"> mucracker and pigeon lover</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://readingyear.blogspot.com/" title="two educators to read a lot">Year of Reading</a> <span class="p-note"> two educators to read a lot</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://usergeneratededucation.wordpress.com/" title="maker ed and creativity, spuerstar">Jackie Gerstein</a> <span class="p-note"> maker ed and creativity, spuerstar</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://jennbbinis.com/" title="assessment and edreform, loves rubrics">Jenn Binnis</a> <span class="p-note"> assessment and edreform, loves rubrics</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://mattharrisedd.com" title="consultant at International EdTech committed to helping schools use technology successfully">Matt Harris</a> <span class="p-note"> consultant at International EdTech committed to helping schools use technology successfully</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://budtheteacher.com/blog/" title="Inquiry &amp; Reflection for Better Learning">Bud Hunt</a> <span class="p-note"> Inquiry &amp; Reflection for Better Learning</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://www.anjfp.com/" title="elite wheelchair racer, Paralympic ambassador, public speaker and assistant professor at Vanderbilt University">Anjali Forber-Pratt</a> <span class="p-note"> elite wheelchair racer, Paralympic ambassador, public speaker and assistant professor at Vanderbilt University</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://robinlilly.edublogs.org/" title="Reflections on positive education, teaching, curriculum and instructional design">Robin Lily</a> <span class="p-note"> Reflections on positive education, teaching, curriculum and instructional design</span></li>
+
+  </ul>
