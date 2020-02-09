@@ -1672,6 +1672,7 @@ grid-row-start: 6;
 
 .poetry .poetcircle {
   grid-column: 6/ 8;
+  grid-row-start: 1;
  
 }
  .poetry .poemreads {
