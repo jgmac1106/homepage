@@ -1,0 +1,22 @@
+<h2 id="literacies">literacies</h2>
+  <ul class="follow">
+    <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://www.galaxykate.com/#blog" title="Maker of many interesting things">GalaxyKate</a> <span class="p-note"> Maker of many interesting things</span></li>
+    <li class="h-card"><a class="p-name u-url" href="https://literacylenses.com/" rel="colleague">Dr Mary Howard</a><span class="p-note"> Literacy Lenses
+</span></li>
+    <li class="h-card"><a class="p-name p-follow-of" href="https://traceyflores.wordpress.com/" rel="colleague ">Tracey Flores</a><span class="p-note">Capturing moments of my educational journey from student to scholar
+</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://professorhsieh.edublogs.org/" title="Literacy specialist: Reflection promotes growth">Betina Hsieh</a> <span class="p-note"> Literacy specialist: Reflection promotes growth</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://www.cassiebrownell.com/" title="Children&#8217;s multiple cultural, linguistic, and modal ways of knowing">Cassie J. Brownell</a> <span class="p-note"> Children&#8217;s multiple cultural, linguistic, and modal ways of knowing</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://developingwriters.org/" title="blogging about composition in the digital age">Anna Smith</a> <span class="p-note"> blogging about composition in the digital age</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://professorhsieh.edublogs.org/" title="journey through academia as a teacher educator committed to issues of equity">Betina Hsieh</a> <span class="p-note"> journey through academia as a teacher educator committed to issues of equity</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://heartofateacher.blogspot.com/" title="A middle/high school teacher and teacher educator&#8217;s reflections">Suz Porath</a> <span class="p-note"> A middle/high school teacher and teacher educator&#8217;s reflections</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://miriamposner.com/blog/" title="mapping to network analysis"><img class="u-photo" src="http://www.miriamposner.com/images/Miriam3.jpg"  alt="" /> Miriam Posner</a> <span class="p-note"> mapping to network analysis</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://danielledennis.wordpress.com/" title="Musings on Literacy Policy, Assessment, and Teacher Development">Danielle Dennis</a> <span class="p-note"> Musings on Literacy Policy, Assessment, and Teacher Development</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://t.co/b7zJ7CYVrT" title="academics and writing">Liegh Hall</a> <span class="p-note"> academics and writing</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://emilypendergrass.wordpress.com/" title="adolescent literacies, literacies coaching, and teaching and learning">Emily Pendergrass</a> <span class="p-note"> adolescent literacies, literacies coaching, and teaching and learning</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://pernillesripp.com/" title="Teacher. Author. Creator. Speaker. Mom.">Pernille Ripp</a> <span class="p-note"> Teacher. Author. Creator. Speaker. Mom.</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="https://livinginthelayers.com/" title="Writing and revising my transformations as a literacy teacher">Buffy J. Hamilton</a> <span class="p-note"> Writing and revising my transformations as a literacy teacher</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://metawriting.deannamascle.com/" title="believes everyone is a writer and everyone should be a writer"><img class="u-photo" src="https://i2.wp.com/metawriting.deannamascle.com/wp-content/uploads/2013/01/write.teach_.learn_.jpg?w=720"  alt="" /> Deanna Mascle</a> <span class="p-note"> believes everyone is a writer and everyone should be a writer</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://www.litandtech.com/" title="Teaching literacy with technology in an era of educational innovation"><img class="u-photo" src="http://s3.amazonaws.com/media-speakerfile-pre/images_avatars/c35edb3bf79fbdd6deef5d5b4e4db2cd1438138282_m.jpg"  alt="" /> Jen Roberts</a> <span class="p-note"> Teaching literacy with technology in an era of educational innovation</span></li>
+
+  </ul>
