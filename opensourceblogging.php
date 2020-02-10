@@ -1,4 +1,9 @@
 <?php include 'head.php'; ?>
+
+    <link rel="stylesheet" href="/css/pubstyle.css">
+
+   
+
 </head>
 <?php include 'header.php'; ?>
 </header>
