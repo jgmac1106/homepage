@@ -1654,7 +1654,7 @@ margin-bottome: 3em;
 
 .poetry .smallpoems {
 grid-column: 3/ 4;
-
+border: solid 5px;
 
 }
 
