@@ -121,7 +121,7 @@ undefined<br>
 <div class="smallpoems">
  
 <h2>Poems Feed</h2>
-<iframe src="https://www.inoreader.com/stream/user/1005993829/tag/mypoems/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
+<iframe width="100%" height="800px" src="https://www.inoreader.com/stream/user/1005993829/tag/mypoems/view/html?cs=m" frameborder="2" tabindex="-1"></iframe>
   </div>
   <div class="h-feed backstage">
     <div>
