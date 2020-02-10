@@ -79,7 +79,7 @@
   <div class="e-content">
     <p class="Greg">
       Skin plastered against tattered holes<br>
-of a torn blanket.<br>
+of a torn blanket<br>
 Rough threads of <br>
 unwoven time<br>
 scratching against frozen thighs<br>
