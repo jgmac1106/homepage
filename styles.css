@@ -1660,13 +1660,13 @@ margin-bottome: 3em;
 
 .poetry .smallpoems {
 grid-column: 2 / 4;
-grid-row-start: 2;
+grid-row-start: 3;
 
 }
 
 .poetry .backstage {
 grid-column: 4 / 6;
-grid-row-start: 2;
+grid-row-start: 3;
 
 }
 
