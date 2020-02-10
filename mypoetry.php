@@ -41,7 +41,7 @@
   <p class="p-name">Home in Our Heliosphere</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-02-06 12:54:20">6<sup>th</sup> February 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ColorOfBoogie.m4a" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/HomeInOurHeliosphere.m4a" controls="controls">
 </audio>
 </div>
 <div class="h-entry audiopoem">
@@ -55,7 +55,7 @@
   <p class="p-name">Ridgeline</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-02-09 06:14:20">9<sup>th</sup> February 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PoetryAsPlay.m4a" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ColorOfBoogie.m4a" controls="controls">
 </audio>
 </div>
 <div class="h-entry audiopoem">
@@ -68,7 +68,7 @@
 </div>
 <div class="h-feed poetry featured">
   <div>
-  <p class="p-name">Featured Poems</p>
+  <h2 class="p-name">Featured Poems</h2>
   <p class="p-summary">Check out the Highlights</p>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
@@ -90,7 +90,7 @@ beyond the cold<br>
 frosted window she see nothing<br>
 nothing at all<br>
 </p>
-<p class="Kevi">
+<p class="Kevin">
  Fingers caress<br>
 these holes, torn,<br>
 of this blanket, worn;<br>
@@ -119,13 +119,13 @@ undefined<br>
   </div>
 </div>
 <div class="smallpoems">
-  <div>
-<p>something</p>
-  </div>
+ 
+<h2>Poems Feed</h2>
+<iframe src="https://www.inoreader.com/stream/user/1005993829/tag/mypoems/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
   </div>
   <div class="h-feed backstage">
     <div>
-    <p class="p-name">How it is done</p>
+    <h2 class="p-name">How it is done</h2>
   <p class="p-summary">Read how poems came to be </p>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
