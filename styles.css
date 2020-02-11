@@ -1676,6 +1676,12 @@ grid-column: 5 / 7;
 
  
 }
+.poetry .poemreads .img{
+  max-width:250px;
+  float:left;
+
+ 
+}
  
 .myFeeds li {
   text-decoration: none;

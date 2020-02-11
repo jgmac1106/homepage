@@ -135,9 +135,9 @@ undefined<br>
     <li class="h-entry"><span class="p-name">Poem name</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A description</span> <a class="u-url" href="#">Poem</a></li>
   </ul>
   </div>
-    <div class="h-feed poetcircle" id="poetcircle>
+    <div class="h-feed poetcircle" id="poetcircle">
     <div>
-    <h2 class="p-name" ">Poets I rely on</h2>
+    <h2 class="p-name">Poets I rely on</h2>
   <p class="p-summary">Find your inspiration </p>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
