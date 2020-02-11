@@ -1,15 +1,16 @@
 <?php include 'head.php'; ?>
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23audiopoems" title="Audio Poems">
 </head>
 <?php include 'header.php'; ?>
     </header>
   <main class="poetry">   
   <div class="grid-container">
-    <div class="h-feed">
+    <div class="h-feed" id="audiopoem">
       <div>
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
  </div>
- <div class="h-entry audiopoem" id="audiopoem">
+ <div class="h-entry audiopoem" >
   <p class="p-name">(un)Celebration</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-02-01 13:34:20">01<sup>st</sup> February 2020</time>
