@@ -9,7 +9,7 @@
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
  </div>
- <div class="h-entry audiopoem">
+ <div class="h-entry audiopoem" id="audiopoem">
   <p class="p-name">(un)Celebration</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-02-01 13:34:20">01<sup>st</sup> February 2020</time>
@@ -66,7 +66,7 @@
 </audio>
 </div>
 </div>
-<div class="h-feed poetry featured">
+<div class="h-feed poetry featured" id="featuredpoems">
   <div>
   <h2 class="p-name">Featured Poems</h2>
   <p class="p-summary">Check out the Highlights</p>
@@ -123,9 +123,9 @@ undefined<br>
 <h2>Poems Feed</h2>
 <iframe width="100%" height="800px" src="https://www.inoreader.com/stream/user/1005993829/tag/mypoems/view/html?cs=m" frameborder="2" tabindex="-1"></iframe>
   </div>
-  <div class="h-feed backstage">
+  <div class="h-feed backstage" id="backstage">
     <div>
-    <h2 class="p-name">How it is done</h2>
+    <h2 class="p-name" id="backstage">How it is done</h2>
   <p class="p-summary">Read how poems came to be </p>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
@@ -135,9 +135,9 @@ undefined<br>
     <li class="h-entry"><span class="p-name">Poem name</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A description</span> <a class="u-url" href="#">Poem</a></li>
   </ul>
   </div>
-    <div class="h-feed poetcircle">
+    <div class="h-feed poetcircle" id="poetcircle>
     <div>
-    <p class="p-name">Poets I rely on</p>
+    <h2 class="p-name" ">Poets I rely on</h2>
   <p class="p-summary">Find your inspiration </p>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
@@ -151,16 +151,17 @@ undefined<br>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://developingwriters.org/" title="blogging about composition in the digital age">Anna Smith</a> <span class="p-note"> blogging about composition in the digital age</span></li>
 </ul>
   </div>
-   <div class="h-feed poemreads">
+   <div class="h-feed poemreads" id="poemreads">
     <div>
-    <p class="p-name">Poets I am reading</p>
+    <h2 class="p-name" >Poets I am reading</h2>
   <p class="p-summary">Find your mentor text </p>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
 </div>
   <ul>
-    <li class="h-entry"><span class="p-name">Poem name</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A description</span> <a class="u-url" href="#">Poem</a></li>
-    <li class="h-entry"><span class="p-name">Poem name</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A description</span> <a class="u-url" href="#">Poem</a></li>
+    <li class="h-entry"><span class="p-name">Typewriter Rodeo</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A collection of improv poems written for people and printed on type writers</span> <a class="u-read-of" href="https://typewriterrodeo.com/our-book/">Typewriter RodeoBook</a><img src="https://typewriterrodeo.com/wp-content/uploads/2018/04/Typewriter-Rodeo-book-front-cover-1-895x1024.jpg"></li>
+    <li class="h-entry"><span class="p-name">Robert Hunter</span> <span class="dt-published"><time class="dt-published" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A collection of poems from my favorite lyricist</span> <a class="u-url" href="http://www.hunterarchive.com/files/Poetry/SentinelGateway.html">Sentinel</a><img src="https://img1.od-cdn.com/ImageType-400/1523-1/822/0C7/CA/%7B8220C7CA-0367-4D96-8621-3EB481089808%7DImg400.jpg"></li>
+    <li class="h-entry"><span class="p-name">Bill Moyers</span> <span class="dt-published"><time class="dt-published" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">Interviews with Poets</span> <a class="u-read-of" href="https://billmoyers.com/series/fooling-with-words-1999/">Fooling with Poets</a><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348765356l/615561.jpg"></li>
   </ul>
   </div>
     </main>
