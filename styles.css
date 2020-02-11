@@ -1678,7 +1678,7 @@ grid-column: 5 / 7;
 }
 .poetry .poemreads img{
   max-width:200px;
-  float:left;
+  display:block;
 
  
 }
