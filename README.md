@@ -1,6 +1,6 @@
 # My Homepage
 
-After seven five years of blogging on WordPress I am going to strike it on my own.
+After seven  of blogging on WordPress I am going to strike it on my own.
 
 This repo wil serve as my history
 
