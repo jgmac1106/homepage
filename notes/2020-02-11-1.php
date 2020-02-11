@@ -7,7 +7,7 @@
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-02-011T16:34:20+0000">February 11, 2020</time>
-          <video  controls class="u-video" poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" preload="metadata">
+          <video  controls  poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" preload="metadata">
             <source class="u-video" src="https://jgregorymcverry.com/videos/IndieWebCampOnlineDemo.mp4" type="video/mp4">
                <track label="English" kind="subtitles" srclang="en" src="iwconlinedemo.sbv" default>
           </video>
