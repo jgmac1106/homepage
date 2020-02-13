@@ -19,7 +19,7 @@
     <div class="copy">
 
   <div class="e-content">
-    <img class="u" src="https://jgregorymcverry.com/photos/screenshofCreatePoem.jpg" alt="screenshot of my notes">
+    <img class="u" src="https://jgregorymcverry.com/photos/screenshotofparadoxofpoetry.jpg" alt="screenshot of my notes">
      <p>The first thing I did was write <a href="https://quickthoughts.jgregorymcverry.com/2020/02/10/poetryport-smallpoems-clmoocfor-first-time-since-8th">about shoes</a>. A pair of docs as a paradox. What better way then to play with definition then switch meaning on sounds. Not so much a 10 cent word but a paradigm</p>
      <p>All the while I was thinking hard on wanting to talk about the paradox of design in technology. For decades we have wanted to lower the friction of apps but this in turn has lead to lack of access to technology. Jack Jamieson turned me on to Urulsa Frnklin as we worked on our never to be finsihed Open Pedagogy book. I wanted to play with Franklin's ideas of holitistic and prescriptive technology. Ever since I started researching how we teach web credibility I ran into a paradox. Designers constantly want to make sites appear more credibile and teachers want students to be more critical.</p>
      <p>I believe the best way to deal with this is have students answer, "My url is." Ursula Franklin provides a perfect frame for the difference between a personal website and social media.</p> 
