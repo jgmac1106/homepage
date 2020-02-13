@@ -16,7 +16,7 @@
         <p class="e-content"><p> Hey #edu307 after doing feedback on your written reflections. I noticed a common pattern of more summarizing than reflecting on readings. Here is a #literacies mini lesson  on how to write a reflection to a reading rather than a summary: That is how feedback drives just in time teaching in workshop models <a href="https://jgregorymcverry.com/writeareadingreflection.html">https://jgregorymcverry.com/writeareadingreflection.html</a></p>
       
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="prev">Previous Note</a> 
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 </div>
 </div>
