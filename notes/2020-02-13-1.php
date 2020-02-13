@@ -17,7 +17,7 @@
         <p class="e-content">Hey #EDU506 here are some of my recent #2toPonder #literacies microcasts on the differences between strategies, skills, and content knowledge.</p>
       
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-11-2" rel="prev">Previous Note</a> 
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="canonical"><strong>My Notes</strong></a> <br>  <a href="https://jgregorymcverry.com/notes/2020-02-13-2" rel="next">Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-02-11-2" rel="prev">Previous Note</a> 
   
 </div>
 </div>
