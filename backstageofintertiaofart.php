@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name">How I wrote Intertia of Art: A #Clmooc #poetryport poem</h1>
+  <h1 class="p-name">How I wrote Paradox of Technology: A #Clmooc #poetryport poem</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-005-8 10:54:20">13<sup>th</sup> February 2020</time></p>
@@ -14,6 +14,7 @@
     <span class="summary">
     <p class="p-summary">Backstage post of how a poem came to be </p>
     </span>
+  </div>
 <img class="featured u-featured" src="https://jgregorymcverry.com/photos/screenshofCreatePoem.jpg" alt="screenshot of my notes">
     <div class="copy">
 
@@ -22,7 +23,7 @@
      <p>Then on the drive to work I was listening to "Redemption Ark" by Alistair Reynolds. In chapter 15 right arond the seveenteen mark a character explains how intertia works when describing a new intertia supressing drive</p>
      <p>The way Reynolds described a force of matter we all take for granted sounded poetic. Especially this line of "Matter is lazy."</p>
      <p>It also to me felt like the opposite of art. Movement versus none. I immediatley bookmarked the clip and drive to the office. </p>
-     <p>Once on campus I played the clip a few more times. I then started to draft the poem on paper as you can see in the screenshot. I continued my work with trying to capture the mood of a poem with more internal read rhmyes and assonance. For so many years I have fooled with free verse. The work of rhyme, without being forced intor traps ain't a lazy matter at all.</p>
+     <p>Once on campus I played the clip a few more times. I then started to draft the poem on paper as you can see in the screenshot. I continued my work with trying to capture the mood of a poem with more internal read rhymes and assonance. For so many years I have fooled with free verse. The work of rhyme, without being forced intor traps ain't a lazy matter at all.</p>
      <p>Here is the poem <a href="https://quickthoughts.jgregorymcverry.com/2020/02/11/inertia-of-art-create-poem-for-the-clmooc-poetryport">Inertia of Art</a>
       </div>
 <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small></p>
