@@ -25,7 +25,7 @@
      <p>I believe the best way to deal with this is have students answer, "My url is." Ursula Franklin provides a perfect frame for the difference between a personal website and social media.</p> 
      <p>I began by first re-reading Franklin. I grabbed words that spoke to me. Then I went on a rhyming word rodeo.</p>
      <p>I searched for words and then grouped them by family. Next I went through and marked them as a +. - , or nuetral connotation. As I was researching words a few phrases and verses popped in my head. I jotted thos down. Not all made the poem. I didn't play with the metaphor of equinox at all. After I had the connotations and word lists I fired up my Known blog and drafted the poem. I then recorded it. I didn't have my good mic with me. I need to order a mic for the office. </p>
-     <p>Here is the poem <a href="https://quickthoughts.jgregorymcverry.com/2020/02/11/inertia-of-art-create-poem-for-the-clmooc-poetryport">Paradox of Technology</a>
+     <p>Here is the poem <a href="https://quickthoughts.jgregorymcverry.com/2020/02/11/paradox-of-technology-1">Paradox of Technology</a>
       </div>
 <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small><br /><a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </article>
