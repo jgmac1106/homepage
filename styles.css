@@ -1660,16 +1660,18 @@ border: solid 5px;
 
 .poetry .backstage {
 grid-column: 5 / 7;
+
+
+
+}
+.poetry .backstage li{
 display: block;
   color: black;
   font-size: .75em;
   text-align: left;
   line-height: 1.75;
-  
-
-
 }
-
+  
 .poetry .poetcircle {
   grid-column: 7 / 9;
   grid-row-start: 1;
