@@ -76,7 +76,7 @@
 </div>
 <div class="h-entry">
   <p class="p-name">Untitled Poem</p>
-  <p class="p-summary">A collaborative poem written with Kevin Hogdson every day for 30 Days</p>
+  <p class="p-summary">A collaborative poem written <br/>with Kevin Hogdson <br />every day for 30 Days</p>
   <div class="e-content">
     <p class="Greg">
       Skin plastered against tattered holes<br>
