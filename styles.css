@@ -1660,6 +1660,12 @@ border: solid 5px;
 
 .poetry .backstage {
 grid-column: 5 / 7;
+display: block;
+  color: black;
+  font-size: .75em;
+  text-align: left;
+  line-height: 1.75;
+  
 
 
 }
