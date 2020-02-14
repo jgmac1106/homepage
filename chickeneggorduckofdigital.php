@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name">Chicked and Egg (Err Duck) of the Digital Dichotomy </h1>
+  <h1 class="p-name">Chicken and Egg (Err Duck) of the Digital Dichotomy </h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-02-14 12:24:20">13<sup>th</sup> February 2020</time></p>
