@@ -1635,7 +1635,7 @@ margin-bottome: 3em;
 }
 .poetry .grid-container {
   display: grid;
-  grid-template-columns: repeat(8, 1fr);
+  grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(auto-fill, max(200px, 1fr));
   grid-gap: 10px;
   padding: 10px;
