@@ -19,7 +19,7 @@
     <div class="copy">
 
   <div class="e-content">
-    <video class="u-video" controls src="https://jgregorymcverry.com/videos/ChickenEggDigitalDichotomy.mp4">
+    <video controls src="https://jgregorymcverry.com/videos/ChickenEggDigitalDichotomy.mp4">
 <p>Noone displaces<br/>
 humanity<br/>
 in online<br/>
