@@ -118,6 +118,30 @@ undefined<br>
 </p>
   </div>
   </div>
+  <div class="h-entry">
+  <p class="p-name">Selected Poems from Walkmyworld</p>
+  <time class="dt-updated" datetime="2020-02-14 18:14:20">9<sup>th</sup> February 2014</time>
+  <p class="p-summary">A collection of my poems from Walkmyworld 2014</p>
+  <div class="e-content">
+ <p>Spinner<br/>
+<br/>
+The final note glistened from the ceiling<br/>
+mocking me<br/>
+hanging in the air, perched in the rafters as<br/>
+light floods the room with the<br/>
+color of thunder. The<br/>
+masses rise in a cacophony<br/>
+of silence and he wonders,<br/>
+wonders as worker bees draped in black<br/>
+pour from the darkened and dusty curtain which is<br/>
+stained with past dreams and passions.<br/>
+Its ruffles witness to the rise and fall of many.<br/>
+They scamper and he wonders,<br/>
+wonders if they are more of a collective thought<br/>
+collapsing tresses, snaking<br/>
+wires to only hit the road one more time. To travel down<br/>
+north for that final curtain.<br/></p>
+<p><a href="https://archive.jgregorymcverry.com/poetry-from-walkmyworld/" class="u-url">Read More</a>
 </div>
 <div class="smallpoems">
  
@@ -132,8 +156,14 @@ undefined<br>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
 </div>
   <ul>
-    <li class="h-entry"><span class="p-name">Poem name</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A description</span> <a class="u-url" href="#">Poem</a></li>
-    <li class="h-entry"><span class="p-name">Poem name</span> <span class="dt-published"><time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time></span> <span class="p-summary">A description</span> <a class="u-url" href="#">Poem</a></li>
+    <li class="h-entry"><span class="p-name">Ten Technology and Poetry Ideas</span> <span class="dt-published"><time class="dt-updated" datetime="2009-12-19 01:33:20">19<sup>th</sup> December 2009</time></span> <span class="p-summary">Ten ideas to infuse tech into petry</span> <a class="u-url" href="https://archive.jgregorymcverry.com/ten-technology-and-poetry-ideas/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">Using Multimodal Poetry to Engage in Critical Literacy</span> <span class="dt-published"><time class="dt-updated" datetime="2019-12-11 01:54:20">11<sup>th</sup> December 2011</time></span> <span class="p-summary">Poetry provides a perfect avenue for multimodal explorations of truth and powe </span> <a class="u-url" href="https://archive.jgregorymcverry.com/using-multimodal-poetry-to-engage-in-critical-literacy/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">Finding Our Voices in Lost Voices</span> <span class="dt-published"><time class="dt-updated" datetime="2013-07-13 06:44:20">27<sup>th</sup>July </time></span> <span class="p-summary">Teaching Documentary Poetry </span> <a class="u-url" href="https://archive.jgregorymcverry.com/finding-our-voices-in-lost-voices/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">#MNLI13 Day 3 Reflection Coding Community</span> <span class="dt-published"><time class="dt-updated" datetime="2013-08-08 13:54:20">8<sup>th</sup>August </time></span> <span class="p-summary">Role of Community in Poetry and Code </span> <a class="u-url" href="https://archive.jgregorymcverry.com/mnli13-day-3-reflection-coding-community/">Read More</a></li>
+     <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry</span> <span class="dt-published"><time class="dt-updated" datetime="2015-02-13 13:54:20">13<sup>th</sup>February 2015 </time></span> <span class="p-summary">Remixing Tone, Imagery and Images</span> <a class="u-url" href="https://archive.jgregorymcverry.com/how-to-use-images-to-teach-poetry/">Read More</a></li>
+      <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry II</span> <span class="dt-published"><time class="dt-updated" datetime="2015-02-21 13:54:20">21<sup>st</sup>Feburary 2015 </time></span> <span class="p-summary">Making Metaphor Poems</span> <a class="u-url" href="https://archive.jgregorymcverry.com/how-to-teach-poetry-with-images-part-ii/">Read More</a></li>
+          <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry III</span> <span class="dt-published"><time class="dt-updated" datetime="2015-03-12 13:54:20">12<sup>st</sup>March 2015 </time></span> <span class="p-summary">Responding With Images</span> <a class="u-url" href="https://archive.jgregorymcverry.com/how-to-teach-poetry-with-images-part-iii/">Read More</a></li>
+     <li class="h-entry"><span class="p-name">#BackStage Blog: Making a Pixelated Gif Poem</span> <time class="dt-updated" datetime="2018-02-21 13:54:20">21<sup>st</sup>Feburary 2018 </time> </span> <span class="p-summary">A how to guide on making a pixel poem using gifs</span> <a class="u-url" href="https://archive.jgregorymcverry.com/backstage-blog-making-a-pixelated-gif-poem/">Read More</a></li>
   </ul>
   </div>
     <div class="h-feed poetcircle" id="poetcircle">
@@ -143,7 +173,7 @@ undefined<br>
   <a class="p-author" href="/"></a>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
 </div>
-<ul>
+<ul class="follow">
   <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://dogtrax.edublogs.org/">Kevin Hogdson</a><span clas="p-note">Poet, friend, mentor</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://soconsider.wordpress.com/" title="CLMOOC Friend">Sheri Edwards</a> <span class="p-note"> CLMOOC Friend</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://taniasheko.com/" title="Teacher Librarian in Melbourne, Australia">Tania Sheko</a> <span class="p-note"> Teacher Librarian in Melbourne, Australia</span></li>
