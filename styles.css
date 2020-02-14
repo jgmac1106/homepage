@@ -1643,25 +1643,25 @@ margin-bottome: 3em;
 
 .poetry .featured {
   margin-bottom:.3em;
-  grid-column: 2 / 6;
+  grid-column: 3 / 5;
   grid-row: 1;
 }
  .audiopoem {
   text-align:center;
   margin-bottom:.3em;
-  grid-column: 1 span 2;
+  grid-column: 1 / 2;
   grid-row-start: 1;
   grid-row-stop: 3;
 }
 
 .poetry .smallpoems {
-grid-column: 2 / 4;
+grid-column: 3 / 4;
 border: solid 5px;
 
 }
 
 .poetry .backstage {
-grid-column: 5 / 7;
+grid-column: 4 / 6;
 
 
 
@@ -1681,8 +1681,8 @@ display: block;
  
 }
  .poetry .poemreads {
-  grid-column: 1;
-  grid-row-start: 6;
+  grid-column: 6 / 8;
+  grid-row-start: 2 ;
 
  
 }
