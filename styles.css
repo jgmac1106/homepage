@@ -1971,6 +1971,40 @@ flex-wrap: wrap;
     -ms-animation-delay: 30s;
     animation-delay: 30s; 
 }
+#crossfade > img:nth-child(12) {
+    -webkit-animation-delay: 33s;
+    -moz-animation-delay: 33s;
+    -o-animation-delay: 33s;
+    -ms-animation-delay: 33s;
+    animation-delay: 33s; 
+}#crossfade > img:nth-child(13) {
+    -webkit-animation-delay: 36s;
+    -moz-animation-delay: 36s;
+    -o-animation-delay: 36s;
+    -ms-animation-delay: 36s;
+    animation-delay: 36s; 
+}
+#crossfade > img:nth-child(14) {
+    -webkit-animation-delay: 39s;
+    -moz-animation-delay: 39s;
+    -o-animation-delay: 39s;
+    -ms-animation-delay: 39s;
+    animation-delay: 39s; 
+}
+#crossfade > img:nth-child(15) {
+    -webkit-animation-delay: 42s;
+    -moz-animation-delay: 42s;
+    -o-animation-delay: 42s;
+    -ms-animation-delay: 42s;
+    animation-delay: 42s; 
+}
+#crossfade > img:nth-child(16) {
+    -webkit-animation-delay: 45s;
+    -moz-animation-delay: 45s;
+    -o-animation-delay: 45s;
+    -ms-animation-delay: 45s;
+    animation-delay: 45s; 
+}
 
 @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;
