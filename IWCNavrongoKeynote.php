@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name"></h1>
+  <h1 class="p-name">Art & Feminism and IndieWeb Navrongo Keynote</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-014-8 20:44:20">14<sup>th</sup> February 2020</time></p>
