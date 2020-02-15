@@ -31,7 +31,7 @@ on <time class="dt-published" datetime="2020-02-15 14:14:20">13<sup>th</sup> Feb
       <img src="/photos/stretchpoem/fromseasof" alt="from seas of">
       <img src="/photos/stretchpoem/starspushed" alt="stars pushed">
       <img src="/photos/stretchpoem/oninfinitewaves" alt="on infinite waves">
-      <img src="/photos/stretchpoem/receddingintostone" alt="recedding into stones">
+      <img src="/photos/stretchpoem/receedingintostone" alt="recedding into stones">
       <img src="/photos/stretchpoem/oftime" alt="of time">
       
     </div>
