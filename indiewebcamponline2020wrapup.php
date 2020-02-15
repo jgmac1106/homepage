@@ -14,7 +14,8 @@
     <span class="summary">
     <p class="p-summary">Reflection on a Great IndieWeb Camp Online</p>
     </span>
-<img class="featured u-featured" src="https://jgregorymcverry.com/photos/screenshofCreatePoem.jpg" alt="screenshot of my notes">
+  </div>
+<img class="featured u-featured" src="photos/assets/iwc2020header.jpg">
     <div class="copy">
 
   <div class="e-content">
