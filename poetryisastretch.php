@@ -8,13 +8,13 @@
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-02-15 14:14:20">13<sup>th</sup> February 2020</time></p>
-     <small>Featured Image: Remix of <a title="tasty world" href="https://flickr.com/photos/67194724@N03/13285083934">tasty world</a> flickr photo by <a href="https://flickr.com/people/67194724@N03">new 1lluminati</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
+    
 
     
     <span class="summary">
     <p class="p-summary">Poetry is a Strech: A #clmooc #poetryport poem</p>
     </span>
-<img class="featured u-featured" src="https://jgregorymcverry.com/photos/screenshofCreatePoem.jpg" alt="screenshot of my notes">
+
     <div class="copy">
 
   <div class="e-content">
