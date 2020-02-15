@@ -15,6 +15,7 @@ on <time class="dt-published" datetime="2020-02-15 14:14:20">13<sup>th</sup> Feb
 </span>
 <div class="copy">
   <div class="e-content">
+    <audio autoplay src="/poetry/poetryisatretch.m4a">
     <div id="crossfade">
       
       <img src="/photos/stretchpoem/PoetryisaStretch" alt="Poetry is a stretch">
