@@ -14,7 +14,7 @@
     <span class="summary">
     <p class="p-summary">Keynote for the @MozOpenLeaders #IndieWeb and #OER #Ghana program</p>
     </span>
-
+</div>
     <div class="copy">
 
   <div class="e-content">
