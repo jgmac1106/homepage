@@ -32,7 +32,7 @@ on <time class="dt-published" datetime="2020-02-15 14:14:20">13<sup>th</sup> Feb
       <img src="/photos/stretchpoem/starspushed" alt="stars pushed">
       <img src="/photos/stretchpoem/oninfinitewaves" alt="on infinite waves">
       <img src="/photos/stretchpoem/receddingintostone" alt="recedding into stones">
-      <img src="/photos/stretchpoem/receddingintostone" alt="of time">
+      <img src="/photos/stretchpoem/oftime" alt="of time">
       
     </div>
     <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small></p>
