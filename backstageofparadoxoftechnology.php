@@ -7,7 +7,7 @@
   <h1 class="p-name">How I wrote the Paradox of Technology: A #Clmooc #poetryport poem</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
-     on <time class="dt-published" datetime="2020-005-8 11:34:20">13<sup>th</sup> February 2020</time></p>
+     on <time class="dt-published" datetime="2020-02-13 11:34:20">13<sup>th</sup> February 2020</time></p>
     <small>Image: Screenshot by me shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
 
     
