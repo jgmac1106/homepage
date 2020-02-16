@@ -1,6 +1,6 @@
-<?php include('../head.php'); ?>
+<?php include('/home/jgregory/public_html/head.php'); ?>
 </head>
-<?php include('../header.php'); ?>
+<?php include('/home/jgregory/public_html/header.php'); ?>
 </header>
   <main class="h-feed">
   <h2 class="p-name">My Articles</h2>
