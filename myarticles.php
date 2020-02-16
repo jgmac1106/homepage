@@ -342,7 +342,7 @@
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
          </div>
         
-         <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> July 2019</time>
+         <time class="dt-published" datetime="2019-08-17 06:41:00">17<sup>th</sup> August 2019</time>
       </div>
         <figure class="card__thumbnail">
             <img class="u-featured" src="https://edcampct.files.wordpress.com/2019/01/edcampct_header_2019.jpg" alt="edcampct logo" >
