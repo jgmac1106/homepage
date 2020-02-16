@@ -9,7 +9,7 @@
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-07-28 06:41:00">28<sup>th</sup> July 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-07-28 06:41:00">28<sup>th</sup> July 2019</time></p>
+      Updated <time class="dt-updated" datetime="2020-02-15 21:54:20">15<sup>th</sup>February 2020</time></p>
    
   <span class="summary">
     <p class="p-summary">A collection of my current seeds</p>
