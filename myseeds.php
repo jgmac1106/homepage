@@ -31,6 +31,7 @@
     <a class="h-item" href="magnet:?xt=urn:btih:62CCAD482E851B34304A5799AE139054DA5A3995&dn=peachguitarpull2019-07-28.litz.neumannKM150.flac16&tr=http%3a%2f%2ftracker.etree.org%3a6969%2fannounce">Peach Guitar Pull 2019-07-28</a><br />
      <a class="h-item" href="mmagnet:?xt=urn:btih:B8E21E694E98C5EC0BD2B21B6F5514A0F4D9AC71&dn=ymsb2019-07-28.litz.neumannKM150.flac24&tr=http%3a%2f%2ftracker.etree.org%3a6969%2fannounce">Yonder Mountain String Band 2019-07-28</a><br />
      <a class="h-item" href="magnet:?xt=urn:btih:5AAC1F847F59BE2F8416718A62E3488847CB714C&dn=gd1977-09-03.aud.102409.flemming.berger.flac24&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&ws=http%3a%2f%2farchive.org%2fdownload%2f&ws=http%3a%2f%2fia600402.us.archive.org%2f26%2fitems&ws=http%3a%2f%2fia700402.us.archive.org%2f26%2fitems">Grateful Dead 1977-09-03</a><br />
+     <a class="h-item" href="http://bt.etree.org/download.php/608609/oysterhead2020-02-14_flac16.torrent">Oysterhead 2020-02-14</a>
   </div>
       </div>
 </article>
