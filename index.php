@@ -67,74 +67,75 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
-      <article class="h-entry card">
+  <article class="h-entry card">
         <header class="card__title">
-            <h3 class="p-name">Announcing IndieWebCamp Online 2020</h3>
+            <h3 class="p-name">Poetry Is A Stretch</h3>
         </header>
       <div class="authorInfo">
          <div class="h-card"> 
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
          </div>
         
-         <time class="dt-published" datetime="2020-005-8 09:44:20">5<sup>th</sup> January 2020</time></p>
+       <time class="dt-published" datetime="2020-02-14 12:24:20">13<sup>th</sup> February 2020</time>
       </div>
         <figure class="card__thumbnail">
-                <img class="featured u-featured" src="photos/assets/iwc2020header.jpg">
+                <img class="featured u-featured" src="/photos/stretchpoem/PoetryisaStretch" alt="Poetry is a Stretch">
          
         </figure>
         <div class="p-summary card__description">
           <p>
-            On Feb 8-9th bloggers, hackers, developers, educators, and others will gather for a two day online IndieWebCamp.
+            A #Clmooc #poetryport poem made of pixelated gifs
           </p>
         </div>
-        <a  href="/indiewebcamponline2020" class="u-url button">Read More</a>
+        <a  href="/poetryisastretch" class="u-url button">Read More</a>
 
     </article> 
-    <article class="h-entry card">
+  <article class="h-entry card">
         <header class="card__title">
-            <h3 class="p-name">Reducing the Carbon Crater Left By Academic Conferences</h3>
+            <h3 class="p-name">Chicken and Egg (Err Duck) of the Digital Dichotomy</h3>
         </header>
       <div class="authorInfo">
          <div class="h-card"> 
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
          </div>
         
-         <time class="dt-published" datetime="2019-11-30 06:54:20">30<sup>th</sup>November 2019</time>
+       <time class="dt-published" datetime="2020-02-14 12:24:20">13<sup>th</sup> February 2020</time>
       </div>
         <figure class="card__thumbnail">
-             <img class="u-featured" src="/photos/conferenceclimate.png" alt="7% of annual average carbon output">
+                <img class="featured u-featured" src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="screenshot of my notes">
          
         </figure>
         <div class="p-summary card__description">
           <p>
-            Proposal for the Festvale of Learning BC Conference
+            A #Clmooc #poetryport gift for @miazamoraPhD @cogdog and the #netnarr crew 
           </p>
         </div>
-        <a  href="/festivaloflearningproposal" class="u-url button">Read More</a>
+        <a  href="/chickeneggorduckofdigital" class="u-url button">Read More</a>
 
-    </article>
+    </article> 
   <article class="h-entry card">
-    <header class="card__title">
-      <h3 class="p-name">Building a Video Page</h3>
-    </header>
-    <div class="authorInfo">
-      <div class="h-card">
-        <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p>
+        <header class="card__title">
+            <h3 class="p-name">Art & Feminism and IndieWeb Navrongo Keynote</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+        <time class="dt-published" datetime="2020-02-14 20:44:20">14<sup>th</sup> February 2020</time>
       </div>
-      
-      <p><time class="dt-published" datetime="2019-11-23 10:14:20">23<sup>rd</sup> Novemeber 2019</time></p>
-    </div>
-    <figure class="card__thumbnail">
-      <img class="u-featured" src="https://jgregorymcverry.com/photos/assets/buildingvideofeed.jpg" alt="" >
-      
-    </figure>
-    <div class="p-summary card__description">
-      <p>
-        How I built a page for my videos
-      </p>
-    </div>
-    <a  href="/buildingvideopage" class="u-url button">Read More</a>
-  </article>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured small"  src="https://goifnetwork.org/images/OPENNESSS66.png" alt="OER Ghana">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Keynote for the @MozOpenLeaders #IndieWeb and #OER #Ghana program
+          </p>
+        </div>
+        <a  href="/IWCNavrongoKeynote" class="u-url button">Read More</a>
+
+    </article> 
 
 </section>
 <article class="h-entry">
