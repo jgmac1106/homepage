@@ -15,7 +15,7 @@
           <a href="/aboutme" >About</a>
         </div>
         <div class="Navbar__Link" >
-          <a href="/articles" >Articles</a>
+          <a href="/2020/02" >Articles</a>
         </div>
         <div class="Navbar__Link" >
           <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>

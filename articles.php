@@ -156,7 +156,7 @@
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
          </div>
         
-         <time class="dt-published" datetime="2020-005-8 09:44:20">5<sup>th</sup> January 2020</time>
+         <time class="dt-published" datetime="2020-01-5 09:44:20">5<sup>th</sup> January 2020</time>
       </div>
         <figure class="card__thumbnail">
                 <img class="featured u-featured" src="photos/assets/iwc2020header.jpg">
