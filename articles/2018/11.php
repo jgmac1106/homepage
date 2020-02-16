@@ -63,7 +63,7 @@
      <a href="/articles/2018/12" rel="next">Next page</a>
    </main>
     <footer>
-<?php include 'footer.php'; ?>
+<?php include('/home/jgregory/public_html/footer.php'); ?>
   </body>
   
 </html>

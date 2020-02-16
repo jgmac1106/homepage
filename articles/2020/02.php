@@ -150,7 +150,7 @@
     <a href="/articles/2020/01" rel="prev">Previous page</a>
     </main>
     <footer>
-<?php include 'footer.php'; ?>
+<?php include('/home/jgregory/public_html/footer.php'); ?>
   </body>
   
 </html>

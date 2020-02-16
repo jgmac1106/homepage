@@ -54,7 +54,7 @@
      <a href="/articles/2019/01" rel="prev">Previous page</a> <a href="/articles/2019/04" rel="next">Next page</a>
    </main>
     <footer>
-<?php include 'footer.php'; ?>
+<?php include('/home/jgregory/public_html/footer.php'); ?>
   </body>
   
 </html>

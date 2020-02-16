@@ -35,7 +35,7 @@
     <a href="/articles/2019/12" rel="prev">Previous page</a> <a href="/articles/2020/02" rel="next">Next page</a>
     </main>
     <footer>
-<?php include 'footer.php'; ?>
+<?php include('/home/jgregory/public_html/footer.php'); ?>
   </body>
   
 </html>
