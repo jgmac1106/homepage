@@ -2073,6 +2073,16 @@ flex-wrap: wrap;
    font-size: 4vmin;
 }
 
+.week-day, .day-label, .event {
+  padding: 5%
+   font-size: 4vmin;
+}
+@media only screen and (max-width: 700px) {
+.week-day, .day-label, .event {
+  padding: 5%
+   font-size: 2vmin;
+ }
+
 .event {
   background-color: #CCC;
 }
