@@ -6,9 +6,9 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="2020-02-16T11:04:20+0000">February 16, 2020</time>
+<time class="dt-published" datetime="2020-02-17T08:44:20+0000">February 17, 2020</time>
      <img class="u-photo" src="/photos/art/poetrykindness.jpg" alt="poem on laptop with a profile">
-     <a class="u-in-reply-to" href="https://twitter.com/dogtrax/status/1229380899546058753">Tweet</a> 
+     <a class="u-in-reply-to" href="https://twitter.com/dogtrax/status/1229380899546058753">In Reply to Tweet</a> 
 
           
       
