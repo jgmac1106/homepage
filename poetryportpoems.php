@@ -136,23 +136,23 @@
       <a class="h-item" href="https://jgregorymcverry.com/expresssionsofreflections">Expressions of Reflections</a><br />
     </p></div>
   </div>
-  <div class="day h-entry">
+  <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-17 12:00:00">17</time>
     <div><span class="event event-end p-name">Kindness</span></p></div>
   </div>
-  <div class="day h-entry">
+  <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-18 12:00:00">18</time>
     <div><span class="event event-end p-name">Negotiate</span></p></div>
   </div>
-  <div class="day h-entry">
+  <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-19 12:00:00">19</time>
     <div><span class="event event-end p-name">Simplicity</span></p></div>
   </div>
-  <div class="day h-entry">
+  <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-20 12:00:00">20</time>
     <div><span class="event event-end p-name">Risk</span></p></div>
   </div>
-  <div class="day h-entry">
+  <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-21 12:00:00">21</time>
     <div><span class="event event-end p-name">Memories</span></p></div>
   </div>
