@@ -2099,6 +2099,4 @@ flex-wrap: wrap;
 [data-span="6"] { grid-column-end: span 6; }
 [data-span="7"] { grid-column-end: span 7; }
 
-.week a {
-    margin-bottom: 5px;
-  }
+
