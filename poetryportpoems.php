@@ -137,13 +137,17 @@
       <a class="h-item" href="https://jgregorymcverry.com/expresssionsofreflections">Expressions of Reflections</a><br />
     </p></div>
   </div>
-  <div class="day ">
+  <div class="day h-event ">
     <time class="dt-published day-label" datetime="2020-02-17 12:00:00">17</time>
-    <div><span class="event event-end p-name">Kindness</span></div>
+    <div><span class="event event-end p-name">Kindness</span>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/17/poetry-is-kindness-clmooc-poetryport">Poetry is Kindness</a><br />
+      <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-17-1">Kindness of Connections</a>
+    </div>
   </div>
   <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-18 12:00:00">18</time>
-    <div><span class="event event-end p-name">Negotiate</span></div>
+    <div><span class="event event-end p-name">Negotiate</span>
+    </div>
   </div>
   <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-19 12:00:00">19</time>
