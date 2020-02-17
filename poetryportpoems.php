@@ -1,4 +1,5 @@
 <?php include 'head.php'; ?>
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fpoetryportpoems" title="Poetry Port Poems">
 </head>
 <?php include 'header.php'; ?>
 </header>
