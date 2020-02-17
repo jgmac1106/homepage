@@ -26,8 +26,8 @@
     <time class="dt-published day-label" datetime="2020-02-01 12:00:00">1</time>
     
     <div><span class="event event-end p-name">Celebration</span><br /><p class="e-content">
-    <a class="h-item" href="https://jgregorymcverry.com/poetry/(un)Celebration.m4a">Uncelebration</a><br />
-    <a class="h-item" href="https://jgregorymcverry.com/poetry/(re)Celebration.m4a">Recelebration</a><br />
+    <a class="h-item" href="https://jgregorymcverry.com/poetry/(un)Celebration.m4a">(un)Celebration</a><br />
+    <a class="h-item" href="https://jgregorymcverry.com/poetry/(re)Celebration.m4a">(re)Celebration</a><br /></p>
     </div>
     
   </div>

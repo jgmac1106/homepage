@@ -2069,7 +2069,8 @@ flex-wrap: wrap;
 }
 
 .week-day, .day-label, .event {
-  padding: 4px 10px;
+  padding: 5%
+   font-size: 4vmin;
 }
 
 .event {
@@ -2099,4 +2100,9 @@ flex-wrap: wrap;
 [data-span="6"] { grid-column-end: span 6; }
 [data-span="7"] { grid-column-end: span 7; }
 
-
+.event p {
+  font-size: 2vmin;
+}
+.event a {
+  font-size: 2vmin;
+}
