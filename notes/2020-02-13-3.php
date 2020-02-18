@@ -16,7 +16,7 @@
         <p class="e-content"><p> Hey #edu506 I share some recent #2toPonder episodes where I dicuss the differences between skills, strategies, and content. <a href="https://jgregorymcverry.com/notes/2020-02-13-1">https://jgregorymcverry.com/notes/2020-02-13-1</a></p>
       
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-3" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-13-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-3" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-13-2" rel="prev"> Previous Note</a> </a> <a href="https://jgregorymcverry.com/notes/2020-02-16-1" rel=next>Next Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 </div>
 </div>
