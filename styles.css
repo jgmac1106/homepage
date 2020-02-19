@@ -1630,8 +1630,9 @@ margin-bottome: 3em;
   width:85%;
 
 }
-.longreads .avatar {
+.avatar {
   max-width: 250px;
+  border-radius: 50%;
 }
 .poetry .grid-container {
   display: grid;
