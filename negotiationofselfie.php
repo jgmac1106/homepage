@@ -19,7 +19,7 @@
     <div class="copy">
 
   <div class="e-content">
-    <video controls src="https://jgregorymcverry.com/videos/NegotiationOfTheSelfie.mp44"></video><br/>
+    <video controls src="https://jgregorymcverry.com/videos/NegotiationOfTheSelfie.mp4"></video><br/>
 <p>Two giants<br/>
 bending realities in<br/>
 Unified dimensions<br/>
