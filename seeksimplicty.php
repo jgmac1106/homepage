@@ -19,7 +19,7 @@
     <div class="copy">
 
   <div class="e-content">
-    <audio controls src="https://jgregorymcverry.com/poetry/SeekSimplicity.mp4"></audio><br/>
+    <audio controls src="https://jgregorymcverry.com/poetry/SeekSimplicity.m4a"></audio><br/>
 <p>Seek simplicity<br />
 of seasons in all you do.<br />
 A child's smile in<br />
