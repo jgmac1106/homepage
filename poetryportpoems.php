@@ -137,21 +137,29 @@
       <a class="h-item" href="https://jgregorymcverry.com/expresssionsofreflections">Expressions of Reflections</a><br />
     </p></div>
   </div>
-  <div class="day h-event ">
+  <div class="day h-entry ">
     <time class="dt-published day-label" datetime="2020-02-17 12:00:00">17</time>
     <div><span class="event event-end p-name">Kindness</span>
       <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/17/poetry-is-kindness-clmooc-poetryport">Poetry is Kindness</a><br />
+
       <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-17-1">Kindness of Connections</a>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/18/truth-wrapped-in-blankets-of-kindness-a-poetryport-gift-for">Kindness Blanket</a>
     </div>
   </div>
-  <div class="day ">
+  <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-18 12:00:00">18</time>
     <div><span class="event event-end p-name">Negotiate</span>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/19/poetry-is-negotiationsymbols-and-soundsin-a-semioticdance">Poetry is Negotiation</a>.
+      <a class="h-item" href="https://jgregorymcverry.com/negotiationofselfie">Negotiation of Selfie</a>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/19/a-lost-negotiation-of-selfis-like-coming">Lost Negotiation</a>
     </div>
   </div>
-  <div class="day ">
+  <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-19 12:00:00">19</time>
-    <div><span class="event event-end p-name">Simplicity</span></div>
+    <div><span class="event event-end p-name">Simplicity</span>
+<a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/19/poetry-is-simplicitya-cadence-of-our%CB%88k%C3%A4ntsh%C9%99sn%C9%99sbeating-to--1">Poetry is Simplicity</a>
+<a class="h-item" href="https://jgregorymcverry.com/seeksimplicity">Seek Simplicity</a>
+    </div>
   </div>
   <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-20 12:00:00">20</time>
