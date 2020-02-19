@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name">Negotiation of teh Selfie </h1>
+  <h1 class="p-name">Negotiation of the Selfie </h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-02-19 06:14:20">19<sup>th</sup> February 2020</time></p>
