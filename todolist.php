@@ -9,7 +9,7 @@
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2019-11-21 07:34:20">21<sup>st</sup> November 2019</time></p>
     <p>
-      Updated <time class="dt-updated" datetime="2019-12-17 13:04:20">17<sup>th</sup> December 2019</time></p>
+      Updated <time class="dt-updated" datetime="2020-02-18 10:34:20">18<sup>th</sup>Februaury 2020</time></p>
    
   <span class="summary">
     <p class="p-summary">My To-Do List for Non-Teaching Days</p>
@@ -381,7 +381,7 @@
     <details>
       <summary>
     <a class="h-card p-author" href="/"></a>
-    <p class="p-name">2020-02-06: Workign from Home</p>
+    <p class="p-name">2020-02-06: Working from Home</p>
   </summary>
     <ul>
       <li class="h-item" id="20200206-1"> EDU 506 Writing Reflection Guide 🍅🍅🍅</li>
@@ -389,6 +389,22 @@
         <li class="h-item" id="20200206-3"> EDU 506 Respond to posts and Learning Logs 🍅🍅</li>
         <li class="h-item" id="20200206-4"> EDU 506 Respond to posts and Learning Logs 🍅🍅</li>
         <li class="h-item" id="20200206-5"> IWC Accra Planning 🍅🍅🍅</li>
+
+    </ul>
+    </details>
+  </div>
+  <div class="h-entry" id="2020018">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-02-18: Working from Campus</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="20200206-1"> EDU 506/307 Monday announcements 🍅🍅</li>
+       <li class="h-item" id="20200206-2"> EDU 506 Annotating for Text Structure 🍅🍅🍅</li>
+        <li class="h-item" id="20200206-3"> EDU 106 Selfie Tutorials 🍅🍅</li>
+        <li class="h-item" id="20200206-4">EDU 106  Glitch Tutorials 🍅🍅</li>
+        <li class="h-item" id="20200206-5">EDU 307 Annotation of CCSS Thread 🍅🍅🍅</li>
 
     </ul>
     </details>
