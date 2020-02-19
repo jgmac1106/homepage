@@ -7,7 +7,7 @@
    <h1 class="p-name">Poetry Port Poems</h1>
 <p class="p-summary">A collection of the poems I have published as part of the #clmooc poetry project</p>
     <a href="/" class="u-author h-card">
-    <img src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" class="u-photo"> 
+    <img class="u-photo avatar" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" class="u-photo"> 
     <span class="p-name">jgmac1106</span>
   </a>
 
