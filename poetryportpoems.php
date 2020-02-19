@@ -163,11 +163,11 @@
   </div>
   <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-20 12:00:00">20</time>
-    <div><span class="event event-end p-name">Risk</span></div>
+    <div><span class="event event-end">Risk</span></div>
   </div>
   <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-21 12:00:00">21</time>
-    <div><span class="event event-end p-name">Memories</span></div>
+    <div><span class="event event-end">Memories</span></div>
   </div>
 </div>
     </article>
