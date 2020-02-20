@@ -8,7 +8,7 @@
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-02-29T13:44:20+0000">February 20, 2020</time>
     <video id="video" controls preload="metadata">
-   <source class="u-video" src="videos/EDU506CaseStudies.mp4">
+   <source class="u-video" src="https://jgregorymcverry.com/videos/EDU506CaseStudies.mp4">
    <track label="English" kind="subtitles" srclang="en" src="videos/casestudies.sbv" default>
 </video>
 
