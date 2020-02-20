@@ -8,7 +8,7 @@
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-02-17T08:44:20+0000">February 17, 2020</time>
      <img class="u-photo" src="/photos/art/poetrykindness.jpg" alt="A solstice of small moments, stolen">
-     <a class="u-in-reply-to" href="poemfromkevin.jpg">In Reply toTweet</a> 
+     <a class="u-in-reply-to" href="https://twitter.com/dogtrax/status/1230255342308790275">In Reply toTweet</a> 
 
           
       
