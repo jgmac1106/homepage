@@ -27,7 +27,7 @@
         <small><a title="IndieWeb Summit 2017" href="https://flickr.com/photos/aaronpk/35633759475">IndieWeb Summit 2017</a> flickr photo by <a href="https://flickr.com/people/aaronpk">aaronparecki</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small><p>
       
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-17-1" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-16-1" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-17-1" rel="canonical"><strong>My Notes</strong></a> <br/><a href="https://jgregorymcverry.com/notes/2020-02-19-1" rel=next>Next Note</a>  ><a href="https://jgregorymcverry.com/notes/2020-02-16-1" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 </div>
 </div>

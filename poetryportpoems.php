@@ -162,9 +162,9 @@
 <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/20/poetryportseek-simplicityin-consumptionthat-which-enters-a">Seek Simplicity: How?</a>
     </div>
   </div>
-  <div class="day ">
+  <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-20 12:00:00">20</time>
-    <div><span class="event event-end">Risk</span></div>
+    <div><span class="event event-end p-name">Risk</span></div>
   </div>
   <div class="day ">
     <time class="dt-published day-label" datetime="2020-02-21 12:00:00">21</time>
