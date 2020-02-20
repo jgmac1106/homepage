@@ -159,6 +159,7 @@
     <div><span class="event event-end p-name">Simplicity</span><br />
 <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/19/poetry-is-simplicitya-cadence-of-our%CB%88k%C3%A4ntsh%C9%99sn%C9%99sbeating-to--1">Poetry is Simplicity</a>
 <a class="h-item" href="https://jgregorymcverry.com/seeksimplicity">Seek Simplicity</a>
+<a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/20/poetryportseek-simplicityin-consumptionthat-which-enters-a">Seek Simplicity: How?</a>
     </div>
   </div>
   <div class="day ">
