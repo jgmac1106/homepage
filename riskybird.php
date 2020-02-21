@@ -17,7 +17,7 @@
 
 <div class="copy">
   <div class="e-content">
-   <iframe style="width: 100%; height: 90%" src="https://jgregorymcverry.com/riskybirdpoem"></iframe>
+   <iframe style="width: 100%; height: 90vh" src="https://jgregorymcverry.com/riskybirdpoem"></iframe>
       
     </div>
     <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small></p>
