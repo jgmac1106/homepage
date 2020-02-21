@@ -5,6 +5,7 @@
 </header>
    <article class="h-feed">
    <h1 class="p-name">Poetry Port Poems</h1>
+   <time class="dt-updated" datetime="2020-02-21 10:44:20"></time>
 <p class="p-summary">A collection of the poems I have published as part of the #clmooc poetry project</p>
     <a href="/" class="u-author h-card">
     <img class="u-photo avatar" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" class="u-photo"> 
@@ -164,11 +165,18 @@
   </div>
   <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-20 12:00:00">20</time>
-    <div><span class="event event-end p-name">Risk</span></div>
+    <div><span class="event event-end p-name">Risk</span>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/20/poetry-is-the-risk-of-freedom-a-poetryport-poem-writingcommunity">Poetry is Risk</a>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/20/risky-beds-a-clmooc-poetryport-poem">Risky Beds</a>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/risk-isrooted-in-privilege-speaking-out-easywhen">Priviledge</a>
+      <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/20/risk-adverse-a-poetryport-poem">Risk Adverse</a>
+      <a class="h-item" href="https://jgregorymcverry.com/riskybird">Risky Bird</a>
+      </div>
   </div>
   <div class="day ">
-    <time class="dt-published day-label" datetime="2020-02-21 12:00:00">21</time>
-    <div><span class="event event-end">Memories</span></div>
+    <time class="dt-published day-label h-entry" datetime="2020-02-21 12:00:00">21</time>
+    <div><span class="event event-end">Memories</span>
+    <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/three-body-problem-a-poetryport-poem-for-the-theme-memory">Three Body Problem</a></div>
   </div>
 </div>
     </article>
