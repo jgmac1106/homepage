@@ -67,8 +67,9 @@ body {
 
 .riskybird p {
 color:black;
-font-size:6em;
+font-size:5em;
   margin-left: 60%;
+  margin-top:-10%;
 }
   @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;
