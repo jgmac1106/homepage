@@ -6,6 +6,7 @@
   <main class="longreads notewrapper"> 
    <link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
   	<div class="note h-entry">
+         <link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
     <div class="grid-container">
           <figure id="1" class= "gallery">
             <div class="galleryPhoto">
