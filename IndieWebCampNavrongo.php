@@ -35,11 +35,11 @@
 		
 			<div class="child-page-listing">
 				<h2 class="h-entry">IndieWebCamp Navrongo : OLX Ghana</h2>
-				<h3>
+				<h3 class="e-summary">
 				Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published </span><time class="dt-published" datetime="2020-02-21 12:54:20">2020-02-21 </time>
 				</h3>
 				<img class="featured u-featured" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right">  
-				<div class="grid-container">
+				<div class="grid-container e-content">
 					<figure id="1" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<div class="galleryPhoto">
 							<a href="#">
