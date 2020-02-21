@@ -1,5 +1,5 @@
-<?php include '../head.php'; ?>
-<link rel="stylesheet" href="css/gallery2.css">
+<?php include 'galleryhead.php'; ?>
+
 </head>
  <?php include '../header.php'; ?>
 </header>  
