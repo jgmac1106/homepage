@@ -4,41 +4,20 @@
 </header>
 <main class="longreads">
 <article class="h-entry">
-<h1 class="p-name">Poetry is a Stretch</h1>
-<div class="pubinfo">
-  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a>
-on <time class="dt-published" datetime="2020-02-20 16:24:20">20<sup>th</sup> February 2020</time></p>
+  <div class="pubinfo">
+ <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
+     on <time class="dt-published" datetime="2020-02-21 09:24:20">13<sup>th</sup> February 2020</time></p>
+    <small>Image: shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
 
+    
+    <p class="p-summary summary">A #poetryport gift for @nomadwarmachine </p>
+  
+</div>
+<img class="featured u-featured" src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="screenshot of my notes">
 
-<span class="summary">
-  <p class="p-summary">Poetry is a Stretch: A #clmooc #poetryport poem</p>
-</span>
 <div class="copy">
   <div class="e-content">
-   <div id="doodlebird">
-      <!-- Goal is to have each div fade in and out on the 3 second counter-->
-      
-     <div  class="riskybird">
-       <p>Take the risk</p>
-     </div>
-       <div class="riskybird">
-       <p>of first</p>
-     </div>
-     <div class="riskybird">
-       <p>flight</p>
-     </div>
-     <div class="riskybird">
-       <p>But choose</p>
-     </div>
-      <div class="riskybird">
-       <p>a branch</p>
-     </div>
-      <div class="riskybird">
-       <p>close to </p>
-     </div>
-      <div class="riskybird">
-       <p>the ground</p>
-     </div>
+   <iframe style="width: 100%; height: 90%" src="https://jgregorymcverry.com/riskybirdpoem"></iframe>
       
     </div>
     <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small></p>
