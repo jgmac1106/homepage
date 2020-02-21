@@ -8,7 +8,7 @@
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-014-8 20:44:20">14<sup>th</sup> February 2020</time></p>
-    
+    <a class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></a>
 
     
     <span class="summary">
