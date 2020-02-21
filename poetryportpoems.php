@@ -5,7 +5,7 @@
 </header>
    <article class="h-feed">
    <h1 class="p-name">Poetry Port Poems</h1>
-   <time class="dt-updated" datetime="2020-02-21 10:44:20"></time>
+   <time class="dt-updated" datetime="2020-02-21 11:04:20"></time>
 <p class="p-summary">A collection of the poems I have published as part of the #clmooc poetry project</p>
     <a href="/" class="u-author h-card">
     <img class="u-photo avatar" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" class="u-photo"> 
