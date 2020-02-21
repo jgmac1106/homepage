@@ -74,11 +74,11 @@
 					</figure>
 					<figure id="4" class="h-entry gallery">
 						<figcaption class="galleryCaption" ><span class="p-name">
-						Setting Our Golas </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/ghanagoalsetting2.png" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 						<figure id="5" class="h-entry gallery">
@@ -87,7 +87,7 @@
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting3.png">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/ghanagoalsetting3.png" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting3.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 					<figure id="6" class="h-entry gallery">
@@ -95,8 +95,8 @@
 						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
-							<a href="https://jgregorymcverry.com/goifphotos/ghanagoalsetting2.png">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/ghanagoalsetting4.png" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png">
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting4.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 					<figure id="7" class="h-entry gallery">
