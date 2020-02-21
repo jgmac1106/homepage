@@ -1,4 +1,5 @@
 <?php include '../head.php'; ?>
+<link rel="stylesheet" href="css/gallery2.css">
 </head>
  <?php include '../header.php'; ?>
 </header>  
