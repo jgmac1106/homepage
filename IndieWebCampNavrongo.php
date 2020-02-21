@@ -113,8 +113,25 @@
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png">
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png" alt="Partiicpant in front of camera sharing goals">  </a>
 						</div>
-					</figure>
+						<figure id="8" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+						<figcaption class="galleryCaption" ><span class="p-name">Arriving in 
+						Navrongo </span><time datetime="2020-02-14 10:41:00">2020-02-14</time>
+						</figcaption>
+						<div class="galleryPhoto">
+							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png">
+							<img class="u-photo" src="	https://quickthoughts.jgregorymcverry.com/file/a5e8fbebc0e6c76607e33a2ac8f81c67/EQwhhngXsAAjrVp.jpg" alt="Sadik pulling in">  </a>
+						</div>
 					
+					</figure>
+					<figure id="9" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+						<figcaption class="galleryCaption" ><span class="p-name">Setting up the camp </span><time datetime="2020-02-14 10:41:00">2020-02-14</time>
+						</figcaption>
+						<div class="galleryPhoto">
+							<a href="https://quickthoughts.jgregorymcverry.com/2020/02/14/sadike25-and-the-goifoundation-getting-ready-for-mozopenleaders-indieweb-and">
+							<img class="u-photo" src="https://quickthoughts.jgregorymcverry.com/2020/02/14/sadike25-and-the-goifoundation-getting-ready-for-mozopenleaders-indieweb-and" alt="Sadik pulling in">  </a>
+						</div>
+					
+					</figure>
 					
 					
 				</div>
