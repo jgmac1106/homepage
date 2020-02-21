@@ -97,8 +97,8 @@
 						</div>
 					</figure>
 					<figure id="6" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
-						<figcaption class="galleryCaption" ><span class="p-name">
-						Dr. James Abugri Setting Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						<figcaption class="galleryCaption" ><span class="p-name">Sadik Setting Goals
+						 </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png">
@@ -107,7 +107,7 @@
 					</figure>
 					<figure id="7" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">
-						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						Dr. James Abugri Setting Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png">
