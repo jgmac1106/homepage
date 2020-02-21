@@ -6,11 +6,11 @@
   <main class="longreads notewrapper"> 
    <link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
   	<div class="note h-entry">
-         <link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+         <a class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></a>
     <div class="grid-container">
           <figure id="1" class= "gallery">
             <div class="galleryPhoto">
-              <a href="#">
+              <a href="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png">
               <img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right"> </a>    
             </div>
             <figcaption class="galleryCaption" ><span class="p-name">
