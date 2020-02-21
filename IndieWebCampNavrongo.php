@@ -104,7 +104,7 @@
 						Setting Our Golas <time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
-							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.jpg">
+							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png">
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png" alt="Partiicpant in front of camera sharing goals">  </a>
 						</div>
 					</figure>
