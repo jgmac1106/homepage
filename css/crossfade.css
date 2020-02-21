@@ -69,7 +69,6 @@ body {
 color:black;
 font-size:5em;
   margin-left: 60%;
-  margin-top:-2%;
 }
   @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;
