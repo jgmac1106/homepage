@@ -98,7 +98,7 @@
 					</figure>
 					<figure id="6" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">
-						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						Dr. James Abugri Setting Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png">
@@ -128,8 +128,8 @@
 						<figcaption class="galleryCaption" ><span class="p-name">Setting up the camp </span><time datetime="2020-02-14 10:41:00">2020-02-14</time>
 						</figcaption>
 						<div class="galleryPhoto">
-							<a href="https://quickthoughts.jgregorymcverry.com/2020/02/14/sadike25-and-the-goifoundation-getting-ready-for-mozopenleaders-indieweb-and">
-							<img class="u-photo" src="https://quickthoughts.jgregorymcverry.com/2020/02/14/sadike25-and-the-goifoundation-getting-ready-for-mozopenleaders-indieweb-and" alt="Sadik pulling in">  </a>
+							<a href="https://quickthoughts.jgregorymcverry.com/file/4c8fbc2307d685b15307c511be01d388/setup.jpg">
+							<img class="u-photo" src="https://quickthoughts.jgregorymcverry.com/file/4c8fbc2307d685b15307c511be01d388/setup.jpg" alt="Sadik pulling in">  </a>
 						</div>
 					</figure>
 						<figure id="10" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
@@ -173,7 +173,7 @@
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/AMobileFirstWorld.jpg">
-							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/iwcphotos.jpg" alt="the four organizers">  </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/iwcphoto.jpg" alt="the four organizers">  </a>
 						</div>
 					
 					</figure>
