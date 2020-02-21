@@ -32,13 +32,19 @@
 			</a>
 			
 		</header>
-		
-			<div class="child-page-listing">
-				<h2 class="h-entry">IndieWebCamp Navrongo : OLX Ghana</h2>
-				<h3 class="e-summary">
-				Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published </span><time class="dt-published" datetime="2020-02-21 12:54:20">2020-02-21 </time>
-				</h3>
-				<img class="featured u-featured" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right">  
+		<main class="longreads">   
+  <article class="h-entry">
+  <h1 class="p-name">IndieWebCamp Navrongo : OLX Ghana</h1>
+  <div class="pubinfo">
+ <p>Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published </span><time class="dt-published" datetime="2020-02-21 12:54:20">2020-02-21 </time></p>
+    <small>Featured Image screen shot by me shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
+
+    
+    <span class="summary">
+    <p class="p-summary">On Feb 15th IndieWebCamp Navrongo : OLX Ghana kicked off a ten week program to train facilitators whol will help create #OER Network Ghana using #IndieWeb building blocks </p>
+    </span>
+ </div>
+   <img class="featured u-featured" src="photos/assets/iwc2020header.jpg">
 				<div class="grid-container e-content">
 					<figure id="1" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<div class="galleryPhoto">
