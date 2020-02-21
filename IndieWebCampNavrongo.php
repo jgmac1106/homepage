@@ -42,7 +42,7 @@
 					<figure id="3685" class="h-entry gallery">
 						<div class="galleryPhoto">
 							<a href="#">
-							<img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.jpg" alt="screenshot of video chat GOIF group on left jgmac1106 on right">      </a>
+							<img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right">      </a>
 						</div>
 						<figcaption class="galleryCaption" >
 						Launching the Camp
@@ -53,7 +53,7 @@
 						
 						<div class="galleryPhoto">
 							<a href="#">
-							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/sadikgoalsetting" alt="Sadike reviewing Code of Conduct">    </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/sadikgoalsetting.png" alt="Sadike reviewing Code of Conduct">    </a>
 						</div>
 						<figcaption class="galleryCaption" >
 						Sadik Reviewing IWC CoC
@@ -63,8 +63,8 @@
 					<figure id="3" class="h-entry gallery">
 						
 						<div class="galleryPhoto">
-							<a href="#">
-							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/uruslasage.jpg" alt="Ursula as remote">    </a>
+							<a href="https://jgregorymcverry.com/photos/goifphotos/uruslasage.jpg.png">
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/uruslasage.jpg.png" alt="Ursula as remote">    </a>
 							
 						</div>
 						<figcaption class="galleryCaption">
@@ -77,8 +77,8 @@
 						Setting Our Golas <time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
-							<a href="https://jgregorymcverry.com/goifphotos/goalsetting2.jpg">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting2.jpg" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<a href="https://jgregorymcverry.com/goifphotos/goalsetting2.png">
+							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting2.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 						<figure id="4" class="h-entry gallery">
@@ -87,7 +87,7 @@
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/goifphotos/goalsetting3.jpg">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting3.jpg" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting3.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 					<figure id="4" class="h-entry gallery">
@@ -96,7 +96,7 @@
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/goifphotos/goalsetting4.jpg">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting4.jpg" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting4.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 					<figure id="4" class="h-entry gallery">
@@ -105,7 +105,7 @@
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/goifphotos/goalsetting5.jpg">
-							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting5.jpg" alt="Partiicpant in front of camera sharing goaals">  </a>
+							<img class="u-photo" src="https://jgregorymcverry.com/goifphotos/goalsetting5.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
 					
