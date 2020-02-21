@@ -14,7 +14,7 @@
               <img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right"> </a>    
             </div>
             <figcaption class="galleryCaption" ><span class="p-name">
-            Launching the Camp
+            Setting up for the  Camp
             </span><time datetime="2020-02-15 10:41:00" class="dt-published">2020-02-15</time>
             </figcaption>
           </figure>
