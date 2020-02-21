@@ -39,7 +39,7 @@
 				Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published </span><time class="dt-published" datetime="2020-02-21 12:54:20">2020-02-21 </time>
 				</h3>
 				<div class="grid-container">
-					<figure id="3685" class="h-entry gallery">
+					<figure id="3685" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<div class="galleryPhoto">
 							<a href="#">
 							<img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right">      </a>
@@ -49,7 +49,7 @@
 						</span><time datetime="2020-02-15 10:41:00" class="dt-published">2020-02-15</time>
 						</figcaption>
 					</figure>
-					<figure id="2" class="h-entry gallery">
+					<figure id="2" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						
 						<div class="galleryPhoto">
 							<a href="#">
@@ -60,7 +60,7 @@
 						</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 					</figure>
-					<figure id="3" class="h-entry gallery">
+					<figure id="3" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/uruslasage.jpg.png">
@@ -72,7 +72,7 @@
 						
 						</figcaption>
 					</figure>
-					<figure id="4" class="h-entry gallery">
+					<figure id="4" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">
 						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
@@ -81,16 +81,16 @@
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
-						<figure id="5" class="h-entry gallery">
+						<figure id="5" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">
-						Setting Our Golas </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting3.png">
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting3.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
-					<figure id="6" class="h-entry gallery">
+					<figure id="6" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">
 						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
@@ -99,7 +99,7 @@
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting4.png" alt="Partiicpant in front of camera sharing goaals">  </a>
 						</div>
 					</figure>
-					<figure id="7" class="h-entry gallery">
+					<figure id="7" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">
 						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
