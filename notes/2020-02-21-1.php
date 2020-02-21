@@ -4,10 +4,10 @@
  <?php include '../header.php'; ?>
 </header>  
   <main class="longreads"> 
-   
+   <link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
   	<div class="note h-entry">
     <div class="grid-container">
-          <figure id="1" class= "gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+          <figure id="1" class= "gallery">
             <div class="galleryPhoto">
               <a href="#">
               <img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right"> </a>    
