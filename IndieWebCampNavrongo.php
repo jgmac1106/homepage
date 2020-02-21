@@ -131,10 +131,42 @@
 							<a href="https://quickthoughts.jgregorymcverry.com/2020/02/14/sadike25-and-the-goifoundation-getting-ready-for-mozopenleaders-indieweb-and">
 							<img class="u-photo" src="https://quickthoughts.jgregorymcverry.com/2020/02/14/sadike25-and-the-goifoundation-getting-ready-for-mozopenleaders-indieweb-and" alt="Sadik pulling in">  </a>
 						</div>
+						<figure id="10" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+						<figcaption class="galleryCaption" ><span class="p-name">Group photo after event </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						</figcaption>
+						<div class="galleryPhoto">
+							<a href="https://jgregorymcverry.com/photos/goifphotos/grouphoto.jpg">
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/groupphoto.jpg" alt="Group shot in front of building">  </a>
+						</div>
 					
 					</figure>
+					<figure id="11" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+						<figcaption class="galleryCaption" ><span class="p-name">Sadik Covering Intros</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						</figcaption>
+						<div class="galleryPhoto">
+							<a href="https://jgregorymcverry.com/photos/goifphotos/sadikpresenting.png">
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/sadikpresenting.jpg" alt="Sadik doing a keynote">  </a>
+						</div>
 					
+					</figure>
+					<figure id="12" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+						<figcaption class="galleryCaption" ><span class="p-name">Sadik Shahadu</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						</figcaption>
+						<div class="galleryPhoto">
+							<a href="https://jgregorymcverry.com/photos/goifphotos/sadikshahadu.jpg">
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/sadikshahadu.jpg" alt="">  </a>
+						</div>
 					
+					</figure>
+					<figure id="13" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
+						<figcaption class="galleryCaption" ><span class="p-name">Mobile First World</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						</figcaption>
+						<div class="galleryPhoto">
+							<a href="https://jgregorymcverry.com/photos/goifphotos/AMobileFirstWorld.jpg">
+							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/AMobileFirstWorld.jpg" alt="Sadik helping someone on phone">  </a>
+						</div>
+					
+					</figure>
 				</div>
 				
 				
