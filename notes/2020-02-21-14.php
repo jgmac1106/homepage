@@ -9,11 +9,11 @@
          <a class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></a>
     <div class="grid-container">
           <figure>
-            <figcaption class="galleryCaption" ><span class="p-name">Mobile First World</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
+            <figcaption class="galleryCaption" ><span class="p-name">Volunteer Organizers</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
             </figcaption>
             <div class="galleryPhoto">
               <a href="https://jgregorymcverry.com/photos/goifphotos/AMobileFirstWorld.jpg">
-              <img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/AMobileFirstWorld.jpg" alt="Sadik helping someone on phone">  </a>
+              <img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/iwcphotos.jpg" alt="the four organizers">  </a>
             </div>
           
           </figure>
@@ -21,7 +21,7 @@
    
 
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-21-13" rel="canonical"><strong>My Notes</strong></a> <br/> <a href="https://jgregorymcverry.com/notes/2020-02-21-14" rel="Next"> Next</a> <a href="https://jgregorymcverry.com/notes/2020-02-21-12" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-21-14" rel="canonical"><strong>My Notes</strong></a> <br/>  <a href="https://jgregorymcverry.com/notes/2020-02-21-13" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 
 </div>
