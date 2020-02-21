@@ -2111,10 +2111,10 @@ flex-wrap: wrap;
 [data-span="6"] { grid-column-end: span 6; }
 [data-span="7"] { grid-column-end: span 7; }
 
-.event p {
+.day p {
   font-size: 2vmin;
 }
-.event a {
+.day a {
   font-size: 2vmin;
 }
 #doodlebird > div { 
