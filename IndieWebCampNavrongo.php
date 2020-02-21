@@ -36,7 +36,7 @@
 			<div class="child-page-listing">
 				<h2 class="h-entry">IndieWebCamp Navrongo : OLX Ghana</h2>
 				<h3>
-				Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published <time class="dt-published" datetime="2020-02-21 12:54:20">2020-02-21 </time>
+				Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> and published </span><time class="dt-published" datetime="2020-02-21 12:54:20">2020-02-21 </time>
 				</h3>
 				<div class="grid-container">
 					<figure id="3685" class="h-entry gallery">
@@ -44,9 +44,9 @@
 							<a href="#">
 							<img class="u-photo" src="http://jgregorymcverry.com/photos/goifphotos/groupphoto.png" alt="screenshot of video chat GOIF group on left jgmac1106 on right">      </a>
 						</div>
-						<figcaption class="galleryCaption" >
+						<figcaption class="galleryCaption" ><span class="p-name">
 						Launching the Camp
-						<time datetime="2020-02-15 10:41:00" class="dt-published">2020-02-15</time>
+						</span><time datetime="2020-02-15 10:41:00" class="dt-published">2020-02-15</time>
 						</figcaption>
 					</figure>
 					<figure id="2" class="h-entry gallery">
@@ -55,9 +55,9 @@
 							<a href="#">
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/sadikgoalsetting.png" alt="Sadike reviewing Code of Conduct">    </a>
 						</div>
-						<figcaption class="galleryCaption" >
+						<figcaption class="galleryCaption" ><span class="p-name">
 						Sadik Reviewing IWC CoC
-						<time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						</span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 					</figure>
 					<figure id="3" class="h-entry gallery">
@@ -68,13 +68,13 @@
 							
 						</div>
 						<figcaption class="galleryCaption">
-						Ursula Joins from Accra  <time datetime="2020-02-15 10:41:00" >2020-02-15</time>
+						Ursula Joins from Accra  </span><time datetime="2020-02-15 10:41:00" >2020-02-15</time>
 						
 						</figcaption>
 					</figure>
 					<figure id="4" class="h-entry gallery">
-						<figcaption class="galleryCaption" >
-						Setting Our Golas <time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						<figcaption class="galleryCaption" ><span class="p-name">
+						Setting Our Golas </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting2.png">
@@ -82,8 +82,8 @@
 						</div>
 					</figure>
 						<figure id="5" class="h-entry gallery">
-						<figcaption class="galleryCaption" >
-						Setting Our Golas <time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						<figcaption class="galleryCaption" ><span class="p-name">
+						Setting Our Golas </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting3.png">
@@ -91,8 +91,8 @@
 						</div>
 					</figure>
 					<figure id="6" class="h-entry gallery">
-						<figcaption class="galleryCaption" >
-						Setting Our Golas <time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						<figcaption class="galleryCaption" ><span class="p-name">
+						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/goifphotos/ghanagoalsetting2.png">
@@ -100,8 +100,8 @@
 						</div>
 					</figure>
 					<figure id="7" class="h-entry gallery">
-						<figcaption class="galleryCaption" >
-						Setting Our Golas <time datetime="2020-02-15 10:41:00">2020-02-15</time>
+						<figcaption class="galleryCaption" ><span class="p-name">
+						Setting Our Goals </span><time datetime="2020-02-15 10:41:00">2020-02-15</time>
 						</figcaption>
 						<div class="galleryPhoto">
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png">
