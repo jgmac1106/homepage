@@ -11,7 +11,7 @@
           <figure id="3" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
             
             <div class="galleryPhoto">
-              <a href="https://jgregorymcverry.com/photos/goifphotos/uruslasage.jpg.png">
+              <a href="https://jgregorymcverry.com/photos/goifphotos/uruslasage.png">
               <img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/uruslasage.png" alt="Ursula as remote">    </a>
               
             </div>
