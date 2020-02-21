@@ -113,6 +113,7 @@
 							<a href="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png">
 							<img class="u-photo" src="https://jgregorymcverry.com/photos/goifphotos/ghanagoalsetting5.png" alt="Partiicpant in front of camera sharing goals">  </a>
 						</div>
+					</figure>
 						<figure id="8" class="h-entry gallery"><link class="u-in-reply-to" href="https://events.indieweb.org/2020/02/indiewebcamp-navrongo-olx-ghana-CmCiz3daOPWB"></link>
 						<figcaption class="galleryCaption" ><span class="p-name">Arriving in 
 						Navrongo </span><time datetime="2020-02-14 10:41:00">2020-02-14</time>
