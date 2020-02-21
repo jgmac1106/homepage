@@ -15,12 +15,10 @@ on <time class="dt-published" datetime="2020-02-20 16:24:20">20<sup>th</sup> Feb
 </span>
 <div class="copy">
   <div class="e-content">
-    <audio  autoplay>
-      <source src="poetry/poetryisastretch.mp4">
-      </audio>
-    <div id="doodlebird">
+   <div id="doodlebird">
+      <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
-     <div class="riskybird">
+     <div  class="riskybird">
        <p>Take the risk</p>
      </div>
        <div class="riskybird">
@@ -36,7 +34,7 @@ on <time class="dt-published" datetime="2020-02-20 16:24:20">20<sup>th</sup> Feb
        <p>a branch</p>
      </div>
       <div class="riskybird">
-       <p>a close to </p>
+       <p>close to </p>
      </div>
       <div class="riskybird">
        <p>the ground</p>

@@ -2134,6 +2134,24 @@ flex-wrap: wrap;
     animation: imageAnimation 21s linear infinite 0s; 
 }
 
+#doodlebird > div { 
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   background:  url("https://jgregorymcverry.com/photos/art/riskybird.jpg") no-repeat fixed center; 
+    color: transparent;
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 21s linear infinite 0s;
+    -moz-animation: imageAnimation 21s linear infinite 0s;
+    -o-animation: imageAnimation 21s linear infinite 0s;
+    -ms-animation: imageAnimation 21s linear infinite 0s;
+    animation: imageAnimation 21s linear infinite 0s; 
+}
+
 #doodlebird > div:nth-child(2)  {
     -webkit-animation-delay: 3s;
     -moz-animation-delay: 3s;
@@ -2178,10 +2196,49 @@ flex-wrap: wrap;
     -ms-animation-delay: 18s;
     animation-delay: 18s; 
 }
-.riskybird {
-  background:  url("https://jgregorymcverry.com/photos/art/riskybird.jpg") no-repeat fixed center; 
-}
+
 .riskybird p {
-margin-right:60%;
+color:black;
 font-size:6em;
+  margin-left: 60%;
+}
+  @-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-moz-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -moz-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -moz-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-o-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -o-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -o-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+
+@keyframes imageAnimation { 
+    0% { opacity: 0;
+    animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
 }
