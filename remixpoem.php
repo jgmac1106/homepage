@@ -15,7 +15,7 @@
        <a class="u-author h-card" href="https://jgregorymcverry.com">
       <img class="u-photo" src="https://jgregorymcverry.com/photos/assets/thumb.jpg" alt=""><br />jgmac1106</a><br />
       <p>Published on <time class="dt-published" datetime="2020-02-22 07:44:20">22<sup>nd</sup> February 2020</time>
-      <p class="p-summary">A #poertyport gift poem for @amyburvall who knows why the whimsy must win.</p>
+      <p class="p-summary">A #poetryport gift poem for @amyburvall who knows why the whimsy must win.</p>
       <div class="e-content">
       <p>
         All learning begins with remix. Of culture, self, tools, and society. Just a matter if you want to live a life of fresh beats or dance to an old tune.
