@@ -51,7 +51,10 @@ body {
   filter: grayscale(50%);
   cursor: none;
 }
-
+img {
+  width: 200px;
+  border-radius: 50%;
+}
 .container {
 	position: relative;
 	display: flex;
