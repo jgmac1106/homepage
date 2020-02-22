@@ -10,11 +10,11 @@
   <body>
     <div class="main h-entry" role="main">
       <h1 class="p-name">
-        A Remix Poem for #Poetryport
+        Side B Learning
       </h1>
        <a class="u-author h-card" href="https://jgregorymcverry.com">
       <img class="u-photo" href="https://jgregorymcverry.com/photos/assets/thumb.jpg" alt="">jgmac1106</a>
-      
+      <p class="p-summary">A #poertyport gift poem for @amyburvall who knows why the whimsy must win.</p>
       <div class="e-content">
       <p>
         All learning begins with remix. Of culture, self, tools, and society. Just a matter if you want to live a life of fresh beats or dance to an old tune.
