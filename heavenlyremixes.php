@@ -22,7 +22,7 @@
       <p>Published on <time class="dt-published" datetime="2020-02-22 18:34:20">22<sup>nd</sup> February 2020</time></p>
       <p class="p-summary">A #poetryport poem as a gift to the songs that go unsung. Even the lonliest stars sings</p>
       <div class="e-content">
-    <div id="DarkStar">
+    <div id="darkstar">
       <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
      <div  class="crashes">
