@@ -64,11 +64,159 @@ body {
     -ms-animation-delay: 18s;
     animation-delay: 18s; 
 }
+#darkstar > div { 
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   background:  url("https://jgregorymcverry.com/photos/art/riskybird.jpg") no-repeat fixed center; 
+    color: transparent;
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 21s linear infinite 0s;
+    -moz-animation: imageAnimation 21s linear infinite 0s;
+    -o-animation: imageAnimation 21s linear infinite 0s;
+    -ms-animation: imageAnimation 21s linear infinite 0s;
+    animation: imageAnimation 21s linear infinite 0s; 
+}
 
+#darkstar > div:nth-child(2)  {
+    -webkit-animation-delay: 3s;
+    -moz-animation-delay: 3s;
+    -o-animation-delay: 3s;
+    -ms-animation-delay: 3s;
+    animation-delay: 3s; 
+}
+#darkstar > div:nth-child(3) {
+    -webkit-animation-delay: 6s;
+    -moz-animation-delay: 6s;
+    -o-animation-delay: 6s;
+    -ms-animation-delay: 6s;
+    animation-delay: 6s; 
+}
+#darkstar > div:nth-child(4) {
+    -webkit-animation-delay: 9s;
+    -moz-animation-delay: 9s;
+    -o-animation-delay: 9s;
+    -ms-animation-delay: 9s;
+    animation-delay: 9s; 
+}
+#darkstar > div:nth-child(5) {
+    -webkit-animation-delay: 12s;
+    -moz-animation-delay: 12s;
+    -o-animation-delay: 12s;
+    -ms-animation-delay: 12s;
+    animation-delay: 12s; 
+}
+
+#darkstar > div:nth-child(6) {
+    -webkit-animation-delay: 15s;
+    -moz-animation-delay: 15s;
+    -o-animation-delay: 15s;
+    -ms-animation-delay: 15s;
+    animation-delay: 15s; 
+}
+
+#darkstar > div:nth-child(7) {
+    -webkit-animation-delay: 18s;
+    -moz-animation-delay: 18s;
+    -o-animation-delay: 18s;
+    -ms-animation-delay: 18s;
+    animation-delay: 18s; 
+}
+.crashes  {
+  background:  url("/photos/DarkStar/shallwego.jpg") no-repeat fixed center; 
+}
+.pouring  {
+  background:  url("/photos/DarkStar/youandiwhilewecan.jpg") no-repeat fixed center; 
+}
+.light  {
+  background:  url("/photos/DarkStar/throughthetransitivenightfall.jpg") no-repeat fixed center; 
+}
+.intoAshes  {
+  background:  url("/photos/DarkStar/ofdiamonds.jpg") no-repeat fixed center; 
+}
+
+.ReasonTatters  {
+  background:  url("/photos/DarkStar/mirrorshattersinformless.jpg") no-repeat fixed center; 
+}
+.ForcesTear  {
+  background:  url("/photos/DarkStar/reflectiosnofmatter.jpg") no-repeat fixed center; 
+}
+.LooseFromAxis {
+  background:  url("/photos/DarkStar/glasshanddissolving.jpg") no-repeat fixed center; 
+}
 .riskybird p {
 color:black;
 font-size:5.9vh;
   margin-left: 60%;
+}
+  @-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+#pumpkin > div { 
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   
+    color: transparent;
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 20s linear infinite 0s;
+    -moz-animation: imageAnimation 20s linear infinite 0s;
+    -o-animation: imageAnimation 20s linear infinite 0s;
+    -ms-animation: imageAnimation 20s linear infinite 0s;
+    animation: imageAnimation 20s linear infinite 0s; 
+}
+
+#pumpkin > div:nth-child(2)  {
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay: 5s;
+    -o-animation-delay: 5s;
+    -ms-animation-delay: 5s;
+    animation-delay: 5s; 
+}
+#pumpkin > div:nth-child(3) {
+    -webkit-animation-delay: 10s;
+    -moz-animation-delay: 10s;
+    -o-animation-delay: 10s;
+    -ms-animation-delay: 10s;
+    animation-delay: 10s; 
+}
+#pumpkin > div:nth-child(4) {
+    -webkit-animation-delay: 15s;
+    -moz-animation-delay: 15s;
+    -o-animation-delay: 15s;
+    -ms-animation-delay: 15s;
+    animation-delay: 15s; 
+}
+.dog  {
+  background:  url("https://cdn.glitch.com/8d42c577-5739-4c56-a658-4fd72e29057b%2Fdog1.jpg?v=1582323178560") no-repeat fixed center; 
+}
+.dog1  {
+  background:  url("https://cdn.glitch.com/8d42c577-5739-4c56-a658-4fd72e29057b%2Fdog2.jpg?v=1582323153471") no-repeat fixed center; 
+}
+.dog2  {
+  background:  url("https://cdn.glitch.com/8d42c577-5739-4c56-a658-4fd72e29057b%2Fdog3.jpg?v=1582323154079") no-repeat fixed center; 
+}
+.dog3  {
+  background:  url("https://cdn.glitch.com/8d42c577-5739-4c56-a658-4fd72e29057b%2Fdog4.jpg?v=1582323155613") no-repeat fixed center; 
+}
+.loveyou  {
+color:white;
+font-size:5.7vh;
+  margin-left: 50%;
 }
   @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;
