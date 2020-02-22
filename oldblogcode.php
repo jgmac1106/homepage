@@ -20,7 +20,7 @@
 
   <div class="e-content">
     <video  controls  poster="https://indieweb.org/images/thumb/6/67/indiewebcamp-logo-lockup-color%403x.png/1200px-indiewebcamp-logo-lockup-color%403x.png" preload="metadata">
-            <source class="u-video" src="https://jgregorymcverry.com/videos/oldblogcode.mp4" type="video/mp4">
+            <source src="https://jgregorymcverry.com/videos/oldblogcode.mp4" type="video/mp4">
                <track label="English" kind="subtitles" srclang="en" src="oldblogcode.sbv" default>
           </video>
      
