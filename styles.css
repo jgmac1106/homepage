@@ -2078,7 +2078,9 @@ flex-wrap: wrap;
 
 .event-end { 
   border-top-right-radius: 10px; 
-  border-bottom-right-radius: 10px; 
+  border-bottom-right-radius: 10px;
+  margin-bottom: 5px; 
+  margin-top: 5px;
 }
 
 .event-start { 
