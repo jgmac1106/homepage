@@ -2059,9 +2059,7 @@ flex-wrap: wrap;
     font-size: 10px;
   }
 }
-.day {
-  background-color: #DDD; /* if display contents, this won't color */
-}
+
 .day-label {
   grid-row-start: 1;
   text-align: right;
