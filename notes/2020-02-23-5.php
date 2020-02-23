@@ -16,7 +16,7 @@
         	&nbsp;&nbsp;&nbsp;&nbsp;grasping sounds of truth from the ether<br />
         	spinning in the head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of reality's flipside<br />
         	constantly plucking<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;consciousness fickle<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;consciousness's fickle<br />
 strings, time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ticking<br />
 on&nbsp;&nbsp;&nbsp;&nbsp; a metronome<br />
 swaying between &nbsp;&nbsp;&nbsp;&nbsp;lost<br/>
