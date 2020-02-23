@@ -2060,7 +2060,6 @@ flex-wrap: wrap;
   }
 }
 .day {
-  display:contents;
   background-color: #DDD; /* if display contents, this won't color */
 }
 .day-label {
