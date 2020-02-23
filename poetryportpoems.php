@@ -120,10 +120,6 @@
     </p></div>
   </div>
   <div class="day h-entry">
-    <time class="dt-published day-label" datetime="2020-02-12 12:00:00">12</time>
-    <div><span class="event event-end p-name">Peace</span><br /></div>
-  </div>
-  <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-13 12:00:00">13</time>
     <div><span class="event event-end p-name">Friendship</span><br /><p class="e-content">
       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/13/missing-bowie-a-poetryport-gift-for-mrkubasek-and-hope-you">Missing Bowie</a></span><br />
@@ -134,7 +130,6 @@
     <div><span class="event event-end p-name">Love</span><br /><p class="e-content">
       <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/chickeneggorduckofdigital">Chicken and Egg (Err Duck) of the Digital Dichotomy </a></span><br /></p></div>
   </div>
-</div>
 <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-15 12:00:00">15</time>
   
