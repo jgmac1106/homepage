@@ -2,8 +2,6 @@
 </head>
 <?php include('/home/jgregory/public_html/header.php'); ?>
 </header>
-<?php include 'header.php'; ?>
-</header>
    <article class="h-feed">
    <h1 class="p-name">February Notes</h1>
    <time class="dt-updated" datetime="2020-02-21 11:04:20"></time>
@@ -52,7 +50,7 @@
 <div class="week">
   <div class="day">
     <time class="day-label" datetime="2020-02-02 12:00:00">2</time>
-    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-02-1"><time class="dt-published p-name" datetime="2020-02-02T18:54:20+0000">8:54</time></a></div>
+    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-02-1"><time class="dt-published p-name" datetime="2020-02-02T18:54:20+0000">8:54</time></a>
   </article>
   <div class="day">
     <time class=" day-label" datetime="2020-02-03 12:00:00">3</time>
