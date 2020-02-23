@@ -12,7 +12,17 @@
     <!-- import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>  
-  <body>
+  <body class="h-entry">
+      <h2 class="p-name">
+       Heavenly Remixes
+      </h2>
+      <div class="style:display:none">
+       <a class="u-author h-card" href="https://jgregorymcverry.com">
+      <img class="u-photo" src="https://jgregorymcverry.com/photos/assets/thumb.jpg" alt=""><br />jgmac1106</a><br />
+      <p>Published on <time class="dt-published" datetime="2020-02-23 08:44:20">23<sup>rd</sup> February 2020</time></p>
+      <p class="p-summary">A #poetryport gift poem for all the songs that go unsung. Even the lonliest sound is a star.</p>
+    </div>
+      <div class="e-content">
     <div id="darkstar">
       <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
@@ -50,9 +60,8 @@
       
     </div>
 </div>
-</
-    <!-- include the Glitch button to show what the webpage is about and
-          to make it easier for folks to view source and remix -->
- 
+
+
+
   </body>
 </html>
