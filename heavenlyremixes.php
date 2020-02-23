@@ -13,7 +13,7 @@
     <script src="/script.js" defer></script>
   </head>  
   <body class="h-entry">
-    <div class="style=display:none">
+    <div style="display:none">
       <h2 class="p-name">
        Heavenly Remixes
       </h2>
