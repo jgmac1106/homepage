@@ -13,10 +13,11 @@
     <script src="/script.js" defer></script>
   </head>  
   <body class="h-entry">
+    <div class="style=display:none">
       <h2 class="p-name">
        Heavenly Remixes
       </h2>
-      <div class="style:display:none">
+      
        <a class="u-author h-card" href="https://jgregorymcverry.com">
       <img class="u-photo" src="https://jgregorymcverry.com/photos/assets/thumb.jpg" alt=""><br />jgmac1106</a><br />
       <p>Published on <time class="dt-published" datetime="2020-02-23 08:44:20">23<sup>rd</sup> February 2020</time></p>
