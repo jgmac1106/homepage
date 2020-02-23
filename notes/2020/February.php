@@ -25,11 +25,25 @@
 </div>
 <div class="week">
   <div class="day">
+  </div>
+  <div class="day">
+  </div>
+  <div class="day">
+  </div>
+  <div class="day">
+  </div>
+  <div class="day">
+  </div>
+  <div class="day">
+  </div>
+  <div class="day">
     <time class="day-label" datetime="2020-02-01 12:00:00">1</time>
     
     <div class="h-entry"><a class="event event-end  u-url" href="/notes/2020-02-01-1"><time class="dt-published p-name" datetime="2020-02-01 07:44:20">7:44</time></a>
     </div>
   </div>
+</div>
+<div class="week">
   <div class="day">
     <time class="day-label" datetime="2020-02-02 12:00:00">2</time>
     <div class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-02-1"><time class="dt-published p-name" datetime="2020-02-02T18:54:20+0000">8:54</time></a></div>
@@ -54,11 +68,12 @@
     <time class="day-label" datetime="2020-02-07 12:00:00">7</time>
     
   </div>
-</div>
-    <div class="week">
   <div class="day">
     <time class=" day-label" datetime="2020-02-08 12:00:00">8</time>
    </div>
+</div>
+    <div class="week">
+  
     
   <div class="day ">
     <time class="day-label" datetime="2020-02-09 12:00:00">9</time>
@@ -83,13 +98,14 @@
     <time class=" day-label" datetime="2020-02-14 12:00:00">14</time>
     
 </div>
-</div>
-     <div class="week">
-  <div class="day">
+ <div class="day">
     <time class=" day-label" datetime="2020-02-15 12:00:00">15</time>
   
     
   </div>
+</div>
+     <div class="week">
+ 
   <div class="day">
     <time class=" day-label" datetime="2020-02-16 12:00:00">16</time>
    
@@ -112,6 +128,41 @@
   </div>
   <div class="day ">
     <time class="day-label" datetime="2020-02-21 12:00:00">21</time>
+    
+</div>
+ <div class="day ">
+    <time class="day-label" datetime="2020-02-22 12:00:00">22</time>
+    
+</div>
+</div>
+ <div class="week">
+ 
+  <div class="day">
+    <time class=" day-label" datetime="2020-02-23 12:00:00">23</time>
+   
+  </div>
+  <div class="day">
+    <time class="day-label" datetime="2020-02-24 12:00:00">24</time>
+    
+  </div>
+  <div class="day">
+    <time class=" day-label" datetime="2020-02-25 12:00:00">25</time>
+    
+  </div>
+  <div class="day">
+    <time class=" day-label" datetime="2020-02-26 12:00:00">26</time>
+    
+  </div>
+  <div class="day">
+    <time class=" day-label" datetime="2020-02-27 12:00:00">27</time>
+    
+  </div>
+  <div class="day ">
+    <time class="day-label" datetime="2020-02-28 12:00:00">28</time>
+    
+</div>
+ <div class="day ">
+    <time class="day-label" datetime="2020-02-29 12:00:00">29</time>
     
 </div>
 </div>
