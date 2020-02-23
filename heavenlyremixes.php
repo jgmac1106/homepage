@@ -13,15 +13,6 @@
     <script src="/script.js" defer></script>
   </head>  
   <body>
-    <div class="main h-entry" role="main">
-      <h1 class="p-name">
-        Heavenly Remixes
-      </h1>
-       <a class="u-author h-card" href="/"></a>
-     <br />
-      <p>Published on <time class="dt-published" datetime="2020-02-22 18:34:20">22<sup>nd</sup> February 2020</time></p>
-      <p class="p-summary">A #poetryport poem as a gift to the songs that go unsung. Even the lonliest stars sings</p>
-      <div class="e-content">
     <div id="darkstar">
       <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
