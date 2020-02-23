@@ -8,9 +8,9 @@
    <time class="dt-updated" datetime="2020-02-23 15:34:20"></time>
 <p class="p-summary">A collection of the poems I have published as part of the #clmooc poetry project</p>
     <a href="/" class="u-author h-card">
-    <img class="u-photo avatar" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" class="u-photo"> 
+    <img class="u-photo avatar" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg"> 
     <span class="p-name">jgmac1106</span>
-  </a></span>
+  </a>
 
 
 <div class="week">
@@ -190,8 +190,10 @@
     <time class="dt-published day-label h-entry" datetime="2020-02-21 12:00:00">21</time>
     <div><span class="event event-end p-name">Memories</span><br /><p class="e-content">
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/three-body-problem-a-poetryport-poem-for-the-theme-memory">Three Body Problem</a></span><br />
-    <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/pumpkin">Pumpkin</a></span></p>
-  </div></div>
+
+    </p>
+  </div>
+    </div>
    <div class="day h-entry">
     <time class="dt-published day-label h-entry" datetime="2020-02-21 12:00:00">22</time>
     <div><span class="event event-end p-name">Remix</span><br /><p class="e-content">
