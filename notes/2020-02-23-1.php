@@ -12,7 +12,7 @@
       
   
       
-        <p class="p-name e-content">Meaning slips<br/>&nbsp;&nbsp;&nbsp;whispers to the soul<br/>&nbsp;&nbsp;in slience <br />singing &nbsp;&nbsp;between&nbsp;&nbsp;&nbsp;&nbsp;stanzas<br />infernces sought&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in spaces</br />crawling&nbsp;&nbsp;&nbsp;&nbsp;through&nbsp;&nbsp;&nbsp;&nbsp;words<br/> large enough for all out truths </p>
+        <p class="p-name e-content">Meaning slips<br/>&nbsp;&nbsp;&nbsp;whispers to the soul<br/>&nbsp;&nbsp;in slience <br />singing &nbsp;&nbsp;between&nbsp;&nbsp;&nbsp;&nbsp;stanzas<br />infernces sought&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in spaces</br />crawling &nbsp;&nbsp;&nbsp;&nbsp;through&nbsp;&nbsp;&nbsp;&nbsp;words<br/> large enough for all out truths </p>
       
  
   <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-23-1" rel="canonical"><strong>My Notes</strong></a> <br/> ><a href="https://jgregorymcverry.com/notes/2020-02-21-14" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
