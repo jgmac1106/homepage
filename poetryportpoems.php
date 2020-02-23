@@ -80,8 +80,8 @@
       <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/08/nomadwarmachine-eyes-of-your-doodles-always-noodle">Oodles of Doodles</a><br />
     </p></div>
   </div>
-</div>
-    <div class="week">
+
+ 
   <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-08 12:00:00">8</time>
    
@@ -131,8 +131,7 @@
       <a class="h-item" href="https://jgregorymcverry.com/chickeneggorduckofdigital">Chicken and Egg (Err Duck) of the Digital Dichotomy </a><br /></p></div>
   </div>
 </div>
-     <div class="week">
-  <div class="day h-entry">
+<div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-15 12:00:00">15</time>
   
     <div><span class="event event-end p-name">Stretch</span><br /><p class="e-content">
@@ -142,6 +141,8 @@
       <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/16/steel-sparksoff-tuskcut-inpillars-of-rainbow-steelmuzzle">Mosaic of Magic</a><br />
     </p></div>
   </div>
+    
+  
 </div>
 <div class="week">
   <div class="day h-entry">
@@ -201,8 +202,8 @@
     <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/s/VPMU4">Potty with Van Gogh</a><br />
     <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/22/four-haikus-remixed-from-the-gltich-haiku-generator-haiku-generator-by">Four Haikus</a><br />
     <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/22/a-poetryport-balckout-poem-remixing-my-work-dogtrax-and-karenatsharon">Blackout Poem</a><br />
-    <a class="h-item" href="https://jgregorymcverry.com/remixpoem">Remix</a><br />
-  </div></p>
+    <a class="h-item" href="https://jgregorymcverry.com/remixpoem">Remix</a><br /></p>
+  </div>
   </div>
 </div>
  <div class="week">
