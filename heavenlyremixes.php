@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Risky Bird</title>
+    <title>Heavenly Remixes</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,35 +26,35 @@
       <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
      <div  class="crashes">
-       <p class="loveyou">All stars sing<br />
+       <p class="myjam">All stars sing<br />
         remixing<br />
             the first<br />
         beat<br /></p>
      </div>
        <div class="pouring">
-       <p class="loveyou">outer layers <br />
+       <p class="myjam">outer layers <br />
            belting tunes<br />
       in heaven's lonely embrace</p>
      </div>
      <div class="light">
-       <p class="loveyou">Rhythms arise<br />
+       <p class="myjam">Rhythms arise<br />
         spun on quantum tectronics<br />
       needle oscilliating<br />
     from the core</p>
      </div>
      <div class="intoAshes">
-       <p>As the galaxies<br />
+       <p class="myjam">As the galaxies<br />
         dance to their<br /></p>
      </div>
       <div class="ReasonTatters">
-       <p class="love you">own rhytm
+       <p class="myjam">own rhytm
       </p>
      </div>
       <div class="ForcesTear">
-       <p class="love you">as we whistle </p>
+       <p class="myjam">as we whistle </p>
      </div>
       <div class="LooseFromAxis">
-       <p class="loveyou">to the same tune</p>
+       <p class="myjam">to the same tune</p>
      </div>
       
     </div>
