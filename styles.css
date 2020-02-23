@@ -2101,7 +2101,7 @@ flex-wrap: wrap;
 
 .day p {
   font-size: 2vmin;
-  text-align: center;
+  left-margin:2%;
 }
 .day a {
   font-size: 2vmin;

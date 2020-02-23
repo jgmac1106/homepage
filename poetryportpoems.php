@@ -208,11 +208,11 @@
  
   <div class="day h-entry">
     <time class=" day-label" datetime="2020-02-23 12:00:00">23</time>
-   <div><span class="event event-end p-name">Silent</span><br />
+   <div><span class="event event-end p-name">Silent</span><p class="e-content"><br />
     <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-23-5">Silencing Poets</a><br />
     <a class="h-tem" href="https://jgregorymcverry.com/notes/2020-02-23-1">Meaning's Whispers</a><br />
-    <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-23-7">Winter is Silent</a>a><br />
-     <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-23-8">Nature's Poem</a>a><br />
+    <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-23-7">Winter is Silent</a><br />
+     <a class="h-item" href="https://jgregorymcverry.com/notes/2020-02-23-8">Nature's Poem</a><br /></p>
   </div>
   </div>
   <div class="day">
