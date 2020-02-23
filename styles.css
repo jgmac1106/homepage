@@ -1681,6 +1681,9 @@ display: block;
 
  
 }
+.poetcircle .follow li {
+  display: block;
+}
  .poetry .poemreads {
   grid-column: 10 / 12;
   grid-row-start: 2 ;
