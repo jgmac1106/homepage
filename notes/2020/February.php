@@ -1,12 +1,13 @@
-<?php include 'head.php'; ?>
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fpoetryportpoems" title="Poetry Port Poems">
+<?php include('/home/jgregory/public_html/head.php'); ?>
 </head>
+<?php include('/home/jgregory/public_html/header.php'); ?>
+</header>
 <?php include 'header.php'; ?>
 </header>
    <article class="h-feed">
-   <h1 class="p-name">Poetry Port Poems</h1>
+   <h1 class="p-name">February Notes</h1>
    <time class="dt-updated" datetime="2020-02-21 11:04:20"></time>
-<p class="p-summary">A collection of the poems I have published as part of the #clmooc poetry project</p>
+<p class="p-summary">My quick and random thoughts this month.</p>
     <a href="/" class="u-author h-card">
     <img class="u-photo avatar" src="https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" class="u-photo"> 
     <span class="p-name">jgmac1106</span>
