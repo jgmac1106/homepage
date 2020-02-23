@@ -112,12 +112,16 @@
     <div><span class="event event-end p-name">Create</span><br /><p class="e-content">
       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/11/inertia-of-art-create-poem-for-the-clmooc-poetryport">Inertia of Arts</a></span><br /></p></div>
   </div>
-  <div class="day h-entry">
+   <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-12 12:00:00">12</time>
     <div><span class="event event-end p-name">Peace</span><br /><p class="e-content">
       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/12/peace-for-the-part-time-phd-a-clmooc-poetry-port-gift">Peace for the Part Time PhD</a></span><br />
-<span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/13/i-write-poetryto-discover-and-wonderat-glimpses">Why Poetry</a></span><br />
+<span class="h-cite"><a class="url" href="https://quickthoughts.jgregorymcverry.com/2020/02/13/i-write-poetryto-discover-and-wonderat-glimpses"></a></span>
     </p></div>
+  </div>
+  <div class="day h-entry">
+    <time class="dt-published day-label" datetime="2020-02-12 12:00:00">12</time>
+    <div><span class="event event-end p-name">Peace</span><br /></div>
   </div>
   <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-13 12:00:00">13</time>
@@ -148,7 +152,7 @@
   <div class="day h-entry">
     <time class="dt-published day-label" datetime="2020-02-16 12:00:00">16</time>
     <div><span class="event event-end p-name">Free Expression</span><br /><p class="e-content">
-      <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/expresssionsofreflections">Expressions of Reflections</a></span><br />
+      <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/expresssionsofreflections">Expressions of Reflections</a></span>
     </p></div>
   </div>
   <div class="day h-entry">
