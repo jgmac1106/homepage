@@ -20,7 +20,7 @@
        <p class="myjam">All stars sing<br />
         remixing<br />
             the first<br />
-        beat<br /></p>
+        beat</p>
      </div>
        <div class="pouring">
        <p class="myjam">outer layers <br />
@@ -38,7 +38,7 @@
         dance to their<br /></p>
      </div>
       <div class="ReasonTatters">
-       <p class="myjam">own rhytm
+       <p class="myjam">own rhythm
       </p>
      </div>
       <div class="ForcesTear">

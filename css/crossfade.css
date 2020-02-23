@@ -220,6 +220,9 @@ font-size:5.7vh;
 .myjam  {
 color:white;
 font-size:5.7vh;
+ margin-left: auto;
+    margin-right: auto;
+    width: 8em
 }
   @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;
