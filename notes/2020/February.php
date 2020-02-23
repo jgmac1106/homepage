@@ -25,16 +25,22 @@
 </div>
 <div class="week">
   <div class="day">
+     <p class="day-label" >x</p>
   </div>
   <div class="day">
+    <p class="day-label" >x</p>
   </div>
   <div class="day">
+    <p class="day-label" >x</p>
   </div>
   <div class="day">
+    <p class="day-label" >x</p>
   </div>
   <div class="day">
+    <p class="day-label" >x</p>
   </div>
   <div class="day">
+    <p class="day-label" >x</p>
   </div>
   <div class="day">
     <time class="day-label" datetime="2020-02-01 12:00:00">1</time>
