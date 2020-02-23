@@ -79,7 +79,7 @@
   <p class="p-summary">A collaborative poem written <br/>with Kevin Hogdson <br />every day for 30 Days</p>
   <div class="e-content">
     <p class="Greg">
-      Skin plastered against tattered holes<br>
+      Skin plastered against tattered holes<br />
 of a torn blanket.<br>
 Rough threads of <br>
 unwoven time<br>
@@ -117,7 +117,7 @@ undefined<br>
 <a class="u-url" href="/untitledpoem">Read More</a>
 </p>
   </div>
- 
+ </div>
   <div class="h-entry">
   <p class="p-name">Selected Poems from Walkmyworld</p>
   <time class="dt-updated" datetime="2020-02-14 18:14:20">9<sup>th</sup> February 2014</time>
@@ -142,6 +142,7 @@ collapsing tresses, snaking<br/>
 wires to only hit the road one more time. To travel down<br/>
 north for that final curtain.<br/></p>
 <p><a href="https://archive.jgregorymcverry.com/poetry-from-walkmyworld/" class="u-url">Read More</a></p>
+</div>
 </div>
 </div>
 <div class="smallpoems">
