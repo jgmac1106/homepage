@@ -6,16 +6,20 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="2020-02-29T09:34:20+0000">February 23, 2020</time>
-   
+<time class="dt-published" datetime="2020-02-29T13:44:20+0000">February 20, 2020</time>
+    <video id="video" controls preload="metadata">
+   <source class="u-video" src="https://jgregorymcverry.com/videos/EDU506CaseStudies.mp4">
+   <track label="English" kind="subtitles" srclang="en" src="videos/casestudies.sbv" default>
+</video>
+
           
       
   
       
-        <p class="p-name e-content">Meaning slips<br/>  whispers to the soul<br/> in slience <br />singing between stanzas<br />infernces sought in spaces</br />crawling through words<br/> large enough for all out truths </p>
+        <p class="p-name e-content">A Guide To Comnpleting Collaborative Writing in Online classes</p>
       
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-23-1" rel="canonical"><strong>My Notes</strong></a> <br/> ><a href="https://jgregorymcverry.com/notes/2020-02-21-14" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="canonical"><strong>My Notes</strong></a> <br/> ><a href="https://jgregorymcverry.com/notes/2020-02-20-1" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 </div>
 </div>
