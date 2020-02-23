@@ -7,7 +7,7 @@
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-02-29T10:04:20+0000">February 23, 2020</time>
- video id="video" controls loop autoplay preload="metadata">
+ <video id="video" controls loop autoplay preload="metadata">
    <source class="u-video" src="https://jgregorymcverry.com/videos/spacepoem.mp4">
 
 </video>
