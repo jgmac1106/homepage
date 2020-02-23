@@ -43,23 +43,24 @@
   <div class="day">
     <time class="day-label" datetime="2020-02-01 12:00:00">1</time>
     
-    <article class="h-entry"><a class="event event-end  u-url" href="/notes/2020-02-01-1"><time class="dt-published p-name" datetime="2020-02-01 07:44:20">7:44</time></a>
-    </article>
+    <p class="h-entry"><a class="event event-end  u-url" href="/notes/2020-02-01-1"><time class="dt-published p-name" da etime="2020-02-01 07:44:20">7:44</time></a>
+    </p>
   </div>
 </div>
 <div class="week">
   <div class="day">
     <time class="day-label" datetime="2020-02-02 12:00:00">2</time>
-    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-02-1"><time class="dt-published p-name" datetime="2020-02-02T18:54:20+0000">8:54</time></a>
-  </article>
+    <p class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-02-1"><time class="dt-published p-name" datetime="2020-02-02T18:54:20+0000">8:54</time></a>
+  </p>
+</div>
   <div class="day">
     <time class=" day-label" datetime="2020-02-03 12:00:00">3</time>
     
   </div>
   <div class="day">
     <time class="day-label" datetime="2020-02-04 12:00:00">4</time>
-    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-04-1"><time class="dt-published" datetime="20200430T09:54:20">9:54</time></a>
-    </article>
+    <p class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-04-1"><time class="dt-published" datetime="20200430T09:54:20">9:54</time></a>
+    </p>
     </div>
  
   <div class="day">
@@ -83,8 +84,8 @@
     
   <div class="day ">
     <time class="day-label" datetime="2020-02-09 12:00:00">9</time>
-    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-09-1"><time class="dt-published" datetime="2020-02-09T08:24:20+0000">8:54</time></a>
-    </article>
+    <p class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-09-1"><time class="dt-published" datetime="2020-02-09T08:24:20+0000">8:54</time></a>
+    </p>
   </div>
   <div class="day">
     <time class=" day-label" datetime="2020-02-10 12:00:00">10</time>
@@ -92,10 +93,10 @@
   </div>
   <div class="day">
     <time class=" day-label" datetime="2020-02-11 12:00:00">11</time>
-    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-11-1"><time class="dt-published" datetime="2020-02-011T16:34:20+0000">16:34</time></a>
-    </article><br />
-    <article class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-11-2"><time class="dt-published" datetime="2020-02-11 20:44:20">20:44</time></a>
-    </article>
+    <p class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-11-1"><time class="dt-published" datetime="2020-02-011T16:34:20+0000">16:34</time></a>
+    </p><br />
+    <p class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-11-2"><time class="dt-published" datetime="2020-02-11 20:44:20">20:44</time></a>
+    </p>
     </div>
   <div class="day">
     <time class="day-label" datetime="2020-02-12 12:00:00">12</time>
