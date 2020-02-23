@@ -188,8 +188,9 @@
   <div class="day h-entry">
     <time class="dt-published day-label h-entry" datetime="2020-02-21 12:00:00">21</time>
     <div><span class="event event-end p-name">Memories</span><br /><p class="e-content">
-    <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/three-body-problem-a-poetryport-poem-for-the-theme-memory">Three Body Problem</a></div></p>
-  </div>
+    <a class="h-item" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/three-body-problem-a-poetryport-poem-for-the-theme-memory">Three Body Problem</a><br />
+    <a class="h-item" href="https://jgregorymcverry.com/pumpkin">Pumpkin</a></p>
+  </div></div>
    <div class="day h-entry">
     <time class="dt-published day-label h-entry" datetime="2020-02-21 12:00:00">22</time>
     <div><span class="event event-end p-name">Remix</span><br /><p class="e-content">
