@@ -20,7 +20,7 @@
        <a class="u-author h-card" href="https://jgregorymcverry.com">
       <img class="u-photo" src="https://jgregorymcverry.com/photos/assets/thumb.jpg" alt=""><br />jgmac1106</a><br />
       <p>Published on <time class="dt-published" datetime="2020-02-23 08:44:20">23<sup>rd</sup> February 2020</time></p>
-      <p class="p-summary">A #poetryport gift poem for all the songs that go unsung. Even the lonliest sound is a star.</p>
+      <p class="p-summary">A #poetryport gift poem for all the songs that go unsung. Even the lonliest sound is a star. Another poem inspired by #alastairreynolds who writes hard science with poetic solar flares.</p>
     </div>
       <div class="e-content">
     <div id="darkstar">
