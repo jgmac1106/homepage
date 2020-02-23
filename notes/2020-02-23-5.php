@@ -13,7 +13,7 @@
   
       
         <p class="p-name e-content">Poets seek silence<br/>
-        	&nbsp;&nbsp;&nbsp;&nbsp;grasping sounds of truth from the ether<br />
+        	&nbsp;&nbsp;&nbsp;&nbsp;grasping sounds of truth<br />
         	spinning in the head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of reality's flipside<br />
         	constantly plucking<br/>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;consciousness's fickle<br />
