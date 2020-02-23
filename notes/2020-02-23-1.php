@@ -7,7 +7,7 @@
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-02-29T09:34:20+0000">February 23, 2020</time>
- <a class="u-in-reply-to" href="https://twitter.com/jgmac1106/status/1231594625573498881">In reply to tweet  
+ <a class="u-in-reply-to" href="https://twitter.com/jgmac1106/status/1231594625573498881">In reply to tweet</a>  
           
       
   
