@@ -117,7 +117,7 @@ undefined<br>
 <a class="u-url" href="/untitledpoem">Read More</a>
 </p>
   </div>
-  </div>
+ 
   <div class="h-entry">
   <p class="p-name">Selected Poems from Walkmyworld</p>
   <time class="dt-updated" datetime="2020-02-14 18:14:20">9<sup>th</sup> February 2014</time>
@@ -141,7 +141,8 @@ wonders if they are more of a collective thought<br/>
 collapsing tresses, snaking<br/>
 wires to only hit the road one more time. To travel down<br/>
 north for that final curtain.<br/></p>
-<p><a href="https://archive.jgregorymcverry.com/poetry-from-walkmyworld/" class="u-url">Read More</a>
+<p><a href="https://archive.jgregorymcverry.com/poetry-from-walkmyworld/" class="u-url">Read More</a></p>
+</div>
 </div>
 <div class="smallpoems">
  
