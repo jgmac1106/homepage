@@ -30,10 +30,12 @@
     <div><a class="event event-end h-entry u-url" href="/notes/2020-02-01-1"><time class="dt-published p-name" datetime="2020-02-01 07:44:20">7:44</time></a>
     
   </div>
+</div>
   <div class="day">
     <time class="day-label" datetime="2020-02-02 12:00:00">2</time>
     <div> <div class="h-entry"><a class="event event-end u-url" href="/notes/2020-02-02-1"><time class="dt-published p-name" datetime="2020-02-02T18:54:20+0000">8:54</time></a></div>
   </div>
+</div>
   <div class="day">
     <time class=" day-label" datetime="2020-02-03 12:00:00">3</time>
     
@@ -41,10 +43,8 @@
   <div class="day">
     <time class="day-label" datetime="2020-02-04 12:00:00">4</time>
     </div>
-  </div>
   <div class="day">
     </div>
-  </div>
   <div class="day">
     <time class="day-label" datetime="2020-02-06 12:00:00">6</time>
     
@@ -57,7 +57,7 @@
     <div class="week">
   <div class="day">
     <time class=" day-label" datetime="2020-02-08 12:00:00">8</time>
-   
+   </div>
     
   <div class="day ">
     <time class="day-label" datetime="2020-02-09 12:00:00">9</time>
@@ -69,7 +69,7 @@
   </div>
   <div class="day">
     <time class=" day-label" datetime="2020-02-11 12:00:00">11</time>
-    
+    </div>
   <div class="day">
     <time class="day-label" datetime="2020-02-12 12:00:00">12</time>
     <
@@ -111,6 +111,7 @@
   <div class="day ">
     <time class="day-label" datetime="2020-02-21 12:00:00">21</time>
     
+</div>
 </div>
     </article>
     <footer>
