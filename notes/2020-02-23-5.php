@@ -21,7 +21,7 @@ strings, time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ticking<br />
 on&nbsp;&nbsp;&nbsp;&nbsp; a metronome<br />
 swaying between &nbsp;&nbsp;&nbsp;&nbsp;lost<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;words and fallen<br />
-words<br/>
+worlds<br/>
 #poetryport
         </p>
       
