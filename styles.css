@@ -1634,74 +1634,59 @@ margin-bottome: 3em;
   max-width: 250px;
   border-radius: 50%;
 }
-.poetry .grid-container {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(auto-fill, max(200px, 1fr));
-  grid-gap: 10px;
-  padding: 10px;
-}
+.poemwrapper {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+   
+    color: black;
+  }
 
-.poetry .featured {
-  margin-bottom:.3em;
-  grid-column: 4 / 10;
-  grid-row: 1;
-}
- .audiopoem {
-  text-align:center;
-  margin-bottom:.3em;
-  grid-column: 1 / 4;
-  grid-row:1 / 5;
-
-}
-
-.poetry .smallpoems {
-grid-column: 4 / 7;
-border: solid 5px;
-grid-row: 2;
-}
-
-.poetry .backstage {
-grid-column: 7 / 10;
-grid-row: 2;
-
-
-}
-.poetry .backstage li{
-display: block;
-  color: black;
-  font-size: .75em;
-  text-align: left;
-  line-height: 1.75;
-}
+  .poembox {
   
-.poetry .poetcircle {
-  grid-column: 10 / 12;
-  grid-row: 1/5;
+    color: black;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
 
- 
-}
-.poetcircle .follow li {
-  display: block;
-}
- .poetry .poemreads {
-  grid-column: 10 / 12;
-  grid-row-start: 2 ;
+  }
 
- 
+  .a {
+    grid-column: 1;
+    grid-row: 1 / 8;
+  }
+  .b {
+    grid-column: 2 / 4;
+    grid-row: 1 / 5;
+  }
+  .c {
+    grid-column: 4 ;
+    grid-row: 1 / 5;
+  }
+  .d {
+    grid-column: 2;
+    grid-row: 6;
+  }
+
+  .e {
+    grid-column: 3;
+    grid-row: 6;
+  }
+.f {
+  grid-column: 4;
+  grid-row: 6;
 }
-.poetry .poemreads img{
+.poemreads img{
   max-width:200px;
   display:block;
 
  
 }
-.poetry iframe{
+ .poembox iframe{
     object-fit: cover;
   width: 100%;
 height: 1000px;
 }
- 
 .myFeeds li {
   text-decoration: none;
   font-size: 0.75em;
