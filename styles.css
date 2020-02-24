@@ -1679,6 +1679,33 @@ margin-bottome: 3em;
   grid-column: 4;
   grid-row: 6;
 }
+@media only screen and (min-width: 600px)  {
+  a {
+    grid-column: 2 / 4;
+    grid-row: 1;
+  }
+  .b {
+    grid-column: 2 / 4;
+    grid-row: 2;
+  }
+  .c {
+    grid-column: 2 / 4;
+    grid-row: 3;
+  }
+  .d {
+    grid-column: 2 / 4;
+    grid-row: 4;
+  }
+
+  .e {
+    grid-column: 2 / 4;
+    grid-row: 5;
+  }
+.f {
+  grid-column: 2 / 4;
+  grid-row: 6;
+}
+  }
 .poemreads img{
   max-width:200px;
   display:block;
