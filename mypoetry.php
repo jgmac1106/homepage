@@ -46,25 +46,96 @@
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/HomeInOurHeliosphere.m4a" controls="controls">
 </audio>
 </div>
-<div class="h-entry audiopoem">
-  <p class="p-name">Color of Boogie</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-02-07 09:04:20">7<sup>th</sup> February 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/HomeInOurHeliosphere.m4a" controls="controls">
-</audio>
-</div>
+
 <div class="h-entry audiopoem">
   <p class="p-name">Ridgeline</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-02-09 06:14:20">9<sup>th</sup> February 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ColorOfBoogie.m4a" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ridge.m4a" controls="controls">
 </audio>
 </div>
 <div class="h-entry audiopoem">
   <p class="p-name">Poetry as Play</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
+  <time class="dt-published" datetime="2020-02-11 06:44:20">9<sup>th</sup> February 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PoetryAsPlay.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Paradox of Technology</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-11 06:44:20">11<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/paradoxoftechnology.mp3" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Inertia of Art</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-11 06:44:20">11<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/InertiaOfArt.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Peace for the Part time PhD</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-12 06:44:20">12<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PeaceForThePartTimePhD.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Missing Bowie</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-13 06:44:20">13<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PeaceForThePartTimePhD.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Expressions of Fate</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-13 06:44:20">16<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ExpressionsOfFate.mp3" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Poetry is Kindness</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-16 06:44:20">16<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PoetryIsKindness.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Kindness Blanket</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-17 06:44:20">17<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetryKindnessBlanket.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Negotiation of the Selfie</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-19 06:44:20">19<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/NegotiationOfTheSelfie.mp3" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Risky Beds</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-20 06:44:20">20<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/RiskyBed.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Poetry is Risk </p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-20 06:44:20">20<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PoetryIsFreedom.m4a" controls="controls">
+</audio>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Three Body Problem</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-21 06:44:20">21<sup>st</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/threebodyproblem.m4a" controls="controls">
 </audio>
 </div>
 </div>
