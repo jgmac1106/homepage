@@ -163,7 +163,7 @@ north for that final curtain.<br/></p>
 </ul>
   </div>
   </div>
-  <div class="poembox d"><h2>Poems Feed</h2>
+  <div class="poembox d poemfeed"><h2>Poems Feed</h2>
 <iframe src="https://www.inoreader.com/stream/user/1005993829/tag/mypoems/view/html?cs=m" frameborder="2" tabindex="-1"></iframe></div>
   <div class="poembox e"><div class="h-feed backstage" id="backstage">
     <div>
@@ -173,14 +173,14 @@ north for that final curtain.<br/></p>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
 </div>
   <ul>
-    <li class="h-entry"><span class="p-name">Ten Technology and Poetry Ideas</span>  <span class="p-summary">Ten ideas to infuse tech into petry</span> <a class="u-url" href="https://archive.jgregorymcverry.com/ten-technology-and-poetry-ideas/">Read More</a></li>
-    <li class="h-entry"><span class="p-name">Using Multimodal Poetry to Engage in Critical Literacy</span>  <span class="p-summary">Poetry provides a perfect avenue for multimodal explorations of truth and powe </span> <a class="u-url" href="https://archive.jgregorymcverry.com/using-multimodal-poetry-to-engage-in-critical-literacy/">Read More</a></li>
-    <li class="h-entry"><span class="p-name">Finding Our Voices in Lost Voices</span>  <span class="p-summary">Teaching Documentary Poetry </span> <a class="u-url" href="https://archive.jgregorymcverry.com/finding-our-voices-in-lost-voices/">Read More</a></li>
-    <li class="h-entry"><span class="p-name">#MNLI13 Day 3 Reflection Coding Community</span> > <span class="p-summary">Role of Community in Poetry and Code </span> <a class="u-url" href="https://archive.jgregorymcverry.com/mnli13-day-3-reflection-coding-community/">Read More</a></li>
-     <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry</span>  <span class="p-summary">Remixing Tone, Imagery and Images</span> <a class="u-url" href="https://archive.jgregorymcverry.com/how-to-use-images-to-teach-poetry/">Read More</a></li>
-      <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry II</span>  <span class="p-summary">Making Metaphor Poems</span> <a class="u-url" href="https://archive.jgregorymcverry.com/how-to-teach-poetry-with-images-part-ii/">Read More</a></li>
-          <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry III</span>  <span class="p-summary">Responding With Images</span> <a class="u-url" href="https://archive.jgregorymcverry.com/how-to-teach-poetry-with-images-part-iii/">Read More</a></li>
-     <li class="h-entry"><span class="p-name">#BackStage Blog: Making a Pixelated Gif Poem</span>  <span class="p-summary">A how to guide on making a pixel poem using gifs</span> <a class="u-url" href="https://archive.jgregorymcverry.com/backstage-blog-making-a-pixelated-gif-poem/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">Ten Technology and Poetry Ideas</span>  <span class="p-summary">Ten ideas to infuse tech into poetry</span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/ten-technology-and-poetry-ideas/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">Using Multimodal Poetry to Engage in Critical Literacy</span>  <span class="p-summary">Poetry provides a perfect avenue for multimodal explorations of truth and power </span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/using-multimodal-poetry-to-engage-in-critical-literacy/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">Finding Our Voices in Lost Voices</span>  <span class="p-summary">Teaching Documentary Poetry </span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/finding-our-voices-in-lost-voices/">Read More</a></li>
+    <li class="h-entry"><span class="p-name">#MNLI13 Day 3 Reflection Coding Community</span> > <span class="p-summary">Role of Community in Poetry and Code </span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/mnli13-day-3-reflection-coding-community/">Read More</a></li>
+     <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry</span>  <span class="p-summary">Remixing Tone, Imagery and Images</span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/how-to-use-images-to-teach-poetry/">Read More</a></li>
+      <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry II</span>  <span class="p-summary">Making Metaphor Poems</span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/how-to-teach-poetry-with-images-part-ii/">Read More</a></li>
+          <li class="h-entry"><span class="p-name">How to Use Images to Teach Poetry III</span>  <span class="p-summary">Responding With Images</span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/how-to-teach-poetry-with-images-part-iii/">Read More</a></li>
+     <li class="h-entry"><span class="p-name">#BackStage Blog: Making a Pixelated Gif Poem</span>  <span class="p-summary">A how to guide on making a pixel poem using gifs</span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/backstage-blog-making-a-pixelated-gif-poem/">Read More</a></li>
   </ul>
   </div></div>
   <div class="poembox f"><div class="h-feed poemreads" id="poemreads">
@@ -192,7 +192,7 @@ north for that final curtain.<br/></p>
 </div>
   <ul>
     <li class="h-entry"><span class="p-name">Typewriter Rodeo</span>  <span class="p-summary">A collection of improv poems written for people and printed on type writers</span> <a class="u-read-of" href="https://typewriterrodeo.com/our-book/">Typewriter RodeoBook</a><img src="https://typewriterrodeo.com/wp-content/uploads/2018/04/Typewriter-Rodeo-book-front-cover-1-895x1024.jpg"></li>
-    <li class="h-entry"><span class="p-name">Robert Hunter</span>  <span class="p-summary">A collection of poems from my favorite lyricist</span> <a class="u-url" href="http://www.hunterarchive.com/files/Poetry/SentinelGateway.html">Sentinel</a><img src="https://img1.od-cdn.com/ImageType-400/1523-1/822/0C7/CA/%7B8220C7CA-0367-4D96-8621-3EB481089808%7DImg400.jpg"></li>
+    <li class="h-entry"><span class="p-name">Robert Hunter</span>  <span class="p-summary">A collection of poems from my favorite lyricist</span><br /><a class="u-url" href="http://www.hunterarchive.com/files/Poetry/SentinelGateway.html">Sentinel</a><img src="https://img1.od-cdn.com/ImageType-400/1523-1/822/0C7/CA/%7B8220C7CA-0367-4D96-8621-3EB481089808%7DImg400.jpg"></li>
     <li class="h-entry"><span class="p-name">Bill Moyers</span>  <span class="p-summary">Interviews with Poets</span> <a class="u-read-of" href="https://billmoyers.com/series/fooling-with-words-1999/">Fooling with Poets</a><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348765356l/615561.jpg"></li>
   </ul>
   </div></div>
