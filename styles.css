@@ -1679,7 +1679,7 @@ margin-bottome: 3em;
   grid-column: 4;
   grid-row: 6;
 }
-@media only screen and (min-width: 600px)  {
+@media only screen and (max-width: 600px)  {
   a {
     grid-column: 2 / 4;
     grid-row: 1;
