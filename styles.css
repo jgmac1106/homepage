@@ -1650,6 +1650,9 @@ margin-bottome: 3em;
     font-size: 150%;
 
   }
+  .poembox li: {
+    margin-bottom: 5%;
+  }
 
   .a {
     grid-column: 1;
