@@ -10,7 +10,7 @@
       <div>
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
-   <img  src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
+   <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
  </div>
  <div class="h-entry audiopoem" >
   <p class="p-name">(un)Celebration</p>
