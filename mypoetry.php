@@ -167,6 +167,7 @@
 <data class="p-size" value="392042"></data><data class="p-duration" value="PT00H00M26S"></data>
 </div>
 </div>
+<a class="u-syndication" href="https://pca.st/54tg44lq">Subscribe on PocketCast</a>
     </div>
   <div class="poembox b"><div class="h-feed poetry featured" id="featuredpoems">
   <div>
