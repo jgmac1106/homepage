@@ -180,7 +180,19 @@
   <p class="p-name">Poems of the Poetry Port</p>
   <p class="p-summary">A 29 day calendar of all the poems I(we) composed for the #clmooc poetry port</p>
    <div class="e-content">
-    <a class="u-url href=/poetryportpoems">Read em all</a>
+    <a class="u-url" href="/poetryportpoems">Read em all</a>
+  </div>
+</div>
+<div class="h-cite">
+  <h1 class="p-name">Negotiation of the Selfie </h1>
+  <div class="pubinfo">
+  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
+     on <time class="dt-published" datetime="2020-02-19 06:14:20">19<sup>th</sup> February 2020</time></p>
+    <small>Image: Screenshot by me shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
+  </div>
+  <div class="e-content">
+    <video class="u-video" controls src="https://jgregorymcverry.com/videos/NegotiationOfTheSelfie.mp4"></video><br/>
+    <a class="u-url" href="/negotiatonofselfie" rel="canonical">Read More</a>
   </div>
 </div>
 <div class="h-entry">
