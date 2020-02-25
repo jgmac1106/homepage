@@ -10,7 +10,7 @@
       <div>
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
-    <time class="dt-updates" datetime="2020-02-25 11:14:20">25<sup>th</sup> February 2020</time>
+    <time class="dt-updated" datetime="2020-02-25 11:54:20">25<sup>th</sup> February 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
  </div>
  <div class="h-entry audiopoem" >
@@ -157,6 +157,14 @@
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/threebodyproblem.m4a" controls="controls">
 </audio>
 <data class="p-size" value="1279995"></data><data class="p-duration" value="PT00H00M13S"></data>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Explore Poetry</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-25 11:54:20">25<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/explorepoetry.m4a" controls="controls">
+</audio>
+<data class="p-size" value="392042"></data><data class="p-duration" value="PT00H00M26S"></data>
 </div>
 </div>
     </div>
