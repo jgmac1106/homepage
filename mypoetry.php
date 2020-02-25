@@ -176,6 +176,13 @@
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
 </div>
 <div class="h-entry">
+  <p class="p-name">Poems of the Poetry Port</p>
+  <p class="p-summary">A 29 day calendar of all the poems I(we) composed for the #clmooc poetry port</p>
+   <div class="e-content">
+    <a class="u-url href=/poetryportpoems">Read em all</a>
+  </div>
+</div>
+<div class="h-entry">
   <p class="p-name">Untitled Poem</p>
   <p class="p-summary">A collaborative poem written <br/>with Kevin Hogdson <br />every day for 30 Days</p>
   <div class="e-content">

@@ -36,7 +36,7 @@
           <a href="/following" class="navLinks">Following</a>
         </div>
         <div class="Navbar__Link" >
-          <a href="/annotations" class="navLinks">Annotations</a>
+          <a href="/mypoetry" class="navLinks">Poetry</a>
         </div>
         <div class="Navbar__Link" >
           <a href="/myvideos" class="navLinks">Videos</a>
