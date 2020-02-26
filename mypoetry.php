@@ -1,5 +1,9 @@
 <?php include 'head.php'; ?>
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23audiopoems" title="Audio Poems">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23featuredpoems" title="Fetured Poems">
+<link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="smallpoems">
+<link rel="alternate" type="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23poemreads" title="smallpoems">
+
 </head>
 <?php include 'header.php'; ?>
     </header>
