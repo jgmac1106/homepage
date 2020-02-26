@@ -174,7 +174,7 @@
   <p class="p-name">Explore Poetry in the Kitchen</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-02-26 11:04:20">26<sup>th</sup> February 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ExplorePoetryInTheKithcen.m4a" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ExplorePoetryInTheKitchen.m4a" controls="controls">
 </audio>
 <data class="p-size" value="419619"></data><data class="p-duration" value="PT00H00M29S"></data>
 </div>
