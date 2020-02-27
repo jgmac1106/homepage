@@ -14,6 +14,7 @@
       <div>
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
+   <data class="p-category" value="arts"></data>
     <time class="dt-updated"  datetime="2020-02-27 06:04:20">27<sup>th</sup> February 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
  </div>
