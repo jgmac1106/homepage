@@ -1705,7 +1705,10 @@ margin-bottome: 3em;
   grid-column: 2 / 4;
   grid-row: 6;
 }
+.poembox audio {
+  width: 80%;
   }
+}
 .poemreads img{
   max-width:200px;
   display:block;

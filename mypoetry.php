@@ -14,7 +14,7 @@
       <div>
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
-    <time class="dt-updated"  datetime="2020-02-26 11:04:20">26<sup>th</sup> February 2020</time>
+    <time class="dt-updated"  datetime="2020-02-27 06:04:20">27<sup>th</sup> February 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
  </div>
  <div class="h-entry audiopoem" >
@@ -178,6 +178,14 @@
 </audio>
 <data class="p-size" value="419619"></data><data class="p-duration" value="PT00H00M29S"></data>
 </div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Explore Life</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-26 19:44:20">26<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/explorelife.m4a" controls="controls">
+</audio>
+<data class="p-size" value="419619"></data><data class="p-duration" value="PT00H00M29S"></data>
+</div>
 </div>
 <a class="u-syndication" href="https://pca.st/54tg44lq">Subscribe on PocketCast</a>
     </div>
@@ -207,6 +215,7 @@
     <a class="u-url" href="/negotiatonofselfie" rel="canonical">Read More</a>
   </div>
 </div>
+
 <div class="h-entry">
   <h3 class="p-name">Untitled Poem</h3>
   <p class="p-summary">A collaborative poem written <br/>with Kevin Hogdson <br />every day for 30 Days</p>
