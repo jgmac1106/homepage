@@ -15,7 +15,7 @@
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
-    <time class="dt-updated"  datetime="2020-02-27 06:04:20">27<sup>th</sup> February 2020</time>
+    <time class="dt-updated"  datetime="2020-02-28 07:34:20">28<sup>th</sup> February 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
  </div>
  <div class="h-entry audiopoem" >
@@ -186,6 +186,15 @@
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/explorelife.m4a" controls="controls">
 </audio>
 <data class="p-size" value="419619"></data><data class="p-duration" value="PT00H00M29S"></data>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Joy in Potery</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-26 19:44:20">26<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Joy+in+Poetry.m4a" controls="controls">
+</audio>
+<data class="p-size" value="279619"></data><data class="p-duration" value="PT00H00M17S"></data>
+<small class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a></small>
 </div>
 </div>
 <a class="u-syndication" href="https://pca.st/54tg44lq">Subscribe on PocketCast</a>
