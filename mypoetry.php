@@ -194,10 +194,10 @@
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Joy+in+Poetry.m4a" controls="controls">
 </audio>
 <data class="p-size" value="279619"></data><data class="p-duration" value="PT00H00M17S"></data>
-<small class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a></small>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a></p>
 </div>
 </div>
-<a class="u-syndication" href="https://pca.st/54tg44lq">Subscribe on PocketCast</a>
+<a class="u-syndication" href="https://pca.st/54tg44lq"><img src="https://www.pocketcasts.com/assets/images/roundel.svg">Subscribe on PocketCast</a>
     </div>
   <div class="poembox b"><div class="h-feed poetry featured" id="featuredpoems">
   <div>
