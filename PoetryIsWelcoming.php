@@ -32,6 +32,11 @@
     not of a pillar of sin<br />
     but a strong woman who wouldn't<br />
     give in</p>
+    <p>Poetry is welcoming Love<br />
+      turning cottages to temples<br />
+      vestiages intertwined in verse<br />
+      Oak and Linden leaves providing<br />
+    rest in rythm</p>
     <p>Poetry is welcoming <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-lumber-jacksaxe-rest-upon-a-treeas">shade</a><br/>
     under trees to topple<br/>
     our axe grinding way<br />
