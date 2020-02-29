@@ -1653,7 +1653,12 @@ margin-bottome: 3em;
   .poembox li {
     margin-bottom: 5%;
   }
-
+.poembox a {
+  font-size: 1vmin;
+}
+.poembox p {
+  font-size: 1vmin;
+}
   .a {
     grid-column: 1;
     grid-row: 1 / 8;
