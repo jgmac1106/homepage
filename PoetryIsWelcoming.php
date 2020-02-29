@@ -73,7 +73,7 @@ to steal glances of the other side<br/>
 
 
       </div>
-<p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small></p>
+<p><small>Also onn<a class="u-url url" href="https://jgregorymcverry.com/PoetryIsWelcoming" rel="canonical"><strong>My Site </strong> <b/><a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small> <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a> </small></p>
 </article>
     </main>
     <footer>
