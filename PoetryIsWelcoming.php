@@ -39,7 +39,7 @@
     like the loyalty of a pup<br />
     <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/lo-sunlosing-fanhero-or-rivertrusted-friendwelcoming-sightsaving-a">saving signt and men</a> from sea<br />
    <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/passamaquod-orphanpup-bundled-tightwelcome-to-fathershomehealthy-dogbrings">pets of prosperity</a><br />
-   who shower gifts willing to wash<br />
+   who shower gifts on those willing to wash<br />
  <a href="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-priest-knockingon-rantidevs-doorso-differentthan-please">feet</a> of guests</p>
  <p>Poetry is welcoming new risk<br />
 giving our last words to <a span class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/warming-kneesby-the-fire-in-tales-ofhavamal">strangers</a><br >
