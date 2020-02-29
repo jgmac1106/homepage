@@ -18,7 +18,7 @@
 <img class="featured u-featured small"  src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="Poetryport logo">
     <div class="copy">
   <div class="e-content">
-    <audio controls source="/poetry/PoetryIsWelcoming.m4a"></audio>
+    <audio controls source="https://jgregorymcverry.com/poetry/PoetryIsWelcoming.m4a"></audio>
      <p>Poetry is welcoming<br />
     A magic arrow chasing away <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-magic-arrowcasts-asides-asangry-bearssquatting-homes">greedy bears</a><br />
     who sleep amongst us<br />
