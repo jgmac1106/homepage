@@ -19,7 +19,7 @@
     <div class="copy">
   <div class="e-content">
      <p>Poetry is welcoming<br />
-    A >magic arrow hasing away <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-magic-arrowcasts-asides-asangry-bearssquatting-homes">greedy bears<br />
+    A magic arrow chasing away <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-magic-arrowcasts-asides-asangry-bearssquatting-homes">greedy bears</a><br />
     who sleep amongst us<br />
     while a <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/maybe-the-moraldoesnt-lie-with-themouse-and">raven pulls on a rat</a><br />
     carrying truths of harsh reality<br />
