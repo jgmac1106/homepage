@@ -14,8 +14,8 @@
     <span class="summary">
     <p class="p-summary">A final #poetryport gift to all the #clmooc poets who welcome me warts, words, wisdomless, and all. </p>
     </span>
-
-<img class="featured u-featured" src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="screenshot of my notes">
+  </div>
+<img class="featured u-featured small"  src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="Poetryport logo">
     <div class="copy">
   <div class="e-content">
      <p>Poetry is welcoming<br />
@@ -42,7 +42,7 @@
    who shower gifts willing to wash<br />
  <a href="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-priest-knockingon-rantidevs-doorso-differentthan-please">feet</a> of guests</p>
  <p>Poetry is welcoming new risk<br />
-giving our last words to strangers<br >
+giving our last words to <a span class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/warming-kneesby-the-fire-in-tales-ofhavamal">strangers</a><br >
 at risk of no thanks<br />
 forget about pay<br />
 <p>Poetry is welcoming words<br />
@@ -55,8 +55,8 @@ we ride our <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/20
 mounted pride, that must subside<br />
 to steal glances of the other side<br/>
 </p>
-<p>Poetry is welcoming strangers<br />
-  into heartaches and vicotries of soul.<br />
+<p>Poetry is <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/sipping-on-teawith-sen-no-rikyueach-sipwelcoming">welcoming strangers</a><br />
+  into heartaches and <a class="h-cite" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/a-turtle-who-finds-sustenancein-a-spiders">victories of soul</a>.<br />
   setting in motion the luminous one<br />
   by causing sounds in motion<br />
   A truth so, universal,last crumbs of our selves<br/> given<br />
