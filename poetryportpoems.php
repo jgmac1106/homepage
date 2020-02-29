@@ -251,7 +251,6 @@
     <div><span class="event event-end p-name">Confidence</span><br /><p class="e-content">
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/floodlit-public-a-poetryport-poem-inspired-by-recent-indieweb-chat">Floodlit Public</a></span><br />
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/tonight-i-wrotemy-most-importantpoem-one-day">Most Important Poem</a></span><br />
-    Floodlit Public</a></span><br />
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/like-clockworkand-with-confidencei-should-plan-and">Waxing Poetic</a></span><br />
       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/confidence-of-winters-kiss-a-poetryport-poem">Winter's Kiss</a>
     </span></p>
