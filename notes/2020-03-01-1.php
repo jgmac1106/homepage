@@ -11,7 +11,7 @@
  
           
       
-  <img class="u-photo" href="https://jgregorymcverry.com/poetry/concretetest.gif" alt="">
+  <img class="u-photo" src="https://jgregorymcverry.com/poetry/concretetest.gif" alt="">
       
         <p class="p-name e-content">Here is your belated #poetryport gift. I need to make my puppet bigger. Was my first attempt at stop motion concrete poems</p>
  
