@@ -1653,11 +1653,14 @@ margin-bottome: 3em;
   .poembox li {
     margin-bottom: 5%;
   }
-.poembox a {
-  font-size: 1vmin;
+.audiopoem a {
+  font-size: 1.7vmin;
 }
-.poembox p {
-  font-size: 1vmin;
+.audiopoem p {
+  font-size: 1.7vmin;
+}
+.audiopoem time {
+  font-size: 2.2vmin;
 }
   .a {
     grid-column: 1;

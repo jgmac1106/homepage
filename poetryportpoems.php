@@ -188,7 +188,7 @@
   <div class="day h-entry">
     <time class="dt-published day-label h-entry" datetime="2020-02-21 12:00:00">21</time>
     <div><span class="event event-end p-name">Memories</span><br /><p class="e-content">
-    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/three-body-problem-a-poetryport-poem-for-the-theme-memory">Three Body Problem</a></span><br />
+    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/21/three-body-problem-a-poetryport-poem-for-the-theme-memory">Three Body Problem</a></span>
 
     </p>
   </div>
@@ -203,7 +203,7 @@
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/s/VPMU4">Potty with Van Gogh</a></span><br />
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/22/four-haikus-remixed-from-the-gltich-haiku-generator-haiku-generator-by">Four Haikus</a></span><br />
     <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/22/a-poetryport-balckout-poem-remixing-my-work-dogtrax-and-karenatsharon">Blackout Poem</a></span><br />
-    <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/remixpoem">Remix</a></span><br /></p>
+    <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/remixpoem">Remix</a></span></p>
   </div>
   </div>
 </div>
@@ -213,34 +213,66 @@
     <time class=" day-label" datetime="2020-02-23 12:00:00">23</time>
    <div><span class="event event-end p-name">Silent</span><p class="e-content"><br />
     <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/notes/2020-02-23-5">Silencing Poets</a></span><br />
-    <a class="h-tem" href="https://jgregorymcverry.com/notes/2020-02-23-1">Meaning's Whispers</a></span><br />
+   <span class="h-cite"><a class="u-url"  href="https://jgregorymcverry.com/notes/2020-02-23-1">Meaning's Whispers</a></span><br />
     <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/notes/2020-02-23-7">Winter is Silent</a></span><br />
-     <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/notes/2020-02-23-8">Nature's Poem</a></span><br /></p>
+     <span class="h-cite"><a class="u-url" href="https://jgregorymcverry.com/notes/2020-02-23-8">Nature's Poem</a></span></p>
+
   </div>
   </div>
   <div class="day">
-    <time class="day-label" datetime="2020-02-24 12:00:00">24</time>
-    <div><span class="event event-end">Explore</span></div>
+    <time class="day-label h-entry" datetime="2020-02-24 12:00:00">24</time>
+    <div><span class="event event-end p-name">Explore</span><p class="e-content"><br />
+      <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/when-you-turn-to-explore-your-path">Roots of Victory</a></span><br />
+       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/wentale-cascading-haikusnew-forms-emerge-from-ancientsexploring">Cascading Haiku</a></span><br />
+       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/explore-life-a-poetryport-gift-for-every-child-never-too">Explore Life</a></span><br />
+       <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/24/explore-poetry-in-the-kitchen-poetryport-writingcommunity-smallpoems">Kitchen Poetry</a></span><br />
+        <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/24/explore-poetry-in-the-kitchen-poetryport-writingcommunity-smallpoems">Kitchen Poetry</a></span><br />
+         <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/24/explore-poetry-poetryport">Explore Poetry</a></span></p>
+        
+       
+       
+      
+    </div>
   </div>
-  <div class="day">
+  <div class="day h-event">
     <time class=" day-label" datetime="2020-02-25 12:00:00">25</time>
-    <div><span class="event event-end">Joy</span></div>
+    <div><span class="event event-end p-name">Joy</span><br /><p class="e-content">
+       <span class="h-cite"><a class="u-url" href=" https://quickthoughts.jgregorymcverry.com/2020/02/26/confidence-of-winters-kiss-a-poetryport-poem<">Envoy of Joy</a></span><br />
+        <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/lbanuelos4-4-followconnections-knowledgeyour-in">Follow in Joy</a></span><br />
+           <span class="h-cite"><a class="u-url" href=" https://quickthoughts.jgregorymcverry.com/2020/02/25/search-for-joy-a-poetryport-poem-clmooc-writingcommunity">Search for Joy</a></span><br />
+           <span class="h-cite"><a class="u-url" href=" https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Joy in Poetry</a></span></p>
+           
+         
+        
+   </div>
   </div>
-  <div class="day">
+  <div class="day h-entry">
     <time class=" day-label" datetime="2020-02-26 12:00:00">26</time>
-    <div><span class="event event-end">Confidence</span></div>
+    <div><span class="event event-end p-name">Confidence</span><br /><p class="e-content">
+    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/floodlit-public-a-poetryport-poem-inspired-by-recent-indieweb-chat">Floodlit Public</a></span><br />
+    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/tonight-i-wrotemy-most-importantpoem-one-day">Most Important Poem</a></span><br />
+    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/like-clockworkand-with-confidencei-should-plan-and">Waxing Poetic</a></span><br />
+      <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/confidence-of-winters-kiss-a-poetryport-poem">Winter's Kiss</a>
+    </span></p>
+    </div>
   </div>
-  <div class="day">
+  <div class="day h-entry">
     <time class=" day-label" datetime="2020-02-27 12:00:00">27</time>
-    <div><span class="event event-end">Diversity</span></div>
+    <div><span class="event event-end p-name">Diversity</span><br /><p class="e-content">
+    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/poetryport-i-cryfor-the-lack">Fragility of Guilt</a></span><br />
+     <span class="h-cite"><a class="u-url" href=" https://quickthoughts.jgregorymcverry.com/2020/02/27/celebrate-diversity-a-poetryport-poem">Celebrate Diversity?</a></span></p>
+   </div>
+    
   </div>
-  <div class="day ">
+  <div class="day h-entry">
     <time class="day-label" datetime="2020-02-28 12:00:00">28</time>
-    <div><span class="event event-end">Introspection</span></div>
+    <div><span class="event event-end p-name">Introspection</span><br /><p class="e-content">
+    <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/28/introspective-knots-a-poetryport-poem">Introspective Knots</a></span></p></div>
 </div>
- <div class="day ">
+ <div class="day h-entry">
     <time class="day-label" datetime="2020-02-29 12:00:00">29</time>
-    <div><span class="event event-end">Welcome</span></div>
+    <div><span class="event event-end p-name">Welcome</span><br /><p class="e-content">
+      <span class="h-cite"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/29/poetryport-any-endingmust-welcome-a-new-beginningnight">Ending on Welcome</a></span></p>
 </div>
 </div>
     </article>
