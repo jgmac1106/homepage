@@ -217,6 +217,11 @@
 </div>
 
 <a class="u-syndication" href="https://pca.st/54tg44lq"><img src="https://www.pocketcasts.com/assets/images/roundel.svg">Subscribe on PocketCast</a>
+<div class="microcastclub u-syndication">
+  <a href="https://microcast.club/39cb5c/prev">&larr;</a>
+    <a href="https://microcast.club/39cb5c">microcast.club</a>
+  <a href="https://microcast.club/39cb5c/next">&rarr;</a>
+</div>
     </div>
   <div class="poembox b"><div class="h-feed poetry featured" id="featuredpoems">
   <div>
