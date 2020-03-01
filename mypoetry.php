@@ -17,6 +17,7 @@
    <data class="p-category" value="arts"></data>
     <time class="dt-updated"  datetime="2020-02-28 07:34:20">28<sup>th</sup> February 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
+   <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
  <div class="h-entry audiopoem" >
   <p class="p-name">(un)Celebration</p>
