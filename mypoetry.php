@@ -336,6 +336,7 @@ north for that final curtain.<br/></p>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://tellio.blogspot.com/" title="Philpsopher, poet, farmer">Terry Elliot</a> <span class="p-note"> Philpsopher, poet, farmer</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://etalesandstories.tumblr.com/" title="Learning Technologist in Alice Springs, Australia">Wendy Taleo</a> <span class="p-note"> Learning Technologist in Alice Springs, Australia</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://developingwriters.org/" title="blogging about composition in the digital age">Anna Smith</a> <span class="p-note"> blogging about composition in the digital age</span></li>
+<li class="h-card p-follow-of"><a class="p-name  u-url" href="http://runeman.org/creative-writing/poetry/" title="Rhymes might be a more appropriate description for this section of creative work. Poetry implies access to inner truths, and what happens here may be only outer oddities.">Algot Runeman</a> <span class="p-note"> Rhymes might be a more appropriate description for this section of creative work. Poetry implies access to inner truths, and what happens here may be only outer oddities.</span></li>
 </ul>
   </div>
   </div>
