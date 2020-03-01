@@ -193,9 +193,19 @@
   <time class="dt-published" datetime="2020-02-26 19:44:20">26<sup>th</sup> February 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Joy+in+Poetry.m4a" controls="controls">
 </audio>
+<div class="h-entry audiopoem">
+  <p class="p-name">Explore Life</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-02-29 18:44:20">29<sup>th</sup> February 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/explorelife.m4a" controls="controls">
+</audio>
+<data class="p-size" value="279619"></data><data class="p-duration" value="PT00H00M17S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a> Originally pubslished <time datetime="2020-02-25T00:53:25+0000">25 Feb 2020</time></p>
+</div>
 <data class="p-size" value="279619"></data><data class="p-duration" value="PT00H00M17S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a></p>
 </div>
+https://quickthoughts.jgregorymcverry.com/2020/02/25/explore-life-a-poetryport-gift-for-every-child-never-too
 </div>
 <a class="u-syndication" href="https://pca.st/54tg44lq"><img src="https://www.pocketcasts.com/assets/images/roundel.svg">Subscribe on PocketCast</a>
     </div>
