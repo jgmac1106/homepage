@@ -222,7 +222,7 @@
     <a href="https://microcast.club/39cb5c">microcast.club</a>
   <a href="https://microcast.club/39cb5c/next">&rarr;</a>
 </div>
-<a class="u-syndication" href="https://pca.st/54tg44lq"><img src="https://www.pocketcasts.com/assets/images/roundel.svg">Subscribe on PocketCast</a>
+<a class="u-syndication" href="https://pca.st/8suh4x3o"><img src="https://www.pocketcasts.com/assets/images/roundel.svg">Subscribe on PocketCast</a>
 </div>
     </div>
   <div class="poembox b"><div class="h-feed poetry featured" id="featuredpoems">
@@ -244,7 +244,7 @@
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-02-19 06:14:20">19<sup>th</sup> February 2020</time></p>
-    <small>Image: Screenshot by me shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a> </small>
+    
   </div>
   <div class="e-content">
     <video class="u-video" controls src="https://jgregorymcverry.com/videos/NegotiationOfTheSelfie.mp4"></video><br/>
