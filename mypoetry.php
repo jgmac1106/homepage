@@ -15,7 +15,7 @@
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
-    <time class="dt-updated" datetime="2020-03-02 12:04:20">3<sup>rd/sup>March 2020</time>
+    <time class="dt-updated" datetime="2020-03-02 16:04:20">3<sup>rd/sup>March 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -227,7 +227,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Confidence of Winter's Kiss</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-02 12:04:20">3<sup>rd/sup>March 2020</time>
+  <time class="dt-published" datetime="2020-03-03 12:04:20">3<sup>rd/sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/EnvoyOfJoy.m4a" controls="controls">
 </audio>
 <data class="p-size" value="367972"></data><data class="p-duration" value="PT00H00M25S"></data>
