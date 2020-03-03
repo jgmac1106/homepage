@@ -47,10 +47,10 @@
 <tr style="border: 1px solid black" > 
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>Nappy</p>
-<p><a href="https://www.google.com/url?q=https://www.nappy.co/&amp;sa=D&amp;ust=1583236708343000">https://www.nappy.co/</a></p>
+<p><a href="https://www.nappy.co/&amp;sa=D&amp;ust=1583236708343000">https://www.nappy.co/</a></p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
-<p>&ldquo;Beautiful, high-res photos of black and brown people. <a href="https://www.google.com/url?q=https://www.nappy.co/license&amp;sa=D&amp;ust=1583236708343000">For free.</a>&rdquo;</p>
+<p>&ldquo;Beautiful, high-res photos of black and brown people. <a href="https://www.nappy.co/license&amp;sa=D&amp;ust=1583236708343000">For free.</a>&rdquo;</p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>Creative Commons&nbsp;Zero (Public Domain)</p>
@@ -59,7 +59,7 @@
 <tr style="border: 1px solid black" > 
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>PICNOI</p>
-<p><a href="https://www.google.com/url?q=https://picnoi.com/&amp;sa=D&amp;ust=1583236708344000">https://picnoi.com/</a></p>
+<p><a href="https://picnoi.com/&amp;sa=D&amp;ust=1583236708344000">https://picnoi.com/</a></p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>&ldquo;Free Stock Photo for a Colorful World&rdquo;</p>
@@ -71,7 +71,7 @@
 <tr style="border: 1px solid black" > 
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>CreateHerStock</p>
-<p><a href="https://www.google.com/url?q=https://createherstock.com/&amp;sa=D&amp;ust=1583236708345000">https://createherstock.com</a></p>
+<p><a href="https://createherstock.com/&amp;sa=D&amp;ust=1583236708345000">https://createherstock.com</a></p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>&ldquo;Your destination for images featuring melanated women&rdquo;</p>
@@ -83,7 +83,7 @@
 <tr style="border: 1px solid black" > 
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>WOCinTech</p>
-<p><a href="https://www.google.com/url?q=https://www.flickr.com/photos/wocintechchat/&amp;sa=D&amp;ust=1583236708347000">https://www.flickr.com/photos/wocintechchat/</a></p>
+<p><a href="https://www.flickr.com/photos/wocintechchat/&amp;sa=D&amp;ust=1583236708347000">https://www.flickr.com/photos/wocintechchat/</a></p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>Flickr curated photostream to reflect women of color in technology settings</p>
@@ -96,7 +96,7 @@
 <tr style="border: 1px solid black" > 
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>Redefining Women</p>
-<p><a href="https://www.google.com/url?q=https://thenounproject.com/Iconathon1/collection/redefining-women/&amp;sa=D&amp;ust=1583236708348000">https://thenounproject.com/Iconathon1/collection/redefining-women/</a></p>
+<p><a href="https://thenounproject.com/Iconathon1/collection/redefining-women/&amp;sa=D&amp;ust=1583236708348000">https://thenounproject.com/Iconathon1/collection/redefining-women/</a></p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>Curated collection inside of The Noun Project</p>
@@ -109,7 +109,7 @@
 <tr style="border: 1px solid black" > 
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>Fresh-Folk</p>
-<p><a href="https://www.google.com/url?q=https://fresh-folk.com/&amp;sa=D&amp;ust=1583236708349000">https://fresh-folk.com/</a></p>
+<p><a href="https://fresh-folk.com/&amp;sa=D&amp;ust=1583236708349000">https://fresh-folk.com/</a></p>
 </td>
 <td colspan="1" rowspan="1" style="border: 1px solid black" > 
 <p>&ldquo;an illustration library of</p>
