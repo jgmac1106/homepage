@@ -218,7 +218,7 @@ Loqi authorship is how to indicate who the author is for a post, and an algorith
 Loqi tantek has 15 karma in this channel over the last year (123 in all channels)<br />
 # 01:50<br />
 [jgmac1106] I think under posts I will add an explict part about if it is in the footer, the two examples do cover this use case but it will be better to layout the possibilities<br />
-</blockquote><br />
+<br />
 # 16:44<br />
 aaronpk okay I just did a big chunk of work on the /authorship page to try to make it more readable and include example markup... i'd appreciate any feedback on it! https://indieweb.org/authorship<br />
 # 16:47<br />
