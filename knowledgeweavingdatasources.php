@@ -3,8 +3,9 @@
 <?php include 'header.php'; ?>
 </header>
     
-  <main class="longreads">   
+   <main class="longreads">   
 <div class="h-entry">
+	<div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-03-2 10:34:20">03<sup>rd</sup>March 2020</time></p>
  </div>
@@ -16,7 +17,7 @@
     </span>:
     <blockquote class="e-content">
    
-[tantek] authorship is supposed to be spec for consuming code, not general purpose documentation about authors<br />
+<p>[tantek] authorship is supposed to be spec for consuming code, not general purpose documentation about authors<br />
 # 15:28<br />
 [tantek] all the "how to mark up an h-entry with ..." should be in /h-entry<br />
 # 15:28<br />
@@ -50,7 +51,7 @@ Loqi With advice from Greg McVerry, Aaron Parecki, and Ryan Barrett, I finished 
 # 16:00<br />
 [tantek] question whether those links are actually helpful from a beginner's and learning perspective<br />
 # 16:00<br />
-[tantek] also even if/when people do get things figured out, they may have still struggled with the documentation that was provided.<br />
+[tantek] also even if/when people do get things figured out, they may have still struggled with the documentation that was provided.<br /></p>
 </blockquote>
 </div>
 </div>
@@ -62,6 +63,7 @@ Loqi With advice from Greg McVerry, Aaron Parecki, and Ryan Barrett, I finished 
       <a class="u-url p-name" href="https://indieweb.org">IndieWeb</a>
     </span>:
     <blockquote class="e-content">
+    	<p>
 # 20:58<br/>
 jamietanna[m] What's Greg's chat name? Spotted that his author name on http://php.microformats.io/?url=https%3A%2F%2Fjgregorymcverry.com%2Fnotes%2F2020-02-02-1 is `/`<br/>
 # 20:59<br/>
@@ -188,6 +190,7 @@ aaronpk i will also say the "how to publish" section could benefit from being ex
 [tantek] right, that's something we should fix<br/>
 # 22:06<br/>
 [tantek] -> meta<br/>
+</p>
 </blockquote>
 </div>
 </div>
@@ -198,7 +201,7 @@ aaronpk i will also say the "how to publish" section could benefit from being ex
       <a class="u-url p-name" href="https://indieweb.org">IndieWeb</a>
     </span>:
     <blockquote class="e-content">
-
+<p>
 # 01:38<br />
 [tantek] lol<br />
 # 01:39<br />
@@ -279,7 +282,7 @@ sknebel h-entry has a property for the author<br />
 # 17:56<br />
 sknebel which with a prefix then ends up as u-author or p-author in the page source<br />
 # 17:57<br />
-aaronpk I also realized there isn't really any use for the p- prefix in this case since you always want the value to be a URL, so I dropped it from the examples to avoid confusion and having to explain even more edge cases<br />
+aaronpk I also realized there isn't really any use for the p- prefix in this case since you always want the value to be a URL, so I dropped it from the examples to avoid confusion and having to explain even more edge cases<br /></p>
 </blockquote>
 </div>
 </div>
@@ -290,7 +293,7 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
       <a class="u-url p-name" href="https://indieweb.org">IndieWeb</a>
     </span>:
     <blockquote class="e-content">
-
+<p>
 
     (cur | prev) 09:37, 15 February 2020‎ Aaronparecki.com (talk | contribs)‎ . . (5,475 bytes) (+326)‎ . . (→‎How to publish: clarify that these are minimal h-card examples, not canonical) (rollback 8 edits | undo)<br />
     (cur | prev) 09:02, 15 February 2020‎ Aaronparecki.com (talk | contribs)‎ . . (5,149 bytes) (+233)‎ . . (include full h-card examples instead of implied parsing to better illustrate the examples) (undo)<br />
@@ -304,7 +307,7 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
     (cur | prev) 18:00, 14 February 2020‎ Jgregorymcverry.com (talk | contribs)‎ . . (2,565 bytes) (+212)‎ . . (→‎How to publish: adding sentence about explicit design choices) (undo)<br />
     (cur | prev) 17:34, 14 February 2020‎ Tantek.com (talk | contribs)‎ . . (2,353 bytes) (+22)‎ . . (see also spec) (undo)<br />
     (cur | prev) 17:34, 14 February 2020‎ Tantek.com (talk | contribs)‎ . . (2,331 bytes) (-98)‎ . . (update Why for publish) (undo)<br />
-    (cur | prev) 17:13, 14 February 2020‎ Tantek.com (talk | contribs)‎ . . (2,429 bytes) (-27,040)‎ . . (move algorithm and specification, issues, brainstorming to spec page) (undo)<br />
+    (cur | prev) 17:13, 14 February 2020‎ Tantek.com (talk | contribs)‎ . . (2,429 bytes) (-27,040)‎ . . (move algorithm and specification, issues, brainstorming to spec page) (undo)<br /></p>
     </blockquote>
     </div>
     </div>
@@ -343,7 +346,7 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
     </blockquote>
 </div>
 </div>
-</article>
+</div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>
