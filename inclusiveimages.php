@@ -1,12 +1,12 @@
 <div class="h-entry">
   <div class="h cite">
   <a class="u-repost-of" href="https://docs.google.com/document/d/1lScQ-Uqowq87k25sZQ6qr_rxWUio-Q4uWIgy_879jRk/edit">
-    <p class="p-name">Inclusive Images</p></a>
+    <p class="p-name">Repost of Inclusive Images</p></a>
     <p>Diversity Summit ✦ 3/2/20 ✦ <span class="p-author h-card">Alexis Clifton</span> ✦ clifton@geneseo.edu</p>
     <a class="u-in-reply-to" href="https://twitter.com/openalexis/status/1234521956189384705">Tweet</a>
 
 <blockquote>
-<table class="e-content" style="td: border: 1px solid black; tr: border: 1px solid black;">
+<table class="e-content" style="border: 1px solid black">
 <tbody>
 <tr>
 <td colspan="1" rowspan="1">
