@@ -6,8 +6,15 @@
    <main class="longreads">   
 <article class="h-entry">
 	<h1 class="p-name">Data Sources: Knowledge Weaving in IndieWeb Network</h1>
-  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
-     on <time class="dt-published" datetime="2020-03-2 10:34:20">03<sup>rd</sup>March 2020</time></p>
+    <div class="pubinfo">
+  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
+     on <time class="dt-published" datetime="2019-08-07 15:38:00">07<sup>th</sup> August 2019</time></p>
+  <span class="summary">
+    <p class="p-summary">Baring my Sole for Dai</p>
+    </span>
+ </div>
+    
+    <div class="copy e-content">
 <div class="h-entry">
   <div class="h-cite u-repost-of">
     Repost of <a class="u-url" href="https://chat.indieweb.org/meta/2019-10-29#t157236334305500">a post</a> by
@@ -343,6 +350,7 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
         On my site currently, my author hCard on each post is invisible because I do not feel the need to display my photo, URL, and name on every post. This would be different if it was a multiple-author site. gRegor Morrill</p><p>
         I too have made the h-card invisible on my home page because I don't want details to show there for design reasons. Jeremy Cherfas</p>
     </blockquote>
+</div>
 </div>
 </div>
 </article>
