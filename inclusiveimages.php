@@ -6,7 +6,7 @@
     <a class="u-in-reply-to" href="https://twitter.com/openalexis/status/1234521956189384705">Tweet</a>
 
 <blockquote>
-<table class="e-content">
+<table class="e-content" style="td: border: 1px solid black; tr: border: 1px solid black;">
 <tbody>
 <tr>
 <td colspan="1" rowspan="1">
