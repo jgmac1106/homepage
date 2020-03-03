@@ -218,8 +218,6 @@ Loqi tantek has 15 karma in this channel over the last year (123 in all channels
 # 01:50<br />
 [jgmac1106] I think under posts I will add an explict part about if it is in the footer, the two examples do cover this use case but it will be better to layout the possibilities<br />
 </blockquote><br />
-</div><br />
-</div><br />
 # 16:44<br />
 aaronpk okay I just did a big chunk of work on the /authorship page to try to make it more readable and include example markup... i'd appreciate any feedback on it! https://indieweb.org/authorship<br />
 # 16:47<br />
@@ -344,6 +342,9 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
 <p>    Along the same lines, some people (e.g. User:Snarfed.org, User:Mowens.com, gRegor Morrill) would like to make some parts of their h-card invisible everywhere, but still available to programmatic consumers. Examples include rel-me links to some silos, public encryption key. Related: antipatterns#invisible_metadata</p><p>
         On my site currently, my author hCard on each post is invisible because I do not feel the need to display my photo, URL, and name on every post. This would be different if it was a multiple-author site. gRegor Morrill</p><p>
         I too have made the h-card invisible on my home page because I don't want details to show there for design reasons. Jeremy Cherfas</p>
+    </blockquote>
+</div>
+</div>
 </article>
     </main>
     <footer>
