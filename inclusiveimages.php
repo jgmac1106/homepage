@@ -1,3 +1,9 @@
+<?php include 'head.php'; ?>
+</head>
+<?php include 'header.php'; ?>
+</header>
+    
+  <main class="longreads">   
 <div class="h-entry">
   <div class="h cite">
   <a class="u-repost-of" href="https://docs.google.com/document/d/1lScQ-Uqowq87k25sZQ6qr_rxWUio-Q4uWIgy_879jRk/edit">
@@ -122,3 +128,10 @@
 </div>
 </div>
 </div>
+</main>
+    <footer>
+<?php include 'footer.php'; ?>
+
+  </body>
+ 
+</html>
