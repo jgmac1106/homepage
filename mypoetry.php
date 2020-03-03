@@ -15,7 +15,7 @@
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
-    <time class="dt-updated"  datetime="2020-03-02 12:24:20">2<sup>nd</sup>March 2020</time>
+    <time class="dt-updated" datetime="2020-03-02 12:04:20">3<sup>rd/sup>March 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -222,7 +222,16 @@
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/EnvoyOfJoy.m4a" controls="controls">
 </audio>
 <data class="p-size" value="449"></data><data class="p-duration" value="PT00H00M16S"></data>
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/envoy-of-joy-a-poetryport-poem-smallpoems-writingcommunity">Show Link</a>Originally pubslished 27 Feb 2020</p>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/envoy-of-joy-a-poetryport-poem-smallpoems-writingcommunity">Show Link</a>Originally pubslished 26 Feb 2020</p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Confidence of Winter's Kiss</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-03-02 12:04:20">3<sup>rd/sup>March 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/EnvoyOfJoy.m4a" controls="controls">
+</audio>
+<data class="p-size" value="367972"></data><data class="p-duration" value="PT00H00M25S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/confidence-of-winters-kiss-a-poetryport-poem">Show Link</a>Originally published 26 Feb 2020</p>
 </div>
 </div>
 <div class="audiopoem">
