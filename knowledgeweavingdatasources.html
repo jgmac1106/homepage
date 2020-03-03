@@ -327,6 +327,22 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
 </blockquote>
 </div>
 </div>
+<div class="h-entry">
+  <div class="h-cite u-repost-of">
+    Repost of <a class="u-url" href="https://indieweb.org/h-card#Issues">IndieWeb Wiki Page</a> by
+    <span class="p-author h-card">
+      <a class="u-url p-name" href="https://indieweb.org">IndieWeb</a>
+    </span>:
+    <blockquote class="e-content">
+<p>From a pure user features perspective, and assuming no invisible metadata, how are the following accomplished (that is, with h-card)?</p>
+<p>    I'd like to show some personal profile information (for example, name) on my posts, but not my picture. I may want to show additional profile information on another page, for example. /about. That may include my picture, or it may not (including icon).</p>
+<p>    When I comment, like, repost, or rsvp to someone else's post, and they render that response (comments-presentation), I'd like to let them show my additional profile information, including my picture, if they choose. authorship handles some of this, but maybe not all, for example, the case where I don't show my picture anywhere on my site.</p>
+<p>    Similarly, when I log into a site like this wiki with IndieAuth (etc.), I'd like the site to be able to discover my additional profile information, including my picture, to show on my profile page, activity, or other appropriate places. representative-hcard-parsing gets close, but not all the way. #Brainstorming below is a straw man extension that could help.</p>
+<p>From an h-card specific viewpoint, here are some additional issues / questions:</p>
+<p>    Some people (e.g. GWG, Kartik, User:Snarfed.org, User:Mowens.com, gRegor Morrill, Vika, Lewis Cowles) would like a way to include both a minimal h-card on a page *and* a link to a "complete" h-card with more information, for example, contact details or photo. authorship and representative-hcard-parsing are both related but slightly different, and both currently only use the inline h-card if it's available. The inline h-card could include a link to the expanded h-card.</p>
+<p>    Along the same lines, some people (e.g. User:Snarfed.org, User:Mowens.com, gRegor Morrill) would like to make some parts of their h-card invisible everywhere, but still available to programmatic consumers. Examples include rel-me links to some silos, public encryption key. Related: antipatterns#invisible_metadata</p><p>
+        On my site currently, my author hCard on each post is invisible because I do not feel the need to display my photo, URL, and name on every post. This would be different if it was a multiple-author site. gRegor Morrill</p><p>
+        I too have made the h-card invisible on my home page because I don't want details to show there for design reasons. Jeremy Cherfas</p>
 </article>
     </main>
     <footer>
