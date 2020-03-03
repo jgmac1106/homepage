@@ -1,12 +1,10 @@
-
 <?php include 'head.php'; ?>
 </head>
 <?php include 'header.php'; ?>
-    </header>
+</header>
+    
   <main class="longreads">   
-  <article class="h-entry">
-  <h1 class="p-name">Data Sources: Knowledge Weaving in IndieWeb Network</h1>
-  <div class="pubinfo">
+<div class="h-entry">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-03-2 10:34:20">03<sup>rd</sup>March 2020</time></p>
  </div>
