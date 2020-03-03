@@ -5,10 +5,14 @@
     
   <main class="longreads">   
 <div class="h-entry">
+	<div class="pubinfo">
+	<p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
+     on <time class="dt-published" datetime="2020-005-8 10:54:20">13<sup>th</sup> February 2020</time></p>
+ </div>
   <div class="h cite">
   <a class="u-repost-of" href="https://docs.google.com/document/d/1lScQ-Uqowq87k25sZQ6qr_rxWUio-Q4uWIgy_879jRk/edit">
     <p class="p-name">Repost of Inclusive Images</p></a>
-    <p>Diversity Summit ✦ 3/2/20 ✦ <span class="p-author h-card">Alexis Clifton</span> ✦ clifton@geneseo.edu</p>
+    <p class="h-event"><span class="p-name">Diversity Summit</span> <time class="dt-published" datetime="2020-005-8 10:54:20">13<sup>th</sup> February 2020</time>3/2/20 ✦ <span class="p-author h-card">Alexis Clifton</span> ✦ clifton@geneseo.edu</p>
     <a class="u-in-reply-to" href="https://twitter.com/openalexis/status/1234521956189384705">Tweet</a>
 
 <blockquote>
