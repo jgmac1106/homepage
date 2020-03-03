@@ -5,10 +5,9 @@
     
    <main class="longreads">   
 <div class="h-entry">
-	<div class="pubinfo">
+	
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-03-2 10:34:20">03<sup>rd</sup>March 2020</time></p>
- </div>
 <div class="h-entry">
   <div class="h-cite u-repost-of">
     Repost of <a class="u-url" href="https://chat.indieweb.org/meta/2019-10-29#t157236334305500">a post</a> by
