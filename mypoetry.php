@@ -15,7 +15,7 @@
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
-    <time class="dt-updated" datetime="2020-03-02 16:04:20">3<sup>rd/sup>March 2020</time>
+    <time class="dt-updated" datetime="2020-03-04 15:44:20">4<sup>th</sup>March 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -233,6 +233,16 @@
 <data class="p-size" value="367972"></data><data class="p-duration" value="PT00H00M25S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/confidence-of-winters-kiss-a-poetryport-poem">Show Link</a>Originally published 26 Feb 2020</p>
 </div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Floodlit Public</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-03-04 15:44:20">4<sup>th</sup>March 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FloodlitPublic.m4a" controls="controls">
+</audio>
+<data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M25S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/floodlit-public-a-poetryport-poem-inspired-by-recent-indieweb-chat">Show Link</a> Originally published 27 Feb 2020</p>
+</div>
+
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
