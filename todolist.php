@@ -7,7 +7,7 @@
   <h1 class="p-name">To-Do List</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
-     on <time class="dt-published" datetime="2019-11-21 07:34:20">21<sup>st</sup> November 2019</time></p>
+     on <time class="dt-published" datetime="2020-03-5h 07:34:20">5<sup>th</sup> March 2020</time></p>
     <p>
       Updated <time class="dt-updated" datetime="2020-02-18 10:34:20">18<sup>th</sup>Februaury 2020</time></p>
    
@@ -405,6 +405,20 @@
         <li class="h-item" id="20200206-3"> EDU 106 Selfie Tutorials 🍅🍅</li>
         <li class="h-item" id="20200206-4">EDU 106  Glitch Tutorials 🍅🍅</li>
         <li class="h-item" id="20200206-5">EDU 307 Annotation of CCSS Thread 🍅🍅🍅</li>
+
+    </ul>
+    </details>
+  </div>
+   <div class="h-entry" id="2020305">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-03-04: Working from Home</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="2020305-1"> Prepare materials for OER Ghana  🍅🍅🍅🍅🍅</li>
+       <li class="h-item" id="2020305-2"> Work on Spark Grant  🍅🍅🍅</li>
+        <li class="h-item" id="2020305-5">EDU 506 Feedback 🍅🍅🍅</li>
 
     </ul>
     </details>
