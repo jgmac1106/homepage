@@ -24,7 +24,58 @@
  </div>
     <div class="copy">
   <div class="e-content">
-  <section class="h-feed videofeed" id="ActiveReadinginCollege">
+    <section class="h-feed videofeed" id="covid19instructionaldesign">
+      <h2 class="p-name">Moving Online In Time of Crisis</h2>
+      <a class="p-author" href="/"></a>
+    
+      <p class="p-summary">An instructional design series focused more on the ethos of online learning rather than the stuff.</p>
+      <time class="dt-updated" datetime="2020-03-12T10:44:20+0000">2020-02-01</time>
+         <div class="videoblock">    
+        <div class="h-entry">
+      <p class="p-name">Basics of Online Instructional Design</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/covid19online1.png" src="https://jgregorymcverry.com/videos/Covid19teachingtips.mp4"> 
+          </video>
+          
+      <p class="p-summary">5 Basics Steps to Getting started</p>
+      <time class="dt-published" datetime="2020-03-10T11:24:20+0000">2020-03-10</time>
+        </div>
+     </div>
+<div class="h-entry">
+      <p class="p-name">Do What You Did Yesterday, but Online Today</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/covid19online2.png" src="https://jgregorymcverry.com/videos/COVID-19OnlineGuideII.mp4"> 
+          </video>
+          
+      <p class="p-summary">A guide to using Video and Chat apps for saynchronous learning </p>
+      <time class="dt-published" datetime="2020-03-11T11:24:20+0000">2020-03-10</time>
+        </div>
+        <div class="h-entry">
+      <p class="p-name">Making students feel safe</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/covidonline3.png" src="https://jgregorymcverry.com/videos/COVID-19OnlineTeachingIII.mp4"> 
+          </video>
+          
+      <p class="p-summary">Instructional Design Tips to Reduce Student Anxiety</p>
+      <time class="dt-published" datetime="2020-03-11T11:24:20+0000">2020-03-11</time>
+        </div>
+        <div class="h-entry">
+      <p class="p-name">Live Vlog of Instructional Design </p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/covidonline4.png" src="https://jgregorymcverry.com/videos/COVID19InstructionalDesignIVLiveVlog.mp4"> 
+          </video>
+          
+      <p class="p-summary">Watch Me Go Step By Step Through My Instructional Design Process</p>
+      <time class="dt-published" datetime="2020-03-12T11:24:20+0000">2020-03-12</time>
+        </div>
+     </div>
+
+  </section>
+ <section class="h-feed videofeed" id="ActiveReadinginCollege">
      <div class="videoblock">
       <div class="h-entry">
       <p class="p-name">Active Reading in Online Learning: Setting a Purpose</p>
@@ -76,7 +127,7 @@
         <div class="h-entry">
           <p class="p-name">Poetry Response</p>
           <a class="p-author" href="/"></a>
-           <video  controls poster="https://jgregorymcverry.com/videos/respond2poetry.png "class="u-video" src="https://jgregorymcverry.com/videos/RespondToPoetryWithPictures.mp4"> 
+           <video  controls poster="https://jgregorymcverry.com/videos/respond2poetry.png" class="u-video" src="https://jgregorymcverry.com/videos/RespondToPoetryWithPictures.mp4"> 
           </video>
            
       <p class="p-summary">Respond to Poetry with Images?</p>
@@ -85,7 +136,7 @@
         <div class="h-entry">
           <p class="p-name">Teaching Vocabulary</p>
           <a class="p-author" href="/"></a>
-           <video  controls poster="/videos/sevenminutevocab.png "class="u-video" src="https://jgregorymcverry.com/videos/VocabGraphicOrganizers.mp4"> 
+           <video  controls poster="/videos/sevenminutevocab.png" class="u-video" src="https://jgregorymcverry.com/videos/VocabGraphicOrganizers.mp4"> 
           </video>
           
       <p class="p-summary">Strategies for Informational Texts</p>
@@ -104,7 +155,7 @@
         <div class="h-entry">
           <p class="p-name">Reading Novels in Elementary School</p>
           <a class="p-author" href="/"></a>
-           <video  controls poster="/videos/7minWholeNovel.png "class="u-video" src="https://jgregorymcverry.com/videos/7MinuteTeachingTipsWholeClassNovels.mp4"> 
+           <video  controls poster="/videos/7minWholeNovel.png" class="u-video" src="https://jgregorymcverry.com/videos/7MinuteTeachingTipsWholeClassNovels.mp4"> 
           </video>
           
       <p class="p-summary">Reading Whole Class Novels<br> h/t to <a href="http://howtoteachanovel.blogspot.com/2010/05/alternative-assessments-for-reading.html">Kieth Schoch</a></p>
