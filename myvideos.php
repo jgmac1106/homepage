@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <?php include 'head.php'; ?>
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%237minuteTips">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23edu307s">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23indieweb">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23theoryandresearch">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23literacies">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23ActiveReadinginCollege">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%237minuteTips" title="7 Minute Teaching Tips">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23edu307s" title="edu307 Videos">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23indieweb" title="IndieWeb Videos">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23theoryandresearch" title="Theory and Research">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23literacies" title="Literacies">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23ActiveReadinginCollege" title="Online College Survival Guide">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23covid19instructionaldesign" title="Teaching Online In Times of Crisis">
+
 
 
 
@@ -68,7 +70,7 @@
    <video  controls class="u-video" poster="/videos/covid19online4.png" src="https://jgregorymcverry.com/videos/COVID19InstructionalDesignIVLiveVlog.mp4"> 
           </video>
           
-      <p class="p-summary">Watch Me Go Step By Step Through My Instructional Design Process</p>
+      <p class="p-summary">Vlog of Instructional Design Process</p>
       <time class="dt-published" datetime="2020-03-12T11:24:20+0000">2020-03-12</time>
         </div>
      </div>
