@@ -77,6 +77,10 @@
 
   </section>
  <section class="h-feed videofeed" id="ActiveReadinginCollege">
+  <h2 class="p-name">Online College Survival Guide</h2>
+      <a class="p-author" href="/"></a>
+    <time class="dt-updated" datetime="2020-02-02T11:24:20+0000">2020-02-02</time>
+      <p class="p-summary">A show on how students new to online college can survive the learning experience</p>
      <div class="videoblock">
       <div class="h-entry">
       <p class="p-name">Active Reading in Online Learning: Setting a Purpose</p>
