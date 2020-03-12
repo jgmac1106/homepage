@@ -65,7 +65,7 @@
       <p class="p-name">Live Vlog of Instructional Design </p>
 
       <a class="p-author" href="/"></a>
-   <video  controls class="u-video" poster="/videos/covid19nline4.png" src="https://jgregorymcverry.com/videos/COVID19InstructionalDesignIVLiveVlog.mp4"> 
+   <video  controls class="u-video" poster="/videos/covid19online4.png" src="https://jgregorymcverry.com/videos/COVID19InstructionalDesignIVLiveVlog.mp4"> 
           </video>
           
       <p class="p-summary">Watch Me Go Step By Step Through My Instructional Design Process</p>
