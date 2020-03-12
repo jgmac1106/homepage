@@ -41,7 +41,6 @@
       <p class="p-summary">5 Basics Steps to Getting started</p>
       <time class="dt-published" datetime="2020-03-10T11:24:20+0000">2020-03-10</time>
         </div>
-     </div>
 <div class="h-entry">
       <p class="p-name">Do What You Did Yesterday, but Online Today</p>
 
