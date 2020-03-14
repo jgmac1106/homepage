@@ -17,7 +17,7 @@
  </div>
     <div class="copy">
   <div class="e-content">
-    <iframe style="width: 90%; height: 90vh;" src="https://jgregorymcverry.com/music/index.php/s/59DiocaSd2qhDbQ"></iframe>
+    <iframe style="width: 90%; height: 90vh;" src="https://jgregorymcverry.com/music/index.php/apps/gpxmotion/publicview?token=59DiocaSd2qhDbQ&layer=OpenStreetMap&autoplay=1&autozoom=1&loop=1"></iframe>
     <p>It looks like my third lap got cut off. It took me just over 24 minutes to run/jog/walk the mile. I was stopping and clearing sticks from the trail, still I hope to improve the time. Might do some interval running today to help improve my stamina. </p>
     <p>In terms of stating and eating healthy. I have stuck to nothing but three meals a day and only water (in forms of selzer and coffee. I did do two cheat days. Last Saturday I went to the Unviersity of Hartford Basketball and last night, just because. </p>
   </div>
