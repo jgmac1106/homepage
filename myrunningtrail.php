@@ -15,7 +15,7 @@
     <p class="p-summary">Tracking My Month of Getting Healthy</p>
     </span>
  </div>
-    <div class="copy">
+    <div>
   <div class="e-content">
     <iframe style="width: 90%; height: 90vh;" src="https://jgregorymcverry.com/music/index.php/apps/gpxmotion/publicview?token=59DiocaSd2qhDbQ&layer=OpenStreetMap&autoplay=1&autozoom=1&loop=1"></iframe>
     <p>It looks like my third lap got cut off. It took me just over 24 minutes to run/jog/walk the mile. I was stopping and clearing sticks from the trail, still I hope to improve the time. Might do some interval running today to help improve my stamina. </p>
