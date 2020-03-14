@@ -6,7 +6,7 @@
     <div class="notewrapper">
   	<div class="note h-entry" id="#">
 <a class="u-author" href="/"></a>
-<a class="u-reply-to" href="https://twitter.com/pennyjw/status/1231030229528805376">In reply to twwet
+
 <time class="dt-published" datetime="2020-03-14T09:14:20+0000">March 14 2020</time>
  
           
