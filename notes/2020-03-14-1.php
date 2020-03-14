@@ -11,7 +11,7 @@
  
           
       
-  <img class="u-photo" src="https://jgregorymcverry.com/poetry/concretetest.gif" alt="">
+
       
         <p class="p-name e-content">Watching @kevinmarks <a href="https://kevinmarks.com">https://kevinmarks.com</a> deliver a session on Building Blocks</p>
  
