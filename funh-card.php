@@ -1,8 +1,7 @@
-<?php include 'head.php'; ?>
+
    <link rel="stylesheet" href="/css/funhcard.css">
    </head>
-<?php include 'header.php'; ?>
-    </header>
+
     <div class="typography-art h-card">
     <div class="hello-world p-name"><p>J. Gregory McVery</p></div>
     <div class="typography-sq p-summary">
@@ -19,8 +18,7 @@
       <div class="image"><img src="https://jgregorymcverry.com/photos/assets/thumb.jpg" class="u-photo" /></div>
     </div>
   </div>
-    <footer>
-<?php include 'footer.php'; ?>
+
 
   </body>
  
