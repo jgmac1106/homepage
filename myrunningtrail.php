@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name">My IndieWeb Summit Trip</h1>
+  <h1 class="p-name">My Running Trail for Get Healthy Month</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
      on <time class="dt-published" datetime="2020-03-12 12:44:20">12<sup>th</sup>March 2019</time></p>
