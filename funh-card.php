@@ -1,8 +1,9 @@
-
+<!DOCTYPE html>
+<html>
    <head>
    <link rel="stylesheet" href="https://jgregorymcverry.com/css/funhcard.css">
    </head>
-
+<body>
     <div class="typography-art h-card">
     <div class="hello-world p-name"><p>J. Gregory McVery</p></div>
     <div class="typography-sq p-summary">
