@@ -1,5 +1,6 @@
 
-   <link rel="stylesheet" href="/css/funhcard.css">
+   <head>
+   <link rel="stylesheet" href="https://jgregorymcverry.com/css/funhcard.css">
    </head>
 
     <div class="typography-art h-card">
