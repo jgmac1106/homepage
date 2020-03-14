@@ -67,7 +67,7 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
-  <article class="h-entry card">
+  <div class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Poetry Is A Stretch</h3>
         </header>
@@ -89,8 +89,8 @@ Recent Articles
         </div>
         <a  href="/poetryisastretch" class="u-url button">Read More</a>
 
-    </article> 
-  <article class="h-entry card">
+    </dive> 
+  <div class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Chicken and Egg (Err Duck) of the Digital Dichotomy</h3>
         </header>
@@ -112,8 +112,8 @@ Recent Articles
         </div>
         <a  href="/chickeneggorduckofdigital" class="u-url button">Read More</a>
 
-    </article> 
-  <article class="h-entry card">
+    </div> 
+  <div class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Art & Feminism and IndieWeb Navrongo Keynote</h3>
         </header>
@@ -135,10 +135,10 @@ Recent Articles
         </div>
         <a  href="/IWCNavrongoKeynote" class="u-url button">Read More</a>
 
-    </article> 
+    </div> 
 
 </section>
-<article class="h-entry">
+<div class="h-entry">
   
   <p class="p-name">Full Article Feed</p>
   
@@ -148,7 +148,7 @@ Recent Articles
   <time class="dt-published" datetime="2019-11-21 10:24:20">21<sup>st</sup>November 2019</time>
   
   <a  href="/articles" class="u-url button">Read Them All</a>
-</article>
+</div>
 </div>
 </main>
 <footer>
