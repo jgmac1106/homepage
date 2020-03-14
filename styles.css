@@ -1743,12 +1743,15 @@ display: block;
     display: grid;
     padding: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    grid-template-rows: repeat(4, minmax(100px, auto));
     grid-gap: 1rem;
   z-index: 1;
 }
-
-
+.card {
+    display: grid;
+}
+.card .button {
+    align-self: end;
+}
 
 
 /* Simple Card styles for prettying */
@@ -1757,11 +1760,6 @@ display: block;
 .card {
     box-shadow: 0px 1px 5px #555;
     background-color: white;
-    display: grid;
-     grid-column: 1 / 6;
-  grid-row: 1 / 6;
-  grid-template-columns: subgrid;
-  grid-template-rows: repeat(3, 80px);
   
 }
 .card article {
@@ -1772,15 +1770,11 @@ display: block;
     line-height:2em;
     padding: .5rem;
   z-index: 1;
-  grid-column: 1 / 6;
-  grid-row: 1;
   
 }
 .card__description {
     padding: .5rem;
     line-height: 1.6em;
-    grid-column: 1 / 6;
-  grid-row: 4/ 5;
 }
 .card .button {
     display: block;
@@ -1792,8 +1786,6 @@ display: block;
     transition: .3s ease-out;
     &:hover {
         background-color: darken(#6d796d, 40%);
-        grid-column: 1 / 6;
-  grid-row: 6;
     }
 }
 .card img {
@@ -1802,8 +1794,6 @@ display: block;
    margin-top:5%;
   margin-left:10%;
   margin-right:10%;
-  grid-column: 2 / 4;
-  grid-row: 2/ 4;
 }
 .authorInfo {
   display: none
