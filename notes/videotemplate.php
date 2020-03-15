@@ -20,8 +20,9 @@
   <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-13-1" rel="canonical"><strong>My Notes</strong></a> <br><a href="https://jgregorymcverry.com/notes/2020-02-11-2" rel="prev">Previous Note</a> 
   
 </div>
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

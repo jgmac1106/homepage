@@ -16,8 +16,9 @@
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a><a href="https://jgregorymcverry.com/notes/2019-10-08-3" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-13-1" rel="next">Next Note</a>
 </div>
 
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

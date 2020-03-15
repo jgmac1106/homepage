@@ -19,8 +19,9 @@
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a><br /><a class="u-syndication" href="https://news.indieweb.org/en">IndieWeb News</a>
 </div>
 
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

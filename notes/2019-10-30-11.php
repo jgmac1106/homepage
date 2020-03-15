@@ -21,8 +21,9 @@
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
 
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

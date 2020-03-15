@@ -12,8 +12,9 @@
         <p class="e-content">In this #7MinuteTeachingTip I cover the basic research, common misconceptions, and strategies to teach notetaking.</p> 
         <a href="https://jgregorymcverry.com/notes/2019-11-15-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-11-16-1" rel="next">Next Note</a>
 </div>
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

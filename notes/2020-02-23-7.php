@@ -28,8 +28,9 @@
   <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-23-7" rel="canonical"><strong>My Notes</strong></a> <br/><a href="https://jgregorymcverry.com/notes/2020-02-23-8" rel="next">Next</a> <a href="https://jgregorymcverry.com/notes/2020-02-23-6" rel="prev"> Previous Note</a><a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 </div>
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

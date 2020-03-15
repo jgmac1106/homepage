@@ -17,8 +17,9 @@
   Also on  <a class="u-syndication" href="https://jgregorymcverry.com/notes/2019-10-30-12" ><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-30-11" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-31-1" rel="next">Next Note</a>
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

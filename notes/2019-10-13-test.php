@@ -19,8 +19,9 @@
   Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-13-test" rel="canonical"><strong>My Notes</strong></a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
-<div id="webmentions"></div></div>
+</div>
   	</main>
+<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 
