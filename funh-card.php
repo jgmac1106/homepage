@@ -1,9 +1,8 @@
-<?php include 'head.php'; ?>
+<head>
 <link rel="stylesheet" href="/css/styles.scss">
 </head>
-<?php include 'header.php'; ?>
-    </header>
-  <main class="longreads">   
+
+
   <article class="h-entry">
   <h1 class="p-name">Play with an h-card</h1>
   <div class="pubinfo">
@@ -36,7 +35,7 @@
      </div>
    </div>
 </article>
-    </main>
+
     <footer>
 <?php include 'footer.php'; ?>
 
