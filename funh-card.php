@@ -1,5 +1,7 @@
+<!DOCTYPE html>
+<html>
 <head>
-<link rel="stylesheet" href="/css/styles.scss">
+<link rel="stylesheet" href="https://jgregorymcverry.com/css/styles.scss">
 </head>
 
 
