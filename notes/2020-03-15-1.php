@@ -8,8 +8,9 @@
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-03-15 13:04:20">15<sup>th</sup>March 2020</time>
 <img class="u-photo" src="/photos/iwclondon/Day2pic.png" alt="screenshot of participants">
+<a class="u-in-reply-to" href="https://events.indieweb.org/2020/03/indiewebcamp-london-online--EPL3anhWs2Wz">IndieWeb Camp London Demos</a>
  <p class="p-name e-content">
-What an amazing demo day!! Yeah we didn't have the mad dash and energy of the live demos, but this felt mroe relaxed with an open question and answer session...No worries of getting kicked out of the venue. One of my favorites yet!
+What an amazing demo day!! Yeah we didn't have the mad dash and energy of the live demos, but this felt more relaxed with an open question and answer session...No worries of getting kicked out of the venue. One of my favorites yet!
    
  </p>
  <p>  Also on
