@@ -91,6 +91,7 @@
           
       <p class="p-summary">Using discussion questions to set a purpose</p>
       <time class="dt-published" datetime="2020-02-01T11:24:20+0000">2020-02-01</time>
+      <a href="magnet:?xt=urn:btih:46eac622c2ce07ea2fe0ea65ce7869b68f547acd&dn=ActiveReading1Purpose.mp4.torrent&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Seed the Torrent, Share the Wealth</a>
         </div>
         <div class="h-entry">
       <p class="p-name">Active Reading in Online Learning: Using Headings</p>
