@@ -2,14 +2,19 @@
 <html>
    <head>
    <style>
-    // Percents (recalculates font-sizes based on container-width)
+  @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Cabin+Sketch|Cutive+Mono|Josefin+Sans:300,400|Londrina+Sketch|Pacifico');
+
+$container-width: 75vw;
+$row-height: calc((#{$container-width} / 2) / 9);
+
+// Percents (recalculates font-sizes based on container-width)
 $one: calc(0.01 * #{$container-width});
 $two: calc(0.02 * #{$container-width});
 $four: calc(0.04 * #{$container-width});
 $sixhalf: calc(0.065 * #{$container-width});
 $seven: calc(0.07 * #{$container-width});
 $eight: calc(0.08 * #{$container-width});
-$eighthalf: calc(0.065 * #{$container-width});
+$eighthalf: calc(0.085 * #{$container-width});
 $ninehalf: calc(0.095 * #{$container-width});
 $ten: calc(0.10 * #{$container-width});
 $elevenhalf: calc(0.110 * #{$container-width});
@@ -92,6 +97,7 @@ $blue: rgb(50, 100, 150);
     z-index: 30;
     grid-row: 1 / span 2;
     grid-column: 3 / -1;
+    
   }
   .developer a {
     text-decoration: none;
@@ -165,6 +171,7 @@ $blue: rgb(50, 100, 150);
     }
   }
 }
+
 
    </style>
    </head>
