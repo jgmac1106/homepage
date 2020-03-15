@@ -33,8 +33,13 @@
      <a class="h-item" href="magnet:?xt=urn:btih:5AAC1F847F59BE2F8416718A62E3488847CB714C&dn=gd1977-09-03.aud.102409.flemming.berger.flac24&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&ws=http%3a%2f%2farchive.org%2fdownload%2f&ws=http%3a%2f%2fia600402.us.archive.org%2f26%2fitems&ws=http%3a%2f%2fia700402.us.archive.org%2f26%2fitems">Grateful Dead 1977-09-03</a><br />
      <a class="h-item" href="http://bt.etree.org/download.php/608609/oysterhead2020-02-14_flac16.torrent">Oysterhead 2020-02-14</a>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
   <?php include 'footer.php'; ?>

@@ -15,7 +15,8 @@
   Also on  <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1184620628030177282" ><strong>Twitter</strong></a> <a href="https://jgregorymcverry.com/notes/2019-10-15-2" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-10-15-5" rel="next">Next Note</a>
   <a class="u-syndication" href="https://brid.gy/about#webmentions">Published with Bridgy</a>
 </div>
-</div>
+
+<div id="webmentions"></div></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

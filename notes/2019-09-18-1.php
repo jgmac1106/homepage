@@ -28,6 +28,7 @@
 </div>
 </div>
   	</main>
+    <div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 

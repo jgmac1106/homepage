@@ -48,8 +48,13 @@
           <p>I want to keep honing the online conference format. Searching for the elusive UTC time is impossible. I prefer goign back to the 12 or 24 session window and just letting people fire up their own sessions if one other person wants to join them. I would keep the keynotes and intros as synchronus as possible. Maybe do some in different time zones if the geographic ticketing data sugegsts people really spread out.</p>
           <p>Hack day participation fell. Need to think of ways of keeping people engaged. We tried to live demo times but it seemed too late for EU to early for the wWest Coast and then nobody was ready to demo during the second slot. I think we need to come to enjoy demos in process rather than waiting for something shippable. </p>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

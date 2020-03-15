@@ -18,7 +18,7 @@
       
  Also on<a href="https://jgregorymcverry.com/notes/2019-12-29-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2019-12-23-1" rel="prev">Previous Note</a>  <a href="https://jgregorymcverry.com/notes/2020-01-02-1" rel="next"> Next Note  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
-</div>
+<div id="webmentions"></div></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

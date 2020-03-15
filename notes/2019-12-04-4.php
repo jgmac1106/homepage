@@ -12,7 +12,7 @@
  </p> 
   Also on <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1202325143827156997"><strong>Twitter</strong></a> <a href="https://jgregorymcverry.com/notes/2019-12-04-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2019-12-05-1" rel="next">Next Note </a> 
 </div>
-</div>
+<div id="webmentions"></div></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

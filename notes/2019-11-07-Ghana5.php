@@ -13,7 +13,7 @@
  <a href="https://jgregorymcverry.com/notes/2019-11-07-Ghana4#slide4" rel="prev">Prev</a>
  <a href="https://jgregorymcverry.com/notes/2019-11-07-Ghana6#slide6" rel="next">Next</a>
  
-</div>
+</div><div id="webmentions"></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

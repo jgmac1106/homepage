@@ -54,8 +54,13 @@
     </h2>
     <iframe src="https://archive.org/embed/webmentionbadgedemo" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
    </div>
-    </div>
-</article>
+    
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
        <div class="flex-item">

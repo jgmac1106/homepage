@@ -23,8 +23,13 @@
   <div class="e-content">
      Join us Feb 8-9th <a href="https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv">IndieWebCamp Online</a> as we spend two days hacking and building our personal websites. 
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

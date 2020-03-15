@@ -19,8 +19,13 @@
   <div class="e-content">
     <iframe style="width:90%;height:90vh;" src="https://jgregorymcverry.com/music/index.php/apps/gpxmotion/publicview?token=MRk02LafhzziEqo&layer=OpenStreetMap&autoplay=1&autozoom=1&loop=0&path=%2F&filename=2019-06-27-17-04-00.gpx"></iframe>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

@@ -30,8 +30,13 @@
 </ul>
 <p>We will then ask participants to reflect on and discuss in their small groups concrete suggestions they can give to people who organize specific conferences they are involved in (so participants will come away with a specific action item). At the end of the session we will reconvene as a large group and ask a few people to share insights and suggestions from their small group discussions.</p>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

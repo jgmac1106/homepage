@@ -33,8 +33,13 @@
       <p>Over the next few weeks we will release more information on how to propose sessions, but if you want to attend IndieWebCamp Online you can get your ticket now! Just visit the <a href="https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv">event page</a> and choose a ticket. You can also send an IndieWeb RSVP if you support webmentions</p>
       <p>Of course you can get started before we meet in Febuarary. Volunteers have scheduled many events in 2020 already. These included local weekly and biweekly meet ups as well as even more IndieWebCamps. Feel free to stop by <a href="https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv">chat</a> to learn more.
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

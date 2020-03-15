@@ -22,7 +22,7 @@
   <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="canonical"><strong>My Notes</strong></a> <br/> ><a href="https://jgregorymcverry.com/notes/2020-02-20-1" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   
 </div>
-</div>
+<div id="webmentions"></div></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

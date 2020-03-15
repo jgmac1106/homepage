@@ -14,6 +14,7 @@
  <a href="https://jgregorymcverry.com/notes/2019-11-07-Ghana3#slide3" rel="next">Next</a>
  
 </div>
+<div id="webmentions"></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

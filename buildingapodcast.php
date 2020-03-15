@@ -48,8 +48,13 @@
       <p>
         I did get the show into pocketcast but could not discover it. I copied in the the link to the XML file and got to listen to Ben describe "The Twins"
       </p>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

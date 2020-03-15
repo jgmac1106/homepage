@@ -17,7 +17,8 @@
   Also on  <a class="u-syndication" href="https://twitter.com/jgmac1106/status/1189550312006262785" ><strong>Twitter</strong></a>
   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
-</div>
+
+<div id="webmentions"></div></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

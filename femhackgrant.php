@@ -313,8 +313,13 @@
 <p class="c0 c9">We will utilize a mix of print and digital media to share our story with the greater community. We have also built and will continuously update a project website at <span class="c19"><a class="c20" href="https://www.google.com/url?q=https://femhack.tech&amp;sa=D&amp;ust=1542130298268000">https://femhack.tech</a></span><span class="c2">. We will be live blogging and live tweeting during the event. We will also invite local community press to cover the event.</span></p>
 <p class="c0 c9"><span class="c2">Finally we will send a final report of 500 words or less to the SJG committee by May 1, 2019. We also plan to research student learning throughout the project and will present the results at national and international conferences.</span></p>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

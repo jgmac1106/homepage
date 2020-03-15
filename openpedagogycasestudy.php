@@ -277,8 +277,13 @@ The two connected with Amber Case and Crystal Beasley to continue in spirit and 
 <h3 id="praxis-and-research">Praxis and Research</h3>
 
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

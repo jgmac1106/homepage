@@ -45,8 +45,13 @@
      <p>Built in electoral advantage. We do not have a democratic election in our Republic. Founders feared the logic of the masses (not mentioning women couldn't vote and Blacks were only 3/5 a person). We elect people to an Electoral College. Hillary crushed Trump, but Trump won because of this archaic sexist and racist political history. Biden is Pennsylvania's second son. You can move it back to blue. This matters to people</p>
      <p>So that's it folks. Parks closed. Moose out front should have told you. See you in the general after Michigan.</p>
 
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

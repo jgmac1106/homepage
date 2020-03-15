@@ -25,7 +25,9 @@ Reply to
 </video>
   Also on  <a class="u-url url" href="https://jgregorymcverry.com/notes/2019-10-06#note1" rel="canonical"><strong>My Notes</strong></a>
   <a href="https://brid.gy/publish/twitter">Published with Bridgy</a>
+
 </div>
+<div id="webmentions"></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

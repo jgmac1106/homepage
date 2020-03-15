@@ -25,7 +25,7 @@
  
 
 </div>
-</div>
+<div id="webmentions"></div></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

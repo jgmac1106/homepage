@@ -20,10 +20,11 @@
    
 
  
-  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-21-12" rel="canonical"><strong>My Notes</strong></a> <br/> <a href="https://jgregorymcverry.com/notes/2020-02-21-13" rel="Next"> Next</a> <a href="https://jgregorymcverry.com/notes/2020-02-21-11" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  <p>Also On<a class="u-url url" href="https://jgregorymcverry.com/notes/2020-02-21-12" rel="canonical"><strong>My Notes</strong></a> <br/> <a href="https://jgregorymcverry.com/notes/2020-02-21-13" rel="Next"> Next</a> <a href="https://jgregorymcverry.com/notes/2020-02-21-11" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
   
 
 </div>
+<div id="webmentions"></div>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>

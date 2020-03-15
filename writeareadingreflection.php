@@ -23,8 +23,13 @@
 </video>
    <small>Video Poster: <a title="Writing" href="https://flickr.com/photos/rolexpv/30025645538">Writing</a> flickr photo by <a href="https://flickr.com/people/rolexpv">Raul P</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a> </small>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
    <?php include 'footer.php'; ?>

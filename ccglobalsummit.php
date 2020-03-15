@@ -70,8 +70,13 @@
       This session will appeal to creative, activists and allies in other member organizations. Through our remixes we will share examples of how the Commons gets built. We will deliver the content in a production based manner inviting the audience to blog, remix and repost as we go. We will utilizize personal websites during the session. If someone does not have a place online we will summit attendees build their own websites through the workshop. Participants will then post reflections of learning from their own websites during the workshop. 
     </p>
   </div>
-      </div>
-</article>
+      
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  
+
+ </div>
+</article><div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>
