@@ -79,9 +79,12 @@
       Rolling IndieWeb Style From Your Phone</span> by <a class="u-author h-card" href="https://jgregorymcverry.com">jgmac1106</a>
       </p>
       <video width="640" height="480" controls class="u-featured" poster="https://cdn.glitch.com/055438aa-8d6a-403c-a7ff-c97119f02627%2Fbumperposter.gif?1553175891571"><source  src="https://archive.org/download/indiewebupdates/indiewebupdate.mp4" type="video/mp4" class="u-video" ></video> </div>
-  </div>
+    
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+
       </div>
-</article>
+</article><div id="webmentions"></div></div>
     </main>
   </body>
   <footer><div class="h-card">

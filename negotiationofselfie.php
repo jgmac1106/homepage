@@ -107,6 +107,7 @@ onto the world<br/></p>
       </div>
 <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small><br /><a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </article>
+<div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

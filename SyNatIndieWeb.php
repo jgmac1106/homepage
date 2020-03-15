@@ -61,23 +61,20 @@
 <p>For example, <a href="https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet">webmentions</a>, which connect all the websites in the IndieWeb community have reached recommendation status for the W3C.</p>
 <p>Simultaneuosly the news coming from the social media silos grows more and more disturbing. As the #IndieWeb community&nbsp;has greater influence at the system level more people are driven to being to make the changes at the agent level to get more involved in the #IndieWeb community.&nbsp;</p>
 <p>&nbsp;</p>
-  </div>
+    
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+/div>
       </div>
 </article>
+  </div>
+      </div>
+</article><div id="webmentions"></div>
     </main>
   </body>
-   <footer>
+
      <footer>
-     <div class="flex-item">
-       <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br>
-        <a   href="https://microformats.org"><img class="https://indieweb.org/images/7/72/microformats-button.png"></a><br>
-    <a   href="https://indieweb.org"><img src="https://indieweb.org/images/4/4a/indiewebcamp-button.png"></a>
-      <a  href="https://indieweb.org/webmention"><img src="https://indieweb.org/images/0/03/webmention-button.png"></a>
-          <a href="https://microformats.org"><img src="https://indieweb.org/images/7/72/microformats-button.png"></a>
-    
-      </div>
-     
-      
-     </footer>
+
+  
      <?php include 'footer.php'; ?>
 </html>

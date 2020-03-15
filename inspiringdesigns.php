@@ -66,6 +66,7 @@
          <p>
           Also on <a class="u-syndication" href="https://news.indieweb.org/en" >IndieNews</a></p>
       </article>
+      <div id="webmentions"></div>
     </main>
     <footer>
   <?php include 'footer.php'; ?>

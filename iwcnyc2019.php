@@ -223,6 +223,7 @@ Collection by <a class="u-author h-card" href="https://jgregorymcverry.com">Greg
 			</figure>
 		</div>
 	</div>
+	<div id="webmentions"></div>
 	<footer>
 		<?php include 'footer.php'; ?>
 	</body>

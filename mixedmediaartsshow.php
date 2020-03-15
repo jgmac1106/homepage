@@ -150,6 +150,7 @@
 						</div>
 					</figure>
 									</div>
+									<div id="webmentions"></div>
 			</div>
 				<footer>
 				<?php include 'footer.php'; ?>

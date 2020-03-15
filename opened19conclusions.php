@@ -32,6 +32,7 @@
       </div>
     }
 </article>
+<div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

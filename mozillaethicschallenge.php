@@ -63,6 +63,7 @@
     <p>Southern Connecticut state University has had a long relationship with Mozilla. Mozilla Foundation's code editor, Thimble, underwent extensive development and user testing in our college classrooms. Dr. J. Gregory McVerry, our Pedagogy Director, was selected as part of the innaugural #MOZ50 celebrating the fifty Mozillians who best supported the netwroks efforts around Internet Health. We instill the values of the Moxilla Manifesto into the students at SCSU out of a sense of duty as a campus focused on #SocialJustice.
       </p></div>
 </article>
+<div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

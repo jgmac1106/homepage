@@ -34,9 +34,15 @@
     </ul>
     <p>Been fooling around with Glitch to  test new ideas. Will push when I get home from Cub Scouts</p>
 
-  </div>
+    
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+/div>
       </div>
 </article>
+  </div>
+      </div>
+</article><div id="webmentions"></div>
     </main>
       
   </body>

@@ -40,6 +40,7 @@ on <time class="dt-published" datetime="2020-02-15 14:14:20">13<sup>th</sup> Feb
     </div>
     <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> <small>Also on <a class="u-syndication" href="https://clmoocring.jgregorymcverry.com/clmooc-planet/">CLMOOC Planet</a></small></p>
   </article>
+  <div id="webmentions"></div>
 </main>
 <footer>
   <?php include 'footer.php'; ?>

@@ -128,12 +128,16 @@
        We set up a variety of social activities. Thanks to our sponsors we tried some of the local diners, and a Halal fusion restaurant. Then for the meet up we did a little Disco Duck Pin Bowling and ate at DiMatteo's (best pies in Hamden...but I got the linguini and clams).
     </p>
     <img src="https://quickthoughts.jgregorymcverry.com/file/215bec5eef99e31e4d226e3a07de350f/VID_20190330_170918-ANIMATION.gif">
-  </div>
+    
+
+<a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+/div>
+ 
       </div>
-</article>
+</article><div id="webmentions"></div></div>
     </main>
   </body>
-   <footer>
+
      <footer>
      <div class="flex-item">
        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br>
@@ -144,7 +148,6 @@
     
       </div>
      
-      
-     </footer>
+ 
      </footer>
 </html>

@@ -202,6 +202,7 @@ So <a class="entity-mention" href="https://twitter.com/NomadWarMachine">@nomadwa
       </div>
 
 </article>
+<div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

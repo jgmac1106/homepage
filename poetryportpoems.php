@@ -276,6 +276,7 @@
 </div>
 </div>
     </article>
+    <div id="webmentions"></div>
     <footer>
 <?php include 'footer.php'; ?>
 

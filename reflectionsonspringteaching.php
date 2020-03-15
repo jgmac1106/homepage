@@ -376,6 +376,7 @@ Now to go and copy and paste all these notes to my blog where they belong but my
 </div>
 </div>
 </article>
+<div id="webmentions"></div>
     </main>
     <footer>
    <?php include 'footer.php'; ?>

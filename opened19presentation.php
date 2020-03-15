@@ -174,6 +174,7 @@ Also on <a href="https://jgregorymcverry.com/notes/2019-10-30-10" rel="canonical
 </div>
 
 </article>
+<div id="webmentions"></div>
 </main>
 <footer>
 <?php include 'footer.php'; ?>

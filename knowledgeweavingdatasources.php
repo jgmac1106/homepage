@@ -354,6 +354,7 @@ aaronpk I also realized there isn't really any use for the p- prefix in this cas
 </div>
 </div>
 </article>
+<div id="webmentions"></div>
     </main>
     <footer>
 <?php include 'footer.php'; ?>

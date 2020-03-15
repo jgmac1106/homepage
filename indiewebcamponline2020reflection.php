@@ -27,7 +27,7 @@
       <iframe src="https://archive.org/embed/keynotesandintrosiwconline2020?start=1097" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
       <p>Up next Sadik went over our program in Ghana to use IndieWeb building to help support an OER network. In fact Sadik just spent 14 hours on a bus to organize and facilitate the first IndieWebCamp in Ghana. He and others are gathered for <a href="https://indieweb.org/2020/Navrongo">Art and Feminism + IndieWeb OER Launch 2020 </a>. He shared how we are hoping to train a cohort of people over ten weeks.</p>
       <iframe src="https://archive.org/embed/keynotesandintrosiwconline2020?start=2700" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-      <p>Then Vika went to show the CMS she has been creating called kitty box. As Vika put it, It is a place to put all your cat pictures, thus "Kitty Box."
+      <p>Then Vika went to show the CMS she has been creating called kitty box. As Vika put it, It is a place to put all your cat pictures, thus "Kitty Box."</p>
         <p>This IndiewebCamp we had the unique opportunity to hear from three people in the community who have never given a keynote address. They each got to share a unique expertise.</p>
         <h2>Sessions</h2>
 
@@ -41,9 +41,9 @@
         <p>Up next came collections. We discussed how you could think about feeds in something that is not chronological ordser. This matters to me for poetry and others for serialized comics that might be read oldest first.</p>
         <iframe src="https://archive.org/embed/secretsofwordpressexpertsiwconline2020" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
         <p>There was a WordPress session but I did not make it because I had to head off to the next TWO basketball games</p>
-        <p>We also forgot to take any pictures all day. That was silly. Note to next year. Take more screenshots
+        <p>We also forgot to take any pictures all day. That was silly. Note to next year. Take more screenshots</p>
         <h2>Hack Day</h2>
-        <p>For Hack day I wanted to work on a page for my poetry. I ended up here <a href="https://jgregorymcverry.com/mypoetry">My Poetry</a>. My Grid is still all wrong. It is amazing how fast you fall out of practice. I spent much of last year learning CSS Grid and I knew the basics well. Then I moved to learning a bit of PHP and thenwent content heavy as my semester began. I am making some small errors driving me crazy. I also learned that Granary doesn't yet support fragement links. I filed an issue Anywhoo here was my <a href="https://jgregorymcverry.com/notes/2020-02-11-1">demo</a>
+        <p>For Hack day I wanted to work on a page for my poetry. I ended up here <a href="https://jgregorymcverry.com/mypoetry">My Poetry</a>. My Grid is still all wrong. It is amazing how fast you fall out of practice. I spent much of last year learning CSS Grid and I knew the basics well. Then I moved to learning a bit of PHP and thenwent content heavy as my semester began. I am making some small errors driving me crazy. I also learned that Granary doesn't yet support fragement links. I filed an issue Anywhoo here was my <a href="https://jgregorymcverry.com/notes/2020-02-11-1">demo</a></p>
           <h2>Final Reflections</h2>
           <p>I want to keep honing the online conference format. Searching for the elusive UTC time is impossible. I prefer goign back to the 12 or 24 session window and just letting people fire up their own sessions if one other person wants to join them. I would keep the keynotes and intros as synchronus as possible. Maybe do some in different time zones if the geographic ticketing data sugegsts people really spread out.</p>
           <p>Hack day participation fell. Need to think of ways of keeping people engaged. We tried to live demo times but it seemed too late for EU to early for the wWest Coast and then nobody was ready to demo during the second slot. I think we need to come to enjoy demos in process rather than waiting for something shippable. </p>
@@ -54,8 +54,7 @@
   
 
  </div>
-</article><div id="webmentions"></div>
-    </main>
+</article><div id="webmentions"></div></main>
     <footer>
 <?php include 'footer.php'; ?>
 

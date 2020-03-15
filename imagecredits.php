@@ -83,7 +83,7 @@ I decided (2/20/14) to start favoriting all of the images I use. I share this st
 Thank You
     </p>
        <iframe width="90%" height="1000" src="https://www.inoreader.com/stream/user/1005993829/tag/photoattribution/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
-
+<div id="webmentions"></div>
     </main>
      <footer>
      <div class="flex-item">
