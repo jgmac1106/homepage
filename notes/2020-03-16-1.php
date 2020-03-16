@@ -13,7 +13,7 @@
    
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-15-1" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-2" rel="next"> Next</a> <a href="https://jgregorymcverry.com/notes/2020-03-15-1" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>

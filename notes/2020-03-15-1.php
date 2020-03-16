@@ -15,7 +15,7 @@ What an amazing demo day!! Yeah we didn't have the mad dash and energy of the li
  </p>
  <p>  Also on
  <a class="u-url" href="https://jgregorymcverry.com<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, "utf-8"); ?>
- " rel="canonical"><strong>My Notes</strong></a> <a href="httpes://jgregorymcverry.com/notes/2020-03-15-1" rel="next"> Next <a href="https://jgregorymcverry.com/notes/2020-03-14-1" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ " rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-15-1" rel="next"> Next </a> <a href="https://jgregorymcverry.com/notes/2020-03-14-1" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>
