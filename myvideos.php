@@ -118,6 +118,7 @@
         
         <a class="u-syndication" href="magnet:?xt=urn:btih:4ca518cd8e75bba7c23ace2e90121162b5c26b03&dn=ActiveReading2UsingHeadings.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
      </div>
+      <div class="h-entry">
      <p class="p-name">Active Reading in Online Learning: Using Quotes</p>
 
       <a class="p-author" href="/"></a>
@@ -126,7 +127,7 @@
           
       <p class="p-summary">Using article quotes to plan notes</p>
       <time class="dt-published" datetime="2020-03-11T11:24:20+0000">2020-03-11</time>
-        </div>
+        
         <a class="u-syndication" href="magnet:?xt=urn:btih:4b786c2bf92a9dffb827c44d7d451f5492f086be&dn=ActiveReading3Quotes.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
      </div>
       <div class="h-entry">
@@ -138,8 +139,9 @@
           
       <p class="p-summary">5 Top Time Management Techniques</p>
       <time class="dt-published" datetime="2020-03-16T15:54:20+0000">2020-03-16</time>
+       <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
         </div>
-        <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
+       
      </div>
 
   </section>
