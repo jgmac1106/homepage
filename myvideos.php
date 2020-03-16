@@ -19,10 +19,10 @@
   <article>
   <h1>Videos</h1>
   <div class="pubinfo">
-  <span class="summary">
+  <div class="summary">
     <p class="p-summary">My Video Feeds</p>
-     <time class="dt-updated" datetime="2019-11-16T11:24:20+0000">November 16th 2019 11:24</time>
-    </span>
+     <time class="dt-updated" datetime="2019-11-16T15:54:20+0000">March 16th 2020 15:24</time>
+    </div>
  </div>
     <div class="copy">
   <div class="e-content">
@@ -42,6 +42,7 @@
           
       <p class="p-summary">5 Basics Steps to Getting started</p>
       <time class="dt-published" datetime="2020-03-10T11:24:20+0000">2020-03-10</time>
+      <a class="u-syndication" href="magnet:?xt=urn:btih:106b19a2378fdbab58186b2d0d6383ad9d5dcbb0&dn=Covid19teachingtips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
         </div>
 <div class="h-entry">
       <p class="p-name">Do What You Did Yesterday, but Online Today</p>
@@ -81,7 +82,7 @@
    <video  controls class="u-video" poster="/videos/covid19online5.png" src="https://jgregorymcverry.com/videos/Covid19ActiveLearningTips.mp4"> 
           </video>
           
-      <p class="p-summary">Move beyond the stale Q&A Discussion Board</p>
+      <p class="p-summary">Move beyond stale Q&A Discussion Board</p>
         <time class="dt-published" datetime="2020-03-16T12:14:20+0000">2020-03-16</time>
         <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
         </div>
@@ -114,7 +115,31 @@
           
       <p class="p-summary">Using article headings to plan notes</p>
       <time class="dt-published" datetime="2020-02-02T11:24:20+0000">2020-02-02</time>
+        
+        <a class="u-syndication" href="magnet:?xt=urn:btih:4ca518cd8e75bba7c23ace2e90121162b5c26b03&dn=ActiveReading2UsingHeadings.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
+     </div>
+     <p class="p-name">Active Reading in Online Learning: Using Quotes</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/activereading2.png" src="https://jgregorymcverry.com/videos/ActiveReading2UsingHeadings.mp4"> 
+          </video>
+          
+      <p class="p-summary">Using article quotes to plan notes</p>
+      <time class="dt-published" datetime="2020-03-11T11:24:20+0000">2020-03-11</time>
         </div>
+        <a class="u-syndication" href="magnet:?xt=urn:btih:4b786c2bf92a9dffb827c44d7d451f5492f086be&dn=ActiveReading3Quotes.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
+     </div>
+      <div class="h-entry">
+      <p class="p-name">Self Regulation in Online Learning: Time Management</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/onlinesurvivialguide4.png" src="https://jgregorymcverry.com/videos/onlinesurvivalselfregulation.mp4"> 
+          </video>
+          
+      <p class="p-summary">5 Top Time Management Techniques</p>
+      <time class="dt-published" datetime="2020-03-16T15:54:20+0000">2020-03-16</time>
+        </div>
+        <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
      </div>
 
   </section>
