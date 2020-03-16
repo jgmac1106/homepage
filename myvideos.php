@@ -31,7 +31,7 @@
       <a class="p-author" href="/"></a>
     
       <p class="p-summary">An instructional design series focused more on the ethos of online learning rather than the stuff.</p>
-      <time class="dt-updated" datetime="2020-03-12T10:44:20+0000">2020-02-01</time>
+      <time class="dt-updated" datetime="2020-03-16T12:14:20+0000">2020-03-16</time>
          <div class="videoblock">    
         <div class="h-entry">
       <p class="p-name">Basics of Online Instructional Design</p>
@@ -68,6 +68,16 @@
 
       <a class="p-author" href="/"></a>
    <video  controls class="u-video" poster="/videos/covid19online4.png" src="https://jgregorymcverry.com/videos/COVID19InstructionalDesignIVLiveVlog.mp4"> 
+          </video>
+          
+      <p class="p-summary">10 Active Learning Techniques in Ten Minutes</p>
+      <time class="dt-published" datetime="2020-03-16T12:14:20+0000">2020-03-16</time>
+        </div>
+          <div class="h-entry">
+      <p class="p-name">Move beyond the stale Q&A Discussion Board</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/covid19online5.png" src="Covid19ActiveLearningTips.mp44"> 
           </video>
           
       <p class="p-summary">Vlog of Instructional Design Process</p>
