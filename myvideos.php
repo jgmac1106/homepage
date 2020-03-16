@@ -50,7 +50,7 @@
    <video  controls class="u-video" poster="/videos/covid19online2.png" src="https://jgregorymcverry.com/videos/COVID-19OnlineGuideII.mp4"> 
           </video>
           
-      <p class="p-summary">A guide to using Video and Chat apps for saynchronous learning </p>
+      <p class="p-summary">Using Video and Chat apps for learning</p>
       <time class="dt-published" datetime="2020-03-11T11:24:20+0000">2020-03-10</time>
         </div>
         <div class="h-entry">
