@@ -13,7 +13,7 @@ I just published the 5th video in my series on Teaching Online In a Time of cris
    
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-3" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-2" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-3" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-3" rel="next">Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-03-16-2" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>
