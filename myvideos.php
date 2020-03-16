@@ -70,18 +70,20 @@
    <video  controls class="u-video" poster="/videos/covid19online4.png" src="https://jgregorymcverry.com/videos/COVID19InstructionalDesignIVLiveVlog.mp4"> 
           </video>
           
-      <p class="p-summary">10 Active Learning Techniques in Ten Minutes</p>
-      <time class="dt-published" datetime="2020-03-16T12:14:20+0000">2020-03-16</time>
-        </div>
-          <div class="h-entry">
-      <p class="p-name">Move beyond the stale Q&A Discussion Board</p>
-
-      <a class="p-author" href="/"></a>
-   <video  controls class="u-video" poster="/videos/covid19online5.png" src="Covid19ActiveLearningTips.mp44"> 
-          </video>
-          
       <p class="p-summary">Vlog of Instructional Design Process</p>
       <time class="dt-published" datetime="2020-03-12T11:24:20+0000">2020-03-12</time>
+    
+        </div>
+          <div class="h-entry">
+      <p class="p-name"></p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/covid19online5.png" src="https://jgregorymcverry.com/videos/Covid19ActiveLearningTips.mp44"> 
+          </video>
+          
+      <p class="p-summary">Move beyond the stale Q&A Discussion Board</p>
+        <time class="dt-published" datetime="2020-03-16T12:14:20+0000">2020-03-16</time>
+        <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
         </div>
      </div>
 
