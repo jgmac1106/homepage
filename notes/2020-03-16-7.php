@@ -9,7 +9,7 @@
 <time class="dt-published" datetime="2020-03-16 16:344:20">16<sup>th</sup>March 2020</time>
 
  <p class="p-name e-content">
-Day 2Coronacation,erm Sprin Break, be busy,facilitate drop in design studio for @scsu at 9:00. Help run session on facilitating group work  10:00, microlectures/Kalutra 11:00, then drop in design studio again 16:00. We got your back owls!!
+Day 2 Coronacation, erm Spring Break, be busy,facilitate drop in design studio for @scsu at 9:00. Help run session on facilitating group work  10:00, microlectures/Kalutra 11:00, then drop in design studio again 16:00. We got your back owls!!
    
  </p>
  <p>  Also on
