@@ -5,7 +5,7 @@
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23indieweb" title="IndieWeb Videos">
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23theoryandresearch" title="Theory and Research">
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23literacies" title="Literacies">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23ActiveReadinginCollege" title="Online College Survival Guide">
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23OnlineSurvivalGuide" title="Online College Survival Guide">
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyvideos%23covid19instructionaldesign" title="Teaching Online In Times of Crisis">
 
 
@@ -89,7 +89,7 @@
      </div>
 
   </section>
- <section class="h-feed videofeed" id="ActiveReadinginCollege">
+ <section class="h-feed videofeed" id="OnlineSurvivalGuide">
   <h2 class="p-name">Online College Survival Guide</h2>
       <a class="p-author" href="/"></a>
     <time class="dt-updated" datetime="2020-02-02T11:24:20+0000">2020-02-02</time>
