@@ -60,7 +60,7 @@
    <video  controls class="u-video" poster="/videos/covid19online3.png" src="https://jgregorymcverry.com/videos/COVID-19OnlineTeachingIII.mp4"> 
           </video>
           
-      <p class="p-summary">Instructional Design Tips to Reduce Student Anxiety</p>
+      <p class="p-summary">Tips to Reduce Student Anxiety</p>
       <time class="dt-published" datetime="2020-03-11T11:24:20+0000">2020-03-11</time>
         </div>
         <div class="h-entry">
