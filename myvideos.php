@@ -78,7 +78,7 @@
       <p class="p-name"></p>
 
       <a class="p-author" href="/"></a>
-   <video  controls class="u-video" poster="/videos/covid19online5.png" src="https://jgregorymcverry.com/videos/Covid19ActiveLearningTips.mp44"> 
+   <video  controls class="u-video" poster="/videos/covid19online5.png" src="https://jgregorymcverry.com/videos/Covid19ActiveLearningTips.mp4"> 
           </video>
           
       <p class="p-summary">Move beyond the stale Q&A Discussion Board</p>
