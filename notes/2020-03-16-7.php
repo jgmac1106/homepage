@@ -13,7 +13,7 @@ Day 2 Coronacation, erm Spring Break, be busy,facilitate drop in design studio f
    
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-7" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-6" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-7" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-8" rel="next">Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-03-16-6" rel="prev">Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>
