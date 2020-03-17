@@ -76,9 +76,9 @@
     
         </div>
           <div class="h-entry">
-      <p class="p-name"></p>
+      <p class="p-name">10 Active Learning Strategies for Your Online Class</p>
 
-      <a class="p-author" href="/">10 Active Learning Strategies for Your Online Class</a>
+      <a class="p-author" href="/"></a>
    <video  controls class="u-video" poster="/videos/covid19online5.png" src="https://jgregorymcverry.com/videos/Covid19ActiveLearningTips.mp4"> 
           </video>
           
@@ -86,7 +86,7 @@
         <time class="dt-published" datetime="2020-03-16T12:14:20+0000">2020-03-16</time>
         <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
         </div>
-     </div>
+   
  <div class="h-entry">
       <p class="p-name">How to Get Started</p>
 
