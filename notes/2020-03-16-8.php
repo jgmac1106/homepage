@@ -7,7 +7,7 @@
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
 <a class="u-in-reply-to" href="https://twitter.com/LFB27/status/1239532073423077377">Birthday Wish</a>
-<time class="dt-published" datetime="2020-03-16 16:344:20">16<sup>th</sup>March 2020</time>
+<time class="dt-published" datetime="2020-03-16 16:34:20">16<sup>th</sup>March 2020</time>
 
  <p class="p-name e-content">
 magic Comes alive<br />
@@ -31,7 +31,7 @@ and a dose of unicorn.
    
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-8" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-7" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-16-8" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-17-1" rel="next">Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-03-16-7" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>
