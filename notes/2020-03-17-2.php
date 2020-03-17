@@ -10,7 +10,7 @@
 <time class="dt-published" datetime="2020-03-17 07:54:20">17<sup>th</sup>March 2020</time>
 
  <p class="p-name e-content">
-My kids must be living the life of Reily, another year, and another failed Leprachaun trap....You would think by now they could have improved the design and earn their keep with a bucket of gold. 
+My kids must be living the life of Riely, another year, and another failed Leprachaun trap....You would think by now they could have improved the design and earn their keep with a bucket of gold. 
    
  </p>
  <p>  Also on
