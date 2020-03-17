@@ -15,7 +15,7 @@
    
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-16-8" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-1" rel="canonical"><strong>My Notes</strong></a> <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-2" rel="next"> Next </a> <a href="https://jgregorymcverry.com/notes/2020-03-16-8" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>
