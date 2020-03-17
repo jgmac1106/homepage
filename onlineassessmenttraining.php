@@ -11,9 +11,10 @@
    
 
     
-    <span class="summary">
+    <div class="summary">
     <p class="p-summary">Lesson Plan For Tomorrow's @SCSU Session On Feedback and Online Learning.</p>
-    </span>
+    </div>
+  </div>
     <div class="copy">
 
   <div class="e-content">
