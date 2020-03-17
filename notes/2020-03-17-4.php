@@ -13,7 +13,7 @@
 Wow what a turn out for our first open design studio to assist @scsu faculty as they get ready to move 100% online next week.
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-4" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-17-3" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-4" rel="canonical"><strong>My Notes</strong></a> <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-5" rel="next"> Next </a> <a href="https://jgregorymcverry.com/notes/2020-03-17-3" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>
