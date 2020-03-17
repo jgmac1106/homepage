@@ -11,9 +11,10 @@
    
 
     
-    <span class="summary">
+    <div class="summary">
     <p class="p-summary">Lesson Plan For Today's @SCSU Session On Microlectures and Kaltura.</p>
-    </span>
+    </div>
+  </div>
     <div class="copy">
 
   <div class="e-content">
