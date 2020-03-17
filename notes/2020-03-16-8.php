@@ -6,13 +6,13 @@
   	<div class="notewrapper">
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
-<a class="u-in-reply-to" href="https://twitter.com/LFB27/status/1239532073423077377">BirthdaY Wish</a>
+<a class="u-in-reply-to" href="https://twitter.com/LFB27/status/1239532073423077377">Birthday Wish</a>
 <time class="dt-published" datetime="2020-03-16 16:344:20">16<sup>th</sup>March 2020</time>
 
  <p class="p-name e-content">
 magic Comes alive<br />
 as Rosie passes<br />
-five</p>
+five<br />
 A unicorn<br/>
 <br />
 rises<br />
