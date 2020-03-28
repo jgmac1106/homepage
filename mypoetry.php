@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-03-17 15:24:20">17<sup>th</sup>March 2020</time>
+    <time class="dt-updated" datetime="2020-03-28 12:04:20">28<sup>th</sup>March 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -199,15 +199,6 @@
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a></p>
 </div>
 <div class="h-entry audiopoem">
-  <p class="p-name">Joy in Poetry</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-02-26 19:44:20">26<sup>th</sup> February 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Joy+in+Poetry.m4a" controls="controls">
-</audio>
-<data class="p-size" value="279619"></data><data class="p-duration" value="PT00H00M17S"></data>
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/25/joy-in-poetry-a-potryport-poem">Show Link</a></p>
-</div>
-<div class="h-entry audiopoem">
   <p class="p-name">Search for Joy</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-03-01 18:44:20">1<sup>st</sup>March 2020</time>
@@ -255,21 +246,13 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Constraints of Creativity</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-07 08:34:20">7<sup>th</sup>March 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/constraintsofcreativity.m4a" controls="controls">
+  <time class="dt-published" datetime="2020-03-17 08:34:20">7<sup>th</sup>March 2020</time>
+ <audio class="u-audio" src="https://quickthoughts.jgregorymcverry.com/file/f3b2dc3dcc719f6686662d5028dc58e6/creativemachete.m4a" controls="controls">
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/01/13/constraints-oncreativityseen-throughamyburvallseyesrhizomatic-learning-breeds-that">Show Link</a></p>
 </div>
- <div class="h-entry audiopoem">
-  <p class="p-name">Cry For My Children</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-17 15:24:20">17<sup>th</sup>March 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/IntrospectiveThought.m4a" controls="controls">
-</audio>
-<data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/28/introspective-knots-a-poetryport-poem">Show Link</a></p>
-</div>
+ 
  <div class="h-entry audiopoem">
   <p class="p-name">Instrospective Knots</p>
   <a class="p-author" href="/"></a>
@@ -278,6 +261,24 @@
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/27/cry-for-my-children-a-poetrypoem-of-diversity">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Cry For My Children</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-03-17 15:24:20">17<sup>th</sup>March 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/IntrospectiveThought.m4a" controls="controls">
+</audio>
+<data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/28/introspective-knots-a-poetryport-poem">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Dancing Toes</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-03-28 12:04:20">28<sup>th</sup>March 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/DancingToes.m4a" controls="controls">
+</audio>
+<data class="p-size" value="207996"></data><data class="p-duration" value="PT00H00M08S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/dancing-toes-poetry-writingcommunity">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
@@ -288,6 +289,7 @@
 </div>
 <a class="u-syndication" href="https://pca.st/8suh4x3o"><img src="https://www.pocketcasts.com/assets/images/roundel.svg">Subscribe on PocketCast</a>
 </div>
+
     </div>
   <div class="poembox b"><div class="h-feed poetry featured" id="featuredpoems">
   <div>
