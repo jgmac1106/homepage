@@ -156,7 +156,7 @@
       <p class="p-name">Self Regulation in Online Learning: Set Youe Week For Success</p>
 
       <a class="p-author" href="/"></a>
-   <video  controls class="u-video" poster="/videos/onlinesurvivalmonday.png" src="SelfregulatedlearningMondayForSuccess.mp4"> 
+   <video  controls class="u-video" poster="/videos/onlinesurvivalmonday.png" src="https://jgregorymcverry.com/videos/SelfregulatedlearningMondayForSuccess.mp4"> 
           </video>
           
       <p class="p-summary">How to Start Your Week Off Right in Online Learning</p>
