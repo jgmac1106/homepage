@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-03-28 12:04:20">28<sup>th</sup>March 2020</time>
+    <time class="dt-updated" datetime="2020-03-30 06:04:20">30<sup>th</sup>March 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -279,6 +279,15 @@
 </audio>
 <data class="p-size" value="207996"></data><data class="p-duration" value="PT00H00M08S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/dancing-toes-poetry-writingcommunity">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Pandemic in the Canopy</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-03-30 06:04:20">30<sup>th</sup>March 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PandemicIIntheCanopy.m4a" controls="controls">
+</audio>
+<data class="p-size" value="696000"></data><data class="p-duration" value="PT00H00M43S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/pandemic-in-the-canopy-smallpoems-poetry-clmooc-writingcommunity">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
