@@ -103,7 +103,7 @@
  <section class="h-feed videofeed" id="OnlineSurvivalGuide">
   <h2 class="p-name">Online College Survival Guide</h2>
       <a class="p-author" href="/"></a>
-    <time class="dt-updated" datetime="2020-02-02T11:24:20+0000">2020-02-02</time>
+    <time class="dt-updated" datetime="2020-03-30T11:24:20+0000">2020-03-30</time>
       <p class="p-summary">A show on how students new to online college can survive the learning experience</p>
      <div class="videoblock">
       <div class="h-entry">
@@ -151,6 +151,17 @@
       <p class="p-summary">5 Top Time Management Techniques</p>
       <time class="dt-published" datetime="2020-03-16T15:54:20+0000">2020-03-16</time>
        <a class="u-syndication" href="magnet:?xt=urn:btih:cfef0d8a40485d81a1180e2bf331f829aded7ee3&dn=Covid19ActiveLearningTips.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
+        </div>
+         <div class="h-entry">
+      <p class="p-name">Self Regulation in Online Learning: Set Youe Week For Success</p>
+
+      <a class="p-author" href="/"></a>
+   <video  controls class="u-video" poster="/videos/onlinesurvivalmonday.png" src="SelfregulatedlearningMondayForSuccess.mp4"> 
+          </video>
+          
+      <p class="p-summary">How to Start Your Week Off Right in Online Learning</p>
+      <time class="dt-published" datetime="2020-03-30T15:54:20+0000">2020-03-30</time>
+       <a class="u-syndication" href="magnet:?xt=urn:btih:9a14de4a1768166aec51a171627c119ec9be44d4&dn=SelfregulatedlearningMondayForSuccess.mp4&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrenttrackerlist.com%2Ftorrent-tracker-list%2F&tr=http%3A%2F%2F104.28.16.69%2Fannounce">Torrent</a>
         </div>
        
      </div>
