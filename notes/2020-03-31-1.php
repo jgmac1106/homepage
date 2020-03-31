@@ -6,7 +6,7 @@
   	<div class="notewrapper">
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>31<sup>st</sup>March 2020</time>
-<video class="u-video" href="https://jgregorymcverry.com/videos/BensSTEMProject.mp4" controls></video>
+<video class="u-video" src="https://jgregorymcverry.com/videos/BensSTEMProject.mp4" controls></video>
  <p class="p-name e-content">
 So proud of Ben as he filmed his STEM experimment and edited the video using screencast-o-matic. He made a catapualt out of house hold items and then reflected on his iterative design. 
  </p>
