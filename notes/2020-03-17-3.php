@@ -13,7 +13,7 @@
 Hey @scsu I will be in the design studio from 9:00-10:00 to answer questions about blackboard, online teaching, help with tools, or just brainstorm ideas for your class. Bring your syllabi and questions. Just hang out and work with other faculty. Human contact important
  </p>
  <p>  Also on
- <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-3" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-03-17-2" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
+ <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-3" rel="canonical"><strong>My Notes</strong></a> <a class="u-url" href="https://jgregorymcverry.com/notes/2020-03-17-4" rel="next">Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-03-17-2" rel="prev">Prev Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a></p>
 </div>
   	</main>
   	<div id="webmentions"></div>

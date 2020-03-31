@@ -423,6 +423,25 @@
     </ul>
     </details>
   </div>
+    <div class="h-entry" id="2020331">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-03-31: Covid-19: Day 16: Working from Home</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="20203031-1"> Prepare materials GOIF 🍅🍅🍅🍅🍅</li>
+      <ul>
+        <li>Met with teams on Hangouts</li>
+        <li>Created an OwnCloud Instance</li>
+      </ul>
+       <li class="h-item" id="2020331-2"> Make a video on how to do wiki markup 🍅🍅🍅</li>
+        <li class="h-item" id="2020331-3">EDU 506 Feedback 🍅🍅🍅</li>
+         <li class="h-item" id="2020331-4">Faculty Meeting 🍅🍅🍅</li>
+
+    </ul>
+    </details>
+  </div>
       
 
 <a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
