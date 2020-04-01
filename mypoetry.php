@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-04-01 07:54:20">1<sup>st</sup>April 2020</time>
+    <time class="dt-updated" datetime="2020-04-01 09:54:20">1<sup>st</sup>April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -299,7 +299,7 @@
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/stolen-year-smallpoems-poetry-writingcommunity">Show Link</a></p>
 </div>
 <div class="h-entry audiopoem">
-  <p class="p-name">Somer Solitude</p>
+  <p class="p-name">Somber Solitude</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-04-01 07:54:20">1<sup>st</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SomberSolitude.m4a" controls="controls">
