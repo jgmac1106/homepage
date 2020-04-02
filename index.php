@@ -42,7 +42,7 @@
       <a href="https://github.com/jgmac1106" rel="me"><i class="fa fab-github fa-2x"></i></a>
       <a rel="me" class="u-url" href="https://indieweb.social/@jgamc1106"><i class="fab fa-mastodon fa-2x"></i></a>
       <a rel="me" class="u-url" href="https://twitter.com/jgmac1106"><i class="fab fa-twitter fa-2x"></i></a>
-      <a rel="me" class="u-url" href="https://orcid.org/0000-0003-1035-389X">ORCID ID</a>
+      <a rel="me" class="u-url" href="https://orcid.org/0000-0003-1035-389X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a>
       <div class="p-category">
         <p style="text-align: center">
           My Feeds
