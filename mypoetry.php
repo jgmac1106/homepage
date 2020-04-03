@@ -224,7 +224,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Confidence of Winter's Kiss</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-03 12:04:20">3<sup>rd/sup>March 2020</time>
+  <time class="dt-published" datetime="2020-03-03 12:04:20">3<sup>rd</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/confidenceinwinterskiss.m4a" controls="controls">
 </audio>
 <data class="p-size" value="367972"></data><data class="p-duration" value="PT00H00M25S"></data>
