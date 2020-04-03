@@ -16,10 +16,14 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-02-01 13:34:20">01<sup>st</sup> February 2020</time>
+    <time class="dt-updated" datetime="2020-04-03 18:04:20">3<sup>rd</sup>April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
+ <details>
+  <summary>
+    <p>Past Episodes</p>
+  </summary>
  <div class="h-entry audiopoem" >
   <p class="p-name">(un)Celebration</p>
   <a class="p-author" href="/"></a>
@@ -216,6 +220,7 @@
 <data class="p-size" value="449"></data><data class="p-duration" value="PT00H00M16S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/envoy-of-joy-a-poetryport-poem-smallpoems-writingcommunity">Show Link</a>Originally pubslished 26 Feb 2020</p>
 </div>
+</details>
 <div class="h-entry audiopoem">
   <p class="p-name">Confidence of Winter's Kiss</p>
   <a class="p-author" href="/"></a>
@@ -307,7 +312,7 @@
 <data class="p-size" value="519000"></data><data class="p-duration" value="PT00H00M17S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/somber-solitude-smallpoems-writingcommunity-poetry">Show Link</a></p>
 </div>
-<div class="h-entry audiopoem">
+<div class="h-entry audiopoem"> 
   <p class="p-name">Poem in FourParts</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-04-02 07:54:20">2<sup>nd</sup>April 2020</time>
@@ -315,6 +320,15 @@
 </audio>
 <data class="p-size" value="119000"></data><data class="p-duration" value="PT00H00M45S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/poetry-a-poem-in-five-parts-smallpoems-writingcommunity">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Shadow's Dance</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-03 18:04:20">3<sup>rd</sup>April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/shadowsdance.m4a" controls="controls">
+</audio>
+<data class="p-size" value="19854700"></data><data class="p-duration" value="PT00H01M21S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/a-shadows-dance-smallpoems-poetry-writingcommunity">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
