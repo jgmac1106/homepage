@@ -343,7 +343,7 @@
   <p class="p-name">Celestially Sent</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-04-05 15:04:20">5<sup>th</sup>April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/cellestiallysent.m4a" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/celestiallysent.m4a" controls="controls">
 </audio>
 <data class="p-size" value="844255"></data><data class="p-duration" value="PT00H00M21S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/celestially-sent-smallpoems-writingcommunity-poetry">Show Link</a></p>
