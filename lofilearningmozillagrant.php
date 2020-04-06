@@ -24,7 +24,7 @@ on <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup> Ma
     <p> Do you want an endorse this project? If so, just tweet about it and include a link to the post in your tweet. If you have your own website, and support webmentions, just send a reply to this site as an endorsement. If you do not have a website and do not want to use Twitter you can use <a href="https://commentpara.de/">Commentpara.de</a>. This allows you to send an anonymous webmention as an endorsement (or with critical feedback). Moments of crisis require action. Help us fight global inequity in education.</p>.
   </div>
 
-    <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/cta">IndieWeb Call to Action</a></small> <small>Also on <a class="u-syndication" href="https://news.indieweb.org/en">IndieWeb News</a></small></p>
+    <p><small>Also on <a href="https://jgregorymcverry.com/notes/lofilearningmozillagrant" class="u-url" rel="canonical"><strong>My Notes</strong> Also on <a class="u-syndication" href="https://indieweb.xyz/en/cta">IndieWeb Call to Action</a></small> <small>Also on <a class="u-syndication" href="https://news.indieweb.org/en">IndieWeb News</a></small></p>
     
   </article>
   <div id="webmentions"></div>
