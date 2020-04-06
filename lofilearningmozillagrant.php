@@ -14,6 +14,7 @@ on <time class="dt-published" datetime="2020-04-06 06:54:20">13<sup>th</sup> Feb
 <span class="summary">
   <p class="p-summary">Help combat the growing gloabl inequities in online learning during this global lockdown. Access to education, on a healthy and accessible Internet, is a human right denied to many during the COVID-19 crisis</p>
 </span>
+</div>
 <img class="featured u-featured" src="https://jgregorymcverry.com/photos/IWCNavrongo.jpg" alt="IndieWeb Navrongo">
 <div class="copy">
   <div class="e-content">

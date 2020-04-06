@@ -14,6 +14,7 @@
     <span class="summary">
     <p class="p-summary">Backstage post of how a poem came to be </p>
     </span>
+  </div>
 <img class="featured u-featured" src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="screenshot of my notes">
     <div class="copy">
 
