@@ -25,8 +25,9 @@ on <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup> Ma
   </div>
 
     <p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/cta">IndieWeb Call to Action</a></small> <small>Also on <a class="u-syndication" href="https://news.indieweb.org/en">IndieWeb News</a></small></p>
-    <div id="webmentions"></div>
+    
   </article>
+  <div id="webmentions"></div>
 </main>
 <footer>
   <?php include 'footer.php'; ?>
