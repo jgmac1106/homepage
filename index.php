@@ -88,7 +88,7 @@ Recent Articles
             Grant Application for Mozilla COVID-19 Open Source Solutions
           </p>
         </div>
-        <a  href="/lowfilearningmozillagrant" class="u-url button">Endorse Project</a>
+        <a  href="/lofilearningmozillagrant" class="u-url button">Endorse Project</a>
 
     </article> 
   <article class="h-entry card">
