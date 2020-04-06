@@ -1,5 +1,6 @@
 <?php include 'head.php'; ?>
 <link rel="stylesheet" href="/css/etherpad.css">
+<link rel="stylesheet" href="/css/webmention.css">
 </head>
 <?php include 'header.php'; ?>
 </header>
