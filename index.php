@@ -68,6 +68,29 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
+    <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">Lo-Fi Learning During Pandemics</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+        <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup>March 2020</time></p>
+      </div>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured" src="https://jgregorymcverry.com/photos/IWCNavrongo.jpg" alt="IndieWeb Navrongo">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Grant Application for Mozilla COVID-19 Open Source Solutions
+          </p>
+        </div>
+        <a  href="/lowfilearningmozillagrant" class="u-url button">Endorse Project</a>
+
+    </article> 
   <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Poetry Is A Stretch</h3>
@@ -114,30 +137,6 @@ Recent Articles
         <a  href="/chickeneggorduckofdigital" class="u-url button">Read More</a>
 
     </article> 
-  <article class="h-entry card">
-        <header class="card__title">
-            <h3 class="p-name">Art & Feminism and IndieWeb Navrongo Keynote</h3>
-        </header>
-      <div class="authorInfo">
-         <div class="h-card"> 
-           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
-         </div>
-        
-        <time class="dt-published" datetime="2020-02-14 20:44:20">14<sup>th</sup> February 2020</time>
-      </div>
-        <figure class="card__thumbnail">
-                <img class="featured u-featured small"  src="https://goifnetwork.org/images/OPENNESSS66.png" alt="OER Ghana">
-         
-        </figure>
-        <div class="p-summary card__description">
-          <p>
-            Keynote for the @MozOpenLeaders #IndieWeb and #OER #Ghana program
-          </p>
-        </div>
-        <a  href="/IWCNavrongoKeynote" class="u-url button">Read More</a>
-
-    </article> 
-
 </section>
 <article class="h-entry">
   
