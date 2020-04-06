@@ -13,6 +13,7 @@
   Also on <a href="https://jgregorymcverry.com/notes/2020-04-06-5" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2020-04-06-4" rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
+  	 	<div id="webmentions"></div>
   		<footer>
      <?php include '../footer.php'; ?>
 
