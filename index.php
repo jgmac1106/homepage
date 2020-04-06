@@ -147,7 +147,7 @@ Recent Articles
   
   <time class="dt-published" datetime="2019-11-21 10:24:20">21<sup>st</sup>November 2019</time>
   
-  <a  href="/articles" class="u-url button">Read Them All</a>
+  <a  href="/articles/2020/02" class="u-url button">Read Them All</a>
 </article>
 </div>
 </main>
