@@ -9,7 +9,7 @@
 <h1 class="p-name">Lo-Fi Learning in a Time of Global Pandemic</h1>
 <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregory McVerry</a>
-on <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup> March 2020</time></p>
+on <time class="dt-published" datetime="2020-04-06 06:54:20"> 6th<sup>th</sup>April 2020</time></p>
 <small>Image: IndieWebCamp Navrongo<a href="https://creativecommons.org/licenses/by-sa-nc/2.0/">Creative Commons (BY-SA-NC) license</a> by <a href="http://sadik.goifnetwork.org/">Sadik Shahadu</a> </small>
 
 <span class="summary">
