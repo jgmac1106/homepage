@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-04-04 06:02:20">4<sup>th</sup>April 2020</time>
+    <time class="dt-updated" datetime="2020-04-06 19:44:20">6<sup>th</sup>April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -347,6 +347,15 @@
 </audio>
 <data class="p-size" value="844255"></data><data class="p-duration" value="PT00H00M21S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/celestially-sent-smallpoems-writingcommunity-poetry">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Funny Algebra</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-06 19:44:20">6<sup>th</sup>April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FunnyAlgebra.m4a" controls="controls">
+</audio>
+<data class="p-size" value="1015927"></data><data class="p-duration" value="PT00H00M32S"></data>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/10/24/smallpoems-tonight-i-strolled-into-our-college">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
