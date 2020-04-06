@@ -12,7 +12,7 @@ on <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup> Ma
 <small>Image: IndieWebCamp Navrongo<a href="https://creativecommons.org/licenses/by-sa-nc/2.0/">Creative Commons (BY-SA-NC) license</a> by <a class=" h-card" href="http://sadik.goifnetwork.org/">Sadik Shahadu</a> </small>
 
 <span class="summary">
-  <p class="p-summary">Help combat the growing global inequities in online learning during this global lockdown. Access to education, on a healthy and accessible Internet, is a human right denied to many during the COVID-19 crisis. Please endorse this proposal.</p>
+  <p class="p-summary">Help combat the growing global inequities in online learning during this global lock down. Access to education, on a healthy and accessible Internet, is a human right denied to many during the COVID-19 crisis. Please endorse this proposal.</p>
 </span>
 </div>
 <img class="featured u-featured" src="https://jgregorymcverry.com/photos/IWCNavrongo.jpg" alt="IndieWeb Navrongo">
