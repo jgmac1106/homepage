@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-04-06 19:44:20">6<sup>th</sup>April 2020</time>
+    <time class="dt-updated" datetime="2020-04-08 09:44:20">8<sup>th</sup>April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -356,6 +356,24 @@
 </audio>
 <data class="p-size" value="1015927"></data><data class="p-duration" value="PT00H00M32S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/10/24/smallpoems-tonight-i-strolled-into-our-college">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">My Rock</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-07 09:44:20">7<sup>th</sup>April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/myrock.mp3" controls="controls">
+</audio>
+<data class="p-size" value="624348"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/22/i-have-a-rockeveryone-shouldmine-stained-inblack">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Steady Lies</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-08 09:44:20">8<sup>th</sup>April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Steadylies.mp3" controls="controls">
+</audio>
+<data class="p-size" value="2089072"></data><data class="p-duration" value="PT00H00M51S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/18/connecticut-algonquin-forlong-tidal-river">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
