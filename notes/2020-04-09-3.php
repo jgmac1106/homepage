@@ -7,7 +7,7 @@
   	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-04-09 15:24:20">9<sup>th</sup> March 2020</time>
- <a class="u-reply-to" href="http://www.napowrimo.net/day-one-2/">Napowrimo Day One</a>
+ <a class="u-in-reply-to" href="http://www.napowrimo.net/day-one-2/">Napowrimo Day One</a>
  <p class="p-name e-content">
      My writing <br>
 a broken string <br>
