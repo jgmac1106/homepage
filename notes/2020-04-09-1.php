@@ -2,9 +2,9 @@
 </head>
  <?php include '../header.php'; ?>
 </header>  
-   <main> 
-  	<div >
-  	<div class="h-entry" >
+   <main class="longreads"> 
+  	<div class="notewrapper">
+  	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-04-09 08:54:20">9<sup>th</sup> March 2020</time>
  
