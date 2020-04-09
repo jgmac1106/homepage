@@ -24,7 +24,7 @@ Yet I strum on, noises lost<br>
 	 sinking into the soundhole<br>
 	 of my soul.
 </p>
-  Also on <a href="https://jgregorymcverry.com/notes/2020-04-09-3" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-04-09-2 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on <a href="https://jgregorymcverry.com/notes/2020-04-09-3" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-04-09-2 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
   	 	<div id="webmentions"></div>
