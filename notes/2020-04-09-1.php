@@ -43,7 +43,7 @@ rather loving spectators cheering our running, restfully
                we                         love   are     
                                            for           
 </pre>
-  Also on <a href="https://jgregorymcverry.com/notes/2020-04-09-2" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-04-09-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on <a href="https://jgregorymcverry.com/notes/2020-04-09-1" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-04-09-2 "rel="next">Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-04-09-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
   	 	<div id="webmentions"></div>
