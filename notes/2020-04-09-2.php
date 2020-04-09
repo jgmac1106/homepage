@@ -7,7 +7,7 @@
   	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-04-09 13:04:20">9<sup>th</sup> March 2020</time>
- <img class="u-photo" href="https://jgregorymcverry.com/photos/20200409dogtraxcodingdawg.jpg" alt="concrete poem about dog, girl commenting that you can do neat stuff with code">
+ <img class="u-photo" src="https://jgregorymcverry.com/photos/20200409dogtraxcodingdawg.jpg" alt="concrete poem about dog, girl commenting that you can do neat stuff with code">
  <p class="p-name e-content">
       I made a poem about hanging with my dog each day for the #NaPoWriMo  Day Nine Concrete poem challenge. My dog came out fat. <a href="https://jgregorymcverry.com/notes/2020-04-09-1">https://jgregorymcverry.com/notes/2020-04-09-1</a> Luckily @dogtrax turned the source code into a comic.              
 </p>
