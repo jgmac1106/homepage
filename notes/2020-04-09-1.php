@@ -6,9 +6,9 @@
   	<div class="notewrapper">
   	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
-<time class="dt-published" datetime="2020-04-09 08:54:20">9<sup>th</sup> March 2020</time>
+<time class="dt-published" datetime="2020-04-09 11:24:20">9<sup>th</sup> March 2020</time>
  
- <pre class="p-name e-content">
+ <pre style="overflow: auto; min-width: 800px" class="p-name e-content">
                                             Me 	     and         
                                             my dog  we  
                                              recharging! 
@@ -43,7 +43,7 @@ rather loving spectators cheering our running, restfully
                we                         love   are     
                                            for           
 </pre>
-  Also on <a href="https://jgregorymcverry.com/notes/2020-04-09-1" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-04-07-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on <a href="https://jgregorymcverry.com/notes/2020-04-09-2" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-04-09-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
   	 	<div id="webmentions"></div>
