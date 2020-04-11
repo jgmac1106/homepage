@@ -488,7 +488,7 @@ north for that final curtain.<br/></p>
     <div class= "poetcircle" id="GlokalYokel">
       <div class="h-feed">
         <h2 class="p-name">Glokal Yokel Poetry Hour</h2>
-        <p class="p-summary">A #ds106 radio production</p>
+        <p class="p-summary">A #ds106radio Production</p>
         <data class="p-size" value="153755349"></data><data class="p-duration" value="PT01H20M15S"></data>
         <div class="h-card p-author">
         <p class="p-name">CLMOOC Crew</p>
