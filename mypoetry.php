@@ -485,12 +485,33 @@ north for that final curtain.<br/></p>
 </div>
 </div></div>
   <div class="poembox c">
-    <div class= "poetcircle" id="poetcircle">
+    <div class= "poetcircle" id="GlokalYokel">
+      <div class="h-feed">
+        <h2 class="p-name">Glokal Yokel Poetry Hour</h2>
+        <p class="p-summary">A #ds106 radio production</p>
+        <data class="p-size" value="153755349"></data><data class="p-duration" value="PT01H20M15S"></data>
+        <div class="h-card p-author">
+        <p class="p-name">CLMOOC Crew</p>
+            <a class="u-url" href="https://clmooc.com">
+        <img class="u-photo" href="https://clmooc.com/2016/wp-content/uploads/2016/12/clmooc-new-logo-800.jpg">
+      </a>
+    </div>
+      <div class="h-entry audiopoem" >
+  <p class="p-name">Out My Window</p>
+  <p class="p-summary">Join us to define poetry, explore poems from our windows, share local poets, and just riff on sounds</p>
+  <time class="dt-published" datetime="2020-04-11 09:04:20">09<sup>th</sup>April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokelEp1.mp3" controls="controls">
+</audio>
+</div>
+
+
+
+      </div>
     <div>
     <h2>Poets I rely on</h2>
   <p >Find your inspiration </p>
 </div>
-<ul class="poetlist">
+<ul class="poetlist" id="poetlist">
   <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://dogtrax.edublogs.org/">Kevin Hogdson</a><span clas="p-note">Poet, friend, mentor</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://soconsider.wordpress.com/" title="CLMOOC Friend">Sheri Edwards</a> <span class="p-note"> CLMOOC Friend</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://taniasheko.com/" title="Teacher Librarian in Melbourne, Australia">Tania Sheko</a> <span class="p-note"> Teacher Librarian in Melbourne, Australia</span></li>
