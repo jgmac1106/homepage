@@ -375,7 +375,6 @@
 <data class="p-size" value="2089072"></data><data class="p-duration" value="PT00H00M51S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/18/connecticut-algonquin-forlong-tidal-river">Show Link</a></p>
 </div>
-</div>
 <div class="h-entry audiopoem">
   <p class="p-name">Bent Nails</p>
   <a class="p-author" href="/"></a>
