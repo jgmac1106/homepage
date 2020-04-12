@@ -411,7 +411,6 @@
 <data class="p-size" value="1432681"></data><data class="p-duration" value="PT00H01M123S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/smallpoemswhen-you-findyou-wayto-sheepskin-hollowafter-the">Show Link</a></p>
 </div>
-</div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
   <a href="https://microcast.club/39cb5c/prev">&larr;</a>
