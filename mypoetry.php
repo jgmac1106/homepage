@@ -534,8 +534,9 @@ north for that final curtain.<br/></p>
     </div>
       <div class="h-entry" >
   <p class="p-name">Out My Window</p>
+   <img class="u-featured" style="width:100%" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokels.jpg">
   <p class="p-summary">Join us to define poetry, explore poems from our windows, share local poets, and just riff on sounds</p>
-  <img class="u-featured" style="width:100%" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokels.jpg">
+ 
   <time class="dt-published" datetime="2020-04-11 09:04:20">09<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokelEp1.mp3" controls="controls">
 </audio>
