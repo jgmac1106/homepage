@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-04-12 09:44:20">12<sup>th</sup> April 2020</time>
+    <time class="dt-updated" datetime="2020-04-08 09:44:20">8<sup>th</sup>April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -205,7 +205,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Search for Joy</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-01 18:44:20">1<sup>st</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-01 18:44:20">1<sup>st</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/searchforjoy.m4a" controls="controls">
 </audio>
 <data class="p-size" value="449"></data><data class="p-duration" value="PT00H00M13S"></data>
@@ -214,7 +214,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Envoy ofJoy</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-02 12:24:20">2<sup>nd</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-02 12:24:20">2<sup>nd</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/EnvoyOfJoy.m4a" controls="controls">
 </audio>
 <data class="p-size" value="449"></data><data class="p-duration" value="PT00H00M16S"></data>
@@ -224,7 +224,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Confidence of Winter's Kiss</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-03 12:04:20">3<sup>rd</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-03 12:04:20">3<sup>rd</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/confidenceinwinterskiss.m4a" controls="controls">
 </audio>
 <data class="p-size" value="367972"></data><data class="p-duration" value="PT00H00M25S"></data>
@@ -233,7 +233,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Floodlit Public</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-04 15:44:20">4<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-04 15:44:20">4<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FloodlitPublic.m4a" controls="controls">
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M25S"></data>
@@ -242,7 +242,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Celebrate Diversity?</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-05 15:44:20">5<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-05 15:44:20">5<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/celebratediversity.m4a" controls="controls">
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M25S"></data>
@@ -251,7 +251,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Constraints of Creativity</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-17 08:34:20">7<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-17 08:34:20">7<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://quickthoughts.jgregorymcverry.com/file/f3b2dc3dcc719f6686662d5028dc58e6/creativemachete.m4a" controls="controls">
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
@@ -261,7 +261,7 @@
  <div class="h-entry audiopoem">
   <p class="p-name">Instrospective Knots</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-11 12:24:20">11<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-11 12:24:20">11<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/cryformychildren.m4a" controls="controls">
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
@@ -270,7 +270,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Cry For My Children</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-17 15:24:20">17<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-17 15:24:20">17<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/IntrospectiveThought.m4a" controls="controls">
 </audio>
 <data class="p-size" value="611356"></data><data class="p-duration" value="PT00H00M12S"></data>
@@ -279,7 +279,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Dancing Toes</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-28 12:04:20">28<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-28 12:04:20">28<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/DancingToes.m4a" controls="controls">
 </audio>
 <data class="p-size" value="207996"></data><data class="p-duration" value="PT00H00M08S"></data>
@@ -288,7 +288,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Pandemic in the Canopy</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-30 06:04:20">30<sup>th</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-30 06:04:20">30<sup>th</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PandemicIInTheCanopy.m4a" controls="controls">
 </audio>
 <data class="p-size" value="696000"></data><data class="p-duration" value="PT00H00M43S"></data>
@@ -297,7 +297,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Stolen Year</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-03-31 07:34:20">31<sup>st</sup> March 2020</time>
+  <time class="dt-published" datetime="2020-03-31 07:34:20">31<sup>st</sup>March 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/StolenYear.m4a" controls="controls">
 </audio>
 <data class="p-size" value="519000"></data><data class="p-duration" value="PT00H00M17S"></data>
@@ -306,7 +306,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Somber Solitude</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-01 07:54:20">1<sup>st</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-01 07:54:20">1<sup>st</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SomberSolitude.m4a" controls="controls">
 </audio>
 <data class="p-size" value="519000"></data><data class="p-duration" value="PT00H00M17S"></data>
@@ -315,7 +315,7 @@
 <div class="h-entry audiopoem"> 
   <p class="p-name">Poem in FourParts</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-02 07:54:20">2<sup>nd</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-02 07:54:20">2<sup>nd</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/poeminfourparts.m4a" controls="controls">
 </audio>
 <data class="p-size" value="119000"></data><data class="p-duration" value="PT00H00M45S"></data>
@@ -324,7 +324,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Shadow's Dance</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-03 18:04:20">3<sup>rd</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-03 18:04:20">3<sup>rd</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/shadowsdance.m4a" controls="controls">
 </audio>
 <data class="p-size" value="19854700"></data><data class="p-duration" value="PT00H01M21S"></data>
@@ -333,7 +333,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Day 22: Hopeless in the Hoping Hour</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-04 06:02:20">4<sup>th</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-04 06:02:20">4<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Day22.m4a" controls="controls">
 </audio>
 <data class="p-size" value="12910250"></data><data class="p-duration" value="PT00H00M42S"></data>
@@ -342,7 +342,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Celestially Sent</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-05 15:04:20">5<sup>th</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-05 15:04:20">5<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/celestiallysent.m4a" controls="controls">
 </audio>
 <data class="p-size" value="844255"></data><data class="p-duration" value="PT00H00M21S"></data>
@@ -351,7 +351,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Funny Algebra</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-06 19:44:20">6<sup>th</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-06 19:44:20">6<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FunnyAlgebra.m4a" controls="controls">
 </audio>
 <data class="p-size" value="1015927"></data><data class="p-duration" value="PT00H00M32S"></data>
@@ -360,7 +360,7 @@
 <div class="h-entry audiopoem">
   <p class="p-name">My Rock</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-07 09:44:20">7<sup>th</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-07 09:44:20">7<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/myrock.mp3" controls="controls">
 </audio>
 <data class="p-size" value="624348"></data><data class="p-duration" value="PT00H00M12S"></data><br />
@@ -369,47 +369,12 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Steady Lies</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-08 09:44:20">8<sup>th</sup> April 2020</time>
+  <time class="dt-published" datetime="2020-04-08 09:44:20">8<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Steadylies.mp3" controls="controls">
 </audio>
 <data class="p-size" value="2089072"></data><data class="p-duration" value="PT00H00M51S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/18/connecticut-algonquin-forlong-tidal-river">Show Link</a></p>
 </div>
-<div class="h-entry audiopoem">
-  <p class="p-name">Bent Nails</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-09 09:44:20">9<sup>th</sup> April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/bentnails.mp3" controls="controls">
-</audio>
-<data class="p-size" value="624348"></data><data class="p-duration" value="PT00H00M22S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/10/pestilent-ghostspick-at-portraitsdangling-in-precariousplasterunpainted-pasts">Show Link</a></p>
-</div>
-<div class="h-entry audiopoem">
-  <p class="p-name">Stolen Mana</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-10 09:44:20">10<sup>th</sup> April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/StolenMana.mp3" controls="controls">
-</audio>
-<data class="p-size" value="339300"></data><data class="p-duration" value="PT00H00M24S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/10/broken-tooths-scraping-againsttorn-elbows-bentat">Show Link</a></p>
-</div>
-<div class="h-entry audiopoem">
-  <p class="p-name">Good Friday</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-11 09:44:20">11<sup>th</sup> April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/GoodFriday.mp3" controls="controls">
-</audio>
-<data class="p-size" value="671995"></data><data class="p-duration" value="PT00H00M18S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/smallpoemsthis-good-fridayi-seek-shelterbehind-a-rockit">Show Link</a></p>
-</div>
-<div class="h-entry audiopoem">
-  <p class="p-name">Blue Marker</p>
-  <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-04-12 09:44:20">12<sup>th</sup> April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/BlueMarker.mp3" controls="controls">
-</audio>
-<data class="p-size" value="1432681"></data><data class="p-duration" value="PT00H01M123S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/smallpoemswhen-you-findyou-wayto-sheepskin-hollowafter-the">Show Link</a></p>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
@@ -531,9 +496,8 @@ north for that final curtain.<br/></p>
         <img class="u-photo" href="https://clmooc.com/2016/wp-content/uploads/2016/12/clmooc-new-logo-800.jpg">
       </a>
     </div>
-      <div class="h-entry" >
+      <div class="h-entry audiopoem" >
   <p class="p-name">Out My Window</p>
-  <img class="u-featured" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokels.jpg">
   <p class="p-summary">Join us to define poetry, explore poems from our windows, share local poets, and just riff on sounds</p>
   <time class="dt-published" datetime="2020-04-11 09:04:20">09<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokelEp1.mp3" controls="controls">
