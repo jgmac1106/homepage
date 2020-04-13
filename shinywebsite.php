@@ -42,63 +42,31 @@
     
     <!-- import the webpage's javascript file -->
     <script src="/script.js" defer></script>
-    <style>
-      body {
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background-color: #000000;
-      }
-      p {
-      position: relative;
-      font-family: Geneva, sans-serif;
-      font-size: 60px;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      background: linear-gradient(90deg, #DC143C, #fff, #000);
-      background-repeat: no-repeat;
-      background-size: 80%;
-      animation: animate 3s infinite;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: rgba(255, 255, 255, 0);
-      }
-      @keyframes animate {
-      0% {
-      background-position: -500%;
-      }
-      100% {
-      background-position: 500%;
-      }
-      }
-    </style>
   </head>  
   <body>
-    <div id="shiny">
+    <div id="doodlebird">
       <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
-     <div >
-       <p>Take the risk</p>
+     <div  class="shiny">
+       <p>Ain't nobody</p>
      </div>
-       <div>
-       <p>of first</p>
+       <div class="shiny">
+       <p>gonna shine your</p>
      </div>
-     <div>
-       <p>flight</p>
+     <div class="shiny">
+       <p> shit</p>
      </div>
-     <div>
-       <p>But choose</p>
+     <div class="shiny">
+       <p>better than</p>
      </div>
-      <div>
-       <p>a branch</p>
+      <div class="shiny">
+       <p>You.</p>
      </div>
-      <div>
-       <p>close to </p>
+      <div class="shiny">
+       <p>Get A </p>
      </div>
-      <div>
-       <p>the ground</p>
+      <div class="shiny">
+       <p>Website</p>
      </div>
       
     </div>
