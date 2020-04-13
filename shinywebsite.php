@@ -60,7 +60,7 @@
        <p>better than</p>
      </div>
       <div class="shiny">
-       <p>You.</p>
+       <p>YOU</p>
      </div>
       <div class="shiny">
        <p>Get A </p>
