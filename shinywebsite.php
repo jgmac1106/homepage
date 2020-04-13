@@ -43,11 +43,9 @@
        <p>YOU</p>
      </div>
       <div class="shiny">
-       <p>Get A </p>
+       <p>Get A Website</p>
      </div>
-      <div class="shiny">
-       <p>Website</p>
-     </div>
+    
       
     </div>
 
