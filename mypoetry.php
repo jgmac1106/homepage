@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    <data class="p-category" value="arts"></data>
 
-    <time class="dt-updated" datetime="2020-04-12 09:44:20">12<sup>th</sup> April 2020</time>
+    <time class="dt-updated" datetime="2020-04-13 04:44:20">13<sup>th</sup> April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -410,6 +410,15 @@
 </audio>
 <data class="p-size" value="1432681"></data><data class="p-duration" value="PT00H01M123S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/smallpoemswhen-you-findyou-wayto-sheepskin-hollowafter-the">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Credible Existence</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-13 04:44:20">13<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/CredibleExistence.mp3" controls="controls">
+</audio>
+<data class="p-size" value="909396"></data><data class="p-duration" value="PT00H00M19S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/smallpoemspoetry-picks-at-pretentious-poses-of-prose">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
