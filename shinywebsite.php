@@ -44,7 +44,7 @@
     <script src="/script.js" defer></script>
   </head>  
   <body>
-    <div id="doodlebird">
+    <div id="shiny">
       <!-- Goal is to have each div fade in and out on the 3 second counter-->
       
      <div  class="shiny">
