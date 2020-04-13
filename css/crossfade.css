@@ -285,7 +285,7 @@ font-size:5.7vh;
     -o-animation-delay: 3s;
     -ms-animation-delay: 3s;
     animation-delay: 3s; 
-      margin-left: 60%;
+      margin-left: 8%;
       margin-top:10%;
 }
 }
@@ -295,8 +295,8 @@ font-size:5.7vh;
     -o-animation-delay: 6s;
     -ms-animation-delay: 6s;
     animation-delay: 6s; 
-    margin-left: 40%;
-      margin-top:20%;
+    margin-left: 14%;
+      margin-top:2%;
 }
 #shiny > div:nth-child(4) {
     -webkit-animation-delay: 9s;
@@ -304,8 +304,8 @@ font-size:5.7vh;
     -o-animation-delay: 9s;
     -ms-animation-delay: 9s;
     animation-delay: 9s; 
-    margin-left: 10%;
-      margin-top:20%;
+    margin-left: 5%;
+      margin-top:10%;
 }
 #shiny > div:nth-child(5) {
     -webkit-animation-delay: 12s;
@@ -313,8 +313,8 @@ font-size:5.7vh;
     -o-animation-delay: 12s;
     -ms-animation-delay: 12s;
     animation-delay: 12s;
-    margin-left: 60%;
-      margin-top:40%;
+    margin-left: 6%;
+      margin-top:4%;
 }
 
 #shiny> div:nth-child(6) {
@@ -323,8 +323,8 @@ font-size:5.7vh;
     -o-animation-delay: 15s;
     -ms-animation-delay: 15s;
     animation-delay: 15s;
-    margin-left: 40%;
-      margin-top:40%; 
+    margin-left: 4%;
+      margin-top:0%; 
 }
 
 #shiny > div:nth-child(7) {
