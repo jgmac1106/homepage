@@ -9,6 +9,7 @@
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://developingwriters.org/" title="blogging about composition in the digital age">Anna Smith</a> <span class="p-note"> blogging about composition in the digital age</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="http://www.rhsin.com/" title="the goal is to continue to create things that resonate with the soul.">R.H. Sin</a> <span class="p-note"> the goal is to continue to create things that resonate with the soul.</span></li>
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://mastodon.social/tags/smallpoems" title="the small poem collections shared on Mastodon">Mastodon Small Poems</a> <span class="p-note"> the small poem collections shared on Mastodon</span></li>
+<li class="h-card p-follow-of"><a class="p-name u-url" href="https://edifiedlistener.blog" title="Edified Listner">Sherri Spelic</a><span class="p-note">Edified Listner- Listening is literally and figuratively my lifeline</span></li>
 
   </ul>
 
