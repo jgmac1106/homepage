@@ -534,7 +534,7 @@ north for that final curtain.<br/></p>
       <div class="h-feed">
         <h2 class="p-name">Glokal Yokel Poetry Hour</h2>
         <p class="p-summary">A #ds106radio Production</p>
-        <data class="p-size" value="153755349"></data><data class="p-duration" value="PT01H20M15S"></data>
+       <time class="dt-updated" datetime="2020-04-18 09:04:20">18<sup>th</sup>April 2020</time>
         <div class="h-card p-author">
         <p class="p-name">CLMOOC Crew</p>
             <a class="u-url" href="https://clmooc.com">
@@ -546,12 +546,19 @@ north for that final curtain.<br/></p>
    <img class="u-featured" style="width:100%" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokels.jpg">
   <p class="p-summary">Join us to define poetry, explore poems from our windows, share local poets, and just riff on sounds</p>
  
-  <time class="dt-published" datetime="2020-04-11 09:04:20">09<sup>th</sup>April 2020</time>
+  <time class="dt-published" datetime="2020-04-11 09:04:20">11<sup>th</sup>April 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokelEp1.mp3" controls="controls">
 </audio>
 </div>
-
-
+ <div class="h-entry" >
+  <p class="p-name">Why Can't I?</p>
+   <img class="u-featured" style="width:100%" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?w=400&tok=50bd06&media=slack-imgs.com.png">
+  <p class="p-summary">Join us as we ask Why can't I find poems in margins, and explore the whys in the margins of our soul.</p>
+ 
+  <time class="dt-published" datetime="2020-04-18 09:04:20">18<sup>th</sup>April 2020</time>
+ <audio class="u-audio" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?media=glokalyokelepisode2.mp3" controls="controls">
+</audio>
+</div>
 
       </div>
     <div>
