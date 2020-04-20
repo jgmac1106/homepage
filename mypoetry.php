@@ -482,7 +482,7 @@
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Diner.mp3" controls="controls">
 </audio>
 <data class="p-size" value="909420"></data><data class="p-duration" value="PT00H00M33S"></data><br />
-<p class="e-content"><a class="u-url" href="">Show Link</a></p>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/03/31/the-floors-as-scuffed-asthe-pastcurled-cracked">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
