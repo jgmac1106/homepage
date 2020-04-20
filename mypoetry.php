@@ -14,9 +14,9 @@
       <div>
    <h2 class="p-name">Poembox</h2>
    <p class="p-summary">A boombox of bad poems</p>
-   <data class="p-category" value="arts"></data>
+   
 
-    <time datetime="2020-04-14 16:44:20">14<sup>th</sup> April 2020</time>
+    <time class="dt-updated" datetime="2020-04-20 07:54:20">20<sup>th</sup> April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -220,7 +220,6 @@
 <data class="p-size" value="449"></data><data class="p-duration" value="PT00H00M16S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/02/26/envoy-of-joy-a-poetryport-poem-smallpoems-writingcommunity">Show Link</a>Originally pubslished 26 Feb 2020</p>
 </div>
-</details>
 <div class="h-entry audiopoem">
   <p class="p-name">Confidence of Winter's Kiss</p>
   <a class="p-author" href="/"></a>
@@ -303,6 +302,8 @@
 <data class="p-size" value="519000"></data><data class="p-duration" value="PT00H00M17S"></data>
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/stolen-year-smallpoems-poetry-writingcommunity">Show Link</a></p>
 </div>
+</details>
+
 <div class="h-entry audiopoem">
   <p class="p-name">Somber Solitude</p>
   <a class="p-author" href="/"></a>
@@ -428,6 +429,61 @@
 </audio>
 <data class="p-size" value="577654"></data><data class="p-duration" value="PT00H00M22S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/14/smallpoemscoronaschoolingyellow-and-orange-busessnake-our-hallways-generators">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Biology of Poetry</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-15 16:44:20">15<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/BiologyOfPoetry.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529000"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/12/when-you-teach-a-biologistto-write-poetry">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Grey Pastels</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-16 16:44:20">16<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/GreyPastels.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529000"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/12/when-you-teach-a-biologistto-write-poetry">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Silent Spring Lovers</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-17 16:44:20">17<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SilentSpringLovers.mp3" controls="controls">
+</audio>
+<data class="p-size" value="672000"></data><data class="p-duration" value="PT00H00M21S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/13/bats-hang-emptycrying-for-the-fencestitched-leatherof">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">TTQA</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-18 16:44:20">18<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/TTQA.mp3" controls="controls">
+</audio>
+<data class="p-size" value="909420"></data><data class="p-duration" value="PT00H00M28S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/04/09/ttqasmallpoems-edu307-dont-simply-turn-questions-aroundtake">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Bent Umbra</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-19 07:54:20">19<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/BentUmbra.mp3" controls="controls">
+</audio>
+<data class="p-size" value="909420"></data><data class="p-duration" value="PT00H00M19S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/03/31/the-floors-as-scuffed-asthe-pastcurled-cracked">Show Link</a></p>
+</div>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Diner</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-20 07:54:20">20<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Diner.mp3" controls="controls">
+</audio>
+<data class="p-size" value="909420"></data><data class="p-duration" value="PT00H00M33S"></data><br />
+<p class="e-content"><a class="u-url" href="">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
