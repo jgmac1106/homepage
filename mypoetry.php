@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-04-21 18:04:20">21<sup>st</sup> April 2020</time>
+    <time class="dt-updated" datetime="2020-04-28 06:04:20">28<sup>th</sup> April 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -492,6 +492,69 @@
 </audio>
 <data class="p-size" value="10000420"></data><data class="p-duration" value="PT00H00M36S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/21/specualtiveedsit-notsentinel-staringwantingly-at-gatekeepersa-snowball-of">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Joyous Sorrow</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-22 18:04:20">22<sup>nd</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/JoyousSorrow.mp3" controls="controls">
+</audio>
+<data class="p-size" value="196356"></data><data class="p-duration" value="PT00H00M06S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/24/poetry-dont-need-no-devicesjust-pain">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Joyous Sorrow</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-23 06:04:20">23<sup>rd</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/DormantCreatures.mp3" controls="controls">
+</audio>
+<data class="p-size" value="671995"></data><data class="p-duration" value="PT00H00M21S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/24/smallpoemscreatures-lay">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Third Kid</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-24 06:04:20">24<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/thirdkid.mp3" controls="controls">
+</audio>
+<data class="p-size" value="671995"></data><data class="p-duration" value="PT00H00M21S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/14/bout-towalk-my-son-the-youngest-bucket">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">W-H-Y</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-25 06:04:20">25<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/w-h-y.mp3" controls="controls">
+</audio>
+<data class="p-size" value="719643"></data><data class="p-duration" value="PT00H00M22S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/14/bout-towalk-my-son-the-youngest-bucket">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Rude Meaning</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-26 06:04:20">26<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/RudeMeaning.mp3" controls="controls">
+</audio>
+<data class="p-size" value="624328"></data><data class="p-duration" value="PT00H00M19S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/14/bout-towalk-my-son-the-youngest-bucket">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Cellophane Truth</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-27 06:04:20">27<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/CellophaneTruth.mp3" controls="controls">
+</audio>
+<data class="p-size" value="339300"></data><data class="p-duration" value="PT00H00M10S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/i-have-lived-a-life-not-polite">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Forgotten Garden</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-28 06:04:20">28<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ForgottenGarden.mp3" controls="controls">
+</audio>
+<data class="p-size" value="861749"></data><data class="p-duration" value="PT00H00M27S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/01/05/smallpoems-roamedvast-spaces-of-themighty-gardenweaving-in">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
