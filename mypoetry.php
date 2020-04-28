@@ -542,7 +542,7 @@
   <p class="p-name">Cellophane Truth</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-04-27 06:04:20">27<sup>th</sup> April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/CellophaneTruth.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/CelllophaneTruth.mp3" controls="controls">
 </audio>
 <data class="p-size" value="339300"></data><data class="p-duration" value="PT00H00M10S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/11/i-have-lived-a-life-not-polite">Show Link</a></p>
@@ -551,7 +551,7 @@
   <p class="p-name">Forgotten Garden</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-04-28 06:04:20">28<sup>th</sup> April 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ForgottenGarden.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FogottenGarden.mp3" controls="controls">
 </audio>
 <data class="p-size" value="861749"></data><data class="p-duration" value="PT00H00M27S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/01/05/smallpoems-roamedvast-spaces-of-themighty-gardenweaving-in">Show Link</a></p>
