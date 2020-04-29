@@ -659,8 +659,8 @@ mocking me<br/>
 hanging in the air, perched in the rafters as<br/>
 light floods the room with the<br/>
 color of thunder. The<br/>
-masses rise in a cacophony<br/>
-of silence and he wonders,<br/>
+masses rise,a cacophony<br/>
+of silence. He wonders,<br/>
 wonders as worker bees draped in black<br/>
 pour from the darkened and dusty curtain which is<br/>
 stained with past dreams and passions.<br/>
@@ -750,6 +750,7 @@ north for that final curtain.<br/></p>
   <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
 </div>
   <ul>
+     <li class="h-entry"><span class="p-name">Natasha Tretheway</span>  <span class="p-summary">A true poet, capturing humanity in the past</span> <a class="u-read-of" href="https://www.poetryfoundation.org/harriet/2018/11/natasha-trethewey-discusses-monuments-with-lauren-leblanc">Monument</a><img src="https://gardenandgun.com/wp-content/uploads/2018/12/GG0618_Books_01-1-1600x1911.png"></li>
     <li class="h-entry"><span class="p-name">Typewriter Rodeo</span>  <span class="p-summary">A collection of improv poems written for people and printed on type writers</span> <a class="u-read-of" href="https://typewriterrodeo.com/our-book/">Typewriter RodeoBook</a><img src="https://typewriterrodeo.com/wp-content/uploads/2018/04/Typewriter-Rodeo-book-front-cover-1-895x1024.jpg"></li>
     <li class="h-entry"><span class="p-name">Robert Hunter</span>  <span class="p-summary">A collection of poems from my favorite lyricist</span><br /><a class="u-url" href="http://www.hunterarchive.com/files/Poetry/SentinelGateway.html">Sentinel</a><img src="https://img1.od-cdn.com/ImageType-400/1523-1/822/0C7/CA/%7B8220C7CA-0367-4D96-8621-3EB481089808%7DImg400.jpg"></li>
     <li class="h-entry"><span class="p-name">Bill Moyers</span>  <span class="p-summary">Interviews with Poets</span> <a class="u-read-of" href="https://billmoyers.com/series/fooling-with-words-1999/">Fooling with Poets</a><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348765356l/615561.jpg"></li>
