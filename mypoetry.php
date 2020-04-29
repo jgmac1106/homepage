@@ -556,6 +556,15 @@
 <data class="p-size" value="861749"></data><data class="p-duration" value="PT00H00M27S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/01/05/smallpoems-roamedvast-spaces-of-themighty-gardenweaving-in">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Rabbit Fingers</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-29 06:54:20">29<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/RabbitFingers.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1717729"></data><data class="p-duration" value="PT00H00M54S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/01/05/smallpoems-roamedvast-spaces-of-themighty-gardenweaving-in">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
