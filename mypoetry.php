@@ -565,6 +565,15 @@
 <data class="p-size" value="1717729"></data><data class="p-duration" value="PT00H00M54S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/01/05/smallpoems-roamedvast-spaces-of-themighty-gardenweaving-in">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Today, Nevermore</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-04-30 06:54:20">30<sup>th</sup> April 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/todaynevermore.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1717729"></data><data class="p-duration" value="PT00H00M54S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/30/smallpoemsnapowrimoclmoocdo-historiesrelish-in-futuresunwoven-stringsas-tomorrowcomes-encroaching">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
