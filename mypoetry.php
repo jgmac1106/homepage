@@ -574,6 +574,15 @@
 <data class="p-size" value="1717729"></data><data class="p-duration" value="PT00H00M54S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/30/smallpoemsnapowrimoclmoocdo-historiesrelish-in-futuresunwoven-stringsas-tomorrowcomes-encroaching">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Weight of Hope</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-01 19:34:20">1<sup>st</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/weightofhope.mp3" controls="controls">
+</audio>
+<data class="p-size" value="576071"></data><data class="p-duration" value="PT00H00M18S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/01/smallpoemsi-slip-below-depthof-possibilitiesand-drown-inbroken">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
