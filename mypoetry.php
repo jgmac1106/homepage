@@ -303,7 +303,9 @@
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/03/27/stolen-year-smallpoems-poetry-writingcommunity">Show Link</a></p>
 </div>
 </details>
-
+<details>
+  <summary>April Poems
+  </summary>
 <div class="h-entry audiopoem">
   <p class="p-name">Somber Solitude</p>
   <a class="p-author" href="/"></a>
@@ -574,6 +576,7 @@
 <data class="p-size" value="1717729"></data><data class="p-duration" value="PT00H00M54S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/30/smallpoemsnapowrimoclmoocdo-historiesrelish-in-futuresunwoven-stringsas-tomorrowcomes-encroaching">Show Link</a></p>
 </div>
+</details>
 <div class="h-entry audiopoem">
   <p class="p-name">Weight of Hope</p>
   <a class="p-author" href="/"></a>
@@ -582,6 +585,51 @@
 </audio>
 <data class="p-size" value="576071"></data><data class="p-duration" value="PT00H00M18S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/01/smallpoemsi-slip-below-depthof-possibilitiesand-drown-inbroken">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Fog Of Inhibition</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-02 19:34:20">2<sup>nd</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FogOfInhibition.mp3" controls="controls">
+</audio>
+<data class="p-size" value="433758"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/11/01/childeyes-blinked-counterbalancedby-frustrationi-find-peace">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Personal Poem</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-03 19:34:20">3<sup>rd</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Personalpoem.mp3" controls="controls">
+</audio>
+<data class="p-size" value="576701"></data><data class="p-duration" value="PT00H00M18S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/12/06/karis_m_jones-searching-thinkingwhile-listening-broken-thoughtsscreamingour-links">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Stone Gestures</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-04 19:34:20">4<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/StoneGestures.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1009985"></data><data class="p-duration" value="PT00H00M34S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/11/09/smallpoemsthe-thoughtsscream-through-my-earssearching-lookingeternallyreasons-soughtlost">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Ribbons of Whispers</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-05 19:34:20">5<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/RibbonsOfWhispers.mp3" controls="controls">
+</audio>
+<data class="p-size" value="433758"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/06/black-drapedribbonlay-bareshaows-of-timespinning-stilldirge-ofstolen">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Old Flame</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-04 19:34:20">6<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/OldFlame.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1009985"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/06/flames-benton-borrowed-embersopaquepassionpassing-inswirling-patternsof-fallen">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
