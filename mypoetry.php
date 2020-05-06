@@ -16,13 +16,13 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-04-28 06:04:20">28<sup>th</sup> April 2020</time>
+    <time class="dt-updated" datetime="2020-05-04 19:34:20">6<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
  <details>
   <summary>
-    <p>Past Episodes</p>
+   Past Episodes
   </summary>
  <div class="h-entry audiopoem" >
   <p class="p-name">(un)Celebration</p>
