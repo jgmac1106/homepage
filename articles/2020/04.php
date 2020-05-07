@@ -34,6 +34,7 @@
  
     </section>
     <a href="/articles/2020/02" rel="prev">Previous page</a>
+    <a href="/articles/2020/05" rel="next">Next page</a>
     </main>
     <footer>
 <?php include('/home/jgregory/public_html/footer.php'); ?>
