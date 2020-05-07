@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-05-04 19:34:20">6<sup>th</sup> May 2020</time>
+    <time class="dt-updated" datetime="2020-05-04 09:04:20">7<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -630,6 +630,15 @@
 </audio>
 <data class="p-size" value="1009985"></data><data class="p-duration" value="PT00H00M13S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/06/flames-benton-borrowed-embersopaquepassionpassing-inswirling-patternsof-fallen">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Small Talk</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-04 09:04:20">7<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/smalltalk.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1009985"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/12/17/my-soul-poursout-small-talkin-broken-versusofpoetry">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
