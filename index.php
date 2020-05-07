@@ -69,6 +69,29 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
+  <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">History of CLMOOC in Verse</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+     <time class="dt-published" datetime="2020-05-07 09:34:20">7<sup>th</sup>May 2020</time>
+      </div>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured" src="https://live.staticflickr.com/65535/49857912948_986c454bf4_z.jpg" alt="">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            A collection of poems butchering the #clmooc history as bad as the #poetry
+          </p>
+        </div>
+        <a  href="/clmoochistoryinverse" class="u-url button">Read More</a>
+
+    </article>
     <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">Lo-Fi Learning During Pandemics</h3>
@@ -115,29 +138,7 @@ Recent Articles
         <a  href="/poetryisastretch" class="u-url button">Read More</a>
 
     </article> 
-  <article class="h-entry card">
-        <header class="card__title">
-            <h3 class="p-name">Chicken and Egg (Err Duck) of the Digital Dichotomy</h3>
-        </header>
-      <div class="authorInfo">
-         <div class="h-card"> 
-           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
-         </div>
-        
-       <time class="dt-published" datetime="2020-02-14 12:24:20">13<sup>th</sup> February 2020</time>
-      </div>
-        <figure class="card__thumbnail">
-                <img class="featured u-featured" src="https://i1.wp.com/clmooc.com/wp-content/uploads/2020/01/PoetRY_Port_LogoYes-lowres-e1580420665271.png?fit=800%2C800&ssl=1" alt="screenshot of my notes">
-         
-        </figure>
-        <div class="p-summary card__description">
-          <p>
-            A #Clmooc #poetryport gift for @miazamoraPhD @cogdog and the #netnarr crew 
-          </p>
-        </div>
-        <a  href="/chickeneggorduckofdigital" class="u-url button">Read More</a>
-
-    </article> 
+  
 </section>
 <article class="h-entry">
   
