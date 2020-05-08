@@ -11,6 +11,10 @@
 <li class="h-card p-follow-of"><a class="p-name  u-url" href="https://mastodon.social/tags/smallpoems" title="the small poem collections shared on Mastodon">Mastodon Small Poems</a> <span class="p-note"> the small poem collections shared on Mastodon</span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="https://edifiedlistener.blog" title="Edified Listner">Sherri Spelic</a><span class="p-note"></span></li>
 <li class="h-card p-follow-of"><a class="p-name u-url" href="http://awordedgewiselindamitchell.blogspot.com/" title="A Word Edge Wise">Linda Mitchell</a><span class="p-note">Public school librarian that writes on the side</span></li>
+<li class="h-card p-follow-of"><a class="p-name u-url" href="http://www.michellehbarnes.com/Blog.html
+" title="A Word Edge Wise">Michelle Barnes</a><span class="p-note">Artist of the written word, but I still strive to share the human experience in eye-opening ways</span></li>
+<li class="h-card p-follow-of"><a class="p-name u-url" href="https://beyondliteracylink.blogspot.com/search/label/poetry
+" title="Beyond Literacy Link"> Carol Varsalona </a><span class="p-note">A dedicated space to ponder, reflect, and converse about life, literacy, and learning </span></li>
 
   </ul>
 
