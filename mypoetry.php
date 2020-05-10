@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-05-09 05:54:20">9<sup>th</sup> May 2020</time>
+    <time class="dt-updated"  datetime="2020-05-10 06:04:20">10<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -657,6 +657,15 @@
 </audio>
 <data class="p-size" value="1765376"></data><data class="p-duration" value="PT00H00M55S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/09/smallpoemsclmoocnot-day-todaynot-a-normal-dayin-the">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">May's Winter Wind</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-10 06:04:20">10<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/MaysWinterWind.mp3" controls="controls">
+</audio>
+<data class="p-size" value="481763"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/09/a-sweetnesscarried-on-wonders-andworries-of-mays">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
