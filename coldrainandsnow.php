@@ -1,4 +1,4 @@
-<?php include 'head.php'; ?>
+coldrain<?php include 'head.php'; ?>
 </head>
 <?php include 'header.php'; ?>
     </header>
@@ -12,7 +12,7 @@
 
     
     <span class="summary">
-    <p class="p-summary">Three poems written in the verse of vortex of a frozen May of Covid Quarintine #poemsofpresence</p>
+    <p class="p-summary">Three poems written in the verse of vortex of a frozen May of Covid Quarintine #clmooc #poemsofpresence</p>
     </span>
   </div>
 <img class="featured u-featured" src="https://jgregorymcverry.com/photos/ColdMayDay.jpg" alt="">

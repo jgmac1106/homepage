@@ -86,7 +86,7 @@ Recent Articles
         </figure>
         <div class="p-summary card__description">
           <p>
-            Three poems written in the verse of vortex of a frozen May of Covid Quarintine #poemsofpresence
+            Three poems written in frozen May of Covid Quarintine 
           </p>
         </div>
         <a  href="/coldrainandsnow" class="u-url button">Read More</a>
