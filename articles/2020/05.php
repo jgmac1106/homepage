@@ -11,6 +11,29 @@
 <section class="card-container">
     <article class="h-entry card">
         <header class="card__title">
+            <h3 class="p-name">May's Cold Rain and Snow</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+    <time class="dt-published" datetime="2020-05-10 08:04:20">7<sup>th</sup>May 2020</time>
+      </div>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured" src="https://jgregorymcverry.com/photos/ColdMayDay.jpg" alt="">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Three poems written in the verse of vortex of a frozen May of Covid Quarintine #poemsofpresence
+          </p>
+        </div>
+        <a  href="/coldrainandsnow" class="u-url button">Read More</a>
+
+    </article>
+    <article class="h-entry card">
+        <header class="card__title">
             <h3 class="p-name">History of CLMOOC in Verse</h3>
         </header>
       <div class="authorInfo">

@@ -69,6 +69,29 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
+      <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">May's Cold Rain and Snow</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+    <time class="dt-published" datetime="2020-05-10 08:04:20">7<sup>th</sup>May 2020</time>
+      </div>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured" src="https://jgregorymcverry.com/photos/ColdMayDay.jpg" alt="">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+            Three poems written in the verse of vortex of a frozen May of Covid Quarintine #poemsofpresence
+          </p>
+        </div>
+        <a  href="/coldrainandsnow" class="u-url button">Read More</a>
+
+    </article>
   <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">History of CLMOOC in Verse</h3>
@@ -101,7 +124,7 @@ Recent Articles
            <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
          </div>
         
-        <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup>March 2020</time></p>
+        <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup>March 2020</time>
       </div>
         <figure class="card__thumbnail">
                 <img class="featured u-featured" src="https://jgregorymcverry.com/photos/IWCNavrongo.jpg" alt="IndieWeb Navrongo">
@@ -115,29 +138,7 @@ Recent Articles
         <a  href="/lofilearningmozillagrant" class="u-url button">Endorse Project</a>
 
     </article> 
-  <article class="h-entry card">
-        <header class="card__title">
-            <h3 class="p-name">Poetry Is A Stretch</h3>
-        </header>
-      <div class="authorInfo">
-         <div class="h-card"> 
-           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
-         </div>
-        
-       <time class="dt-published" datetime="2020-02-14 12:24:20">13<sup>th</sup> February 2020</time>
-      </div>
-        <figure class="card__thumbnail">
-                <img class="featured u-featured" src="/photos/stretchpoem/PoetryisaStretch" alt="Poetry is a Stretch">
-         
-        </figure>
-        <div class="p-summary card__description">
-          <p>
-            A #Clmooc #poetryport poem made of pixelated gifs
-          </p>
-        </div>
-        <a  href="/poetryisastretch" class="u-url button">Read More</a>
-
-    </article> 
+  
   
 </section>
 <article class="h-entry">
