@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated"  datetime="2020-05-10 06:04:20">10<sup>th</sup> May 2020</time>
+    <time class="dt-updated"  datetime="2020-05-11 06:24:20">11<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -666,6 +666,15 @@
 </audio>
 <data class="p-size" value="481763"></data><data class="p-duration" value="PT00H00M15S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/09/a-sweetnesscarried-on-wonders-andworries-of-mays">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Spring's Silence</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-11 06:24:20">11<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SpringsSilence.mp3" controls="controls">
+</audio>
+<data class="p-size" value="368734"></data><data class="p-duration" value="PT00H00M10S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/09/total-silenceonly-found-in-constant-chatterof-falling">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
