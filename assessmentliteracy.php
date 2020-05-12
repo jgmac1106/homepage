@@ -14,7 +14,7 @@
     <p class="p-summary">Collection of Posts on Assessment in Language Arts Classrooms</p>
     </span>
  </div>
-    <img class="featured u-featured" src="photos/assets/055438aa-8d6a-403c-a7ff-c97119f02627%2F28542506368_d1978328e1_k.jpg?v=1565715843262">
+    <img class="featured u-featured" src="https://live.staticflickr.com/1747/28542506368_89a9532d7a_z.jpg">
     <div class="copy">
   <div class="e-content">
   
