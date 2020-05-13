@@ -8,14 +8,14 @@
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-05-13 07:24:20">13<sup>th</sup>May 2020</time></p>
-   <small>Featured Image: <a title="Cat-erpiller" href="https://flickr.com/photos/sarah-nomadwarmachine/49734027238">"Cat-erpiller"</a> by <a href="https://flickr.com/people/sarah-nomadwarmachine">NomadWarMachine</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA</a> </small>
+   <small>Featured Image: <a title="Hommage to Dubuffet (1985) - Paula Rêgo (1935)" href="https://flickr.com/photos/pedrosimoes7/21071079262">"Hommage to Dubuffet (1985) - Paula Rêgo (1935)"</a> by <a href="https://flickr.com/people/pedrosimoes7">pedrosimoes7</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY</a> </small>
 
     
     <span class="summary">
     <p class="p-summary">A #clmooc exploration in methods of making two images sing together</p>
     </span>
   </div>
-<img class="featured u-featured" src="https://live.staticflickr.com/65535/49734027238_225b2a037c_z.jpg" alt="">
+<img class="featured u-featured" src="https://live.staticflickr.com/722/21071079262_293e069548_z.jpg" alt="">
     <div class="copy">
 
   <div class="e-content">
