@@ -25,8 +25,8 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>I of course had to take the literal route at first and just rhyme "image"</p>
 <br>
-<audio  src="https://jgregorymcverry.com/poetry/slippagesofimages.mp3" controls="controls"></audio>
-<p>hemorrhages of<br>
+<audio  src="https://jgregorymcverry.com/poetry/slippagesofimages.mp3" controls="controls"></audio><br>
+<p class="poetrypoems">hemorrhages of<br>
 hues in unseen<br>
 scrimmages<br>
 that<br>
@@ -53,7 +53,7 @@ spines</p>
 </audio>
 
 
-<p>
+<p class="poetrypoems">
 &nbsp;&nbsp;&nbsp;words unheard<br>
 in touches of<br>
 smudges as<br>
@@ -103,7 +103,7 @@ in the<br>
 <blockquote>thinking about all of what you've been saying though, and watching your video. Thinking about the root of poetry as making again as I watched you ... sometimes a semi-serious question gets a very serious (helpful) answer</blockquote>
 <p>The root of poetry really pulled on me, away from my explorations into the rhyming images. Had to get a groove on for a bit</p>
 <p>So I posted a broken palindrom poem (fixed now)</p>
-<p>
+<p class="poetrypoems">
 Root of<br>
 poetry<br>
 like all<br>
@@ -128,9 +128,9 @@ All like<br>
 poetry of Root</p>
 <p>This brought Dan Blicksenderfer into the conversation</p>
 <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr">I love this; it made me think of Bootsy Collins and &quot;playing on the One&quot; <br><br>The One<br>a beat<br>eternal</p>&mdash; Dan Blickensderfer (@Dan_Blick) <a href="https://twitter.com/Dan_Blick/status/1260188821351792640?ref_src=twsrc%5Etfw">May 12, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 <p>To which I replied</p>
-<p>
+<p class="poetrypoems">
 Looking back my <br>
 palindrome poem<br>
 off a bit.<br>
@@ -142,7 +142,7 @@ comes from<br>
 "The Other One"<br>
 dem boys always<br>
 off beat</p>
-<p>mean it<br>
+<p class="poetrypoems">mean it<br>
  synergy<br>
 in energy<br>
 from academic<br>
@@ -158,9 +158,9 @@ no matter the beat<br>
 Always returns to the<br>
 One</p>
 <p>I did listen to a lot of Bootsy Collins yesterday. Like a lot. From "Bootzilla" to "Bootsy's Back". This may have influenced my verse as our exploration into rhyming images <a href="https://twitter.com/steelwagstaff/status/1260191531157291010">drew in</a> Steel Wagstaff</p>
-<blockquote>Basil Bunting described poetry emerging from the rhythmic grunts/breaths that ancient humans made while dancing. In a 1970 lecture he said "the arts are closely related. They have all a common ancestry. In particular music and poetry are twin sisters born of the primitive dance.</blockquote>
-<p>To which I replied</p>
-<p>dance goes<br>
+<blockquote>Basil Bunting described poetry emerging from the rhythmic grunts/breaths that ancient humans made while dancing. In a 1970 lecture he said "the arts are closely related. They have all a common ancestry. In particular music and poetry are twin sisters born of the primitive dance.</blockquote><br>
+<p class="poetrypoems">To which I replied</p>
+<p class="poetrypoems">dance goes<br>
 deeper than<br>
 grunts & bending<br>
 knees<br>
@@ -183,7 +183,7 @@ of my arteries <br>
 "Oh yeah I am programmable,<br>
 one hit of the dial" </p>
 <p>I first turned to color theory, and wantes to include a call back to Kevin's dots. After all, maybe color, or lack there of, is how you make an image rhyme?</p>
-<p>
+<p class="poetrypoems">
   2 Contrast<br>
 &nbsp;&nbsp;these perspectives<br>
 let's compare<br>
