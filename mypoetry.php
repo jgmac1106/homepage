@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated"  datetime="2020-05-12 06:24:20">12<sup>th</sup> May 2020</time>
+    <time class="dt-updated"  datetime="2020-05-13 06:04:20">13<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -684,6 +684,15 @@
 </audio>
 <data class="p-size" value="529093"></data><data class="p-duration" value="PT00H00M16S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/12/nomadwarmachine-hemorrhages-ofhues-in-unseenscrimmagesthatpillageshadesof-messagesmask-in">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Finger Paininting the Sky</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-13 06:04:20">13<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/fingerpaintingsinthesky.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529093"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/13/colorpoemsmalloemdogtraxstatus1260150228101009408">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
