@@ -24,7 +24,8 @@
     <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr">How would you rhyme images? <br><br>Asking for a &quot;friend&quot;<br><br>🤣<a href="https://twitter.com/hashtag/clmooc?src=hash&amp;ref_src=twsrc%5Etfw">#clmooc</a></p>&mdash; Sarah Honeychurch (@NomadWarMachine) <a href="https://twitter.com/NomadWarMachine/status/1259902543318179840?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>I of course had to take the literal route at first and just rhyme "image"</p>
-<audio class="u-audio" src="https://jgregorymcverry.com/poetry/slippagesofimages.mp3" controls="controls"></audio>
+<br>
+<audio  src="https://jgregorymcverry.com/poetry/slippagesofimages.mp3" controls="controls"></audio>
 <p>hemorrhages of<br>
 hues in unseen<br>
 scrimmages<br>
@@ -48,7 +49,7 @@ spines</p>
   <blockquote>With finger-paints (that’s how you rhyme an image) and colored smudges on glass, with chalk dust shadows, with nothing there, nothing at all, just the possibility of rhyme of the image, or maybe you meant literal? As in, image scrimmage, pilgrimage … I prefer the visual choices</blockquote>
  p>To which I replied</p>
  <blockquote>Can it be both? or must it be all of the above? Maybe answer just C, or 42. Anywhoo I say both. Bicameral rhymes of forced responses in confidence of color keeping time</blockquote>
-   <audio class="u-audio" src="https://jgregorymcverry.com/poetry/fingerpaintingsinthesky.mp3" controls="controls">
+   <audio  src="https://jgregorymcverry.com/poetry/fingerpaintingsinthesky.mp3" controls="controls">
 </audio>
 
 
