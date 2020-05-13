@@ -69,6 +69,29 @@
 Recent Articles
 </h2>
 <section  class="card-container" >
+  <article class="h-entry card">
+        <header class="card__title">
+            <h3 class="p-name">Can Images Rhyme?</h3>
+        </header>
+      <div class="authorInfo">
+         <div class="h-card"> 
+           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
+         </div>
+        
+    <time class="dt-published" datetime="2020-05-13 07:34:20">13<sup>th</sup>May 2020</time>
+      </div>
+        <figure class="card__thumbnail">
+                <img class="featured u-featured" src="https://live.staticflickr.com/65535/49734027238_225b2a037c_z.jpg" alt="">
+         
+        </figure>
+        <div class="p-summary card__description">
+          <p>
+           A #clmooc exploration in methods of making two images sing together
+          </p>
+        </div>
+        <a  href="/canimagesrhyme" class="u-url button">Read More</a>
+
+    </article>
       <article class="h-entry card">
         <header class="card__title">
             <h3 class="p-name">May's Cold Rain and Snow</h3>
@@ -115,29 +138,7 @@ Recent Articles
         <a  href="/clmoochistoryinverse" class="u-url button">Read More</a>
 
     </article>
-    <article class="h-entry card">
-        <header class="card__title">
-            <h3 class="p-name">Lo-Fi Learning During Pandemics</h3>
-        </header>
-      <div class="authorInfo">
-         <div class="h-card"> 
-           <p>Published by <a class="u-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a></p> 
-         </div>
-        
-        <time class="dt-published" datetime="2020-04-06 06:54:20">6th<sup>th</sup>March 2020</time>
-      </div>
-        <figure class="card__thumbnail">
-                <img class="featured u-featured" src="https://jgregorymcverry.com/photos/IWCNavrongo.jpg" alt="IndieWeb Navrongo">
-         
-        </figure>
-        <div class="p-summary card__description">
-          <p>
-            Grant Application for Mozilla COVID-19 Open Source Solutions
-          </p>
-        </div>
-        <a  href="/lofilearningmozillagrant" class="u-url button">Endorse Project</a>
-
-    </article> 
+    
   
   
 </section>
