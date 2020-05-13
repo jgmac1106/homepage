@@ -47,7 +47,7 @@ slipping up <br>
 spines</p>
 <p>Kevin then <a href="https://twitter.com/dogtrax/status/1260150228101009408">chimed in</a> and took us the figurative route:</p>
   <blockquote>With finger-paints (that’s how you rhyme an image) and colored smudges on glass, with chalk dust shadows, with nothing there, nothing at all, just the possibility of rhyme of the image, or maybe you meant literal? As in, image scrimmage, pilgrimage … I prefer the visual choices</blockquote>
- p>To which I replied</p>
+<p>To which I replied</p>
  <blockquote>Can it be both? or must it be all of the above? Maybe answer just C, or 42. Anywhoo I say both. Bicameral rhymes of forced responses in confidence of color keeping time</blockquote>
    <audio  src="https://jgregorymcverry.com/poetry/fingerpaintingsinthesky.mp3" controls="controls">
 </audio>
