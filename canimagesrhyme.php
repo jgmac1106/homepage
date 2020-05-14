@@ -181,8 +181,10 @@ me and Bootsy run deep<br>
 in the rhinestone flow<br>
 of my arteries <br>
 "Oh yeah I am programmable,<br>
-one hit of the dial" </p>
+one hit of the dial" </p><br>
 <p>I first turned to color theory, and wantes to include a call back to Kevin's dots. After all, maybe color, or lack there of, is how you make an image rhyme?</p>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/canimagesrhymepart1.mp3" controls="controls">
+</audio><br>
 <p class="poetrypoems">
   2 Contrast<br>
 &nbsp;&nbsp;these perspectives<br>
