@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated"  datetime="2020-05-13 06:04:20">13<sup>th</sup> May 2020</time>
+    <time class="dt-updated"  datetime="2020-05-13 10:34:20">14<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -694,6 +694,15 @@
 <data class="p-size" value="529093"></data><data class="p-duration" value="PT00H00M16S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/13/colorpoemsmalloemdogtraxstatus1260150228101009408">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Can Images Rhyme Part 1</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-13 10:34:20">14<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/canimagesrhymepart1.mp3" controls="controls">
+</audio>
+<data class="p-size" value="72000"></data><data class="p-duration" value="PT00H00M22S"></data><br />
+<p class="e-content"><a class="u-url" href="https://jgregorymcverry.com/canimagesrhyme">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
@@ -881,8 +890,7 @@ north for that final curtain.<br/></p>
   <ul>
      <li class="h-entry"><span class="p-name">Natasha Tretheway</span>  <span class="p-summary">A true poet, capturing humanity in the past</span> <a class="u-read-of" href="https://www.poetryfoundation.org/harriet/2018/11/natasha-trethewey-discusses-monuments-with-lauren-leblanc">Monument</a><img src="https://gardenandgun.com/wp-content/uploads/2018/12/GG0618_Books_01-1-1600x1911.png"></li>
     <li class="h-entry"><span class="p-name">Typewriter Rodeo</span>  <span class="p-summary">A collection of improv poems written for people and printed on type writers</span> <a class="u-read-of" href="https://typewriterrodeo.com/our-book/">Typewriter RodeoBook</a><img src="https://typewriterrodeo.com/wp-content/uploads/2018/04/Typewriter-Rodeo-book-front-cover-1-895x1024.jpg"></li>
-    <li class="h-entry"><span class="p-name">Robert Hunter</span>  <span class="p-summary">A collection of poems from my favorite lyricist</span><br /><a class="u-url" href="http://www.hunterarchive.com/files/Poetry/SentinelGateway.html">Sentinel</a><img src="https://img1.od-cdn.com/ImageType-400/1523-1/822/0C7/CA/%7B8220C7CA-0367-4D96-8621-3EB481089808%7DImg400.jpg"></li>
-    <li class="h-entry"><span class="p-name">Bill Moyers</span>  <span class="p-summary">Interviews with Poets</span> <a class="u-read-of" href="https://billmoyers.com/series/fooling-with-words-1999/">Fooling with Poets</a><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348765356l/615561.jpg"></li>
+   
   </ul>
   </div></div>
 </div>
