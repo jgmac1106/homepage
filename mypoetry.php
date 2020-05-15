@@ -697,10 +697,19 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Can Images Rhyme Part 1</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-05-13 10:34:20">14<sup>th</sup> May 2020</time>
+  <time class="dt-published" datetime="2020-05-14 10:34:20">14<sup>th</sup> May 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/canimagesrhymepart1.mp3" controls="controls">
 </audio>
 <data class="p-size" value="72000"></data><data class="p-duration" value="PT00H00M22S"></data><br />
+<p class="e-content"><a class="u-url" href="https://jgregorymcverry.com/canimagesrhyme">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Can Images Rhyme Part 2</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-53 10:34:20">15<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/canimagesrhymepart3.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1527976"></data><data class="p-duration" value="PT00H00M48S"></data><br />
 <p class="e-content"><a class="u-url" href="https://jgregorymcverry.com/canimagesrhyme">Show Link</a></p>
 </div>
 </div>
