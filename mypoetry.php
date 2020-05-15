@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated"  datetime="2020-05-13 10:34:20">14<sup>th</sup> May 2020</time>
+    <time class="dt-updated"  datetime="2020-05-53 10:34:20">15<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -777,7 +777,7 @@ close to the heart,<br>
 the start of nothing<br>
 at all<br>
 </p>
-       <p class="Greg" id="collapsingmoon">
+       <p class="Greg">
       The moon collapsed over horizons split<br>
 shattered space in<br>
 illuminating mysterious truths<br>
