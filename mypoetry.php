@@ -768,7 +768,7 @@ close to the heart,<br>
 the start of nothing<br>
 at all<br>
 </p>
-       <p class="Greg">
+       <p class="Greg" id="collapsingmoon">
       The moon collapsed over horizons split<br>
 shattered space in<br>
 illuminating mysterious truths<br>
