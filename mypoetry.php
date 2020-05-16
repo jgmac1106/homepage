@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated"  datetime="2020-05-53 10:34:20">15<sup>th</sup> May 2020</time>
+    <time class="dt-updated"  datetime="2020-05-16 06:44:20">16<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -706,11 +706,20 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Can Images Rhyme Part 2</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-05-53 10:34:20">15<sup>th</sup> May 2020</time>
+  <time class="dt-published" datetime="2020-05-15 10:34:20">15<sup>th</sup> May 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/canimagesrhymepart3.mp3" controls="controls">
 </audio>
 <data class="p-size" value="1527976"></data><data class="p-duration" value="PT00H00M48S"></data><br />
 <p class="e-content"><a class="u-url" href="https://jgregorymcverry.com/canimagesrhyme">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Poet or Teacher</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-16 06:44:20">16<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/poetorteacher.mp3" controls="controls">
+</audio>
+<data class="p-size" value="533758"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://jgregorymcverry.com/clmoochistoryinverse">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
