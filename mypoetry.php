@@ -882,7 +882,7 @@ north for that final curtain.<br/></p>
   <div class="h-entry" >
      <p class="p-name">Can Images Rhyme?</p>
   <p class="p-summary">We try to answer Sarah's semi serious question, "Can poems rhyme?"</p>
- <img class="u-photo" href="https://clmooc.com/2016/wp-content/uploads/2016/12/clmooc-new-logo-800.jpg">
+ <img class="u-photo" href="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?w=400&tok=fe707b&media=glocalyokelep3.jpg">
   <time class="dt-published" datetime="2020-05-20 14:00:00">20<sup>th</sup> May 2020</time>
  <audio class="u-audio" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?w=400&tok=fe707b&media=glocalyokelep3.jpg" controls="controls">
 </audio><br>
