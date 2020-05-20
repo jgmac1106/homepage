@@ -872,13 +872,23 @@ north for that final curtain.<br/></p>
       <div class="h-feed">
         <h2 class="p-name">Glokal Yokel Poetry Hour</h2>
         <p class="p-summary">A #ds106radio Production</p>
-       <time class="dt-updated" datetime="2020-04-18 09:04:20">18<sup>th</sup>April 2020</time>
+       <time class="dt-updated" datetime="2020-05-20 14:00:00">20<sup>th</sup> May 2020</time>
         <div class="h-card p-author">
         <p class="p-name">CLMOOC Crew</p>
             <a class="u-url" href="https://clmooc.com">
         <img class="u-photo" href="https://clmooc.com/2016/wp-content/uploads/2016/12/clmooc-new-logo-800.jpg">
       </a>
     </div>
+  <div class="h-entry" >
+     <p class="p-name">Can Images Rhyme?</p>
+  <p class="p-summary">We try to answer Sarah's semi serious question, "Can poems rhyme?"</p>
+ <img class="u-photo" href="https://clmooc.com/2016/wp-content/uploads/2016/12/clmooc-new-logo-800.jpg">
+  <time class="dt-published" datetime="2020-05-20 14:00:00">20<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?w=400&tok=fe707b&media=glocalyokelep3.jpg" controls="controls">
+</audio><br>
+ <a class="https://http://longthoughts.jgregorymcverry.com/doku.php?id=glokal_yokels_episode_three#episode_3do_images_rhyme">Show Link</a>
+</div>
+
       <div class="h-entry" >
   <p class="p-name">Out My Window</p>
    <img class="u-featured" style="width:100%" src="https://jgregorymcverry.com/podcasts/GlokalYokel/GlokalYokels.jpg">
