@@ -28,7 +28,7 @@
           <a href="/following" class="navLinks">Following </a>
         </li>
         <li class="Navbar__Link_footer" >
-          <a href="/annotations" class="navLinks">Poetry </a>
+          <a href="/mypoetry" class="navLinks">Poetry </a>
         </li>
         <li class="Navbar__Link_footer" >
           <a href="/imagecredits" class="navLinks">Img Credits </a>
