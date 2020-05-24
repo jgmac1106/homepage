@@ -20,7 +20,8 @@
 
   <div class="e-content">
     <p>Do you feel I have unique skills? Have I helped you out in your learnings? Do we work together on a project? Please send me an endorsement. </p>
-    <p>To send an endorsment write a replly to this page and send a webmention.</p><p> If your website does not support webmentions yet you can use the form below. </p><p>To use the comment form you copy and paste the url of this webpage "https://jgregorymcverry.com/guestbook" and then type your comment.</p>
+    <p>To send an endorsment write a replly to this page and send a webmention.</p><p> If your website does not support webmentions yet you can use the form below. </p><p>To use the comment form you copy and paste the url of this webpage "https://jgregorymcverry.com/endorsements" and then type your comment.</p>
+    <p>Finally you can also just mention this page in a tweet with your endorsment and it will display.</p>
       <div id="webmentions"></div>
       <iframe class="mention" style=width="100%" height="500px" src="https://commentpara.de/"></iframe>
       </div>
