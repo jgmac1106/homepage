@@ -2279,7 +2279,7 @@ font-size:6em;
     margin-right: -1ex;
     border-radius: 25%;
 }
- .button {
+ button {
   background-color: #6B6B6B; 
   border: none;
   color: white;
