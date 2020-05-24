@@ -2274,3 +2274,8 @@ font-size:6em;
     25% { opacity: 0 }
     100% { opacity: 0 }
 }
+.mention img {
+   max-height: 1.3em;
+    margin-right: -1ex;
+    border-radius: 25%;
+}
