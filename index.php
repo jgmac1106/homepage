@@ -19,7 +19,7 @@
     <p >
       Four words capture the spirit I bring to my work as a digitally networked scholar: Make. Hack. Play. Learn. I believe learning works best when it is interest driven and production based. We must design and redesign our possible futures. Make tomorrow happen. We also have to iterate on our past. Where we have been shapes our trajectories. We need to take what has come before and try to make it a little bit better. You can not succeed without failure. Hack away at what you tried yesterday. Learning is an embodied experience that cuts across the affordances of tools and meaning. We need to play with words and the tools that allow us to decode and encode meaning on the world. Students need the opportunity to try different professional identities. Play in the moment.
     </p>
-    
+    <a href="/guestbook"><button>Sign My Guestbook</button></a>  <a href="/endorsements"><button>Endorse Me</button></a>
     <h2> IndieWebRings</h2>
     
     <a href="https://xn--sr8hvo.ws/%F0%9F%98%88/previous">←</a>
