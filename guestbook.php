@@ -20,7 +20,7 @@
 
   <div class="e-content">
     <p>Sign my guestbook by sending a webmention to this page as a reply or by filling out the form below.</p>
-    <p>To use the comment form you copy and paste the url of this webpage "https://jgregmcverry.com/guestbook" and then type your comment.</p>
+    <p>To use the comment form you copy and paste the url of this webpage "https://jgregorymcverry.com/guestbook" and then type your comment.</p>
       <div id="webmentions"></div>
       <iframe class="mention" width="80%" height="500px" src="https://commentpara.de/"></iframe>
       </div>
