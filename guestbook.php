@@ -16,7 +16,7 @@
     </span>
   </div>
 <img class="featured u-featured" src="https://live.staticflickr.com/7769/17838916668_f72bf2f724_z.jpg" alt="screenshot of my notes">
-    <div class="copy">
+    <div>
 
   <div class="e-content">
     <p>Sign my guestbook by sending a webmention to this page as a reply or by filling out the form below.</p>
