@@ -818,7 +818,7 @@
 </tbody>
 </table>
       </div>
-<p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/oer">IndieWeb OER</a></small> 
+<p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/oer">IndieWeb OER</a></small></p>
 </article>
     </main>
     <footer>
