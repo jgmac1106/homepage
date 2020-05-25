@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated"  datetime="2020-05-120 14:45:20">20<sup>th</sup> May 2020</time>
+    <time class="dt-updated" datetime="2020-05-25 07:04:20">25<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -751,12 +751,57 @@
 <div class="h-entry audiopoem">
   <p class="p-name">Root of Poetry</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-05-120 14:45:20">20<sup>th</sup> May 2020</time>
+  <time class="dt-published" datetime="2020-05-20 14:45:20">20<sup>th</sup> May 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/rootofpoetry.mp3" controls="controls">
 </audio>
 <data class="p-size" value="529053"></data><data class="p-duration" value="PT00H00M18S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/nomadwarmachine-patternsin-atoms-just-souls-of-before">Show Link</a><br>
 Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M. Funky Bass Sessiona</a> by JusBeats shared under a CC-BY-SA license</p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Azriel's Spy Glass</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-21 14:45:20">21<sup>st</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/azrielsspyglass.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1480328"></data><data class="p-duration" value="PT00H00M46S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/smallpoemswe-lay-back-flat-tastingreality-drippingfrom-azriels">Show Link</a><
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Hollow Fissures</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-22 14:45:20">22<sup>nd</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/azrielsspyglass.mp3" controls="controls">
+</audio>
+<data class="p-size" value="291652"></data><data class="p-duration" value="PT00H00M09S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a><
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Cool Ammunition</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-23 14:45:20">23<sup>rd</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/azrielsspyglass.mp3" controls="controls">
+</audio>
+<data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">First Song</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-24 14:45:20">24<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FirstSong.mp3" controls="controls">
+</audio>
+<data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/23/rains-soundsso-differentas-dropletsdanceon-leavessinging-forthe-firsttimepoemsofpresencesmallpoems">Show Link</a>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Pastel Plastics</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-25 07:04:20">25<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PastelPlastics.mp3" controls="controls">
+</audio>
+<data class="p-size" value="335956"></data><data class="p-duration" value="PT00H00M10S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/25/reality-dips-indrips-ofpastelplasticspainted-on-theprecipiceof-skiesfoldinginwardweaving">Show Link</a>
 </div>
 </div>
 <div class="audiopoem">
