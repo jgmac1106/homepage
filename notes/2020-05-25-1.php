@@ -7,10 +7,10 @@
   	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-05-25 09:04:20">25<sup>th</sup>May 2020</time>
- <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge1.jpg" alt="waterfall from bridge">
-  <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge2.jpg" alt="waterfall from bridge">
-   <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge3.jpg" alt="waterfall from bridge">
-    <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge4.jpg" alt="waterfall from bridge">
+ <img class="u-photo" src="https://jgregorymcverry.com/photos/art/brookfrombridge1.jpg" alt="waterfall from bridge">
+  <img class="u-photo" src="https://jgregorymcverry.com/photos/art/brookfrombridge2.jpg" alt="waterfall from bridge">
+   <img class="u-photo" src="https://jgregorymcverry.com/photos/art/brookfrombridge3.jpg" alt="waterfall from bridge">
+    <img class="u-photo" src="https://jgregorymcverry.com/photos/art/brookfrombridge4.jpg" alt="waterfall from bridge">
     <a class="u-in-reply-to" href="https://twitter.com/dogtrax/status/1264847142868455426">dogtrax</a>
  <p class="p-name e-content">
     You capture in poetry what I could not in images during Saturdays drenching hike in the rain.
