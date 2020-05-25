@@ -8,7 +8,7 @@
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-05-12 06:34:20">12<sup>th</sup>May 2020</time>
  <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge1.jpg" alt="waterfall from bridge">
-  <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge2jpg" alt="waterfall from bridge">
+  <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge2.jpg" alt="waterfall from bridge">
    <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge3.jpg" alt="waterfall from bridge">
     <img class="u-photo" href="https://jgregorymcverry.com/photos/art/brookfrombridge4.jpg" alt="waterfall from bridge">
     <a class="u-in-reply-to" href="https://twitter.com/dogtrax/status/1264847142868455426">dogtrax</a>
