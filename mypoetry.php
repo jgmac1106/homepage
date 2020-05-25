@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-05-25 07:04:20">25<sup>th</sup> May 2020</time>
+    <time class="dt-updated" datetime="2020-05-25 08:24:20">25<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -771,7 +771,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
   <p class="p-name">Hollow Fissures</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-05-22 14:45:20">22<sup>nd</sup> May 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/azrielsspyglass.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/hollowfissures.mp3" controls="controls">
 </audio>
 <data class="p-size" value="291652"></data><data class="p-duration" value="PT00H00M09S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a><
@@ -780,7 +780,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
   <p class="p-name">Cool Ammunition</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-05-23 14:45:20">23<sup>rd</sup> May 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/azrielsspyglass.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/coolammunition.mp3" controls="controls">
 </audio>
 <data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a>
