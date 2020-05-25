@@ -1,6 +1,6 @@
-<?php include 'head.php'; ?>
+<?php include '../../head.php'; ?>
 </head>
-<?php include 'header.php'; ?>
+<?php include '../../header.php'; ?>
     </header>
   <main class="longreads">   
   <article class="h-entry">
