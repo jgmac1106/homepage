@@ -15,7 +15,7 @@
     <p class="p-summary">My syllabus for #edu407 starting tomorrow @scsu. Excited to get back to learning from future teachers</p>
     </span>
   </div>
-<img class="featured u-featured" src="https://live.staticflickr.com/782/22957155860_d575b7104d_z.jpg" alt="">
+<img class="featured u-featured" src="/photos/doublemeaning.jpg" alt="">
     <div class="copy">
 
   <div class="e-content">
