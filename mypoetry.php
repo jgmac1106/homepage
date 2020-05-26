@@ -27,7 +27,7 @@
  <div class="h-entry audiopoem" >
   <p class="p-name">(un)Celebration</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-02-01 13:34:20">01<sup>st</sup> February 2020</time>
+  <time class="dt-published" datetime="2020-05-26 12:54:20">26<sup>th</sup> May 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/(un)Celebration.m4a" controls="controls">
 </audio>
 <data class="p-size" value="222672"></data><data class="p-duration" value="PT0H0M15S"></data>
@@ -765,7 +765,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/azrielsspyglass.mp3" controls="controls">
 </audio>
 <data class="p-size" value="1480328"></data><data class="p-duration" value="PT00H00M46S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/smallpoemswe-lay-back-flat-tastingreality-drippingfrom-azriels">Show Link</a><
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/smallpoemswe-lay-back-flat-tastingreality-drippingfrom-azriels">Show Link</a></p>
 </div>
 <div class="h-entry audiopoem">
   <p class="p-name">Hollow Fissures</p>
@@ -774,7 +774,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/hollowfissures.mp3" controls="controls">
 </audio>
 <data class="p-size" value="291652"></data><data class="p-duration" value="PT00H00M09S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a><
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a></p>
 </div>
 <div class="h-entry audiopoem">
   <p class="p-name">Cool Ammunition</p>
@@ -783,7 +783,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/coolammunition.mp3" controls="controls">
 </audio>
 <data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/15/slip-pastfault-lines-indreamsand-climb-thoughhollow-fissures">Show Link</a></p>
 </div>
 <div class="h-entry audiopoem">
   <p class="p-name">First Song</p>
@@ -792,7 +792,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/FirstSong.mp3" controls="controls">
 </audio>
 <data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/23/rains-soundsso-differentas-dropletsdanceon-leavessinging-forthe-firsttimepoemsofpresencesmallpoems">Show Link</a>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/23/rains-soundsso-differentas-dropletsdanceon-leavessinging-forthe-firsttimepoemsofpresencesmallpoems">Show Link</a></p>
 </div>
 <div class="h-entry audiopoem">
   <p class="p-name">Pastel Plastics</p>
@@ -801,7 +801,16 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/PastelPlastics.mp3" controls="controls">
 </audio>
 <data class="p-size" value="335956"></data><data class="p-duration" value="PT00H00M10S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/25/reality-dips-indrips-ofpastelplasticspainted-on-theprecipiceof-skiesfoldinginwardweaving">Show Link</a>
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/25/reality-dips-indrips-ofpastelplasticspainted-on-theprecipiceof-skiesfoldinginwardweaving">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Spring Rain</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-26 12:54:20">26<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/springrain.mp3" controls="controls">
+</audio>
+<data class="p-size" value="335956"></data><data class="p-duration" value="PT00H00M10S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/25/spring-rain-beating-timeas-whistlesof-warblers">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
