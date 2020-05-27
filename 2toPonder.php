@@ -54,7 +54,7 @@
     </div>
     <div class="podbox f"></div><!--You will find your background image in the css line 205 of podcast.css file-->
     <div class="podbox g">
-      <p class="p-summary"><data class="p-size" value="2000000"></data> <data class="p-duration" value="PTOH2M00S"></data>
+      <p class="p-summary"><data class="p-size" value="2000000"></data> <data class="p-duration" value="PTOH2M00S"> 120 sec</data>
     Are Reading and Writing the Same Page?
       </p>
       <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe04Ep01"></audio><br>
