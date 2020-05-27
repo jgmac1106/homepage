@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-05-25 08:24:20">25<sup>th</sup> May 2020</time>
+    <time class="dt-updated" datetime="2020-05-27 12:04:20">27<sup>th</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -811,6 +811,15 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 </audio>
 <data class="p-size" value="335956"></data><data class="p-duration" value="PT00H00M10S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/25/spring-rain-beating-timeas-whistlesof-warblers">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Cline Times</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-27 12:04:20">27<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/clinetimes.mp3" controls="controls">
+</audio>
+<data class="p-size" value="481406"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/27/cline-timesas-truthdiverges-falsegeographicalboundariesas-selectionsof-truthsflow-inadaptations">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
