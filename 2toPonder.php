@@ -31,13 +31,14 @@
         <p class="p-summary">
             A Two Minute Podcast on Trends of Learning
           </p>
+          <time class="dt-updated" datetime="20200527T10:54:20+0000" title="27 May 2020">27 May 2020</time>
        </div>   
     <div class="podwrapper">  
   <div class="podbox topbox h-entry">    
     <div class="podbox e">      
       <div class="flex-title">
     <h1 class="p-name">
-       What are Digital Literacies?
+    
       </h1>
       </div>
       <div class="flex-item">
@@ -47,21 +48,32 @@
     </div>
       <div class="flex-item">
     <h2>
-        <time class="dt-published" datetime="2019-11-01T19:08:05+0000" title="11 Nov 2019">11 Nov 2019</time>
+        <time class="dt-published" datetime="20200527T10:54:20+0000" title="27 May 2020">27 May 2020</time>
       </h2>  
     </div>
     </div>
     <div class="podbox f"></div><!--You will find your background image in the css line 205 of podcast.css file-->
     <div class="podbox g">
-      <p class="p-summary">Download Size: <data class="p-size" value="2000000">2 mb</data> Length<data class="p-duration" value="PTOH2M00S">Two Minutes</data>
-    Do we need to rethink #literacies in our digital era?
+      <p class="p-summary"><data class="p-size" value="2000000"></data> <data class="p-duration" value="PTOH2M00S"></data>
+    Are Reading and Writing the Same Page?
       </p>
-      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe02Ep21.m4a"></audio><br>
+      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe04Ep01"></audio><br>
    <div class="e-content">
-      <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/04/here-is-another-in-the-2toponder-series">Show Link</a>
+      <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/27/reading-and-writing-connection-edu407-literacies">Show Link</a>
     </div>  
     </div>
       </div>
+      <div class="podbox h-entry"> <h1 class="p-name">2toPonder 43:  What are Digital Literacies?</h1>
+  <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
+     on <time class="dt-published" datetime="2019-11-01T19:08:05+0000" title="11 Nov 2019">11 Nov 2019</time></p>
+   <p class="p-summary">Download Size: <data class="p-size" value="2000000">2 mb</data> Length<data class="p-duration" value="PTOH2M00S">Two Minutes</data>
+    Do we need to rethink #literacies in our digital era?
+      </p>
+    <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe02Ep21.m4a"></audio><br>
+  <div class="e-content">
+    <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2019/08/04/here-is-another-in-the-2toponder-series">Show Link</a> 
+  </div>
+</div>
        <div class="podbox h-entry"> <h1 class="p-name">2toPonder 42: Questioning for Critical Literacies</h1>
   <p class="h-card">Published by <a class="p-author u-url" href="https://jgregorymcverry">Greg McVerry</a>
      on <time datetime="2019-10-21T15:13:14+0000">25 Oct 2019</time></p>
