@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="webmention" href="https://webmention.io/jgregorymcverry.com/webmention" />
 <link rel="pingback" href="https://webmention.io/jgregorymcverry.com/xmlrpc" />
+<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F2toPonder" title="2toPonder">
     <!-- import the webpage's stylesheet -->
     <link rel="stylesheet" href="/css/podcast.css">
     
