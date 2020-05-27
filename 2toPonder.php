@@ -58,7 +58,7 @@
       <p class="p-summary"><data class="p-size" value="2000000"></data> <data class="p-duration" value="PTOH2M00S"> 120 sec</data>
     Are Reading and Writing the Same Page?
       </p>
-      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe04Ep01"></audio><br>
+      <audio class="u-audio" controls="controls" src="https://jgregorymcverry.com/podcasts/2toPonder/2toPonderSe04Ep01.m4a"></audio><br>
    <div class="e-content">
       <a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/27/reading-and-writing-connection-edu407-literacies">Show Link</a>
     </div>  
