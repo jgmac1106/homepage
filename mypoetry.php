@@ -995,9 +995,10 @@ north for that final curtain.<br/></p>
     <h2 class="p-name" id="backstage">How it is done</h2>
   <p class="p-summary">Read how poems came to be </p>
   <a class="p-author" href="/"></a>
-  <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
+  <time class="dt-updated" datetime="2020-05-28 06:44:20">28<sup>th</sup> May 2020</time>
 </div>
   <ul>
+    <li class="h-entry"><span class="p-name">How a poem on cultural melanism came about </span><span class="p-summary">Tracing research and racism in poems</span><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/28/how-a-poem-on-cultural-melanism-came-about-clmooc-poemsofpresence">Read More</a>
     <li class="h-entry"><span class="p-name">Ten Technology and Poetry Ideas</span>  <span class="p-summary">Ten ideas to infuse tech into poetry</span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/ten-technology-and-poetry-ideas/">Read More</a></li>
     <li class="h-entry"><span class="p-name">Using Multimodal Poetry to Engage in Critical Literacy</span>  <span class="p-summary">Poetry provides a perfect avenue for multimodal explorations of truth and power </span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/using-multimodal-poetry-to-engage-in-critical-literacy/">Read More</a></li>
     <li class="h-entry"><span class="p-name">Finding Our Voices in Lost Voices</span>  <span class="p-summary">Teaching Documentary Poetry </span><br /><a class="u-url" href="https://archive.jgregorymcverry.com/finding-our-voices-in-lost-voices/">Read More</a></li>
