@@ -4,7 +4,7 @@
     </header>
   <main class="longreads">   
   <article class="h-entry">
-  <h1 class="p-name">EDU 407 Beginning Literacies Syllabus</h1>
+  <h1 class="p-name">Tech4Teens Remote Technology Summer Camp</h1>
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
      on <time class="dt-published" datetime="2020-05-28 13:07:20">28<sup>th</sup> May 2020</time></p>
