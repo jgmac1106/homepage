@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-05-29 06:54:20">29<sup>th</sup> May 2020</time>
+    <time class="dt-updated" datetime="2020-05-31 10:14:20">31<sup>st</sup> May 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -838,6 +838,24 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 </audio>
 <data class="p-size" value="2193367"></data><data class="p-duration" value="PT00H01M08S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/28/poemsofpresencepeppered-mothog-survivorof-nights-outstretchedfrom-london-toatlantapeppered">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem">
+  <p class="p-name">Wicks of Justice</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-30 10:14:20">30<sup>th</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/wicksofjustice.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529093"></data><data class="p-duration" value="PT00H00M14S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/29/burningstreets-flamesreflectfacade-of-justice-every-riot">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="today">
+  <p class="p-name">Starved Trees</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-05-31 10:14:20">31<sup>st</sup> May 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/wicksofjustice.mp3" controls="controls">
+</audio>
+<data class="p-size" value="814101"></data><data class="p-duration" value="PT00H00M11S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/31/starved-treesgrow-strongestabundance-keeps-roots-fromgrowingdeepdisconnectedwhile-treesversed">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
