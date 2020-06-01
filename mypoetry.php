@@ -577,6 +577,9 @@
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/04/30/smallpoemsnapowrimoclmoocdo-historiesrelish-in-futuresunwoven-stringsas-tomorrowcomes-encroaching">Show Link</a></p>
 </div>
 </details>
+<details>
+  <summary>May Poems
+  </summary>
 <div class="h-entry audiopoem">
   <p class="p-name">Weight of Hope</p>
   <a class="p-author" href="/"></a>
@@ -856,6 +859,16 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 </audio>
 <data class="p-size" value="814101"></data><data class="p-duration" value="PT00H00M11S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/31/starved-treesgrow-strongestabundance-keeps-roots-fromgrowingdeepdisconnectedwhile-treesversed">Show Link</a></p>
+</div>
+</details>
+<div class="h-entry audiopoem" id="20200601">
+  <p class="p-name">Girdles of Liberty</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-01 15:21:20">1<sup>st</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/girdlesofliberty.mp3" controls="controls">
+</audio>
+<data class="p-size" value="861749"></data><data class="p-duration" value="PT00H00M26S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/01/smallpoemsa-mazeof-miserygirdles-ourtrees-of-libertykilling-at">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
