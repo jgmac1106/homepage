@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-05-31 10:14:20">31<sup>st</sup> May 2020</time>
+    <time class="dt-updated" datetime="2020-06-02 19:24:20">2<sup>nd</sup> June 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -864,11 +864,20 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 <div class="h-entry audiopoem" id="20200601">
   <p class="p-name">Girdles of Liberty</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-06-01 15:21:20">1<sup>st</sup> June 2020</time>
+  <time class="dt-published" datetime="2020-06-01 15:24:20">1<sup>st</sup> June 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/girdlesofliberty.mp3" controls="controls">
 </audio>
 <data class="p-size" value="861749"></data><data class="p-duration" value="PT00H00M26S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/01/smallpoemsa-mazeof-miserygirdles-ourtrees-of-libertykilling-at">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200602">
+  <p class="p-name">Missives of Misery</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-02 19:24:20">2<sup>nd</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/missivesofmisery.mp3" controls="controls">
+</audio>
+<data class="p-size" value="576701"></data><data class="p-duration" value="PT00H00M17S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/02/stompingmissives-ofmiserylaundered-onpains-ofpainted-handsclocksturningtimeandtineagainnotforgottenthey-fester-as">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
