@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-06-06 06:54:20">6<sup>th</sup> June 2020</time>
+    <time class="dt-updated" datetime="2020-06-08 06:54:20">8<sup>th</sup> June 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -914,6 +914,24 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 </audio>
 <data class="p-size" value="624328"></data><data class="p-duration" value="PT00H00M18S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/06/not-our-wordslike-flower-moon">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200607">
+  <p class="p-name">Spinner</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-07 06:54:20">7<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Spinner.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1324328"></data><data class="p-duration" value="PT00H00M40S"></data><br />
+<p class="e-content"><a class="u-url" href="https://archive.jgregorymcverry.com/poetry-from-walkmyworld/">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200607">
+  <p class="p-name">Skunk Cabbage</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-08 06:54:20">8<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Skunkcabbage.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1337386"></data><data class="p-duration" value="PT00H00M40S"></data><br />
+<p class="e-content"><a class="u-url" href="https://archive.jgregorymcverry.com/poetry-from-walkmyworld/">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
