@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-06-10 11:54:20">10<sup>th</sup> June 2020</time>
+    <time class="dt-updated" datetime="2020-06-13 12:04:20">13<sup>th</sup> June 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -946,10 +946,37 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
   <p class="p-name">Sea Dust</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-06-10 11:54:20">10<sup>th</sup> June 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/capillaryaction.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/seadust.mp3" controls="controls">
 </audio>
 <data class="p-size" value="671995"></data><data class="p-duration" value="PT00H00M21S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/10/smallpoemssea-dustsinks-andrisesin-doldrums-of-dyingseastufts-and">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200611">
+  <p class="p-name">Tidal Pools</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-11 12:04:20">11<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/tidalpools.mp3" controls="controls">
+</audio>
+<data class="p-size" value="433758"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/12/tales-travelingon-gods-raysanswersscatter-in-elastictruths-of">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200612">
+  <p class="p-name">Footprints</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-12 12:04:20">12<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/tidalpools.mp3" controls="controls">
+</audio>
+<data class="p-size" value="196358"></data><data class="p-duration" value="PT00H00M06S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/12/footprintscast-shadowson-historythat-fadeintotimesopaquesilhouettesmallpoems">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200613">
+  <p class="p-name">God's Rays</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-13 12:04:20">13<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/godsrays.mp3" controls="controls">
+</audio>
+<data class="p-size" value="196358"></data><data class="p-duration" value="PT00H00M06S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/12/tales-travelingon-gods-raysanswersscatter-in-elastictruths-of">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
