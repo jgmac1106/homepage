@@ -964,7 +964,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
   <p class="p-name">Footprints</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-06-12 12:04:20">12<sup>th</sup> June 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/tidalpools.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/footprints.mp3" controls="controls">
 </audio>
 <data class="p-size" value="196358"></data><data class="p-duration" value="PT00H00M06S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/12/footprintscast-shadowson-historythat-fadeintotimesopaquesilhouettesmallpoems">Show Link</a></p>
@@ -975,7 +975,7 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
   <time class="dt-published" datetime="2020-06-13 12:04:20">13<sup>th</sup> June 2020</time>
  <audio class="u-audio" src="https://jgregorymcverry.com/poetry/godsrays.mp3" controls="controls">
 </audio>
-<data class="p-size" value="196358"></data><data class="p-duration" value="PT00H00M06S"></data><br />
+<data class="p-size" value="196358"></data><data class="p-duration" value="PT00H00M13S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/12/tales-travelingon-gods-raysanswersscatter-in-elastictruths-of">Show Link</a></p>
 </div>
 </div>
