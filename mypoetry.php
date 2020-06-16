@@ -1022,7 +1022,7 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
   <h2 class="p-name">Featured Poems</h2>
   <p class="p-summary">Check out the Highlights</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-updated" datetime="2020-06-15 12:14:20">16<sup>th</sup>June 2020</time
+  <time class="dt-updated" datetime="2020-06-15 12:14:20">16<sup>th</sup>June 2020</time>
 </div>
 <div class="h-entry">
   <h3 class="p-name">Robot Guy</h3>
