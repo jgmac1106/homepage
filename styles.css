@@ -2304,16 +2304,16 @@ font-size:6em;
 
 .navflex-item {
 
-
+  max-height:150px;
   margin-right: 10px;
   line-height: 150px;
   color: #6b6b6b;
   font-weight: bold;
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
 }
 .navflex-item img {
-  height: 206px;
+  height: 106px;
 }
 .navflex-item a {
   color: #6b6b6b;
