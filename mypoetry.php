@@ -1221,6 +1221,14 @@ north for that final curtain.<br/></p>
   </div></div>
 </div>
 <div id="webmentions"></div>
+<ul class="navflex-container">
+  <li class="navflex-item"><a href="https://weirdwidewebring.net/prev.html"><img src="https://jgregorymcverry.com/photos/assets/prev.png"><br>Prev</a></li>
+  <li class="navflex-item"><a href="https://weirdwidewebring.net/random.html"><img src="https://jgregorymcverry.com/photos/assets/random.png"><br>Random</a></li>
+  <li class="navflex-item"><a href="https://weirdwidewebring.net"><img src="https://jgregorymcverry.com/photos/assets/all.png"><br>All</a></li>
+  <li class="navflex-item"><a href="https://weirdwidewebring.net/join.html"><img src="https://jgregorymcverry.com/photos/assets/join.png"><br>Join</a></li>
+  <li class="navflex-item"><a href="https://weirdwidewebring.net/next.html"><img src="https://jgregorymcverry.com/photos/assets/next.png"><br>Next</a></li>
+ 
+</ul>
     </main>
     <footer>
 <?php include 'footer.php'; ?>
