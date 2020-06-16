@@ -16,7 +16,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-06-13 12:04:20">13<sup>th</sup> June 2020</time>
+    <time class="dt-updated" datetime="2020-06-16 12:04:20">16<sup>th</sup> June 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -978,6 +978,34 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 <data class="p-size" value="196358"></data><data class="p-duration" value="PT00H00M13S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/12/tales-travelingon-gods-raysanswersscatter-in-elastictruths-of">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem" id="20200614">
+  <p class="p-name">Squash Ball</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-14 12:04:20">14<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SquashBall.mp3" controls="controls">
+</audio>
+<data class="p-size" value="814101"></data><data class="p-duration" value="PT00H00M25S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/14/electricity-flowingpoetry-neverbeen-a-popular-sportso-test">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200615">
+  <p class="p-name">Robot Guy</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-15 12:04:20">15<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/robotguy.mp3" controls="controls">
+</audio>
+<data class="p-size" value="763946"></data><data class="p-duration" value="PT00H00M24S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/15/donaldclark-bad-bits-of-behaviourismbring-in-billionsin">Show Link</a><br />
+Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> shared under a CC-BY 4.0 license</p>
+</div>
+<div class="h-entry audiopoem" id="20200616">
+  <p class="p-name">Rock Song</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-16 12:04:20">16<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/rocksong.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1052338"></data><data class="p-duration" value="PT00H00M33S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/15/smallpoemsmy-knucklesscraped-dirtcongeals-with-bloodi-stack-the">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
@@ -994,7 +1022,19 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
   <h2 class="p-name">Featured Poems</h2>
   <p class="p-summary">Check out the Highlights</p>
   <a class="p-author" href="/"></a>
-  <time class="dt-updated" datetime="2020-02-09 06:44:20">9<sup>th</sup> February 2020</time>
+  <time class="dt-updated" datetime="2020-06-15 12:14:20">16<sup>th</sup>June 2020</time
+</div>
+<div class="h-entry">
+  <h3 class="p-name">Robot Guy</h3>
+  <div class="pubinfo">
+  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
+     on <time class="dt-published" datetime="2020-06-15 12:14:20">16<sup>th</sup>June 2020</time></p>
+    
+  </div>
+  <div class="e-content">
+    <video class="u-video" controls src="https://jgregorymcverry.com/poetry/robotguy.mp4"></video><br/>
+    <a class="u-url" href="/https://quickthoughts.jgregorymcverry.com/2020/06/15/donaldclark-bad-bits-of-behaviourismbring-in-billionsin" rel="canonical">Read More</a>
+  </div>
 </div>
 <div class="h-entry">
   <h3 class="p-name">Poems of the Poetry Port</h3>
