@@ -1743,9 +1743,10 @@ display: block;
 }
 .card-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, 250px, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto 1fr auto;
     grid-gap: 20px;
+
 }
 .card {
     grid-row: auto / span 3; /* use three rows of the parent grid */
