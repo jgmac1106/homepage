@@ -7,7 +7,8 @@
 </head>
 <?php include 'header.php'; ?>
     </header>
-  <main>   
+  <main>
+  <h2 class="p-name">jgmac1106 Poetry</h2>  
   <div class="poemwrapper">
   <div class="poembox a"> 
     <div class="h-feed audiopoem" id="audiopoems">
