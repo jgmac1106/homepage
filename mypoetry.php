@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-06-16 12:04:20">16<sup>th</sup> June 2020</time>
+    <time class="dt-updated" datetime="2020-06-19 19:54:20">19<sup>th</sup> June 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1006,6 +1006,33 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 </audio>
 <data class="p-size" value="1052338"></data><data class="p-duration" value="PT00H00M33S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/15/smallpoemsmy-knucklesscraped-dirtcongeals-with-bloodi-stack-the">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200617">
+  <p class="p-name">Liner Notes</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-17 19:54:20">17<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/LinerNotes.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1052338"></data><data class="p-duration" value="PT00H00M33S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/18/smallpoems-i-am-the-white-spacewrapping-warholss">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200618">
+  <p class="p-name">Kamasi</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-18 19:54:20">18<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Kamasi.m4a" controls="controls">
+</audio>
+<data class="p-size" value="452031"></data><data class="p-duration" value="PT00H00M11S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/19/thx-for-the-recommendation-dogtrax-contentlisten-i">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200619">
+  <p class="p-name">Jazz Ain't Jazz</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-19 19:54:20">19<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/JazzAintJazz.m4a" controls="controls">
+</audio>
+<data class="p-size" value="159240"></data><data class="p-duration" value="PT00H00M11S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/19/jazzaint-jazzuntil-it-bejazzwhich-aintnot-notjazzbut-broken">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
