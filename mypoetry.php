@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-06-22 06:04:20">22<sup>nd</sup> June 2020</time>
+    <time class="dt-updated" datetime="2020-06-25 06:44:20">25<sup>th</sup> June 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1060,6 +1060,33 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 </audio>
 <data class="p-size" value="107698"></data><data class="p-duration" value="PT00H00M08S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/22/search-forspecificdelusionsof-realityleavingtruthundefined-inthe-oneanswersmallpoems">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200623">
+  <p class="p-name">Blind Lemon</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-23 06:04:20">23<sup>rd</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/BlindLemon.mp3" controls="controls">
+</audio>
+<data class="p-size" value="719643"></data><data class="p-duration" value="PT00H00M24S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/23/before-biggiepredating-tupaclemon-henry-jeffersonlie-frozendead-in">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200624">
+  <p class="p-name">Unlit Reality</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-24 06:04:20">24<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/UnlitReality.mp3" controls="controls">
+</audio>
+<data class="p-size" value="719643"></data><data class="p-duration" value="PT00H00M24S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/23/learning-fusesas-ideas-melt-congealcoalescing-in-communitiesas">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200625">
+  <p class="p-name">Lemonade</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-25 06:44:20">25<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Lemonade.mp3" controls="controls">
+</audio>
+<data class="p-size" value="719643"></data><data class="p-duration" value="PT00H00M22S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/24/smallpoemsdrips-condense-fallto-tunesof-crackling-icebeating-out">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
