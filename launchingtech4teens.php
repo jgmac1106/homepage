@@ -10,7 +10,7 @@
    
   <div class="pubinfo">
   <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
-     on <time class="dt-published" datetime="2020-06-27 09:44:40">27<sup>th</sup> June 27</time></p>
+     on <time class="dt-published" datetime="2020-06-27 09:44:40">27<sup>th</sup> June 2020</time></p>
     
 
     
