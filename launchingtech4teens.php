@@ -1,9 +1,9 @@
+<?php include 'head.php'; ?>
 </head>
 <?php include 'header.php'; ?>
-</header>
+    </header>
   <main class="longreads">   
   <article class="h-entry">
-  
     <h1 class="p-name">
       ElmCity Webmakers Joins Tech4Teens Club
     </h1>
@@ -39,7 +39,7 @@
 <p>Tech4Teens is designed to empower youth to share their passion through technology.   The program is open to students 13 and older, ideally those that have completed 7th and/or 8th grades.  Information technology students from Yale and SCSU mentor youth to ensure each student has the support needed to be successful.   Any students that do not have a working computer will be giving a “loaner laptop” before the program – and then they can return the computer after completing the program to upgrade to a nicer refurbished Chromebook! (Students that do not complete the training can still keep laptop…but won’t be able to turn it in for a nice one.)</p>
 
 <p>Students will have the option to learn how to create websites, videos, podcasts and coding projects – all based on their passion and interests.  All student projects are posted on individual websites, and will be showcased on community showcase at end of program.  Weekly prizes including cellphone powerbars, wireless earbuds, wireless speakers, and even programmable robots!</p>
-<p>This is an all volunteer, self-funded project. Name.com donated server space.CfAl has secured a few small grants, we have found interns from Yale and SCSU to serve as mentors but we could use your help. We would love to provide all participants with a new Chromebook, for example. We want to get great recording gear. If you can help as a volunteer or to make a donation please reach out to us.
+<p>This is an all volunteer, self-funded project. Name.com donated server space.CfAl has secured a few small grants, we have found interns from Yale and SCSU to serve as mentors but we could use your help. We would love to provide all participants with a new Chromebook, for example. We want to get great recording gear. If you can help as a volunteer or to make a donation please reach out to us.</p>
 
  
 </article>
