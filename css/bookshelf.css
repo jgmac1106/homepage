@@ -1,0 +1,124 @@
+:root {
+  --time: 0.707s;
+}
+
+.bookcards {
+  display: grid;
+}
+
+.bookcard {
+  -webkit-perspective: 40rem;
+          perspective: 40rem;
+}
+
+.bookcards img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.bookcard-body {
+  display: -webkit-box;
+  display: flex;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transition: var(--time) transform;
+  transition: var(--time) transform;
+}
+.bookcard:hover .bookcard-body, .bookcard:focus .bookcard-body {
+  -webkit-transform: rotateX(-180deg);
+          transform: rotateX(-180deg);
+}
+
+.bookcard-front, .bookcard-back {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  min-width: 100%;
+}
+
+.bookcard-front, .bookcard-back img {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.bookcard-back {
+  -webkit-transform: rotateX(-180deg) translate(-100%, 0);
+          transform: rotateX(-180deg) translate(-100%, 0);
+}
+
+/* Make it Pretty */
+body {
+  line-height: 1.3;
+  font-family: sans-serif;
+}
+
+.bookcards {
+  grid-gap: 4rem;
+  grid-auto-rows: 1fr;
+  padding: 3rem;
+  background: whitesmoke;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media only screen and (max-width: 900px) {
+  .bookcards {
+    grid-template-columns: 1fr;
+    -webkit-box-pack: center;
+            justify-content: center;
+  }
+}
+.bookcard {
+  display: -webkit-box;
+  display: flex;
+  -webkit-transition: z-index, -webkit-transform calc(var(--time) / 4);
+  transition: z-index, -webkit-transform calc(var(--time) / 4);
+  transition: z-index, transform calc(var(--time) / 4);
+  transition: z-index, transform calc(var(--time) / 4), -webkit-transform calc(var(--time) / 4);
+  -webkit-transition-delay: var(--time), 0s;
+          transition-delay: var(--time), 0s;
+  text-decoration: none;
+  color: inherit;
+  z-index: 0;
+}
+.bookcard:hover {
+  -webkit-transition-delay: 0s;
+          transition-delay: 0s;
+  z-index: 1;
+}
+.bookcard:active {
+  -webkit-transform: scale(0.975);
+          transform: scale(0.975);
+}
+
+.bookcard-body {
+  border-radius: 0.25rem;
+  -webkit-box-flex: 3;
+          flex: 3;
+}
+
+.bookcard-front, .bookcard-back {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  -webkit-box-align: center;
+          align-items: center;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+}
+
+.bookcard-front {
+  font-size: 1.5rem;
+}
+
+.bookcard-back p {
+  margin-bottom: 1rem;
+}
+
+.shadow, .bookcard-front, .bookcard-back {
+  box-shadow: 0 -1px 1px rgba(0, 0, 0, 0.04), 0 2px 2px rgba(0, 0, 0, 0.04), 0 4px 4px rgba(0, 0, 0, 0.04), 0 8px 8px rgba(0, 0, 0, 0.04), 0 16px 16px rgba(0, 0, 0, 0.04);
+}
