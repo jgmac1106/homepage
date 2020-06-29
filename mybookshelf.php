@@ -8,13 +8,11 @@
     <link rel="webmention" href="https://webmention.io/jgregorymcverry.com/webmention" />
     <link rel="pingback" href="https://webmention.io/jgregorymcverry.com/xmlrpc" />
     <link rel="stylesheet" href="/css/bookshelf.scss">
-     <link rel="authorization_endpoint" href="https://indieauth.com/auth">
-<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-<link rel="microsub" href="https://aperture.p3k.io/microsub/207">
+     <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+<link rel="microsub" href="https://aperture.p3k.io/microsub/207" />
 
  </head>
-<?php include 'header.php'; ?>
-    </header>
   <main class="h-feed">
   <h2 class="p-name">jgmac1106 Bookshelf</h2>  
   <a class="u-author" href="/"></a>
