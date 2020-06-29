@@ -8,16 +8,10 @@
     <link rel="webmention" href="https://webmention.io/jgregorymcverry.com/webmention" />
     <link rel="pingback" href="https://webmention.io/jgregorymcverry.com/xmlrpc" />
     <link rel="stylesheet" href="/css/bookshelf.scss">
-    <script src="/script.js" defer></script>
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-9ralMzdK1QYsk4yBY680hmsb4/hJ98xK3w0TIaJ3ll4POWpWUYaA2bRjGGujGT8w" crossorigin="anonymous">
-     <link href="https://fonts.googleapis.com/css?family=Heebo|Quicksand&display=swap" rel="stylesheet"> 
-     <link href="https://fonts.googleapis.com/css?family=Creepster|Griffy&display=swap" rel="stylesheet"> 
-     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap" rel="stylesheet"> 
      <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 <link rel="microsub" href="https://aperture.p3k.io/microsub/207">
-<script src="/js/webmention.js" async></script>
-<link rel="stylesheet" href="/css/webmentions.css">
+
  </head>
 <?php include 'header.php'; ?>
     </header>
