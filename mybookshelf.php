@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="webmention" href="https://webmention.io/jgregorymcverry.com/webmention" />
     <link rel="pingback" href="https://webmention.io/jgregorymcverry.com/xmlrpc" />
-    <link rel="stylesheet" href="/css/bookshelf.css">
+    <link rel="stylesheet" href="/css/bookshelf.scss">
     <script src="/script.js" defer></script>
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-9ralMzdK1QYsk4yBY680hmsb4/hJ98xK3w0TIaJ3ll4POWpWUYaA2bRjGGujGT8w" crossorigin="anonymous">
      <link href="https://fonts.googleapis.com/css?family=Heebo|Quicksand&display=swap" rel="stylesheet"> 
