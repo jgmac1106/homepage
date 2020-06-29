@@ -4,7 +4,7 @@
 <?php include 'header.php'; ?>
     </header>
  
-  <main class="h-feed">
+  <div class="h-feed">
   <h2 class="p-name">jgmac1106 Bookshelf</h2>  
   <a class="u-author" href="/"></a>
 <div class="bookcards">
@@ -99,7 +99,7 @@
     </div>
   </div>
 </div>
-    </main>
+    </div>
  
 
   </body>
