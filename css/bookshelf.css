@@ -7,8 +7,8 @@
 }
 
 .bookcard {
-  -webkit-perspective: 40rem;
-          perspective: 40rem;
+  -webkit-perspective: 30rem;
+          perspective: 30rem;
 }
 
 .bookcards img {
