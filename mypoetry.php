@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-06-27 06:44:20">27<sup>th</sup> June 2020</time>
+    <time class="dt-updated" datetime="2020-07-01 06:04:20">01<sup>st</sup>July 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -862,6 +862,10 @@ Music <a href="https://soundcloud.com/jusbeats/7-a-m-funky-bass-sessions"> 7 A.M
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/05/31/starved-treesgrow-strongestabundance-keeps-roots-fromgrowingdeepdisconnectedwhile-treesversed">Show Link</a></p>
 </div>
 </details>
+<details>
+  <summary>
+    June Poems
+</summary>
 <div class="h-entry audiopoem" id="20200601">
   <p class="p-name">Girdles of Liberty</p>
   <a class="p-author" href="/"></a>
@@ -1105,6 +1109,43 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 </audio>
 <data class="p-size" value="1476333"></data><data class="p-duration" value="PT00H00M18S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/27/smallpoemsmy-kids-dog-dug-up-our-cilantro">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200628">
+  <p class="p-name">Invisible Tags</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-28 06:04:20">28<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/InvisibleTags.mp3" controls="controls">
+</audio>
+<data class="p-size" value="291652"></data><data class="p-duration" value="PT00H00M09S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/27/pantheonsof-potentialpulling-onpieces-ofpast-polling-in-requestsof">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200629">
+  <p class="p-name">Just Music?</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-29 06:04:20">29<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/JustMusic.mp3" controls="controls">
+</audio>
+<data class="p-size" value="624328"></data><data class="p-duration" value="PT00H00M19S"></data><br />
+<p class="e-content"><a class="u-url" href="https://twitter.com/dogtrax/status/1276807156118028289">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200630">
+  <p class="p-name">Sgro</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-06-28 06:04:20">30<sup>th</sup> June 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Sgro.mp3" controls="controls">
+</audio>
+<data class="p-size" value="719643"></data><data class="p-duration" value="PT00H00M22S"></data><br />
+<p class="e-content"><a class="u-url" href="https://twitter.com/dogtrax/status/1276807156118028289">Show Link</a></p>
+</div>
+</details>
+<div class="h-entry audiopoem" id="20200701">
+  <p class="p-name">Forgotten Forevers</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-01 06:04:20">01<sup>st</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ForgottenForever.mp3" controls="controls">
+</audio>
+<data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/30/when-a-pieceof-childhoodpeelsaway-forevertime-onlyleaves">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
