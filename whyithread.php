@@ -11,9 +11,9 @@
    <small>Image: <a title="thread 3" href="https://flickr.com/photos/jetheriot/6289825456">"thread 3"</a> by <a href="https://flickr.com/people/jetheriot">jetheriot</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY</a> </small>
 
     
-    <span class="summary">
+    <div class="summary">
     <p class="p-summary">A quick summary of IRC chat logs where I explore reasons for participating in Twitter threads</p>
-    </span>
+    </div>
   </div>
 <img class="featured u-featured" src="https://live.staticflickr.com/6226/6289825456_7aaebcb6d7_z.jpg" alt="">
  <div class="e-content">
@@ -101,7 +101,7 @@
     </div>
   </div>
       </div>
-<p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/oer">IndieWeb OER</a></small> 
+
 </article>
     </main>
     <footer>
