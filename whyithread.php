@@ -17,7 +17,6 @@
   </div>
 <img class="featured u-featured" src="https://live.staticflickr.com/6226/6289825456_7aaebcb6d7_z.jpg" alt="">
  <div class="e-content">
-<div>
     <div>
       <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
       <div id="t1593862928611300" class="h-cite line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593862928611300" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T11:42:08+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593862928611300" class="u-url time" title="2020-07-04T11:42:08+00:00">11:42</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=http%3A%2F%2Fquickthoughts.jgregorymcverry.com%2Ffile%2F6802fbcdd3fada8cb61ffb798978f72f%2Fthumb.jpg&amp;sig=baae475641689e740df11b17420b079553c0063ca72f5a3ddfc096953f6d9d05" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://jgregorymcverry.com" class="author p-nickname p-name u-url" target="_blank">[jgmac1106]</a></span></span> <span class="e-content p-name">I do Twitter threads....kinda helps me get ideas to unfold...stream of consciousness like stuff</span></span></div></div>
@@ -28,28 +27,23 @@
       <div id="t1593862992481800" class="h-cite line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593862992481800" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T11:43:12+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593862992481800" class="u-url time" title="2020-07-04T11:43:12+00:00">11:43</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=https%3A%2F%2Fwwwtech.de%2Fimages%2Fchristian-kruse-242470c34a3671da4cab3e3b0d941729.jpg&amp;sig=a398113b85ee5e72be0200c271e1c1a32a749b374950b43475613af9614df6c3" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://Wwwtech.de_about" class="author p-nickname p-name u-url" target="_blank">cjk101010</a></span></span> <span class="e-content p-name">but why don't you use an outliner to gather your ideas and impressions and write an article about it later? That's what I would do?</span></span></div></div>
 
     </div>
-  </div>
+
  
     <div>
       <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
       <div id="t1593868148086500" class="h-cite line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593868148086500" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T13:09:08+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593868148086500" class="u-url time" title="2020-07-04T13:09:08+00:00">13:09</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=http%3A%2F%2Fquickthoughts.jgregorymcverry.com%2Ffile%2F6802fbcdd3fada8cb61ffb798978f72f%2Fthumb.jpg&amp;sig=baae475641689e740df11b17420b079553c0063ca72f5a3ddfc096953f6d9d05" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://jgregorymcverry.com" class="author p-nickname p-name u-url" target="_blank">jgmac1106</a></span></span> <span class="e-content p-name">cjk101010 I also find threading a way to hone thinking and writing craft…its a crazy constraint…for me I get 231 characters, requires conciseness and an unfolding but predictable text structure</span></span></div></div>
 
     </div>
-  </div>
-   <div>
     <div>
       <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
       <div id="t1593863030493800" class="h-cite line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593863030493800" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T11:43:50+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593863030493800" class="u-url time" title="2020-07-04T11:43:50+00:00">11:43</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=http%3A%2F%2Fquickthoughts.jgregorymcverry.com%2Ffile%2F6802fbcdd3fada8cb61ffb798978f72f%2Fthumb.jpg&amp;sig=baae475641689e740df11b17420b079553c0063ca72f5a3ddfc096953f6d9d05" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://jgregorymcverry.com" class="author p-nickname p-name u-url" target="_blank">[jgmac1106]</a></span></span> <span class="e-content p-name">That is my outline, the ideas didn't exist before</span></span></div></div>
 
     </div>
-  </div>
-   <div>
     <div>
       <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
       <div id="t1593863074151500" class="h-cite line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593863074151500" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T11:44:34+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593863074151500" class="u-url time" title="2020-07-04T11:44:34+00:00">11:44</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=https%3A%2F%2Fwwwtech.de%2Fimages%2Fchristian-kruse-242470c34a3671da4cab3e3b0d941729.jpg&amp;sig=a398113b85ee5e72be0200c271e1c1a32a749b374950b43475613af9614df6c3" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://Wwwtech.de_about" class="author p-nickname p-name u-url" target="_blank">cjk101010</a></span></span> <span class="e-content p-name">yeah, I get that. But why do you do this in twitter threads? That's what I don't get. And don't get me wrong, I don't criticise, I'm just curious</span></span></div></div>
 
     </div>
-  </div>
     <div>
     <div>
       <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
