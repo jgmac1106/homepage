@@ -50,13 +50,6 @@
    <div>
     <div>
       <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
-      <div id="t1593863128042300" class="h-cite line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593863128042300" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T11:45:28+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593863128042300" class="u-url time" title="2020-07-04T11:45:28+00:00">11:45</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=http%3A%2F%2Fquickthoughts.jgregorymcverry.com%2Ffile%2F6802fbcdd3fada8cb61ffb798978f72f%2Fthumb.jpg&amp;sig=baae475641689e740df11b17420b079553c0063ca72f5a3ddfc096953f6d9d05" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://jgregorymcverry.com" class="author p-nickname p-name u-url" target="_blank">[jgmac1106]</a></span></span> <span class="e-content p-name">Well technically I do it as a threaded notes connected by webmentions...I choose to POSSE to Twitter</span></span></div></div>
-
-    </div>
-  </div>
-   <div>
-    <div>
-      <div class="daymark">2020-07-04 <span class="tz">UTC</span></div>
       <div id="t1593863175006700" class="h-entry line msg-message "><div class="in"><a href="https://chat.indieweb.org/2020-07-04#t1593863175006700" class="hash">#</a> <time class="dt-published" datetime="2020-07-04T11:46:15+00:00"><a href="https://chat.indieweb.org/2020-07-04/1593863175006700" class="u-url time" title="2020-07-04T11:46:15+00:00">11:46</a></time> <span class="text"><span class="nick p-author h-card"><div class="avatar"><img src="https://chat.indieweb.org/img.php?url=https%3A%2F%2Fwwwtech.de%2Fimages%2Fchristian-kruse-242470c34a3671da4cab3e3b0d941729.jpg&amp;sig=a398113b85ee5e72be0200c271e1c1a32a749b374950b43475613af9614df6c3" width="20" height="20" class="u-photo"/></div><span class=""><a href="http://Wwwtech.de_about" class="author p-nickname p-name u-url" target="_blank">cjk101010</a></span></span> <span class="e-content p-name">so it is basically a public „outline“ for you?</span></span></div></div>
 
     </div>
