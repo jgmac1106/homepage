@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-07-01 06:04:20">01<sup>st</sup>July 2020</time>
+    <time class="dt-updated" datetime="2020-07-06 09:34:20">06<sup>th</sup>July 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1146,6 +1146,51 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 </audio>
 <data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/06/30/when-a-pieceof-childhoodpeelsaway-forevertime-onlyleaves">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200702">
+  <p class="p-name">Poems Bug Me</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-02 06:04:20">02<sup>nd</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/poemsbugme.mp3" controls="controls">
+</audio>
+<data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/02/bugshungryfor-bloodhide-in-my-writing-hauntsnot-sureif">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200703">
+  <p class="p-name">Next Place</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-03 06:04:20">03<sup>rd</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/nextplace.mp3" controls="controls">
+</audio>
+<data class="p-size" value="386111"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/02/bugshungryfor-bloodhide-in-my-writing-hauntsnot-sureif">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200704">
+  <p class="p-name">Never Was</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-04 06:04:20">04<sup>th</sup>July 2020</time>
+ <audio class="u-audio" src="" controls="controls">
+</audio>
+<data class="p-size" value="719343"></data><data class="p-duration" value="PT00H00M22S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/02/weird-to-consider-never-was-as-gravity">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200705">
+  <p class="p-name">One Call</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-05 09:34:20">05<sup>th</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/onecall.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529053"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/02/two-numbers-to-callwhen-at-homenow-onewish">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200706">
+  <p class="p-name">firefly</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-06 09:34:20">06<sup>th</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Firefly.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529053"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/04/always-notice-first-fireflyshe-tucks-intoblades-of">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
