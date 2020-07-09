@@ -1201,6 +1201,15 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 <data class="p-size" value="339300"></data><data class="p-duration" value="PT00H00M109S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/06/i-have-neverpretendedto-be-anyone-elseexcept-forevery">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem" id="20200708">
+  <p class="p-name">Apron, Rot, Still</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-08 20:44:20">08<sup>th</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ApronRotStill.mp3" controls="controls">
+</audio>
+<data class="p-size" value="339300"></data><data class="p-duration" value="PT00H00M109S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/06/what-a-poemcant-decide-meaning-of">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">
