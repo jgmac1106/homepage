@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-07-07 08:24:20">07<sup>th</sup>July 2020</time>
+    <time class="dt-updated" datetime="2020-07-10 06:24:20">10<sup>th</sup>July 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1209,6 +1209,24 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 </audio>
 <data class="p-size" value="339300"></data><data class="p-duration" value="PT00H00M109S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/06/what-a-poemcant-decide-meaning-of">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20200709">
+  <p class="p-name">A and G</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-09 06:24:20">09<sup>th</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/AandG.mp3" controls="controls">
+</audio>
+<data class="p-size" value="3529063"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/03/foolingaround-youngeston-ukelehad-tablature-openbrothers">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="202007010">
+  <p class="p-name">Prime</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-07-10 06:24:20">10<sup>th</sup>July 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/prime.mp3" controls="controls">
+</audio>
+<data class="p-size" value="481036"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/10/prime-numbersclimb-throughthrough-slumbersof-unresttogether-ableto-pluckvalue">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
