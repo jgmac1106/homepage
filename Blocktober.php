@@ -19,7 +19,7 @@
     <div class="copy">
 
   <div class="e-content">
-    <p>Welcome to Blocktober. The IndieWeb community asks everyone to sign off of Facebook, Instagram, and What's App, and other social networks through the month of October and past the election in the United States. May be the only way to save the soul of our world.</p>
+    <p>Welcome to Blocktober. The IndieWeb community asks everyone to sign off of Facebook, Instagram, WhatsApp, and other social networks through the month of October and past the election in the United States. May be the only way to save the soul of our world.</p>
     <p>Facebook is evil and profits off of racism and hate. Facebook is evil and actively undermines democracy across the globe. Fcaebook is evil and actively profits from addictive algorithims. Facebook is evil and endangers children. Facebook is evil and attacks the open web. We need to take action. Join us for Blocktober</p>
     <p>Four years ago a massive intelligence operation threatened our election. We will not know if the Russians tipped the scale but we do know Putin had a finger on it.</p>
     <h2>Undermines Democracy</h2>
