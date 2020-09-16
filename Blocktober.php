@@ -41,7 +41,7 @@
   <li>Join us for a social two screen screening of the Social Dilemma on Septermber 25th at 18:00 UTC (14:00 EDT)</li>
   <li>Log off for the month. Call a friend. Play chess. Enjoy a month free of doomscrolling</li>
   <li>Encourage parents and grandparents to get off of facebook. Older people, especially older white people, are much more susceptible to disinformation and they spread it faster than any other demographic</li>
-  <li>Get a blog. Share your passion</li>li>
+  <li>Get a blog. Share your passion</li>
   <li>Join us on the IndieWeb chat to hang out.</li>
   <li>Vote. Early. Make sure you know your state's rules</li>
 </ul>
