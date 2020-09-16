@@ -15,7 +15,7 @@
     <p class="p-summary">Our democracy is threatened. People doomscrolling into depression. All facebook's fault</p>
     </span>
   </div>
-<img class="featured u-featured" src="/photos/assets/scarycomputer.jpg" alt="">
+<img class="featured u-featured" src="/photos/assets/scarycomputer.png" alt="spirit coming out of person into computer">
     <div class="copy">
 
   <div class="e-content">
