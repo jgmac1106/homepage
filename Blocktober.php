@@ -12,7 +12,7 @@
 
     
     <span class="summary">
-    <p class="p-summary">Our democracy is threatened. People doomscrolling into depression. All facebook's fault</p>
+    <p class="p-summary">Our democracy is threatened. People doomscrolling into depression. All facebook's fault. Join #IndieWeb for #Blocktober</p>
     </span>
   </div>
 <img class="featured u-featured" src="/photos/assets/scarycomputer.png" alt="spirit coming out of person into computer">
