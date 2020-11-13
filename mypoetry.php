@@ -1228,6 +1228,15 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 <data class="p-size" value="481036"></data><data class="p-duration" value="PT00H00M16S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/10/prime-numbersclimb-throughthrough-slumbersof-unresttogether-ableto-pluckvalue">Show Link</a></p>
 </div>
+<div class="h-entry audiopoem" id="20201111">
+  <p class="p-name">Night Rises</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-11-11 08:24:20">11<sup>th</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/NightRises.mp4" controls="controls">
+</audio>
+<data class="p-size" value="481036"></data><data class="p-duration" value="PT00H00M16S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/10/prime-numbersclimb-throughthrough-slumbersof-unresttogether-ableto-pluckvalue">Show Link</a></p>
+</div>
 </div>
 <div class="audiopoem">
 <div class="u-syndication microcastclub">

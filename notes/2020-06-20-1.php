@@ -12,7 +12,7 @@
  <p class="p-name e-content">
 I don't know Dave? Are you made of Molybdenum?
 </p>
-  Also on <a href="https://jgregorymcverry.com/notes/2020-06-20-1" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-06-10-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on <a href="https://jgregorymcverry.com/notes/2020-06-20-1" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-11-13-1" rel="next"> Next Note </a> <a href="https://jgregorymcverry.com/notes/2020-06-10-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
   	 	<div id="webmentions"></div>
   		<footer>
