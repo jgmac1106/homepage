@@ -442,6 +442,22 @@
     </ul>
     </details>
   </div>
+   <div class="h-entry" id="20201113">
+    <details>
+      <summary>
+    <a class="h-card p-author" href="/"></a>
+    <p class="p-name">2020-11-13: Covid-19: Day 256: Working from Home</p>
+  </summary>
+    <ul>
+      <li class="h-item" id="20201113-1"> Launch Hartford Video Based Cailbrations 🍅</li>
+        <li class="h-item" id="20201113-2">12:30 Meet to discuss tech4teens grant 🍅 </li>
+       <li class="h-item" id="20201113-3"> Make audio podcasts about learning 12 bar blues 🍅🍅</li>
+        <li class="h-item" id="20201113-4">13:00 Meet with GA Faculty 🍅🍅</li>
+         
+
+    </ul>
+    </details>
+  </div>
       
 
 <a href="https://jgregorymcverry.com/notes/2020-02-20-2" rel="prev"> Previous Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
