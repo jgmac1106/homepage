@@ -7,7 +7,7 @@
   	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-11-13 08:44:20">13<sup>th</sup> November 2020</time>
-<video class="u-video" src="https://jgregorymcverry.com/poetry/NightRises.mp4">
+<video class="u-video" controls src="https://jgregorymcverry.com/poetry/NightRises.mp4">
 
  <p class="p-name e-content">
 Night falls early now<br>
