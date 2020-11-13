@@ -453,7 +453,8 @@
         <li class="h-item" id="20201113-2">12:30 Meet to discuss tech4teens grant 🍅 </li>
        <li class="h-item" id="20201113-3"> Make audio podcasts about learning 12 bar blues 🍅🍅</li>
         <li class="h-item" id="20201113-4">13:00 Meet with GA Faculty 🍅🍅</li>
-         
+         <li class="h-item" id="20201113-5">October Invoicing 🍅</li>
+         <li class="h-item" id="20201113-6">Data Calls 🍅🍅🍅</li>
 
     </ul>
     </details>
