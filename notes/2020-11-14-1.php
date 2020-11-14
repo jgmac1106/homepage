@@ -7,7 +7,7 @@
   	<div class="note h-entry" >
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2020-11-14 09:24:20">14<sup>th</sup> November 2020</time>
-<video class="u-video" controls src="https://jgregorymcverry.com/videos/CarvingAPawn.mp4">
+<video class="u-video" controls src="https://jgregorymcverry.com/videos/CarvingAPawn.mp4"></video>
 
  <p class="p-name e-content">
 This was my first attempt at recording a pawn. People think I should stream while I carve. I think people are crazy. That is why I am outside carving and not talking to them. <br>
