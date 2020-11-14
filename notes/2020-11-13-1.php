@@ -19,7 +19,7 @@ put my beer against a dying tree<br>
 and watches as night rises<br>
 Over a future, I've never believed in<br>
 </p>
-  Also on <a href="https://jgregorymcverry.com/notes/2020-11-13-1" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-06-01-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on <a href="https://jgregorymcverry.com/notes/2020-11-13-1" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-11-14-1"  rel="next"> Next Note</a> <a href="https://jgregorymcverry.com/notes/2020-06-01-1 "rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
   	 	<div id="webmentions"></div>
   		<footer>
