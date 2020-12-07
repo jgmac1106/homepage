@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-12-06 21:44:20">6<sup>th</sup> December 2020</time>
+    <time class="dt-updated" datetime="2020-12-06 21:54:20">6<sup>th</sup> December 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1268,7 +1268,7 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
   <p class="p-name">Suburban Tomb</p>
   <a class="p-author" href="/"></a>
   <time class="dt-published" datetime="2020-11-29 08:24:20">29<sup>th</sup>November 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/MemorysLips.mp3" controls="controls">
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SuburbanTomb.mp3" controls="controls">
 </audio>
 <data class="p-size" value="1492343"></data><data class="p-duration" value="PT00H00M42S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/29/smallpoemswalls-peelin-spaces-whererust-fades-seamlesslyinto">Show Link</a></p>
