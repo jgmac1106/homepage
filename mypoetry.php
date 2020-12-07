@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-11-16 08:24:20">16<sup>th</sup>November 2020</time>
+    <time class="dt-updated" datetime="2020-12-06 21:24:20">6<sup>th</sup> December 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1237,14 +1237,122 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 <data class="p-size" value="481036"></data><data class="p-duration" value="PT00H00M16S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/07/10/prime-numbersclimb-throughthrough-slumbersof-unresttogether-ableto-pluckvalue">Show Link</a></p>
 </div>
-<div class="h-entry audiopoem" id="20201116">
-  <p class="p-name">Hope Floats </p>
+<div class="h-entry audiopoem" id="20201122">
+  <p class="p-name">Capitalism </p>
   <a class="p-author" href="/"></a>
-  <time class="dt-published" datetime="2020-11-16 08:24:20">16<sup>th</sup>November 2020</time>
- <audio class="u-audio" src="https://jgregorymcverry.com/poetry/HopeFloats.mp3" controls="controls">
+  <time class="dt-published" datetime="2020-11-22 08:24:20">22<sup>nd</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/capitalism.mp3" controls="controls">
 </audio>
-<data class="p-size" value="481036"></data><data class="p-duration" value="PT00H00M24S"></data><br />
-<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/15/smallpoemshope-floatsabovethosedevotea-smokethat-slipsthrough-fingerswhen-doubts">Show Link</a></p>
+<data class="p-size" value="769280"></data><data class="p-duration" value="PT00H00M24S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/20/smallpoemskeep-your-hopes-and-dreams-works">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201129a">
+  <p class="p-name">New England Autumn </p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-11-29 08:24:20">29<sup>th</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/AutumnInNewEngland.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1432861"></data><data class="p-duration" value="PT00H00M42S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/29/smallpoems-autumn-sun-slipshiding-in-hillsholding-a">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201129b">
+  <p class="p-name">Memory's Lips</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-11-29 08:24:20">29<sup>th</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/MemorysLips.mp3" controls="controls">
+</audio>
+<data class="p-size" value="292343"></data><data class="p-duration" value="PT00H00M12S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/29/slip-pastlipsof-memorysswinging-hipswhile-it-seizes-all">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201129c">
+  <p class="p-name">Suburban Tomb</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-11-29 08:24:20">29<sup>th</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/MemorysLips.mp3" controls="controls">
+</audio>
+<data class="p-size" value="1492343"></data><data class="p-duration" value="PT00H00M42S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/29/smallpoemswalls-peelin-spaces-whererust-fades-seamlesslyinto">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201129d">
+  <p class="p-name">Dying Leaf</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-11-29 08:24:20">29<sup>th</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/DyingLeaf.mp3" controls="controls">
+</audio>
+<data class="p-size" value="482343"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/29/truthfound-of-sounds-dancingon-foldingsof-adying-leafjust">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201129e">
+  <p class="p-name">Exist</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-11-29 08:24:20">29<sup>th</sup>November 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Exist.mp3" controls="controls">
+</audio>
+<data class="p-size" value="862343"></data><data class="p-duration" value="PT00H00M27S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/11/30/i-just-needto-see-the-need-for">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201201">
+  <p class="p-name">Slipstream</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-01 08:24:20">1<sup>st</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Slipstream.mp3" controls="controls">
+</audio>
+<data class="p-size" value="529093"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/02/in-slipstreamsof-phonemesdreams-gleanon-wakesof-namesakesthat-shake">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201201b">
+  <p class="p-name">School Bell</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-01 08:24:20">1<sup>st</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SchoolBell.mp3" controls="controls">
+</audio>
+<data class="p-size" value="434567"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/02/which-stitchin-thisnichewillswitch-a-glitchso-insteadit-enricheskidsin">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201202">
+  <p class="p-name">Shadow Candle</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-02 08:24:20">2<sup>nd</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ShadowCandle.mp3" controls="controls">
+</audio>
+<data class="p-size" value="339563"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/03/transcendencein-unbendableindependencedepends-uponmendableascendanceinto-resplendenceof-endlesssplendor-ascandles-cast">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201203">
+  <p class="p-name">Dipthong</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-03 08:24:20">3<sup>rd</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Dipthong.mp3" controls="controls">
+</audio>
+<data class="p-size" value="489563"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/04/get-lost-in-rhyming-dictionaries-and">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201203b">
+  <p class="p-name">Say a Name</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-03 08:24:20">3<sup>rd</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/SayAName.mp3" controls="controls">
+</audio>
+<data class="p-size" value="489563"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/04/get-lost-in-rhyming-dictionaries-and">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201204">
+  <p class="p-name">Luck</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-04 08:24:20">4<sup>th</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/Luck.mp3" controls="controls">
+</audio>
+<data class="p-size" value="481456"></data><data class="p-duration" value="PT00H00M15S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/04/get-lost-in-rhyming-dictionaries-and">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201205">
+  <p class="p-name">Imposter Syndrome</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-05 08:24:20">5<sup>th</sup>December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/ImposterSyndrome.mp3" controls="controls">
+</audio>
+<data class="p-size" value="434546"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/04/get-lost-in-rhyming-dictionaries-and">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
