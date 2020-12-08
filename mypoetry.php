@@ -17,7 +17,7 @@
    <p class="p-summary">A boombox of bad poems</p>
    
 
-    <time class="dt-updated" datetime="2020-12-06 21:54:20">6<sup>th</sup> December 2020</time>
+    <time class="dt-updated" datetime="2020-12-08 08:24:20">8<sup>th</sup> December 2020</time>
    <img class="u-photo" src="https://jgregorymcverry.com/photos/poemboxpodcastart.jpg" style="width:200px">
    <a class="u-author h-card" href="https://jgregorymcverry.com/mypoetry#audiopoems">jgmac1106</a>
  </div>
@@ -1353,6 +1353,15 @@ Music by <a href="https://soundcloud.com/ecrite/e-c-r-i-t-e-robot">Ecrite</a> sh
 </audio>
 <data class="p-size" value="434546"></data><data class="p-duration" value="PT00H00M13S"></data><br />
 <p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/04/get-lost-in-rhyming-dictionaries-and">Show Link</a></p>
+</div>
+<div class="h-entry audiopoem" id="20201208">
+  <p class="p-name">Lost Poem</p>
+  <a class="p-author" href="/"></a>
+  <time class="dt-published" datetime="2020-12-08 08:24:20">8<sup>th</sup> December 2020</time>
+ <audio class="u-audio" src="https://jgregorymcverry.com/poetry/LostPoem.mp3" controls="controls">
+</audio>
+<data class="p-size" value="433758"></data><data class="p-duration" value="PT00H00M13S"></data><br />
+<p class="e-content"><a class="u-url" href="https://quickthoughts.jgregorymcverry.com/2020/12/07/some-poemsnever-formhiddenin-the-fogweighing-heavy-on">Show Link</a></p>
 </div>
 </div>
 <div class="audiopoem">
