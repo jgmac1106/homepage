@@ -7,7 +7,7 @@
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2022-03-03 19:34:20">3<sup>rd</sup>March 2022</time>
- <div class="p-name e-content">
+ <p class="p-name e-content">
 &nbsp;&nbsp;#smallpoems #clmooc<br>
 <pre><br>
 &nbsp;&nbsp;Did you zoom in<br>
@@ -159,7 +159,7 @@ making the stacks<br>
 Hinge on Risk Based<br>
 Benjamins<br>
 
-</div>
+</p>
 Also on <a href="https://jgregorymcverry.com/notes/2022-03-03-1" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-12-05-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2022-03-0-2" rel="next">Next Note</a>    <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
   	<div id="webmentions"></div>
