@@ -9,6 +9,7 @@
 <time class="dt-published" datetime="2022-03-03 19:34:20">3<sup>rd</sup>March 2022</time>
  <div class="p-name e-content">
 &nbsp;&nbsp;#smallpoems #clmooc
+<pre>
 &nbsp;&nbsp;Did you zoom in
 to the state of the union?
 
@@ -82,7 +83,7 @@ Reauthorizes while
 making the stacks
 Hinge on Risk Based
 Benjamins
-</div>
+</pre>
 </div>
 Also on <a href="https://jgregorymcverry.com/notes/2022-03-03-1" class="u-url" rel="canonical"><strong>My Notes</strong></a>  <a href="https://jgregorymcverry.com/notes/2020-12-05-1" rel="prev">Previous Note</a>   <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
