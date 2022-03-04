@@ -7,6 +7,8 @@
   	<div class="note h-entry">
 <a class="u-author" href="/"></a>
 <time class="dt-published" datetime="2022-03-03 19:34:20">3<sup>rd</sup>March 2022</time>
+<audio class="u-audio" src="https://jgregorymcverry.com/poetry/americancybersecurityact.mp3" controls="controls">
+</audio>
  <p class="p-name e-content">
 &nbsp;&nbsp;#smallpoems #clmooc<br>
 &nbsp;&nbsp;Did you zoom in<br>
