@@ -37,9 +37,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Electron_capture">Electron Capture</a></li>
    </ul>
    <p>As I would read I would then take notes to form the poem. In the first phase I just collect phrases I think sound cool. I look for phrases that easily have double meanings or where I can allude to everyday struggles utilizing an antithesis of paradigms.</p>
-   <img src="https://jgregorymcverry.com/photos/redshiftphoto1.jpg" alt="screenshot of journal">
+   <img width="60%" src="https://jgregorymcverry.com/photos/redshiftphoto1.jpg" alt="screenshot of journal">
    <p>I then draft the poem. Usually in my journal. You also see all the names for the Triangulum Constellation. I thought that would make a good poem too. Babylonians called it "The Plow." It marked the start of Autumn harvest. The Chinese call the constellation "Heaven's Great General." Poem pretty much writes itself.</p>
-    <img src="https://jgregorymcverry.com/photos/redshiftphoto2.jpg" alt="screenshot of journal">
+    <img width="60%" src="https://jgregorymcverry.com/photos/redshiftphoto2.jpg" alt="screenshot of journal">
     <p>I would never recommend poetry as a way to synthesize information about science (I would still make it a playlist assignment choice) but it really works for me. When you transform phenomenon from billions of years ago in to arranged phonemes the information you use remains sticky.</p>
     <p>In the end I have no secret sauce to writing poetry. I read multiple sources, take notes, draft an idea, and publish a poem. Like gravity. The Writing Process is a constant that can not change without altering your frame of reference.</p>
       </div>
