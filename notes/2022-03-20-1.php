@@ -19,7 +19,7 @@ We unleash<br>
 together<br>
 we escape the<br>
 negative gradient<br>
-&nbsp;&nbsp;&nbs;of your constant pull<br>
+&nbsp;&nbsp;&nbsp;of your constant pull<br>
 #smallpoems
  </p>
   Also on<a href="https://jgregorymcverry.com/notes/2022-03-20-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-03-03-2" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
