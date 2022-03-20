@@ -44,12 +44,12 @@
     <p>In the end I have no secret sauce to writing poetry. I read multiple sources, take notes, draft an idea, and publish a poem. Like gravity. The Writing Process is a constant that can not change without altering your frame of reference.</p>
       </div>
    </div>
-<p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> 
 </article>
     </main>
     <footer>
-<?php include 'footer.php'; ?>
 
+<?php include 'footer.php'; ?><br>
+<p><small>Also on <a class="u-syndication" href="https://indieweb.xyz/en/poetry">IndieWeb Poetry</a></small> 
   </body>
  
 </html>
