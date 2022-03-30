@@ -17,13 +17,13 @@ Crave<br>
 and curate<br>
 &nbsp;&nbsp;queries<br>
 with ripostes<br>
-&nbsp;&nbsp; as inquisitions<br>
-do not let quests to<br>
+&nbsp;&nbsp; as inquisitions.<br><br>
+Do not let quests to<br>
 &nbsp;&nbsp;dissect questions<br>
 beget the<br>
 &nbsp;&nbsp;&nbsp;circumspect<br>
-and unchecked gripped in  closed fists <br>
-let answers slip in grains<br>
+held in an unchecked gripped, closed fists. <br><br>
+Let answers slip in grains<br>
 &nbsp;of<br>
 ignorance<br>
 washing in tides of <br>
