@@ -22,11 +22,11 @@ do not let quests to<br>
 &nbsp;&nbsp;dissect questions<br>
 beget the<br>
 &nbsp;&nbsp;&nbsp;circumspect<br>
-get unchecked and closed fists <br>
+and unchecked gripped in  closed fists <br>
 let answers slip in grains<br>
 &nbsp;of<br>
 ignorance<br>
-washing in tides<br>
+washing in tides of <br>
 vagrancy pulling<br>
 aimlessly<br>
 &nbsp;&nbsp;&nbsp;toward<br>
