@@ -18,9 +18,9 @@ and curate<br>
 &nbsp;&nbsp;queries<br>
 with ripostes<br>
 &nbsp;&nbsp; as inquisitions<br>
-do not let quests to
-&nbsp;&nbsp;to dissect questions<br>
-let The<br>
+do not let quests to<br>
+&nbsp;&nbsp;dissect questions<br>
+beget the<br>
 &nbsp;&nbsp;&nbsp;circumspect<br>
 get unchecked and closed fists <br>
 let answers slip in grains<br>
