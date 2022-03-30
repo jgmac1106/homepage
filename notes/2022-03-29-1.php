@@ -29,11 +29,11 @@ keeping time at cliff's edge<br>
  &nbsp;&nbsp;shards of<br>
  aspects glaring<br>
  down on cognizance of<br>
-  &nbsp;&nbsp;of spinning consciousness<br>
+  &nbsp;&nbsp; spinning consciousness<br>
   in a dominance<br>
   of stirrups<br>
   boot worn by 
-  &nbsp;the search. A
+  &nbsp;the search. A<br>
   &nbsp;&nbsp;&nbsp;Need<br>
   For the Zen<br>
   of Provenance<br> 
