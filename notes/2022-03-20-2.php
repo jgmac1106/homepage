@@ -12,7 +12,7 @@
    Trying to develop a mobile workflow for publishing notes. Currently type in sublime and push using Fast Git and GitHub Actions. 
 #IndieWeb 
  </p>
-  Also on<a href="https://jgregorymcverry.com/notes/2022-03-20-2" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-03-20-01" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on<a href="https://jgregorymcverry.com/notes/2022-03-20-2" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-03-20-1" rel="prev">Previous Note</a>  <a href="https://jgregorymcverry.com/notes/2022-03-29-1" rel="next">Next Note</a><a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
   		<footer>
