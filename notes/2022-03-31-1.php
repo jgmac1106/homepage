@@ -26,7 +26,7 @@ Truth cut in hard<br>
 predictable<br>
 counts<br>
  </div><br>
-  Also on<a href="https://jgregorymcverry.com/notes/2022-03-31-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-03-30-2" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+  Also on<a href="https://jgregorymcverry.com/notes/2022-03-31-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-03-30-2" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2022-04-03-1" rel="next">Next Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
   		<footer>
