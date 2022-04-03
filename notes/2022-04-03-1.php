@@ -10,7 +10,7 @@
  
  <div class="p-name e-content">
     #silentsunday #clmooc
-   <img class="u-photo" src="https://jgregorymcverry.com/photos/2022-04-03SilentSunday.jpg" alt="tree with growth that looks like nose">
+   <a href="https://jgregorymcverry.com/photos/2022-04-03SilentSundaysmall"><img class="u-photo" src="https://jgregorymcverry.com/photos/2022-04-03SilentSundaysmall.jpg" alt="tree with growth that looks like nose"></a>
   Also on<a href="https://jgregorymcverry.com/notes/2022-04-01-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-03-31-1" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
 </div>
   	</main>
