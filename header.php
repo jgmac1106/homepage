@@ -16,7 +16,7 @@
         </div>
         <div class="Navbar__Link">
           
-          <a href="/latestnote" >notes</a>
+          <a href="/notes/latestnote" >notes</a>
         </div>
         <div class="Navbar__Link" >
           <a href="/archive" >Articles</a>
