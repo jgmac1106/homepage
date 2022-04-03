@@ -14,8 +14,12 @@
           
           <a href="/aboutme" >About</a>
         </div>
+        <div class="Navbar__Link">
+          
+          <a href="/latestnote" >notes</a>
+        </div>
         <div class="Navbar__Link" >
-          <a href="/articles/2020/05posts" >Articles</a>
+          <a href="/archive" >Articles</a>
         </div>
         <div class="Navbar__Link" >
           <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>
