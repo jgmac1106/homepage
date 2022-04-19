@@ -1,4 +1,4 @@
-<script>
+<script type="text/javascript">
 let styleMe = document.documentElement.querySelector("h1");
 
 document.body.addEventListener("mousemove", event=> onMouseMove(event));
