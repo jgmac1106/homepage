@@ -25,7 +25,7 @@ in<br>
 phases?<br>
 #smallpoems<br>
 </div>
-Also on<a href="https://jgregorymcverry.com/notes/2022-04-19-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-04-03-1" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+Also on<a href="https://jgregorymcverry.com/notes/2022-04-19-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-04-03-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2022-04-19-2" rel="next">Next Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>
