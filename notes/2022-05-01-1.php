@@ -16,7 +16,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;Me?<br>
     Can it<br>
 &nbsp;be seen in<br>
-scoren to<br> 
+scorn to<br> 
 cast we as<br>
 a new mold<br>
 &nbsp;&nbsp;to fold<br>
