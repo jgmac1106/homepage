@@ -26,7 +26,7 @@ towards insignificance?<br>
 #smallpoems
 
 </p>
-Also on<a href="https://jgregorymcverry.com/notes/2022-04-19-3" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-04-19-3" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+Also on<a href="https://jgregorymcverry.com/notes/2022-05-01-1" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-04-19-3" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2022-05-01-2" rel="next">Next Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>
