@@ -11,7 +11,7 @@
  Getting started on chord inversions and extensions with <a href="https://ukuleleunderground.com/courses/ukulele-102-2017/ukulele-102-week-6-chord-inversions-extensions/">ukulele underground</a>. This lesson gonna take a hot minute.
 
 </p>
-Also on<a href="https://jgregorymcverry.com/notes/2022-05-01-2" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-05-01-1" rel="prev">Previous Note</a>  <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
+Also on<a href="https://jgregorymcverry.com/notes/2022-05-01-2" rel="canonical"><strong>My Notes</strong></a> <a href="https://jgregorymcverry.com/notes/2022-05-01-1" rel="prev">Previous Note</a> <a href="https://jgregorymcverry.com/notes/2022-07-06-1" rel="next">Next Note</a> <a class="u-syndication" href="https://brid.gy/about#twitter">Published with Bridgy</a>
   	</main>
   		<footer>
      <?php include '../footer.php'; ?>
