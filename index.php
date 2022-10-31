@@ -4,7 +4,6 @@
 <link rel="alternate" type="application/rss+xml" href="https://example.withknown.com/content/all?_t=rss" title="blog">
 <link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
 <link rel="alternate" type="application/rss+xml" href="https://granary.iourl?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyphotos" title="photos">
- <link rel="stylesheet" href="https://jgregorymcverry/css/halloweenstyle.css">
 </head>
 <?php include 'header.php'; ?>
 <script src="/script.js" defer></script>
