@@ -22,16 +22,13 @@
           <a href="/archive" >Articles</a>
         </div>
         <div class="Navbar__Link" >
-          <a href="https://quickthoughts.jgregorymcverry.com" >Blog</a>
+          <a href="https://stream.jgregorymcverry.com" >Blog</a>
         </div>
         <div class="Navbar__Link" >
           <a href="/myphotos" >Photos</a>
         </div>
         <div class="Navbar__Link" >
           <a href="/resume" class="navLinks">Vita</a>
-        </div>
-        <div class="Navbar__Link" >
-          <a href="https://consulting.jgregorymcverry.com/" class="navLinks">Consulting</a>
         </div>
         <div class="Navbar__Link" >
           <a href="/2toPonder" class="navLinks">Podcasts</a>
