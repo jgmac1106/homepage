@@ -1,0 +1,23 @@
+name: Validate archive
+on:
+  pull_request:
+    paths: ['archive/**', 'tools/build_archive_index.py', 'tests/**', '**.php', '**.html', '.github/workflows/archive-validation.yml']
+  push:
+    branches: [master]
+    paths: ['archive/**', 'tools/build_archive_index.py', 'tests/**', '**.php', '**.html', '.github/workflows/archive-validation.yml']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lint PHP and check archive behavior
+        run: |
+          for file in archive/*.php tests/archive_test.php; do php -l "$file"; done
+          php tests/archive_test.php
+      - name: Check content index
+        run: |
+          python3 tests/archive_index_test.py
+          python3 tools/build_archive_index.py
+          git diff --exit-code -- archive/data/homepage.json
