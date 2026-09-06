@@ -31,3 +31,7 @@ After creating actual imported post pages and mapping media/old URLs, add an exp
 Run `php tests/archive_test.php`, `python3 tests/archive_index_test.py`, and PHP lint on `archive/*.php`. The validation workflow runs for archive-related PRs and master pushes and verifies that the checked-in index is reproducible.
 
 The FTP deployment workflow is restricted to master pushes. Branches and PRs must not deploy to the live website. The `.htaccess` archive exception keeps existing extension-rewrite rules from rewriting archive directories; verify `/archive/`, filters and `/archive/feed.php` on the real Apache host after deployment. A separate conditional resolves existing HTML-only posts before the legacy PHP fallback, so extensionless links to those articles work too. Existing PHP post URLs retain their precedence.
+
+## Shared styling
+
+The archive loads `/reset.css`, `/styles.css` and the existing Heebo/Quicksand font stylesheet before its scoped layout rules. It uses `header.php` and `footer.php`, `.card` for articles and `.note` for other entries. The masthead image, navigation behavior and shared component surfaces come from the existing website. Archive CSS supplies the sidebar/calendar layout and limited readability overrides; it does not restyle other pages.

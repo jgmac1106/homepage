@@ -22,6 +22,9 @@ $feed=archive_link($selection,['page'=>1],'/archive/feed.php');
 <title><?=esc($title.($period?' · '.$period:'').' · Greg McVerry')?></title>
 <meta name="description" content="Browse Greg McVerry’s articles, notes, replies and other posts by type and date.">
 <link rel="canonical" href="<?=esc('https://jgregorymcverry.com'.archive_link($selection))?>">
+<link rel="stylesheet" href="/reset.css">
+<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo|Quicksand&amp;display=swap">
 <link rel="stylesheet" href="/archive/archive.css">
 <link rel="alternate" type="application/rss+xml" title="<?=esc($title)?>" href="<?=esc($feed)?>">
 </head><body class="archive-page"><a class="skip-link" href="#archive-content">Skip to posts</a>
@@ -43,11 +46,11 @@ $feed=archive_link($selection,['page'=>1],'/archive/feed.php');
 <section class="h-feed" aria-labelledby="feed-heading"><div class="section-top feed-top"><h2 id="feed-heading" class="p-name"><?=esc($period?:'All dates')?></h2><p class="result-count"><?=$total?> <?=$total===1?'post':'posts'?></p></div>
 <a class="p-author h-card sr-only" href="https://jgregorymcverry.com">Greg McVerry</a>
 <?php if (!$visible): ?><div class="empty-state"><h3>No posts here yet</h3><p><?=count($typed)?'There are no posts for this date. Choose another month or browse all dates.':'This feed will fill as posts are added to the archive.'?></p><a href="<?=esc(archive_link($selection,['year'=>'','month'=>'','day'=>'','page'=>1,'type'=>count($typed)?$selection['type']:'all']))?>">Browse <?=count($typed)?'all dates':'all posts'?> →</a></div><?php endif; ?>
-<?php foreach ($visible as $entry): ?><article class="archive-entry h-entry"><div class="entry-meta"><span class="post-type"><?=esc($types[$entry['type']])?></span><?php if (!empty($entry['date'])): ?><time class="dt-published" datetime="<?=esc($entry['date'])?>"><?=esc(archive_date_label($entry['date']))?></time><?php else: ?><span>Date not recorded</span><?php endif; ?></div>
+<?php foreach ($visible as $entry): ?><article class="archive-entry h-entry <?=$entry['type']==='articles'?'card':'note'?>"><div class="entry-meta"><span class="post-type"><?=esc($types[$entry['type']])?></span><?php if (!empty($entry['date'])): ?><time class="dt-published" datetime="<?=esc($entry['date'])?>"><?=esc(archive_date_label($entry['date']))?></time><?php else: ?><span>Date not recorded</span><?php endif; ?></div>
 <h3 class="p-name"><a class="u-url" href="<?=esc($entry['url'])?>"><?=esc($entry['title'])?></a></h3>
 <?php if (!empty($entry['reply_to']) && archive_url($entry['reply_to'])): ?><p class="reply-context">In reply to <a class="u-in-reply-to" href="<?=esc(archive_url($entry['reply_to']))?>"><?=esc(parse_url($entry['reply_to'],PHP_URL_HOST) ?: 'the original post')?> ↗</a></p><?php endif; ?>
-<?php if (!empty($entry['summary'])): ?><p class="p-summary"><?=esc($entry['summary'])?></p><?php endif; ?>
+<?php if (!empty($entry['summary'])): ?><p class="p-summary card__description"><?=esc($entry['summary'])?></p><?php endif; ?>
 <a class="p-author h-card sr-only" href="https://jgregorymcverry.com"><?=esc($entry['author']??'Greg McVerry')?></a>
 </article><?php endforeach; ?>
 <?php if ($pages>1): ?><nav class="pagination" aria-label="Feed pages"><?php if ($selection['page']>1): ?><a rel="prev" href="<?=esc(archive_link($selection,['page'=>$selection['page']-1]))?>">← Newer</a><?php else: ?><span></span><?php endif; ?><span>Page <?=$selection['page']?> of <?=$pages?></span><?php if ($selection['page']<$pages): ?><a rel="next" href="<?=esc(archive_link($selection,['page'=>$selection['page']+1]))?>">Older →</a><?php else: ?><span></span><?php endif; ?></nav><?php endif; ?>
-</section></div></div></main><footer class="archive-footer"><a href="/">Greg McVerry</a><span>Make. Hack. Play. Learn.</span><a href="/archive/">Browse the archive</a></footer></body></html>
+</section></div></div></main><footer class="archive-footer"><?php include dirname(__DIR__).'/footer.php'; ?></body></html>
