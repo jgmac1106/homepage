@@ -34,4 +34,4 @@ The FTP deployment workflow is restricted to master pushes. Branches and PRs mus
 
 ## Shared styling
 
-The archive loads `/reset.css`, `/styles.css` and the existing Heebo/Quicksand font stylesheet before its scoped layout rules. It uses `header.php` and `footer.php`, `.card` for articles and `.note` for other entries. The masthead image, navigation behavior and shared component surfaces come from the existing website. Archive CSS supplies the sidebar/calendar layout and limited readability overrides; it does not restyle other pages.
+The archive loads `/reset.css`, `/styles.css` and the existing Heebo/Quicksand fonts. The site's `header.php` and `footer.php` retain the existing image masthead, navigation and footer styling. The original clean archive design is scoped to `.archive-shell`, with plain feed entries instead of the legacy `.card` and `.note` surfaces. Calendar behavior and content are unchanged. Limited paragraph and heading resets protect the archive typography from the legacy viewport-sized text rules.
