@@ -1,4 +1,6 @@
 RewriteEngine On
+# The archive uses real PHP files and query-string filters.
+RewriteRule ^archive(?:/|$) - [L]
  RewriteCond %{REQUEST_FILENAME} !-f
  RewriteCond %{REQUEST_FILENAME} !-d
  RewriteRule ^([^\.]+)$ $1.php [NC,L]

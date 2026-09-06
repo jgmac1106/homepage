@@ -1,5 +1,5 @@
   <header>
-      <a href="index.html">
+      <a href="/">
         <div class="leading">
           <p>
             INTERTEXTrEVOLUTION
@@ -16,12 +16,18 @@
         </div>
         <div class="Navbar__Link">
           
-          <a href="/notes/latestnote" >notes</a>
+          <a href="/archive/?type=notes" >notes</a>
         </div>
         <div class="Navbar__Link" >
-          <a href="/archive" >Articles</a>
+          <a href="/archive/?type=articles" >Articles</a>
         </div>
         <div class="Navbar__Link" >
+          <a href="/archive/?type=replies" >Replies</a>
+        </div>
+        <div class="Navbar__Link">
+          <a href="/archive/" >All posts</a>
+        </div>
+        <div class="Navbar__Link">
           <a href="https://stream.jgregorymcverry.com" >Blog</a>
         </div>
         <div class="Navbar__Link" >

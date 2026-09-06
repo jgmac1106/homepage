@@ -1,7 +1,7 @@
 <?php include 'head.php'; ?>
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2F" title="Latest articles">
-<link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Farticles" title="All Articles">
-<link rel="alternate" type="application/rss+xml" href="https://example.withknown.com/content/all?_t=rss" title="blog">
+<link rel="alternate" type="application/rss+xml" href="/archive/feed.php?type=articles" title="All Articles">
+<link rel="alternate" type="application/rss+xml" href="/archive/feed.php?type=notes" title="Notes">
 <link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="poetry">
 <link rel="alternate" type="application/rss+xml" href="https://granary.iourl?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmyphotos" title="photos">
 </head>
@@ -49,11 +49,11 @@
           My Feeds
         </p>
         <ul  class="myfeeds" >
-          <li><a rel="feed" href="/articles.html">Articles</a></li>
+          <li><a rel="feed" href="/archive/?type=articles">Articles</a></li>
           <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/posts/">Blog</a></li>
-          <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/statusupdates/replies/">Social Stream</a></li>
+          <li><a   rel="feed"  href="/archive/">Social Stream</a></li>
           
-          <li> <a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/bookmarkedpages/">Bookmarks</a></li>
+          <li> <a  rel="feed"  href="/archive/?type=bookmarks">Bookmarks</a></li>
           
           <li><a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems">Poetry</a></li>
           
