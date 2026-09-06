@@ -28,7 +28,7 @@
           <a href="/archive/" >All posts</a>
         </div>
         <div class="Navbar__Link">
-          <a href="https://stream.jgregorymcverry.com" >Blog</a>
+          <a href="https://jgmac1106.me" >Blog</a>
         </div>
         <div class="Navbar__Link" >
           <a href="/myphotos" >Photos</a>
