@@ -1,16 +1,16 @@
-on: push
-name: Publish Website
+name: Validate website source
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
 jobs:
-  FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+  validate:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@2.0.0
-      env:
-        FTP_SERVER: ftp.jgregorymcverry.com
-        FTP_USERNAME: github@jgregorymcverry.com
-        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-        ARGS: 
-        # --delete arg will delete files on the server if you've deleted them in git
+      - uses: actions/checkout@v4
+      - name: Restore and verify the public archive catalog
+        run: python3 tools/restore_catalog.py
+      - name: Validate collections and archive data
+        run: python3 tools/validate_sync.py
+# No deployment: Reclaim is authoritative. Review live differences before uploading edits.

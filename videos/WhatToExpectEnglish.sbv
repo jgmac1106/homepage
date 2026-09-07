@@ -1,0 +1,305 @@
+0:00:00.000,0:00:03.252
+Hey Yall it's Dr Mac here within IndieWebCamp update.
+
+0:00:03.252,0:00:06.576
+Hard to believe we are only just days away from indieWeb ...
+
+0:00:06.576,0:00:09.394
+Camp Online and we have tickets going out we are ...
+
+0:00:09.394,0:00:12.718
+formalizing sessions but in this video I want to cover.
+
+0:00:13.240,0:00:15.692
+What to expect at an IndieWebCamp and ...
+
+0:00:15.692,0:00:18.618
+specifically what to expect for one online.
+
+0:00:18.618,0:00:22.256
+So what we're going to do is cover how it works in terms of ...
+
+0:00:22.256,0:00:23.679
+our keynote & intros,
+
+0:00:23.679,0:00:27.317
+our sessions and then hacking on our personal projects
+
+0:00:27.320,0:00:29.828
+because that's what it's all about coming with your ...
+
+0:00:29.828,0:00:32.103
+website and being able to answer and finish the ...
+
+0:00:32.103,0:00:33.153
+sentence, "My URL is"
+
+0:00:33.153,0:00:36.478
+and then just having fun exploring and building on your identities.
+
+0:00:37.080,0:00:39.022
+So let's start with the keynotes and the intros.
+
+0:00:39.022,0:00:39.799
+We keep them short.
+
+0:00:40.560,0:00:43.703
+They are usually no more than 15 minutes tops for a ...
+
+0:00:43.703,0:00:47.153
+keynote and we try to share different experiences let ...
+
+0:00:47.153,0:00:50.910
+people tell their stories and they are usually high impact ...
+
+0:00:50.910,0:00:53.823
+and loads of fun.T his year wehave two awesome ...
+
+0:00:53.823,0:00:56.199
+keynotes. We have Sadiq is going to be ...
+
+0:00:56.199,0:00:59.496
+talking about our OER and IndieWeb experience that ...
+
+0:00:59.496,0:01:02.716
+were setting up in Ghana and then David Shankse who ...
+
+0:01:02.716,0:01:06.396
+basically runs the WordPress Community for IndieWeb and ...
+
+0:01:06.396,0:01:09.999
+he's going to tell his story about hisIndieWeb journey.
+
+0:01:09.999,0:01:13.602
+and it will be his first keynote actually both of them are ...
+
+0:01:13.602,0:01:17.359
+doing their first keynotes ever so I am really excited that ...
+
+0:01:17.359,0:01:20.426
+make that happen in and enjoy and be able to learn ...
+
+0:01:20.426,0:01:23.339
+from these two experts. And then we go into the ...
+
+0:01:23.339,0:01:26.099
+introductions. And what we're going to do a ...
+
+0:01:26.099,0:01:29.012
+video chat room where everyone is in and we can ...
+
+0:01:29.012,0:01:30.928
+screen share and we use a ZOOM.
+
+0:01:30.928,0:01:32.231
+So what you will do is
+
+0:01:32.240,0:01:36.711
+share your URL and just kind of looks like a 1-minute tour ...
+
+0:01:36.711,0:01:42.039
+through your website made. Maybe talk about a future you just added
+
+0:01:42.040,0:01:45.298
+or something going to work on a piece of content you just ...
+
+0:01:45.298,0:01:48.839
+wrote that that you're a proud of anything really or you even ...
+
+0:01:48.839,0:01:51.743
+talk about the goal that you want to work on for the ...
+
+0:01:51.743,0:01:54.222
+weekend and then we going to the sessions.
+
+0:01:54.222,0:01:57.480
+Now during the session fees are usually a unconference ...
+
+0:01:57.480,0:02:00.242
+and we dont make the session grade ahead of time ...
+
+0:02:00.242,0:02:03.500
+but because this is not online conference and we need to ...
+
+0:02:03.500,0:02:06.262
+balance out you know schedules and time zone we ...
+
+0:02:06.262,0:02:09.166
+did some planning ahead of time and we do have four ...
+
+0:02:09.166,0:02:12.566
+tentative session scheduled but if you have another idea ...
+
+0:02:12.566,0:02:15.895
+you'd only takes two people to run sessions so you can hop ...
+
+0:02:15.895,0:02:18.728
+into the etherpad and just throw down an idea for ...
+
+0:02:18.728,0:02:22.128
+session but as of right now we have four sessions the first ...
+
+0:02:22.128,0:02:25.457
+one being an introduction to the #IndieWeb and that will ...
+
+0:02:25.457,0:02:28.927
+take you through like what are the principles in the values ...
+
+0:02:28.927,0:02:32.043
+and then go through some of the basic building blocks ...
+
+0:02:32.043,0:02:35.088
+around webmentions and microformats and how those ...
+
+0:02:35.088,0:02:37.071
+work. It's going to take your from ...
+
+0:02:37.071,0:02:40.187
+the beginner understandings to just some of the more ...
+
+0:02:40.187,0:02:41.391
+technical aspects.
+
+0:02:42.280,0:02:45.533
+Then were are going to to look into "'feed the feeds"
+
+0:02:45.533,0:02:48.710
+like how do how do people share what they publish on ...
+
+0:02:48.710,0:02:51.584
+their own websites? How do you let people know ...
+
+0:02:51.584,0:02:54.307
+which feeds you have? Where do you put them?
+
+0:02:54.307,0:02:56.803
+Just on your home site?/ Their own page?
+
+0:02:56.803,0:03:00.056
+So that's going to be a technical discussion on what ...
+
+0:03:00.056,0:03:03.611
+types of feeds and where you put them on your websites for ...
+
+0:03:03.611,0:03:06.031
+other people. Then we have a session on ...
+
+0:03:06.031,0:03:10.116
+collections and you which is basically talking about right now.
+
+0:03:10.680,0:03:13.572
+Most posts are just down in chronological order but what ...
+
+0:03:13.572,0:03:16.218
+about like Collections or groups of posts may not be ...
+
+0:03:16.218,0:03:18.371
+chronological. Could be around a hashtag ...
+
+0:03:18.371,0:03:21.386
+could be a serialized comic or I'm interested in looking at ...
+
+0:03:21.386,0:03:24.278
+you offline and online Zine what could what would that be ...
+
+0:03:24.278,0:03:25.078
+as a collection
+
+0:03:25.080,0:03:28.426
+What about set pf videos or photographs from an event is ...
+
+0:03:28.426,0:03:30.535
+that a collection? Should those be ...
+
+0:03:30.535,0:03:33.372
+chronological? so thinking about that idea of ...
+
+0:03:33.372,0:03:36.718
+presentation in a feed reader in terms of collections.
+
+0:03:37.480,0:03:39.720
+And then last we have
+
+0:03:40.680,0:03:43.564
+The umm Getting to know the Masters..what is it?t The ...
+
+0:03:43.564,0:03:45.465
+secrets of the WordPress experts.
+
+0:03:45.465,0:03:48.152
+And thats gonna be hosted again by David Shanske.
+
+0:03:48.152,0:03:50.970
+So if you have a WordPress website and you want to add ...
+
+0:03:50.970,0:03:54.837
+in all the IndieWeb goodness. Umm that is a definite must have session.
+
+0:03:55.920,0:03:58.545
+After that that is it for that day and we might you know have ...
+
+0:03:58.545,0:04:01.006
+some spontaneous social events at night depending on ...
+
+0:04:01.006,0:04:03.576
+different time zones are activities or just continue to ...
+
+0:04:03.576,0:04:06.037
+chat in our Zoom rooms. But that's it for the first day.
+
+0:04:06.037,0:04:08.279
+The second day is really just a personal hack day.
+
+0:04:08.280,0:04:10.917
+and that's where you come with a project/
+
+0:04:10.917,0:04:13.399
+So maybe you are one of those people who
+
+0:04:13.400,0:04:16.638
+has a WordPress site that has never installed any of the ...
+
+0:04:16.638,0:04:19.947
+IndieWeb plugins maybe your goal is to leave the weekend ...
+
+0:04:19.947,0:04:22.833
+with that ready to go. Maybe you've never even had ...
+
+0:04:22.833,0:04:26.071
+a website and you want to choose a turnkey solution like ...
+
+0:04:26.071,0:04:29.380
+microblog in there to set it up and be ready to go as soon as ...
+
+0:04:29.380,0:04:32.055
+the weekend over. It is really up to you but the ...
+
+0:04:32.055,0:04:35.293
+best part is there will be a community to fall back on and ...
+
+0:04:35.293,0:04:38.250
+to get help from you can stop by the chat room we will ...
+
+0:04:38.250,0:04:41.629
+actually have maybe have even like little check-in times ...
+
+0:04:41.629,0:04:45.079
+during the day or you can just tell people what what goal you ...
+
+0:04:45.079,0:04:47.965
+set for an hour and if you met your goal and you know ...
+
+0:04:47.965,0:04:51.274
+setting up a new goal for next hour different ways that we ...
+
+0:04:51.274,0:04:54.512
+can support each other but mainly just asked questions ...
+
+0:04:54.512,0:04:57.398
+and Riff on the ideas, That can always help as well ...
+
+0:04:57.398,0:05:00.284
+so that's it that's an overview of what happens at ...
+
+0:05:00.284,0:05:01.551
+IndieWebCamp Online

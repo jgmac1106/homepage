@@ -1,0 +1,177 @@
+* CSS files add styling rules to your content */
+
+body {
+  margin: 40px;
+  font-size:16px;
+  font-family: 'Titillium Web', sans-serif;
+}
+.introwrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+   border-bottom: 5px solid #c0b000;
+  margin-bottom: 10%;
+  background-image: url(https://live.staticflickr.com/65535/50925649648_e2251a6921_z.jpg);
+  background-size: cover;
+}
+.introwrapper h1 {
+    font-size: 5.9vw;
+   text-align: center;
+font-family: 'Black Ops One', cursive;
+  color:#808080;
+  
+}
+.introwrapper p{
+ font-size: 3.3vw;
+   text-align: center;
+  font-family: 'Special Elite', cursive;
+  color:black;
+}
+.new{
+ font-size: 2.3vw;
+   text-align: center;
+  font-family: 'Special Elite', cursive;
+  color:#808080;
+}
+.tagline {
+  font-size:3.9vw;
+}
+.introwrapper img {
+  width:50%;
+  width: 50%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  margin-bottom:10%;
+}
+.introwrapper a {
+  text-decoration: none;
+}
+.logowrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+}
+.logowrapper h1 {
+  font-size: 6.9vw;
+   text-align: center;
+  font-family: 'Cinzel', serif;
+  
+}
+.logowrapper p {
+ font-size: 4vmin;
+   text-align: center;
+ 
+  
+}
+.lineborder {
+ border-bottom: 5px solid #c0b000;
+  margin-bottom: 10%;
+  
+}
+.lineborder img {
+ width: 50%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  margin-bottom:10%;
+
+ 
+}
+nav {
+
+  display:flex;
+   font-family: 'Special Elite', cursive;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     align-content: center;
+}
+nav li{
+  list-style: none;
+  display: inline-block;
+  font-size:2.5vmin;
+  margin-right:0.2vmin;
+}
+nav a {
+  color:black;
+ margin-right: .5vmin;
+    border-top: 1px solid #34dbcb; 
+    border-bottom: 1px solid #34dbcb; 
+}
+nav a:hover {
+  background: #7f8c8d;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+  margin-bottom:3%;
+}
+.box3 {
+  border-style: groove;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+.box2 {
+  background-color: #823E92;
+  color: white;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
+.box {
+  background-color:#01A7A1;
+  color: white;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+    font-size: 3.0vh;
+}
+h3 {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+    font-size: 1.5vh;
+}
+a {
+  color: #C6D45C;
+}
+footer .logowrapper p,time{
+    font-size:.7em;
+  color:black;
+}
+
+footer p{
+  text-align: center;
+}
+.bigwrapper {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+  margin-bottom:3%;
+}
+.bigbox {
+  border-style: groove;
+  grid-column:2;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+.bigbox h3 {
+font-size: 3.4vw;
+}
+ .logowrapper  .sponsor {
+  font-size: 3.3vw;
+}

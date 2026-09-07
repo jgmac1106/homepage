@@ -1,0 +1,2 @@
+# Byte chunks preserve the exact runtime JSONL; review using manifest hashes.
+archive/catalog-source/*.part -diff

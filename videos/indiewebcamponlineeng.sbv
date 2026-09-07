@@ -1,0 +1,356 @@
+0:00:00.000,0:00:02.152
+Hey Everybody is Greg McVerry here with an ...
+
+0:00:02.152,0:00:04.919
+IndieWebCamp update. D id you know that IndieWebCamp
+
+0:00:04.920,0:00:08.132
+online it's just around the corner February 8th and 9th.
+
+0:00:08.132,0:00:11.070
+We're going to be gathering for 2 days of hacking on a ...
+
+0:00:11.070,0:00:14.282
+personal website thinking about our identities online ...
+
+0:00:14.282,0:00:17.425
+think about how we can use these tools in our classrooms ...
+
+0:00:17.425,0:00:18.518
+and just having fun
+
+0:00:18.520,0:00:22.076
+building a personal website and taking back control the ...
+
+0:00:22.076,0:00:25.102
+web and making it more people Centric not so much ...
+
+0:00:25.102,0:00:28.582
+corporate Centric so I do hope you can join us it's a free ...
+
+0:00:28.582,0:00:32.138
+online conference February 8th and 9th and in this video ...
+
+0:00:32.138,0:00:35.240
+I'm going to show you how you can propose a session ...
+
+0:00:35.240,0:00:38.645
+check on the session that other people have suggested ...
+
+0:00:38.645,0:00:41.823
+or even ask for help if you want someone to teach you ...
+
+0:00:41.823,0:00:45.152
+something that lets go ahead and look at our web so I'm ...
+
+0:00:45.152,0:00:48.405
+here on our events page at events.indoeweb.o rg and ...
+
+0:00:48.405,0:00:51.810
+right here you can click on this link that does any web.
+
+0:00:51.810,0:00:54.307
+Org 2020 / online and there's also a link ...
+
+0:00:54.307,0:00:57.863
+here to get your tickets make sure to get your ticket so we ...
+
+0:00:57.863,0:01:00.889
+can know who's coming. And how to set up the rooms ...
+
+0:01:00.889,0:01:04.672
+but once you register for a ticket you can go over to the wiki.
+
+0:01:05.440,0:01:09.143
+And that has all of the links to add a session if you scroll ...
+
+0:01:09.143,0:01:13.004
+down you'll see a section here about session proposals but ...
+
+0:01:13.004,0:01:15.919
+wait there's a step you need to follow first.
+
+0:01:16.560,0:01:19.080
+Go review our Code of Conduct make sure you read ...
+
+0:01:19.080,0:01:21.793
+through it if you have any questions you can ask and ...
+
+0:01:21.793,0:01:24.636
+chat what you read through the code of conduct you can ...
+
+0:01:24.636,0:01:26.639
+then go look at the session proposal.
+
+0:01:27.640,0:01:29.480
+Here's how this session proposals.
+
+0:01:30.520,0:01:32.752
+Usually added unconference you know you playing right ...
+
+0:01:32.752,0:01:33.479
+there on the spot.
+
+0:01:34.240,0:01:36.973
+But that's hard to do asynchronously an online ...
+
+0:01:36.973,0:01:40.267
+conference so we've created an etherpad which is kind of ...
+
+0:01:40.267,0:01:42.159
+like an open source Google Docs.
+
+0:01:42.880,0:01:44.640
+Place that you can write with other people.
+
+0:01:45.320,0:01:48.726
+And you then go and visit that pad and fill out with some ...
+
+0:01:48.726,0:01:50.996
+ideas. So if you click on the session ...
+
+0:01:50.996,0:01:52.358
+proposals etherpad.
+
+0:01:56.000,0:01:58.360
+You'll see here it has the key notes in intros.
+
+0:01:59.240,0:02:02.250
+Then we're going to have three sessions and that we ...
+
+0:02:02.250,0:02:06.479
+put in the time zones four I be put in the times for different time zones.
+
+0:02:07.200,0:02:10.370
+What do you have to do it's a four-step process one two ...
+
+0:02:10.370,0:02:13.468
+three and four to propose a session step one you just ...
+
+0:02:13.468,0:02:16.566
+gather ideas like is there somethign I want to learn ...
+
+0:02:16.566,0:02:19.159
+about like mayvbe it's how do I get started.
+
+0:02:19.840,0:02:22.400
+What's the best WordPress I can get what is micro.blog?
+
+0:02:22.920,0:02:27.056
+You know any or you can be super complicated like oh I ...
+
+0:02:27.056,0:02:30.519
+want to build a web mentions receiver in Go.
+
+0:02:31.040,0:02:34.287
+Well that you know that that's so complicated I might even ...
+
+0:02:34.287,0:02:36.519
+said those words correctly but you can.
+
+0:02:37.080,0:02:40.840
+Match the session idea to what your goals are as a person.
+
+0:02:41.680,0:02:44.385
+And then you find a common time with other people who ...
+
+0:02:44.385,0:02:47.153
+might be interested assigned the role step 3 and then ...
+
+0:02:47.153,0:02:48.159
+publish to the wiki
+
+0:02:48.880,0:02:49.800
+So how does it work.
+
+0:02:50.600,0:02:50.920
+Well
+
+0:02:51.800,0:02:55.136
+We have asection here for people to put down different ...
+
+0:02:55.136,0:02:57.953
+ideas and there is a template. Session title,
+
+0:02:57.953,0:02:59.584
+organizer, description,
+
+0:02:59.584,0:03:01.066
+hashtag, and interest,
+
+0:03:01.066,0:03:04.031
+and if you look we already have people proposing ...
+
+0:03:04.031,0:03:06.181
+sessions. Rose hase one on Feed the ...
+
+0:03:06.181,0:03:08.998
+Feeds. I want to look at zines and the Indieweb
+
+0:03:09.560,0:03:12.960
+David Shanske is going to talk about secrets of WordPress masters
+
+0:03:15.280,0:03:18.162
+And David has also voluneteered to facilitate the ...
+
+0:03:18.162,0:03:20.632
+session on webmentions and microformats.
+
+0:03:20.632,0:03:22.279
+So you hvae a couple choices.
+
+0:03:22.279,0:03:24.200
+You could look at those sessions.
+
+0:03:24.200,0:03:26.670
+Ahh you know what I really like Rose's idea.
+
+0:03:26.670,0:03:28.317
+So I am going to plus one that.
+
+0:03:36.000,0:03:39.180
+Alright so I have now pluss one that and I added my ...
+
+0:03:39.180,0:03:41.803
+username and I. Yoo hoo I like this idea.
+
+0:03:41.803,0:03:45.063
+And then Rose can get back to me and can go pick out a ...
+
+0:03:45.063,0:03:48.641
+time slot in one of the three sessions where we can both ...
+
+0:03:48.641,0:03:50.787
+meet. You only need two people to ...
+
+0:03:50.787,0:03:53.649
+have a session. But other people might want ...
+
+0:03:53.649,0:03:55.636
+to check it out. But what if you
+
+0:03:56.240,0:04:00.697
+have an indea for a session. Well you can just copy this ...
+
+0:04:00.697,0:04:02.479
+here from line 41-45.
+
+0:04:06.200,0:04:09.301
+And it looks like I put my interest in the wrong spot.
+
+0:04:09.301,0:04:10.959
+I should move it down below.
+
+0:04:14.920,0:04:15.560
+Okay
+
+0:04:16.920,0:04:21.175
+So here is where I can then come up with my ideas and ...
+
+0:04:21.175,0:04:24.911
+this like an idea, so you know I do not have to ...
+
+0:04:24.911,0:04:28.751
+have the title. You can just put like oh I want ...
+
+0:04:28.751,0:04:32.798
+help with micro.blog. And maybe somebody will
+
+0:04:32.800,0:04:34.305
+come and help you organize it.
+
+0:04:34.305,0:04:36.953
+So I will put myself down as being interested and as an ...
+
+0:04:36.953,0:04:38.759
+organizer. I will put my name there.
+
+0:04:40.000,0:04:43.240
+So you can ask for sessions.
+
+0:04:43.840,0:04:46.280
+You could also just propose a session
+
+0:04:49.160,0:04:53.000
+And I want to loopk at displaying trips
+
+0:04:53.920,0:04:55.736
+Actually, yeah I will do one on ...
+
+0:04:55.736,0:04:57.479
+displaying trips, Actually
+
+0:04:58.280,0:04:59.440
+and I will put my name there
+
+0:05:01.320,0:05:02.560
+umm..
+
+0:05:11.560,0:05:19.920
+A collection of posts and photos all pinned to a map
+
+0:05:21.640,0:05:23.765
+and I can come with a hashtag,a nd we can talk ...
+
+0:05:23.765,0:05:25.654
+about that later, as you maybe using an ...
+
+0:05:25.654,0:05:27.838
+existing session, but I just put trip for now
+
+0:05:28.560,0:05:32.238
+And if you are interested you can then under the double ...
+
+0:05:32.238,0:05:34.281
+dots put the, your name below,
+
+0:05:34.281,0:05:37.878
+and that is basically how you would propose sessions
+
+0:05:38.760,0:05:42.108
+And then we will go through and work out and come up ...
+
+0:05:42.108,0:05:44.639
+with a session grid together. Once we
+
+0:05:45.200,0:05:46.956
+have the times, we choose a time ...
+
+0:05:46.956,0:05:50.063
+together,and we have gone through each of those steps,
+
+0:05:50.063,0:05:51.481
+here, and how you do that.
+
+0:05:51.481,0:05:53.709
+We finalize it, and then we will pick the ...
+
+0:05:53.709,0:05:55.667
+roles. You need a facilitator and a ...
+
+0:05:55.667,0:05:56.950
+scribe, and that's it,
+
+0:05:56.950,0:06:00.597
+and someone in chat can help you get it published tothe wiki page.
+
+0:06:01.920,0:06:15.720
+So that is how you propose a session for IndieWebCamp Online
+
+0:06:16.240,0:06:17.305
+I really hope you can join us for this two day free online ...
+
+0:06:17.305,0:06:17.953
+event. Talking about taking back ...
+
+0:06:17.953,0:06:18.925
+control of your data, making better connections,
+
+0:06:18.925,0:06:19.666
+and owning your experience on the web.
+
+0:06:19.666,0:06:20.615
+We can do this together. we can build a better web.
+
+0:06:20.615,0:06:21.078
+So I hope to see you then.

@@ -1,0 +1,154 @@
+
+<?php include 'head.php'; ?>
+</head>
+<?php include 'header.php'; ?>
+    </header>
+  <main class="longreads">   
+  <article class="h-entry">
+  <h1 class="p-name">Data Sources for Knowledge Weaving in IndieWeb Network</h1>
+  <div class="pubinfo">
+  <p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">J. Gregroy McVerry</a> 
+     on <time class="dt-published" datetime="2020-03-2 10:34:20">03<sup>rd</sup>March 2020</time></p>
+<div class="h-entry">
+  <div class="h-cite u-repost-of">
+    Repost of <a class="u-url" href="https://chat.indieweb.org/meta/2019-10-29#t157236334305500">a post</a> by
+    <span class="p-author h-card">
+      <a class="u-url p-name" href="https://indieweb.org">IndieWeb</a>
+    </span>:
+    <blockquote class="e-content">
+   
+[tantek] authorship is supposed to be spec for consuming code, not general purpose documentation about authors<br />
+# 15:28<br />
+[tantek] all the "how to mark up an h-entry with ..." should be in /h-entry<br />
+# 15:28<br />
+[tantek] all the "how to markup an h-feed with ..." should be in /h-feed<br />
+[Lewis_Cowles] joined the channel<br />
+# 15:33<br />
+[jgmac1106] snarfed shared this which some people find helpful: https://indieweb.org/h-card#Issues<br />
+# 15:35<br />
+[jgmac1106] that question comes up a lot where people don't want an h-card in every h-entry and may or may not want in the footer of the article, I have meetings now but will try to take a look later at the h-entry, h-feed articles on the IWC wiki<br />
+# 15:35<br />
+[jgmac1106] authorship has a section on "How to Publish" https://indieweb.org/authorship#How_to_publish<br />
+# 15:37<br />
+[jgmac1106] and the article is written with publishers and not consumers in mind "if you have an h-card on your website" etc maybe move that section to their respective placers on /h-entry or h-feed?<br />
+# 15:37<br />
+[tantek] no I disagree that sharing issues is useful to someone asking "how to" questions<br />https://chat.indieweb.org/meta/2019-10-29#t1572363343055000
+# 15:38<br />
+[tantek] that's only a way to confuse people further with things that may have nothing to do with what they're trying to do<br />
+# 15:38<br />
+[tantek] is that not obvious from a learning perspective?<br />
+# 15:38<br />
+[jgmac1106] yeah just sharing the links people pass around when folks ask about hiding their author info<br />
+# 15:38<br />
+[tantek] not helping<br />
+jackjamieson joined the channel<br />
+# 15:40<br />
+[jgmac1106] cool if you want to add a section to /h-entry and /h-feed would happily share those with people luckily Maxwell found it helpful https://www.maxwelljoslyn.com/blog/2019/10/28/1 but agree we can make a more accessible resource for folks..well off to meetings<br />
+# 15:40<br />
+Loqi With advice from Greg McVerry, Aaron Parecki, and Ryan Barrett, I finished getting this blog set up for subscription using the h-feed microformat, and made other improvements along the way: all pages now have a self-link in the title all pages, not ...<br />
+# 16:00<br />
+[tantek] I'm saying don't share links just because other people do, that's not helpful<br />
+# 16:00<br />
+[tantek] question whether those links are actually helpful from a beginner's and learning perspective<br />
+# 16:00<br />
+[tantek] also even if/when people do get things figured out, they may have still struggled with the documentation that was provided.<br />
+</blockquote>
+</div>
+</div>
+
+<div class="h-entry">
+  <div class="h-cite u-repost-of">
+    Repost of <a class="u-url" href="https://chat.indieweb.org/meta/2019-10-29#t157236334305500">a post</a> by
+    <span class="p-author h-card">
+      <a class="u-url p-name" href="https://indieweb.org">IndieWeb</a>
+    </span>:
+    <blockquote class="e-content">
+# 20:58<br/>
+jamietanna[m] What's Greg's chat name? Spotted that his author name on http://php.microformats.io/?url=https%3A%2F%2Fjgregorymcverry.com%2Fnotes%2F2020-02-02-1 is `/`<br/>
+# 20:59<br/>
+[snarfed] https://indieweb.org/chat-names !<br/>
+# 20:59<br/>
+[snarfed] he's jgmac1106<br/>
+[tantek] and [jgmac1106] joined the channel<br/>
+# 21:18<br/>
+[jgmac1106] Thx jamietanna trying to figure out the author thing with using <a class="p-author" href="/" ></a> and still messing it up.<br/>
+# 21:18<br/>
+[jgmac1106] I have trouble understanding that page. I am either messing up a u-uid or something in my footer h-cars I guess??<br/>
+# 21:18<br/>
+[jgmac1106] h-card?<br/>
+# 21:18<br/>
+[jgmac1106] What is author?<br/>
+# 21:18<br/>
+Loqi authorship is an algorithm that determines the author of a post https://indieweb.org/author<br/>
+# 21:19<br/>
+[jgmac1106] This: https://indieweb.org/authorship#How_to_publish<br/>
+# 21:19<br/>
+[jgmac1106] If you can tell me what I am doing wrong happy to fix<br/>
+# 21:20<br/>
+aaronpk looks like there's a missing space in your class names<br/>
+# 21:20<br/>
+aaronpk i see "u-url-u-uid"<br/>
+# 21:21<br/>
+[jgmac1106] Ooh oops, that needs fixing. Thanks<br/>
+# 21:21<br/>
+aaronpk it's pretty visible if you look at the parsed result<br/>
+# 21:21<br/>
+aaronpk https://php.microformats.io/?url=https%3A%2F%2Fjgregorymcverry.com%2Fnotes%2F2020-02-02-1<br/>
+# 21:21<br/>
+[jgmac1106] And u-uid is to my homepage and u-url to the post?<br/>
+# 21:22<br/>
+aaronpk this is for your h-card, so this is the URL of your h-card<br/>
+# 21:22<br/>
+[jgmac1106] Ahh yeah. Can't believe I missed this long, thx aaronpk and jaime<br/>
+# 21:22<br/>
+aaronpk i don't think you need uid in this case at all<br/>
+# 21:22<br/>
+[jgmac1106] jaimetanna++<br/>
+# 21:22<br/>
+Loqi jaimetanna has 1 karma over the last year<br/>
+# 21:24<br/>
+[tantek] I feel like every time we see something like that, like an actual real world typo error, we should consider adding it to IndieWebifyme's h-entry validator as something to look for<br/>
+# 21:24<br/>
+[tantek] and specifically warn about<br/>
+# 21:25<br/>
+aaronpk i dunno this one feels particularly fringe case<br/>
+# 21:25<br/>
+[tantek] also aaronpk, your question is good too, I wonder if we could detect that case of an unnecessary u-uid and recommend dropping it, in the spirit of avoiding excess/unnecessary markup<br/>
+# 21:25<br/>
+aaronpk i've literally never seen it before, and i'm not really excited about hardcoding checks for every possible punctuation typo or things that look like combined mf2 class names<br/>
+# 21:25<br/>
+[tantek] aaronpk, fair. maybe wait for more than one real world occurrence of such a typo.<br/>
+# 21:25<br/>
+aaronpk recommending against unnecessary uid i like though!<br/>
+# 21:26<br/>
+[jgmac1106] I have had the hardest time underst3u-uid but thought it was necessary for the authorship algorithm if you don't put an author<br/>
+# 21:26<br/>
+[jgmac1106] Understanding*<br/>
+# 21:26<br/>
+aaronpk the authorship algorithm is not written for publishers, so it's pretty confusing if you try to read it like that<br/>
+# 21:26<br/>
+jamietanna[m] Ah fair, no worries. Did we mean jamietanna++ ? 😁<br/>
+# 21:27<br/>
+[tantek] [jgmac1106] I'm curious, why did you feel compelled to read the authorship algorithm, as a publisher?<br/>
+# 21:27<br/>
+[jgmac1106] Its the best place how to figure out how to mark up a post if you don't want an h-card in every h-entry.<br/>
+# 21:28<br/>
+aaronpk does the "how to publish" section above that not cover it?<br/>
+# 21:28<br/>
+[jgmac1106] Plus it is where you go when you ask "What is author"<br/>
+# 21:28<br/>
+aaronpk maybe we should move the authorship algorithm to its own page so that it's more clear it's for determining the author rather than the general concept of authorship<br/>
+# 21:28<br/>
+[jgmac1106] Yeah it does. I made a typo. Was a little confused between h-card in footer and h-cars on homepage<br/>
+# 21:29<br/>
+aaronpk that would also better match the other specs like webmention and micropub where specs get their own page<br/>
+# 21:29<br/>
+[jgmac1106] When it wasn't parsing correct to h-card om homepage I added an h-card in footer to force that....but typo<br/>
+# 21:29<br/>
+[jgmac1106] Kinda same with post-type-discovery<br/>
+# 21:30<br/>
+[jgmac1106] Many people go there for "how to markup or publish*<br/>
+# 21:30<br/>
+[tantek] "Many people"?!?<br/>
+# 21:31<br/>
+[tantek] I'm asking why 

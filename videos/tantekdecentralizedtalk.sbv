@@ -1,0 +1,207 @@
+0:00:00.000,0:00:02.578
+My name is Tantek the dot com is silent.
+
+0:00:02.578,0:00:05.639
+I'm also at T on Twitter when it's not blocked.
+
+0:00:05.640,0:00:09.239
+This is my website I figured I would show more than tell as ...
+
+0:00:09.239,0:00:12.149
+far as I could I have been posting on my own site ...
+
+0:00:12.149,0:00:15.825
+instead of Twitter for almost 10 years now since 2010 cuz I ...
+
+0:00:15.825,0:00:19.501
+got very frustrated with them about 10 years ago and built ...
+
+0:00:19.501,0:00:23.177
+my own stack with a bunch of folks umm literally every note ...
+
+0:00:23.177,0:00:26.470
+I posted on my own site is here this is like no big deal ...
+
+0:00:26.470,0:00:29.916
+these days people use things like Mastodon instead of ...
+
+0:00:29.916,0:00:33.592
+course I do things like also post replies but in addition I ...
+
+0:00:33.592,0:00:37.344
+can post replies to tweets and I that's my site and site post ...
+
+0:00:37.344,0:00:41.173
+automatically to Twitter and threads it so I don't like have ...
+
+0:00:41.173,0:00:44.236
+everyone on my system interact with them which I ...
+
+0:00:44.236,0:00:47.452
+think is a really important principle of anything ...
+
+0:00:47.452,0:00:51.357
+decentralized composability and bridging and it's never an ...
+
+0:00:51.357,0:00:54.956
+either-or we should always try to bridge across systems
+
+0:00:54.960,0:00:58.758
+that's principal there. A lso photos again you've ...
+
+0:00:58.758,0:01:01.561
+seen lots of things I post federated,
+
+0:01:01.561,0:01:03.279
+decentralized photos
+
+0:01:03.280,0:01:06.736
+in case you want to be able to also have folks if all you other ...
+
+0:01:06.736,0:01:08.922
+systems like Twitter also post them,
+
+0:01:08.922,0:01:12.096
+Also see them wherever they want to see them without me ...
+
+0:01:12.096,0:01:15.693
+having to use Twitter's UI and deal with you know the toxicity ...
+
+0:01:15.693,0:01:17.597
+there. Um what about events? So.
+
+0:01:17.600,0:01:19.941
+Events I claim should be decentralized as well as well.
+
+0:01:19.941,0:01:20.959
+I post this on my own site
+
+0:01:20.960,0:01:23.445
+and then there's a copy on Twitter and then you can add ...
+
+0:01:23.445,0:01:26.439
+it to your calendar if you use some other calendars system again
+
+0:01:26.440,0:01:31.385
+all these things work via standards like ics iCal existing ...
+
+0:01:31.385,0:01:34.715
+standards. We just saw a decentralized ...
+
+0:01:34.715,0:01:37.238
+Git issues well what if you use
+
+0:01:37.240,0:01:40.586
+your own site to post issues instead I would claim that you ...
+
+0:01:40.586,0:01:43.514
+should own all your own issues not put it on someone ...
+
+0:01:43.514,0:01:46.581
+else's decentralized site because you can of course ...
+
+0:01:46.581,0:01:50.067
+post a copy automatically to wherever they're aggregating ...
+
+0:01:50.067,0:01:53.413
+as well with her that's GitHub or somewhere else and all of ...
+
+0:01:53.413,0:01:57.596
+this works via services like Bridgy that can handle all this for you like
+
+0:01:57.600,0:02:00.226
+I didn't need to write to GitHub API and all those ...
+
+0:02:00.226,0:02:03.115
+others to make that work. I was able to use the service ...
+
+0:02:03.115,0:02:05.478
+and open standard called Web mention it w3c ...
+
+0:02:05.478,0:02:08.170
+recommendation this is one of about a half-dozen ...
+
+0:02:08.170,0:02:10.993
+recommendations that the Social Web working group ...
+
+0:02:10.993,0:02:12.437
+published and is out there
+
+0:02:12.440,0:02:13.748
+working. Test suites,
+
+0:02:13.748,0:02:17.398
+dozens of implementations for peer-to-peer sharing out there ...
+
+0:02:17.398,0:02:20.497
+there's many more inspect indieweb.org if you want to ...
+
+0:02:20.497,0:02:23.458
+see once the building blocks there if you want to get ...
+
+0:02:23.458,0:02:26.350
+started with your own personal site and like how do ...
+
+0:02:26.350,0:02:29.036
+you actually join and and federate and all that
+
+0:02:29.040,0:02:32.112
+Indiewebify.me. There's of course a chat ...
+
+0:02:32.112,0:02:35.799
+Channel like every other awesome project to here.
+
+0:02:35.800,0:02:39.523
+chat.indieweb.org. Except this little different here ...
+
+0:02:39.523,0:02:43.325
+is that we've actually bridge this to Matrix of course you ...
+
+0:02:43.325,0:02:46.810
+can use Matrix you can his discourse you can use IRC if ...
+
+0:02:46.810,0:02:47.919
+your old school.
+
+0:02:47.920,0:02:51.262
+That's where we started. That's are canonical copy as ...
+
+0:02:51.262,0:02:52.599
+well or Slack even so.
+
+0:02:52.600,0:02:55.418
+all that works you can see even though this is an IRC ...
+
+0:02:55.418,0:02:56.759
+archive you have icons.
+
+0:02:56.760,0:03:00.160
+Which means you to the last thing which is we also hold events
+
+0:03:00.160,0:03:03.276
+which which work in person cuz we really believe in the ...
+
+0:03:03.276,0:03:04.799
+human value of connection
+
+0:03:04.800,0:03:07.964
+IndieWebCamp Berlin2 is coming up November 23rd ...
+
+0:03:07.964,0:03:10.279
+and 24th tickets are complementary
+
+0:03:10.280,0:03:13.030
+if you're in Europe we encourage you to come to ...
+
+0:03:13.030,0:03:14.839
+that if you're in the states We
+
+0:03:14.840,0:03:23.129
+encourage you to come to IndieWebCamp San ...
+
+0:03:23.129,0:03:29.523
+Francisco December 7th and 8th.
+
+0:03:29.523,0:03:32.838
+So any questions
+

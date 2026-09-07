@@ -1,7 +1,7 @@
 <?php include 'head.php'; ?>
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23audiopoems" title="Audio Poems">
 <link rel="alternate" type="application/rss+xml" href="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23featuredpoems" title="Fetured Poems">
-<link rel="alternate" type="application/rss+xml" href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems?_t=rss" title="smallpoems">
+<link rel="alternate" type="application/rss+xml" href="/smallpoems/feed.php" title="smallpoems">
 <link rel="alternate" type="https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fjgregorymcverry.com%2Fmypoetry%23poemreads" title="smallpoems">
 
 </head>
@@ -1510,7 +1510,7 @@ north for that final curtain.<br/></p>
   <p class="p-summary">We try to answer Sarah's semi serious question, "Can poems rhyme?"</p>
  <img class="u-photo" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?w=400&tok=fe707b&media=glocalyokelep3.jpg">
   <time class="dt-published" datetime="2020-05-20 14:00:00">20<sup>th</sup> May 2020</time>
- <audio class="u-audio" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?w=400&tok=fe707b&media=glocalyokelep3.jpg" controls="controls">
+ <audio class="u-audio" src="/podcasts/GlokalYokel/glokalyokal3.mp3" controls="controls">
 </audio><br>
  <a class="https://http://longthoughts.jgregorymcverry.com/doku.php?id=glokal_yokels_episode_three#episode_3do_images_rhyme">Show Link</a>
 </div>
@@ -1530,7 +1530,7 @@ north for that final curtain.<br/></p>
   <p class="p-summary">Join us as we ask Why can't I find poems in margins, and explore the whys in the margins of our soul.</p>
  
   <time class="dt-published" datetime="2020-04-18 09:04:20">18<sup>th</sup>April 2020</time>
- <audio class="u-audio" src="http://longthoughts.jgregorymcverry.com/lib/exe/fetch.php?media=glokalyokelepisode2.mp3" controls="controls">
+ <audio class="u-audio" src="https://wikizone.jgregorymcverry.com/lib/exe/fetch.php?media=glokalyokelepisode2.mp3" controls="controls">
 </audio>
 </div>
 
@@ -1552,7 +1552,7 @@ north for that final curtain.<br/></p>
   </div>
   </div>
   <div class="poembox d poemfeed"><h2>Poems Feed</h2>
-<iframe src="https://www.inoreader.com/stream/user/1005993829/tag/mypoems/view/html?cs=m" frameborder="2" tabindex="-1"></iframe></div>
+<iframe src="/smallpoems/embed.php" title="Small Poems feed" loading="lazy" style="width:100%;height:36rem;border:0;"></iframe></div>
   <div class="poembox e"><div class="h-feed backstage" id="backstage">
     <div>
     <h2 class="p-name" id="backstage">How it is done</h2>

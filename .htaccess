@@ -1,4 +1,20 @@
+# BEGIN Ukraine poetry collection
 RewriteEngine On
+RewriteRule ^ukraine-poems(?:/|$) - [L]
+# END Ukraine poetry collection
+# BEGIN Small Poems collection
+RewriteEngine On
+RewriteRule ^smallpoems(?:/|$) - [L]
+# END Small Poems collection
+RewriteEngine On
+# The archive uses real PHP files and query-string filters.
+RewriteRule ^archive(?:/|$) - [L]
+# Some archived articles are HTML-only; resolve them before the legacy PHP rule.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]
  RewriteCond %{REQUEST_FILENAME} !-f
  RewriteCond %{REQUEST_FILENAME} !-d
  RewriteRule ^([^\.]+)$ $1.php [NC,L]
@@ -18,8 +34,8 @@ RewriteRule ^ %{REQUEST_URI}.php [NC,L]
 ErrorDocument 404 /pagenotfound.php
 
 # php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php73” package as the default “PHP” programming language.
+# Set the “ea-php82” package as the default “PHP” programming language.
 <IfModule mime_module>
-  AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
