@@ -14,4 +14,5 @@ step on a lego
 one more time
 </div></div>
 </article><!-- /publishing:body -->
+<div id="webmentions"></div>
 </main><footer><?php include __DIR__.'/footer.php'; ?></body></html>

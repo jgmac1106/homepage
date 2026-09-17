@@ -1,0 +1,11 @@
+{
+  "url": "https://jgregorymcverry.com/bricked",
+  "files": {
+    "bricked.php": {
+      "before": "b121e0397305a7ef18232d534f7ad64b13fcadb687188653ed0e72d2a49357a5",
+      "after": "7439621c9e7ba5acc6c3d80e3ce84eeab8677868e528b60929acbd75ae5b9019",
+      "local": "7439621c9e7ba5acc6c3d80e3ce84eeab8677868e528b60929acbd75ae5b9019"
+    }
+  },
+  "published_at": "2026-09-17T22:16:31.749934+00:00"
+}
