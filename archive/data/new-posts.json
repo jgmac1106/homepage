@@ -1,0 +1,15 @@
+[
+  {
+    "id": "local:bricked",
+    "source": "local",
+    "type": "articles",
+    "url": "/bricked",
+    "title": "Bricked",
+    "summary": "",
+    "date": "2026-09-17",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
+  }
+]

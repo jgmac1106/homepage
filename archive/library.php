@@ -84,6 +84,15 @@ function archive_date_label($date) {
 
 // Fixed-width catalog indexes keep memory bounded as the archive grows.
 function archive_catalog_root() { return __DIR__.'/data/catalog'; }
+function archive_new_entries() {
+    $path=__DIR__.'/data/new-posts.json'; if (!is_file($path)) return [];
+    $rows=json_decode(file_get_contents($path),true); if (!is_array($rows)) throw new RuntimeException('New post index is unavailable.');
+    $out=[]; foreach ($rows as $row) {
+        if (!is_array($row) || empty($row['id']) || ($row['access']??'PUBLIC')!=='PUBLIC' || ($row['publish_status']??'published')!=='published') continue;
+        if (!isset(archive_types()[$row['type']??''])) continue; $row['url']=archive_url($row['url']??''); if ($row['url']) $out[]=$row;
+    }
+    usort($out,function($a,$b){return strcmp($b['date']??'',$a['date']??'') ?: strcmp($a['url'],$b['url']);}); return $out;
+}
 function archive_catalog_stats() {
     static $stats=null;
     if ($stats===null) {
@@ -109,27 +118,53 @@ function archive_catalog_record($ref) {
     if ($remaining!==0 || !is_array($record)) throw new RuntimeException('Archive content unavailable.');
     return $record;
 }
-function archive_catalog_slice($selection,$limit,$offset) {
-    $path=archive_catalog_index($selection);
-    if (!is_file($path)) return [];
+function archive_historical_slice($selection,$limit,$offset) {
+    $path=archive_catalog_index($selection); if (!is_file($path)) return [];
     $file=fopen($path,'rb'); if (!$file || fseek($file,$offset*21)!==0) throw new RuntimeException('Archive index unavailable.');
-    $entries=[];
+    $rows=[];
     for ($i=0;$i<$limit;$i++) {
         $line=fread($file,21); if ($line==='') break;
-        if (!preg_match('/^[0-9]{20}\n$/D',$line)) throw new RuntimeException('Archive index damaged.');
-        $entries[]=archive_catalog_record([(int)substr($line,0,12),(int)substr($line,12,8)]);
+        if (!preg_match('/^[0-9]{20}\\n$/D',$line)) throw new RuntimeException('Archive index damaged.');
+        $rows[]=archive_catalog_record([(int)substr($line,0,12),(int)substr($line,12,8)]);
     }
-    fclose($file); return $entries;
+    fclose($file); return $rows;
+}
+function archive_catalog_slice($selection,$limit,$offset) {
+    // Merge the small overlay with the sorted historical stream; never load the catalog.
+    $new=archive_filter(archive_new_entries(),$selection);
+    if (!$new) return archive_historical_slice($selection,$limit,$offset);
+    $path=archive_catalog_index($selection); $file=is_file($path)?fopen($path,'rb'):false;
+    $next=function() use ($file) {
+        if (!$file) return null;
+        $line=fread($file,21); if ($line==='') return null;
+        if (!preg_match('/^[0-9]{20}\\n$/D',$line)) throw new RuntimeException('Archive index damaged.');
+        return archive_catalog_record([(int)substr($line,0,12),(int)substr($line,12,8)]);
+    };
+    $old=$next(); $i=0; $position=0; $entries=[];
+    while (count($entries)<$limit && ($old!==null || $i<count($new))) {
+        $fresh=$new[$i]??null;
+        $before=$fresh!==null && ($old===null || strcmp($fresh['date']??'',$old['date']??'')>0 || (($fresh['date']??'')===($old['date']??'') && strcmp($fresh['url'],$old['url'])<=0));
+        if ($before) { $row=$fresh; $i++; } else { $row=$old; $old=$next(); }
+        if ($position++ >= $offset) $entries[]=$row;
+    }
+    if ($file) fclose($file); return $entries;
 }
 function archive_catalog_view($selection) {
     $stats=archive_catalog_stats(); $path=archive_catalog_index($selection);
     $size=is_file($path)?filesize($path):0;
     if ($size%21!==0) throw new RuntimeException('Archive index damaged.');
-    $total=(int)($size/21);$pages=max(1,(int)ceil($total/20));
+    $new=archive_new_entries(); $matching=array_values(array_filter($new,function($row) use ($selection) {
+        if ($selection['type']!=='all' && $selection['type']!==$row['type']) return false;
+        $prefix=$selection['year']; if ($selection['month']) $prefix.='-'.$selection['month']; if ($selection['day']) $prefix.='-'.$selection['day'];
+        return !$prefix || substr($row['date']??'',0,strlen($prefix))===$prefix;
+    }));
+    $total=(int)($size/21)+count($matching);$pages=max(1,(int)ceil($total/20));
     $counts=array_fill_keys(array_keys(archive_types()),0);
     foreach($stats['counts'] as $key=>$count) $counts[$key]=$count;
+    foreach($new as $row) { $counts[$row['type']]++; $counts['all']++; }
     $typed=$stats['types'][$selection['type']] ?? [];
     $months=$typed['months'] ?? []; $days=$typed['days'] ?? []; $years=$typed['years'] ?? [];
+    foreach(archive_filter($new,$selection,false) as $row) if (!empty($row['date'])) { $mk=substr($row['date'],0,7); $months[$mk]=($months[$mk]??0)+1; $days[$row['date']]=($days[$row['date']]??0)+1; $years[substr($mk,0,4)]=($years[substr($mk,0,4)]??0)+1; }
     krsort($months);krsort($years);
     return ['types'=>archive_types(),'counts'=>$counts,'months'=>$months,'days'=>$days,'years'=>$years,'undated'=>($counts[$selection['type']]-array_sum($days)),'total'=>$total,'pages'=>$pages,'visible'=>archive_catalog_slice($selection,20,($selection['page']-1)*20)];
 }

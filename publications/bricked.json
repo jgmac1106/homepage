@@ -1,0 +1,26 @@
+{
+  "url": "https://jgregorymcverry.com/bricked",
+  "files": {
+    "bricked.php": {
+      "before": null,
+      "after": "b121e0397305a7ef18232d534f7ad64b13fcadb687188653ed0e72d2a49357a5",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": null,
+      "after": "f70754dc55a2c94a829f96b01303c20e1a98e205ff51074152fa3640cf0bd565",
+      "local": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "smallpoems/data.json": {
+      "before": "2eed07c6e48ece2a4c9ffde0f1b0f05cdc4677953134d95aa0059ce1150d44fe",
+      "after": "3be1738df5438e15294a3ef4f3baf85a5ac75f6d7c637d6c32cc08ece8820bfd",
+      "local": "2eed07c6e48ece2a4c9ffde0f1b0f05cdc4677953134d95aa0059ce1150d44fe"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-09-17T22:06:41.697875+00:00"
+}
