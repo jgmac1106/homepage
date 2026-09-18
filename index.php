@@ -31,7 +31,7 @@
       <span class="p-country-name">USA</span><br>
       <span>Cov</span>
       <a href="https://github.com/jgmac1106" rel="me"><i class="fa fab-github fa-2x"></i></a>
-      <a rel="me" class="u-url" href="https://indieweb.social/@jgamc1106"><i class="fab fa-mastodon fa-2x"></i></a>
+      <a rel="me" class="u-url" href="https://masadon.social/@jgamc1106"><i class="fab fa-mastodon fa-2x"></i></a>
       <a rel="me" class="u-url" href="https://twitter.com/jgmac1106"><i class="fab fa-twitter fa-2x"></i></a>
       <a rel="me" class="u-url" href="https://orcid.org/0000-0003-1035-389X"> ORCID ID</a>
       <div class="p-category">
@@ -40,14 +40,12 @@
         </p>
         <ul  class="myfeeds" >
           <li><a rel="feed" href="/archive/?type=articles">Articles</a></li>
-          <li><a   rel="feed"  href="https://quickthoughts.jgregorymcverry.com/content/posts/">Blog</a></li>
+          <li><a   rel="feed"  href="https://jgmac1106.me">Blog</a></li>
           <li><a   rel="feed"  href="/archive/">Social Stream</a></li>
           
           <li> <a  rel="feed"  href="/archive/?type=bookmarks">Bookmarks</a></li>
           
-          <li><a  rel="feed"  href="https://quickthoughts.jgregorymcverry.com/tag/smallpoems">Poetry</a></li>
-          
-          <li><a   rel="feed" href="myseeds.html">My Seeds</a></li>
+          <li><a  rel="feed"  href="/smallpoems/">Poetry</a></li>
         </ul>
       </div>
     </div>
