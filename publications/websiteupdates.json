@@ -2,9 +2,9 @@
   "url": "https://jgregorymcverry.com/websiteupdates",
   "files": {
     "websiteupdates.php": {
-      "before": "2f81af0300e93fa00b20c3b21a7e48c68f8b5a2a621b45a73c3a8d2bab89463a",
-      "after": "a45f98672c120749106e32d925ae49320fe3df841c9e50ef478b8b1f83405f97",
-      "local": "2f81af0300e93fa00b20c3b21a7e48c68f8b5a2a621b45a73c3a8d2bab89463a"
+      "before": "a45f98672c120749106e32d925ae49320fe3df841c9e50ef478b8b1f83405f97",
+      "after": "96f79ebd1e2b1302f1d349103071063204337d57acaf9a54216ffb3309bf14e3",
+      "local": "a45f98672c120749106e32d925ae49320fe3df841c9e50ef478b8b1f83405f97"
     },
     "archive/data/new-posts.json": {
       "before": "ed7d579a87ab2330f6b8318ddf98947a52531cf7d5c66c15fed82123039f304c",
@@ -17,35 +17,35 @@
       "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
     },
     "articles/index.html": {
-      "before": "a3d0f9c2956195569b5680291dd5825815ec4e22de42a98ca1ff9822aeb9087a",
+      "before": "a753e3e047f3625d2442955990faaaaa0aecc952539652abd76d7542d394e968",
       "after": "a753e3e047f3625d2442955990faaaaa0aecc952539652abd76d7542d394e968",
-      "local": "a3d0f9c2956195569b5680291dd5825815ec4e22de42a98ca1ff9822aeb9087a"
+      "local": "a753e3e047f3625d2442955990faaaaa0aecc952539652abd76d7542d394e968"
     },
     "articles/page-2.html": {
-      "before": "3d105ca499f8de21d21b84cc1aadd1c1d75663272e151548a3820793118ab4fb",
+      "before": "6d3814b64573b09e7cb97177f8238e72c8d7bdfcbacf294997f2efe4702aa4fd",
       "after": "6d3814b64573b09e7cb97177f8238e72c8d7bdfcbacf294997f2efe4702aa4fd",
-      "local": "3d105ca499f8de21d21b84cc1aadd1c1d75663272e151548a3820793118ab4fb"
+      "local": "6d3814b64573b09e7cb97177f8238e72c8d7bdfcbacf294997f2efe4702aa4fd"
     },
     "articles/page-3.html": {
-      "before": "dacc990470c4096e4f04d31bcea9a5114ae17d9b76021231d154b07f67231276",
+      "before": "af2c5e6761c74c8e19103d669c8217d062a8d1ee0114665560682a312f137f97",
       "after": "af2c5e6761c74c8e19103d669c8217d062a8d1ee0114665560682a312f137f97",
-      "local": "dacc990470c4096e4f04d31bcea9a5114ae17d9b76021231d154b07f67231276"
+      "local": "af2c5e6761c74c8e19103d669c8217d062a8d1ee0114665560682a312f137f97"
     },
     "articles/page-4.html": {
-      "before": "e11b669884739aca6efbda5a9c6d9d6ff8f15515fb9e9bce622a6f97017d9ada",
+      "before": "44700f6e2104ce9f3fdeeda11fec17a6e4a3a18c0bbe1de1996535fa22b5a83f",
       "after": "44700f6e2104ce9f3fdeeda11fec17a6e4a3a18c0bbe1de1996535fa22b5a83f",
-      "local": "e11b669884739aca6efbda5a9c6d9d6ff8f15515fb9e9bce622a6f97017d9ada"
+      "local": "44700f6e2104ce9f3fdeeda11fec17a6e4a3a18c0bbe1de1996535fa22b5a83f"
     },
     "articles/page-5.html": {
-      "before": "0c96b5c3db4d3cbfca3c3811fb53230e12e1d8ea6851513393bd70923106cbfe",
+      "before": "628eba960fa60a09ad3ee0388ecb1a8d5b54f67561abf0688ee6632c9fdee8dc",
       "after": "628eba960fa60a09ad3ee0388ecb1a8d5b54f67561abf0688ee6632c9fdee8dc",
-      "local": "0c96b5c3db4d3cbfca3c3811fb53230e12e1d8ea6851513393bd70923106cbfe"
+      "local": "628eba960fa60a09ad3ee0388ecb1a8d5b54f67561abf0688ee6632c9fdee8dc"
     },
     "articles/feed.xml": {
-      "before": "a0ed384204bea553ac66a325da37a0a1fc928e86c3d58ffc263964af9ba6c381",
+      "before": "0767ec06ff16f3bed03a456064b94ed55c3ca66bf281e448797827841f4f85a7",
       "after": "0767ec06ff16f3bed03a456064b94ed55c3ca66bf281e448797827841f4f85a7",
-      "local": "a0ed384204bea553ac66a325da37a0a1fc928e86c3d58ffc263964af9ba6c381"
+      "local": "0767ec06ff16f3bed03a456064b94ed55c3ca66bf281e448797827841f4f85a7"
     }
   },
-  "published_at": "2026-09-19T00:36:38.747955+00:00"
+  "published_at": "2026-09-19T00:44:51.366245+00:00"
 }

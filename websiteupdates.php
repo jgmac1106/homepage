@@ -6,7 +6,7 @@
 <h1 class="p-name">Kicking The Tires of the Website</h1>
 <img class="featured u-featured" src="https://live.staticflickr.com/8569/16122315430_e4e381914f.jpg" alt="tires">
 <div class="pubinfo" style="grid-column:2/8"><p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> on <time class="dt-published" datetime="2026-09-17">2026-09-17</time> · <a class="u-url" href="https://jgregorymcverry.com/websiteupdates">Permalink</a></p></div>
-<div class="e-content copy" style="grid-row:3"><h2>Be Your Own Social Media</h2>
+<div class="e-content copy" style="grid-row:3"><h3>Be Your Own Social Media</h3>
 Art needs friction. Crafting your own space online follows the same rules. Ursula Franklin, metallurgist and philosopher, wrote about the difference of holistic and prescriptive art. Beauty hides in the nooks and crannies of the creation. The mass produced pieces had no soul. The web works this way.
 
 Social media prescribes a design and forces you into an algorithm. Before Snap,X, TikTok, and Instagram fewer people wrote online. You had to know a bit of code.
@@ -21,7 +21,7 @@ So while billions got connected, everyone feels disconnected. Maybe we need a li
 
 I wanted to get back to building my website, my story. For the last few years I have engaged more in social media for a variety of reasons. I let my home stagnate. Time to dust off the porch and reorganize the shelves.
 
-<h2>Reclaiming Lost Archives</h2>
+<h3>Reclaiming Lost Archives</h3>
 
 Having your own URL and some serve space does not come without risk. I would spin up a ton of blogs overtime, I would write on social media. Overtime things began to break. I kept muy facebook and Google+ archives, but lost them long ago.
 
@@ -42,19 +42,19 @@ I always had a plan to bring back my old work, but my I wrote my website in PHP 
 Importing the database and publishing the initial build did chew through tokens, I don't know how much beyond knowing my balance auto-refilled, in the beginning of the month, but now I have a publishing workflow that does not rely on me using any AI and just local resources. Let's me concentrate on writing.
 
 
-<h2>Building a Poetry Page</h2>
+<h3>Building a Poetry Page</h3>
 
 I also wanted to save all my poems. Reading and writing online takes agency and artistry, as Tierney used to say. I find both in making poems. I had hundreds of poems on Twitter and my old blogs I could have lost. When Codex created a data file for me of my archives I could then create a view for my poems.
 
 I still have my <a href="/mypoetry/">poetry page</a>but I embedded a feed of my <a href="/smallpoems/">Small Poems</a>
 
-<h2>Ukrainian Poetry</h2>
+<h3>Ukrainian Poetry</h3>
 
 I also have done some fundraising for different units in Ukraine using poetry. I don't have much money, but I do have too many words. I decided to leverage a poetic crutch to create thank you gifts for people who donate to collections.
 
 Every April I even run a gift a poem fundraiser to celebrate National Poetry Month. I pulled all my poems together and published a page <a>
 
-<h2>What's Next?</h2>
+<h3>What's Next?</h3>
 
 I need to work on my font and typesetting. I like mucking about in CSS but have struggled with responsive fonts. I could use media queries but I have tried more viewport font sizes, and messed them up.
 
