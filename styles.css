@@ -1561,7 +1561,7 @@ ul#horizontal-list {
 }
 
 .longreads ul {
-margin-bottome: 3em;
+  margin-bottom: 3em;
   margin-left:20px;
   margin-right:20px;
 }
@@ -1604,10 +1604,13 @@ margin-bottome: 3em;
   grid-row: 3;
 }
 .longreads article .copy {
- 
   grid-column: 2/8;
   grid-row: 6;
-  
+  width: 100%;
+  max-width: 70ch;
+  justify-self: center;
+  line-height: 1.55;
+  letter-spacing: normal;
 }
 
 /* Body headings should not inherit the article-grid title placement. */
@@ -1627,8 +1630,24 @@ margin-bottome: 3em;
 }
 
 .longreads article p {
-
   margin-bottom: 0.75em;
+}
+
+/* Keep medium desktop typography readable instead of scaling directly with
+   the viewport. This is especially important between 1200px and 1400px. */
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  .longreads article > h1,
+  .longreads article > h2,
+  .longreads article > h3 {
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+  }
+
+  .longreads article .copy {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
 }
 
 .longreads .featured {
