@@ -2,19 +2,19 @@
   "url": "https://jgregorymcverry.com/bricked",
   "files": {
     "bricked.php": {
-      "before": null,
-      "after": "b121e0397305a7ef18232d534f7ad64b13fcadb687188653ed0e72d2a49357a5",
-      "local": null
+      "before": "7439621c9e7ba5acc6c3d80e3ce84eeab8677868e528b60929acbd75ae5b9019",
+      "after": "b476ec572794c92f88c2abd45c2deb3a33aa79976c708fdb2f2fd639d61d5040",
+      "local": "7439621c9e7ba5acc6c3d80e3ce84eeab8677868e528b60929acbd75ae5b9019"
     },
     "archive/data/new-posts.json": {
-      "before": null,
-      "after": "f70754dc55a2c94a829f96b01303c20e1a98e205ff51074152fa3640cf0bd565",
-      "local": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+      "before": "ed7d579a87ab2330f6b8318ddf98947a52531cf7d5c66c15fed82123039f304c",
+      "after": "fe2a7d3d493c220c51e088d4fb60c12a6b4c0d0b14bdb687ab0ae64a55432cb2",
+      "local": "ed7d579a87ab2330f6b8318ddf98947a52531cf7d5c66c15fed82123039f304c"
     },
     "smallpoems/data.json": {
-      "before": "2eed07c6e48ece2a4c9ffde0f1b0f05cdc4677953134d95aa0059ce1150d44fe",
-      "after": "3be1738df5438e15294a3ef4f3baf85a5ac75f6d7c637d6c32cc08ece8820bfd",
-      "local": "2eed07c6e48ece2a4c9ffde0f1b0f05cdc4677953134d95aa0059ce1150d44fe"
+      "before": "3be1738df5438e15294a3ef4f3baf85a5ac75f6d7c637d6c32cc08ece8820bfd",
+      "after": "a80d68d7b66c36980f62e44beb22238500d533d6e42977bb9dd73c77b066f977",
+      "local": "3be1738df5438e15294a3ef4f3baf85a5ac75f6d7c637d6c32cc08ece8820bfd"
     },
     "archive/library.php": {
       "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
@@ -22,5 +22,5 @@
       "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
     }
   },
-  "published_at": "2026-09-17T22:06:41.697875+00:00"
+  "published_at": "2026-09-19T13:57:56.983945+00:00"
 }
