@@ -46,7 +46,7 @@
 
 <p>I also wanted to save all my poems. Reading and writing online takes agency and artistry, as Tierney used to say. I find both in making poems. I had hundreds of poems on Twitter and my old blogs I could have lost. When Codex created a data file for me of my archives I could then create a view for my poems.</p>
 
-I still have my <a href="/mypoetry/">poetry page</a>but I embedded a feed of my <a href="/smallpoems/">Small Poems</a>
+<p>I still have my <a href="/mypoetry/">poetry page</a>but I embedded a feed of my <a href="/smallpoems/">Small Poems</a></p>
 
 <h3>Ukrainian Poetry</h3>
 
