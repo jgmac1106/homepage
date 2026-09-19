@@ -1,0 +1,21 @@
+{
+  "url": "https://jgregorymcverry.com/websiteupdates",
+  "files": {
+    "websiteupdates.php": {
+      "before": null,
+      "after": "2f81af0300e93fa00b20c3b21a7e48c68f8b5a2a621b45a73c3a8d2bab89463a",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "f70754dc55a2c94a829f96b01303c20e1a98e205ff51074152fa3640cf0bd565",
+      "after": "ed7d579a87ab2330f6b8318ddf98947a52531cf7d5c66c15fed82123039f304c",
+      "local": "f70754dc55a2c94a829f96b01303c20e1a98e205ff51074152fa3640cf0bd565"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-09-19T00:25:34.295504+00:00"
+}

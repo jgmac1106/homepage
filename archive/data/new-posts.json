@@ -11,5 +11,20 @@
     "author": "Greg McVerry",
     "access": "PUBLIC",
     "publish_status": "published"
+  },
+  {
+    "id": "local:websiteupdates",
+    "source": "local",
+    "type": "articles",
+    "url": "/websiteupdates",
+    "title": "Kicking The Tires of the Website",
+    "summary": "My recent changes to my website",
+    "date": "2026-09-17",
+    "tags": [
+      "edu106"
+    ],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
   }
 ]
