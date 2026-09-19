@@ -1,0 +1,26 @@
+{
+  "url": "https://jgregorymcverry.com/verge",
+  "files": {
+    "verge.php": {
+      "before": null,
+      "after": "6ec2f3f5fc322b2e7646aa0e25635d8aebc2b9385c0a68242b0561d31d2cb6d5",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "fe2a7d3d493c220c51e088d4fb60c12a6b4c0d0b14bdb687ab0ae64a55432cb2",
+      "after": "ac3c38d550c4741931b8c4ad9031aa734ec340462903ed9f506eae63be6e4da7",
+      "local": "fe2a7d3d493c220c51e088d4fb60c12a6b4c0d0b14bdb687ab0ae64a55432cb2"
+    },
+    "smallpoems/data.json": {
+      "before": "a80d68d7b66c36980f62e44beb22238500d533d6e42977bb9dd73c77b066f977",
+      "after": "e06dace5571559c29af6db16e61aacb550f1095ae87b528a3d53d4d751a9d7a7",
+      "local": "a80d68d7b66c36980f62e44beb22238500d533d6e42977bb9dd73c77b066f977"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-09-19T14:21:50.276017+00:00"
+}
