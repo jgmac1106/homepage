@@ -2,9 +2,9 @@
   "url": "https://jgregorymcverry.com/websiteupdates",
   "files": {
     "websiteupdates.php": {
-      "before": "96f79ebd1e2b1302f1d349103071063204337d57acaf9a54216ffb3309bf14e3",
-      "after": "1b3ba6d4f08038f1d9466bda4fa5ab51a95e9d1f172bfc9368284af2dcf6fa66",
-      "local": "96f79ebd1e2b1302f1d349103071063204337d57acaf9a54216ffb3309bf14e3"
+      "before": "1b3ba6d4f08038f1d9466bda4fa5ab51a95e9d1f172bfc9368284af2dcf6fa66",
+      "after": "fad5fc7832b5e8049225584b09b0549f53c90478ab6dc2addf8e4eabd505d25b",
+      "local": "1b3ba6d4f08038f1d9466bda4fa5ab51a95e9d1f172bfc9368284af2dcf6fa66"
     },
     "archive/data/new-posts.json": {
       "before": "ed7d579a87ab2330f6b8318ddf98947a52531cf7d5c66c15fed82123039f304c",
@@ -47,5 +47,5 @@
       "local": "0767ec06ff16f3bed03a456064b94ed55c3ca66bf281e448797827841f4f85a7"
     }
   },
-  "published_at": "2026-09-19T00:49:44.071301+00:00"
+  "published_at": "2026-09-19T00:57:27.409679+00:00"
 }
