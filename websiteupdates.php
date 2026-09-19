@@ -54,13 +54,13 @@
 
 <p>Every April I even run a gift a poem fundraiser to celebrate National Poetry Month. I pulled all my poems together and published a page <a></p>
 
-<h3>What's Next?
+<h3>What's Next?</h3>
 
 <p>I need to work on my font and typesetting. I like mucking about in CSS but have struggled with responsive fonts. I could use media queries but I have tried more viewport font sizes, and messed them up.</p>
 <p>
 I also want to add some more photo pages. I have lots of ideas.</p>
 
-<a href="https://news.indieweb.org/en">
+<a href="https://news.indieweb.org/en" class="u-syndication">
   Also posted on IndieNews
 </a>
 </div>
