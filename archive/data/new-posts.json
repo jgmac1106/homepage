@@ -39,5 +39,18 @@
     "author": "Greg McVerry",
     "access": "PUBLIC",
     "publish_status": "published"
+  },
+  {
+    "id": "local:2026-09-19-1",
+    "source": "local",
+    "type": "notes",
+    "url": "/notes/2026-09-19-1",
+    "title": "",
+    "summary": "",
+    "date": "2026-09-19",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
   }
 ]

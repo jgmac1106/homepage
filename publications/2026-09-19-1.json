@@ -1,0 +1,21 @@
+{
+  "url": "https://jgregorymcverry.com/notes/2026-09-19-1",
+  "files": {
+    "notes/2026-09-19-1.php": {
+      "before": null,
+      "after": "4f0c99ebae979af660c8a898569eb5e199d1db5bca35ae4cfc5d50d0a0f3c32e",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "ac3c38d550c4741931b8c4ad9031aa734ec340462903ed9f506eae63be6e4da7",
+      "after": "e5e436b9ceef7459a6364f21d70320430000b54d6f0e765c09b69ab8c0a00ef6",
+      "local": "ac3c38d550c4741931b8c4ad9031aa734ec340462903ed9f506eae63be6e4da7"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-09-19T14:55:26.854356+00:00"
+}
