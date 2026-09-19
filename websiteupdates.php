@@ -23,7 +23,7 @@
 
 <h3>Reclaiming Lost Archives</h3>
 
-H<p>aving your own URL and some serve space does not come without risk. I would spin up a ton of blogs overtime, I would write on social media. Overtime things began to break. I kept muy facebook and Google+ archives, but lost them long ago.</p>
+<p>Having your own URL and some serve space does not come without risk. I would spin up a ton of blogs overtime, I would write on social media. Overtime things began to break. I kept muy facebook and Google+ archives, but lost them long ago.</p>
 
 <p>For my blogs I had written on quickthoughts for years. It used a tool called Known. It came with my Shared Host, where my website gets published. I made so many. Then supporting the tool got too hard. The company shit down, my databases got disconnected. Everything broke. I never deleted anything though,</p>
 
@@ -39,7 +39,7 @@ H<p>aving your own URL and some serve space does not come without risk. I would 
 
 <p>I always had a plan to bring back my old work, but my I wrote my website in PHP and didn't know MYSQL well enough o do much. I feel like Python and the data files provide a nice to middle ground to wanting flat files with no database. Plus with all my stuff already in JSON I might get to do neat stuff down the road with a local LLM.</p>
 
-<p>Importing the database and publishing the initial build did chew through tokens, I don't know how much beyond knowing my balance auto-refilled, in the beginning of the month, but now I have a publishing workflow that does not rely on me using any AI and just local resources. Let's me concentrate on wr</p>iting.
+<p>Importing the database and publishing the initial build did chew through tokens, I don't know how much beyond knowing my balance auto-refilled, in the beginning of the month, but now I have a publishing workflow that does not rely on me using any AI and just local resources. Let's me concentrate on writing.</p>
 
 
 <h3>Building a Poetry Page</h3>
