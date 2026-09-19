@@ -2,11 +2,11 @@
 <?php include __DIR__.'/head.php'; ?>
 </head><body><?php include __DIR__.'/header.php'; ?></header>
 <main class="longreads">
-<!-- publishing:body --><article class="h-entry" style="grid-auto-rows:auto">
+<!-- publishing:body --><article class="h-entry">
 <h1 class="p-name">Kicking The Tires of the Website</h1>
 <img class="featured u-featured" src="https://live.staticflickr.com/8569/16122315430_e4e381914f.jpg" alt="tires">
-<div class="pubinfo" style="grid-column:2/8"><p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> on <time class="dt-published" datetime="2026-09-17">2026-09-17</time> · <a class="u-url" href="https://jgregorymcverry.com/websiteupdates">Permalink</a></p></div>
-<div class="e-content copy" style="grid-row:3"><h3>Be Your Own Social Media</h3>
+<div class="pubinfo"><p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> on <time class="dt-published" datetime="2026-09-17">2026-09-17</time> · <a class="u-url" href="https://jgregorymcverry.com/websiteupdates">Permalink</a></p></div>
+<div class="e-content copy"><h3>Be Your Own Social Media</h3>
 Art needs friction. Crafting your own space online follows the same rules. Ursula Franklin, metallurgist and philosopher, wrote about the difference of holistic and prescriptive art. Beauty hides in the nooks and crannies of the creation. The mass produced pieces had no soul. The web works this way.
 
 Social media prescribes a design and forces you into an algorithm. Before Snap,X, TikTok, and Instagram fewer people wrote online. You had to know a bit of code.
