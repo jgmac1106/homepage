@@ -1,0 +1,26 @@
+{
+  "url": "https://jgregorymcverry.com/japesjokes",
+  "files": {
+    "japesjokes.php": {
+      "before": null,
+      "after": "efc711d8f6107b8bea7e551a36a2dedfff497515031c40c439048a67eb00af96",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "2fd3a6fed8c29ad5e43fbf6ecc7b004bd124bd59ba94062f663abd587e62f7e6",
+      "after": "ddef6812f741a63935357c69ca4dd328e4e55e6bd1626fd3cba53954b1d9ee2d",
+      "local": "2fd3a6fed8c29ad5e43fbf6ecc7b004bd124bd59ba94062f663abd587e62f7e6"
+    },
+    "smallpoems/data.json": {
+      "before": "0b6eb3497db64f456e5b466151696e1f3c7d6ab6fe0175f0184fd86fe4c33949",
+      "after": "527372d9597a7a37a7969f9f42c5309f1fdebe57c267359486a80cb4eb765924",
+      "local": "0b6eb3497db64f456e5b466151696e1f3c7d6ab6fe0175f0184fd86fe4c33949"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-09-19T20:42:12.447901+00:00"
+}

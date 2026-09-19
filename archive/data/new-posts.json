@@ -65,5 +65,18 @@
     "author": "Greg McVerry",
     "access": "PUBLIC",
     "publish_status": "published"
+  },
+  {
+    "id": "local:japesjokes",
+    "source": "local",
+    "type": "notes",
+    "url": "/japesjokes",
+    "title": "Jape's Jokes",
+    "summary": "",
+    "date": "2026-09-19",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
   }
 ]
