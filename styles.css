@@ -1566,7 +1566,7 @@ margin-bottome: 3em;
   margin-right:20px;
 }
 
-.longreads article h1 {
+.longreads article > h1 {
   color: black;
   
   text-align:center;
@@ -1575,7 +1575,7 @@ margin-bottome: 3em;
   grid-row: 1;
 }   
 
-.longreads article h2 {
+.longreads article > h2 {
   color: black;
   
   text-align:center;
@@ -1583,7 +1583,7 @@ margin-bottome: 3em;
   grid-column: 3 / 7;
   grid-row: 1;
 } 
-.longreads article h3 {
+.longreads article > h3 {
   color: black;
   
   margin-bottom:.3em;
@@ -1608,6 +1608,18 @@ margin-bottome: 3em;
   grid-column: 2/8;
   grid-row: 6;
   
+}
+
+/* Body headings should not inherit the article-grid title placement. */
+.longreads article .copy h2,
+.longreads article .copy h3,
+.longreads article .copy h4,
+.longreads article .copy h5,
+.longreads article .copy h6 {
+  color: black;
+  text-align: left;
+  grid-column: auto;
+  grid-row: auto;
 }
 .longreads article .pubinfo .summary {
   display: none;
