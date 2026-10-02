@@ -1,0 +1,16 @@
+{
+  "url": "https://jgregorymcverry.com/ukraine-poems/index",
+  "files": {
+    "ukraine-poems/index.php": {
+      "before": "ef98d858bc5a69473794d0373adf881d3f8b6d66a0d9e1728b4ec15f2af37476",
+      "after": "db8fc2d964fb51cd149e198b5177322d54358523d9847e1d2f7e8fa9d2c14b71",
+      "local": "db8fc2d964fb51cd149e198b5177322d54358523d9847e1d2f7e8fa9d2c14b71"
+    },
+    "ukraine-poems/collection.json": {
+      "before": "3698a347b235a754466348f2b81311f031dd611781b83c44b89c50de7e229529",
+      "after": "ea413be89a10e5db55f27ed9b0f1e35374dda47a19796780cd73280e58b14198",
+      "local": "ea413be89a10e5db55f27ed9b0f1e35374dda47a19796780cd73280e58b14198"
+    }
+  },
+  "published_at": "2026-10-02T13:56:02.875678+00:00"
+}
