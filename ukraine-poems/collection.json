@@ -1,7 +1,7 @@
 [
   {
     "id": "poem-1",
-    "title": "Listen to sand along our banks",
+    "title": "Consecrated Flames",
     "blocks": [
       {
         "images": [
@@ -12,7 +12,13 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-2",
+    "title": "Water Lynx",
+    "blocks": [
       {
         "images": [
           {
@@ -22,7 +28,13 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-3",
+    "title": "Wild Fields",
+    "blocks": [
       {
         "images": [
           {
@@ -41,8 +53,8 @@
     ]
   },
   {
-    "id": "poem-2",
-    "title": "Piercing eyes",
+    "id": "poem-4",
+    "title": "Falcons of Polissia",
     "blocks": [
       {
         "images": [
@@ -62,8 +74,8 @@
     ]
   },
   {
-    "id": "poem-3",
-    "title": "Answer Siren's Call",
+    "id": "poem-5",
+    "title": "Siren’s Call",
     "blocks": [
       {
         "images": [],
@@ -74,32 +86,6 @@
         "images": [],
         "text": "Our Sister spills\nwith Confidence, a \nrelentless drum and bass,\nPrayers of Pokrova  and moving feet\nto off-beat rhythms \nand staccato chords\nsinging once more, once more\nin honor of a Defenders lore",
         "type": "p"
-      }
-    ]
-  },
-  {
-    "id": "poem-4",
-    "title": "Amber sparks",
-    "blocks": [
-      {
-        "images": [
-          {
-            "alt": "",
-            "src": "/images/ukrainepoetry/noserfnoslave.jpg"
-          }
-        ],
-        "text": "",
-        "type": "figure"
-      },
-      {
-        "images": [
-          {
-            "alt": "",
-            "src": "/images/ukrainepoetry/dobrobipillia.jpg"
-          }
-        ],
-        "text": "",
-        "type": "figure"
       },
       {
         "images": [
@@ -110,7 +96,45 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-6",
+    "title": "No Serf No Slave",
+    "blocks": [
+      {
+        "images": [
+          {
+            "alt": "",
+            "src": "/images/ukrainepoetry/noserfnoslave.jpg"
+          }
+        ],
+        "text": "",
+        "type": "figure"
+      }
+    ]
+  },
+  {
+    "id": "poem-7",
+    "title": "Dobrobipillia",
+    "blocks": [
+      {
+        "images": [
+          {
+            "alt": "",
+            "src": "/images/ukrainepoetry/dobrobipillia.jpg"
+          }
+        ],
+        "text": "",
+        "type": "figure"
+      }
+    ]
+  },
+  {
+    "id": "poem-8",
+    "title": "Green Fella",
+    "blocks": [
       {
         "images": [
           {
@@ -129,7 +153,7 @@
     ]
   },
   {
-    "id": "poem-5",
+    "id": "poem-9",
     "title": "August Winds",
     "blocks": [
       {
@@ -146,7 +170,13 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-10",
+    "title": "Gazetteer of Gonzo",
+    "blocks": [
       {
         "images": [],
         "text": "Gazetteer of Gonzo\nDesire, and potty mouth\nof fire \nThey tell me you are wicked,\nand I'm like y'all bitches don't know\nFierce as a brain damaged dog,\ntongue lapping for action, cunning\nsavage bonking vatniks\nNever a Princess\nwhose been less\nwith a bonk stick skill set\nyet when laughter of youth\nshed, an apeture of peace we all carry\nin sunsets cast along\nDenmark's shores",
@@ -161,7 +191,13 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-11",
+    "title": "Highland Fella",
+    "blocks": [
       {
         "images": [],
         "text": " Front post\n    double trouble\nFella\nthat\n split stiches\n  a reality bent\n  on hooks\n    and loops\nlooks and \n  groups who\nscoop yarns\n of history wrapped\nin arms of Defenders",
@@ -181,7 +217,13 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-12",
+    "title": "Goosewinged Growth",
+    "blocks": [
       {
         "images": [],
         "text": "Head and weather helm\nin trust complete\n    confide our miseries to the\nwind and  tack victories to\nbroad reach of histories\n    setting sails to luff\nTrust floats on mistrust\n    a closed haul, pulled tight\nin the inferiority of industry teetering\n  in irons\nIntegrity of sails unfold\nin unity of Goosewinged Growth\nand sunshine spills at Spinnaker speeds \n    Do. Move. Act\nFor no Broad wind\n  sends one jibbing in when\none makes your people and things\n   Fidelity of the the seas\nFrees an identity crisis\nas waves make your course\n count upon borrowed breezes",
@@ -196,7 +238,13 @@
         ],
         "text": "",
         "type": "figure"
-      },
+      }
+    ]
+  },
+  {
+    "id": "poem-13",
+    "title": "Azovstal",
+    "blocks": [
       {
         "images": [],
         "text": " Cossack \nfields\nof Kalmuis\nsing in Iron\n  and steel\nWhile Zeal\nof French Priests\nand Facebook flings\nring in horrors\n  of flight\n    and fancy\n Vanity of \n Bodegas and Bonfires\nOceans away\n twisting blades in\nDefenestration of  Ancient\ntruths",
@@ -205,7 +253,7 @@
     ]
   },
   {
-    "id": "poem-6",
+    "id": "poem-14",
     "title": "As Gogol",
     "blocks": [
       {
@@ -216,7 +264,7 @@
     ]
   },
   {
-    "id": "poem-7",
+    "id": "poem-15",
     "title": "we collect cross-stitched",
     "blocks": [
       {
@@ -227,7 +275,7 @@
     ]
   },
   {
-    "id": "poem-8",
+    "id": "poem-16",
     "title": "Who fund these",
     "blocks": [
       {
@@ -238,7 +286,7 @@
     ]
   },
   {
-    "id": "poem-9",
+    "id": "poem-17",
     "title": "A global horde of",
     "blocks": [
       {
@@ -249,7 +297,7 @@
     ]
   },
   {
-    "id": "poem-10",
+    "id": "poem-18",
     "title": "Unheard savagery",
     "blocks": [
       {
@@ -260,7 +308,7 @@
     ]
   },
   {
-    "id": "poem-11",
+    "id": "poem-19",
     "title": "Fellas",
     "blocks": [
       {
@@ -271,7 +319,7 @@
     ]
   },
   {
-    "id": "poem-12",
+    "id": "poem-20",
     "title": "Mathematical fools",
     "blocks": [
       {
@@ -282,7 +330,7 @@
     ]
   },
   {
-    "id": "poem-13",
+    "id": "poem-21",
     "title": "semiotics of",
     "blocks": [
       {
@@ -293,7 +341,7 @@
     ]
   },
   {
-    "id": "poem-14",
+    "id": "poem-22",
     "title": "Twist around Interstices",
     "blocks": [
       {
@@ -309,7 +357,7 @@
     ]
   },
   {
-    "id": "poem-15",
+    "id": "poem-23",
     "title": "Sasha",
     "blocks": [
       {
@@ -320,7 +368,7 @@
     ]
   },
   {
-    "id": "poem-16",
+    "id": "poem-24",
     "title": "what does it",
     "blocks": [
       {
@@ -331,7 +379,7 @@
     ]
   },
   {
-    "id": "poem-17",
+    "id": "poem-25",
     "title": "What is a",
     "blocks": [
       {
@@ -342,7 +390,7 @@
     ]
   },
   {
-    "id": "poem-18",
+    "id": "poem-26",
     "title": "Adapted to",
     "blocks": [
       {
@@ -353,7 +401,7 @@
     ]
   },
   {
-    "id": "poem-19",
+    "id": "poem-27",
     "title": "Some hold no",
     "blocks": [
       {
@@ -364,7 +412,7 @@
     ]
   },
   {
-    "id": "poem-20",
+    "id": "poem-28",
     "title": "Inconvenient Existence",
     "blocks": [
       {
@@ -375,7 +423,7 @@
     ]
   },
   {
-    "id": "poem-21",
+    "id": "poem-29",
     "title": "I do not know",
     "blocks": [
       {
@@ -386,7 +434,7 @@
     ]
   },
   {
-    "id": "poem-22",
+    "id": "poem-30",
     "title": "We dance",
     "blocks": [
       {
@@ -397,7 +445,7 @@
     ]
   },
   {
-    "id": "poem-23",
+    "id": "poem-31",
     "title": "For KTARD",
     "blocks": [
       {
@@ -408,7 +456,7 @@
     ]
   },
   {
-    "id": "poem-24",
+    "id": "poem-32",
     "title": "On shores",
     "blocks": [
       {
@@ -424,7 +472,7 @@
     ]
   },
   {
-    "id": "poem-25",
+    "id": "poem-33",
     "title": "Scripts drip",
     "blocks": [
       {
@@ -435,7 +483,7 @@
     ]
   },
   {
-    "id": "poem-26",
+    "id": "poem-34",
     "title": "bourgeois ideologists",
     "blocks": [
       {
@@ -451,7 +499,7 @@
     ]
   },
   {
-    "id": "poem-27",
+    "id": "poem-35",
     "title": "seeking",
     "blocks": [
       {
@@ -462,7 +510,7 @@
     ]
   },
   {
-    "id": "poem-28",
+    "id": "poem-36",
     "title": "Two songs",
     "blocks": [
       {
@@ -478,7 +526,7 @@
     ]
   },
   {
-    "id": "poem-29",
+    "id": "poem-37",
     "title": "Viscous",
     "blocks": [
       {
@@ -489,7 +537,7 @@
     ]
   },
   {
-    "id": "poem-30",
+    "id": "poem-38",
     "title": "A broken Birch",
     "blocks": [
       {
@@ -500,7 +548,7 @@
     ]
   },
   {
-    "id": "poem-31",
+    "id": "poem-39",
     "title": "Shattered",
     "blocks": [
       {
@@ -511,13 +559,26 @@
     ]
   },
   {
-    "id": "poem-32",
+    "id": "poem-40",
     "title": "to hedge",
     "blocks": [
       {
         "images": [],
         "text": "to hedge\na bet\nat precipice\nof humanity\n despots pour\nporridge of \ninsanity\n which\nalleges\nknowledge at\nledges and\n wedges\nthat dredge\n the lowest\ncommon\n denominator\n\nSludge drudged\nfor haters\nand splainers\n\nThe loons who\nswoon \n  over\nBuffoons\n and goons\nYet\ndo not judge\nnor condemn\n who holds\nthe spoon\nfor it is the Chef\nwho deftly poisons\ntruth as a hedge\nagainst reality",
         "type": "p"
+      }
+    ]
+  },
+  {
+    "id": "local:dance",
+    "title": "So They Danced",
+    "url": "/dance",
+    "date": "2026-10-02",
+    "blocks": [
+      {
+        "type": "pre",
+        "text": "<audio controls preload=\"metadata\">\n  <source src=\"/poetry/dance.wav\" type=\"audio/wav\">\n  <a href=\"/poetry/dance.wav\">Download the poem</a>\n</audio>\n<pre>\nSo they danced to rhythm \n  held in cadence by incessant chatter of air raid sirens keeping time in shadows of collapsing buildings raising a finger to a sun not setting in dreams who can no longer sing to Mercy, Pity, Peace, and Love \nSo they danced to baroque violins marching along fifty operas belting in four seasons to children lost under Eastern shadows\n So they danced in Kharkiv, Kherson, and Kupiansk. \n  A Defender half step in Donetsk spitting dozens against a veiled goose step dripping from rising light in broken skies screaming with a devil's rage painted on bristles dipped into a palate of tyranny\n Tallest leaves atop a hollowed out tree, umbras drip from heartless cavities wrapped in falling bark, but the leaf still drinks, fingers touching sun above fields where thorny devils, small spiny lizards lurk, worming through soil\n So they danced on banks of the Siverskyi Donets, busy bodies of Kramatorsk doing a Dougie of Defenders dreams\n  Hulking mighty stings through the night, witness to the martyrs of misery\n  Is this not our Paradise Lost, broken but a beat remains?\n  riding backwards down a number line in memories of collective language forgotten, a doll, one eye missing, hanging tired in a listless hand of a soot covered child\n   darkened by the coal deep beneath her feet and the terrors falling above. No fear for them, nor will they grieve, but grace and bounty still denied\n  So they danced \n   Can we not see the beauty in the time of death and loss? Not of a candles burning, but of wicks untouched by a fiery embrace of true solemn purpose\n   No one can take your dance away for the heavens know\n    Moscow will fall through Crimea\n   The Gods, old and new know.\n   A song is also a weapon. A dance, poetic verse to joy and struggle\n    We say thank you out loud without speaking these terms. Only through movement can you find the understanding brought by \n    pomegranates growing as a mind bathes in a cast iron tub, lavender and sage, strewn from a blown out buildings\n   So they danced\n    to the cost of Karpivka's liberation. Feet who could not patter so other could still sing. Still Dance, Still breath in Freedom's clutch, a purse held tightly to the chest\n     Can heaven not arise without hell's revival \n   carried in backslides of a bankhead bounce\n    torments of angels who know the beauty must arise from the abyss\n     a deep strike in a phantom's cold embrace turning Samara fields into darken columns of a Defenders hope\n   So they danced to silver doused split tongues on Princes stolen on lighting of a Kalishnikovs loitering in the sky\n    only to see raspberry driven rage seep deep into landscapes littered in tatters of imperial dreams\n   and a stray dog walks by, tail wagging oblivious to our fractured world. And in that moment we know\n   We must keep this dance moving\n</pre>\n\n",
+        "images": []
       }
     ]
   }

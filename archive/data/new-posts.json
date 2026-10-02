@@ -78,5 +78,31 @@
     "author": "Greg McVerry",
     "access": "PUBLIC",
     "publish_status": "published"
+  },
+  {
+    "id": "local:agentive-apprenticeship",
+    "source": "local",
+    "type": "articles",
+    "url": "/agentive-apprenticeship",
+    "title": "Agentive Apprenticeship",
+    "summary": "Agentive Apprenticeship",
+    "date": "2026-09-20",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
+  },
+  {
+    "id": "local:dance",
+    "source": "local",
+    "type": "notes",
+    "url": "/dance",
+    "title": "So They Danced",
+    "summary": "",
+    "date": "2026-10-02",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
   }
 ]
