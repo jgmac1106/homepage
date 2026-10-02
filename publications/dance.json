@@ -2,29 +2,29 @@
   "url": "https://jgregorymcverry.com/dance",
   "files": {
     "dance.php": {
-      "before": null,
-      "after": "9c0c8e8a309792ebd0f2f6fd279a8951ac8257850a7a2aa85f800b1d4ba9f286",
-      "local": null
+      "before": "9c0c8e8a309792ebd0f2f6fd279a8951ac8257850a7a2aa85f800b1d4ba9f286",
+      "after": "18283432a8cbfa0f14672b4c97fe126d7ade34ececf018cf72df098f1101e9cc",
+      "local": "9c0c8e8a309792ebd0f2f6fd279a8951ac8257850a7a2aa85f800b1d4ba9f286"
     },
     "archive/data/new-posts.json": {
-      "before": "0148809e5bf75184013b2ac24c976ee1560cbe27cd62afd8994c9d120c58535a",
+      "before": "5e0045781d1422c761fd7ff79f690aac69b97a73711096aaa494da71451e8c34",
       "after": "5e0045781d1422c761fd7ff79f690aac69b97a73711096aaa494da71451e8c34",
-      "local": "0148809e5bf75184013b2ac24c976ee1560cbe27cd62afd8994c9d120c58535a"
+      "local": "5e0045781d1422c761fd7ff79f690aac69b97a73711096aaa494da71451e8c34"
     },
     "ukraine-poems/collection.json": {
-      "before": "000e8db41775b528cc76cc9020430d36d85796c80a4323547d7e5e8334f63308",
-      "after": "1386598d0a71b8daa0341a063cd0561767aea118c913d598fc16587db5bbbe00",
-      "local": "000e8db41775b528cc76cc9020430d36d85796c80a4323547d7e5e8334f63308"
+      "before": "1386598d0a71b8daa0341a063cd0561767aea118c913d598fc16587db5bbbe00",
+      "after": "3698a347b235a754466348f2b81311f031dd611781b83c44b89c50de7e229529",
+      "local": "1386598d0a71b8daa0341a063cd0561767aea118c913d598fc16587db5bbbe00"
     },
     "ukraine-poems/index.php": {
-      "before": "0f8288ff682d89dbae398041b1b09146d049d492e63cf5684c6f409db17ec1d6",
+      "before": "ef98d858bc5a69473794d0373adf881d3f8b6d66a0d9e1728b4ec15f2af37476",
       "after": "ef98d858bc5a69473794d0373adf881d3f8b6d66a0d9e1728b4ec15f2af37476",
-      "local": "0f8288ff682d89dbae398041b1b09146d049d492e63cf5684c6f409db17ec1d6"
+      "local": "ef98d858bc5a69473794d0373adf881d3f8b6d66a0d9e1728b4ec15f2af37476"
     },
     "ukraine-poems/feed.xml": {
-      "before": null,
-      "after": "b2a51bcb4adf9174d0c9af635c07224457eb54d26d8b6893cb3e193a8fae5960",
-      "local": null
+      "before": "b2a51bcb4adf9174d0c9af635c07224457eb54d26d8b6893cb3e193a8fae5960",
+      "after": "a14576250f39884ee1212567dc2d179cd77dc933d7bef99d8beea288977e1b80",
+      "local": "b2a51bcb4adf9174d0c9af635c07224457eb54d26d8b6893cb3e193a8fae5960"
     },
     "archive/library.php": {
       "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
@@ -32,5 +32,5 @@
       "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
     }
   },
-  "published_at": "2026-10-02T12:56:59.219185+00:00"
+  "published_at": "2026-10-02T13:00:03.981052+00:00"
 }

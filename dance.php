@@ -6,8 +6,8 @@
 
 <div class="pubinfo" style="grid-column:2/8"><p>Published by <a class="p-author h-card" href="https://jgregorymcverry.com">Greg McVerry</a> on <time class="dt-published" datetime="2026-10-02">2026-10-02</time> · <a class="u-url" href="https://jgregorymcverry.com/dance">Permalink</a></p></div>
 <div class="p-name e-content copy" style="grid-row:3"><audio controls="" preload="metadata">
-  <source src="/poetry/dance.wav" type="audio/wav">
-  <a href="/poetry/dance.wav">Download the poem</a>
+  <source src="/poetry/Dance.wav" type="audio/wav">
+  <a href="/poetry/Dance.wav">Download the poem</a>
 </audio>
 <pre>
 So they danced to rhythm 
