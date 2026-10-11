@@ -10,8 +10,6 @@
 
 <p>People seemed shocked by the confrontation in Washington. But perhaps the President's statements affirmed what had already emerged as an American foreign-policy priority: protecting Russian refinery capacity.</p>
 
-<h1>When Refineries Burned, Washington Changed the Diesel Conversation</h1>
-
 <p>On September 1, 2026, Reuters reported that Russia had cut its oil-production forecast to a 17-year low. The draft projection put annual output at 494.2 million tonnes and petroleum-product exports at 98.5 million tonnes, down from a previous forecast of 122.6 million. Russia entered September with diesel-export restrictions already extended through the end of the month. [1] [2]</p>
 
 <p>As Ukraine's Deep Strike campaign damaged Russian refining and fuel infrastructure, diesel prices climbed amid supply disruptions from both the Iran war and the Russia-Ukraine war. Meanwhile, Steve Witkoff and Jared Kushner met Russian officials. Senior American officials repeatedly emphasized Ukraine's attacks when explaining fuel costs that were breaking records. Ukraine's pressure on Russia was increasingly presented as a problem for American consumers. [3] [11] [14] [17] [20] [25]</p>
