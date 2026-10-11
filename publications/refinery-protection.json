@@ -1,0 +1,51 @@
+{
+  "url": "https://jgregorymcverry.com/refinery-protection",
+  "files": {
+    "refinery-protection.php": {
+      "before": null,
+      "after": "8fbd30cc74d7b0ea3bd3f3cec315bce53ea763031eb3f9324bdff7e830802198",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "5e0045781d1422c761fd7ff79f690aac69b97a73711096aaa494da71451e8c34",
+      "after": "712bdf231fd8ce0ae8fbeee6029659f61cc07ffd63615c9ffcc7a82b93c235f7",
+      "local": "5e0045781d1422c761fd7ff79f690aac69b97a73711096aaa494da71451e8c34"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    },
+    "articles/index.html": {
+      "before": "48fe1046f39b194e82564544242c3d70c823184d673177da20f908c8d977384f",
+      "after": "2f56687521dce22144bd8741038801c93b4f060e0fa6c7cf6819b1211c8bcd37",
+      "local": "48fe1046f39b194e82564544242c3d70c823184d673177da20f908c8d977384f"
+    },
+    "articles/page-2.html": {
+      "before": "04ed4d4bf8a7cb7fef5a1e8408bfad341489fa06b53214a0d7485b4b3665cef3",
+      "after": "ed1c3369d2672405a30dc743fd1fee9a2973c64fcf27bd88789b12fdc2a70ec1",
+      "local": "04ed4d4bf8a7cb7fef5a1e8408bfad341489fa06b53214a0d7485b4b3665cef3"
+    },
+    "articles/page-3.html": {
+      "before": "af2c5e6761c74c8e19103d669c8217d062a8d1ee0114665560682a312f137f97",
+      "after": "8b11ce744f44f3cf26cfcdd45d4440627a8e4a08a98aea5d74e5537417188464",
+      "local": "af2c5e6761c74c8e19103d669c8217d062a8d1ee0114665560682a312f137f97"
+    },
+    "articles/page-4.html": {
+      "before": "44700f6e2104ce9f3fdeeda11fec17a6e4a3a18c0bbe1de1996535fa22b5a83f",
+      "after": "849fb319fdc2c1263082a5f21e8418758d41711440370f44e7b08ae38849ac66",
+      "local": "44700f6e2104ce9f3fdeeda11fec17a6e4a3a18c0bbe1de1996535fa22b5a83f"
+    },
+    "articles/page-5.html": {
+      "before": "628eba960fa60a09ad3ee0388ecb1a8d5b54f67561abf0688ee6632c9fdee8dc",
+      "after": "bb33d56f667b946badd5a3702681fcab69b235cd3aba53d6e2d52762c7fd9dbc",
+      "local": "628eba960fa60a09ad3ee0388ecb1a8d5b54f67561abf0688ee6632c9fdee8dc"
+    },
+    "articles/feed.xml": {
+      "before": "0767ec06ff16f3bed03a456064b94ed55c3ca66bf281e448797827841f4f85a7",
+      "after": "edda7bf6d4119411e8163172fbfea6a2846e2af6dac5014ad7e84891a90a9416",
+      "local": "0767ec06ff16f3bed03a456064b94ed55c3ca66bf281e448797827841f4f85a7"
+    }
+  },
+  "published_at": "2026-10-11T21:11:06.337120+00:00"
+}
