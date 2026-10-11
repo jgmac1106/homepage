@@ -51,7 +51,6 @@
 <tr><td>Sept. 5</td><td>Washington Post / reporting</td><td>Witkoff and Kushner arrive in Moscow for talks with Putin [11]</td><td>Documents the Moscow visit; provides the diplomatic context for the weekend's interviews.</td></tr>
 <tr><td>Sept. 5</td><td>Newsmax / reporting</td><td>Record Diesel Prices Deepen Trump's Midterm Woes [37]</td><td>Reports a fresh AAA price record and emphasizes Iran-related disruption, just mentioning Ukraine and Russia</td></tr>
 <tr><td>Sept. 6</td><td>AP / reporting</td><td>Envoys' Kyiv visit after Moscow [12]</td><td>Documents the next stage of the diplomatic trip, rather than a second meeting with Russian officials.</td></tr>
-<tr><td>Sept. 6</td><td>Crooks and Liars / commentary</td><td>Duffy interview and diesel prices [13]</td><td>Carries Fox clips</td></tr>
 <tr><td>Sept. 6</td><td>CNN / transcript</td><td>Wright on State of the Union [14]</td><td>Primary record of Wright attributing diesel-price pressure chiefly to Ukrainian destruction of Russian refineries.</td></tr>
 <tr><td>Sept. 6</td><td>CBS / transcript</td><td>Wright interview [15]</td><td>Same-day broadcast.</td></tr>
 <tr><td>Sept. 6</td><td>Washington Examiner / reporting</td><td>Ukraine war 'single biggest factor' driving record diesel prices, Wright says [38]</td><td>Reports the CNN interview, extending the same attribution into conservative news coverage.</td></tr>

@@ -2,9 +2,9 @@
   "url": "https://jgregorymcverry.com/refinery-protection",
   "files": {
     "refinery-protection.php": {
-      "before": "0b7edb02de18fdc609154ef3c47d392ddcf41283d2b7454bfaf3e691bfe4e1b0",
-      "after": "78fbcfabee3c2673c114ae8791236ff8321f7e9a357e553a0b31844acb56ce9e",
-      "local": "0b7edb02de18fdc609154ef3c47d392ddcf41283d2b7454bfaf3e691bfe4e1b0"
+      "before": "78fbcfabee3c2673c114ae8791236ff8321f7e9a357e553a0b31844acb56ce9e",
+      "after": "d2fe4beea423b5ca29c6b0909bc20447277af93c89889df5f141f7ac3eb3e2ff",
+      "local": "78fbcfabee3c2673c114ae8791236ff8321f7e9a357e553a0b31844acb56ce9e"
     },
     "archive/data/new-posts.json": {
       "before": "712bdf231fd8ce0ae8fbeee6029659f61cc07ffd63615c9ffcc7a82b93c235f7",
@@ -47,5 +47,5 @@
       "local": "edda7bf6d4119411e8163172fbfea6a2846e2af6dac5014ad7e84891a90a9416"
     }
   },
-  "published_at": "2026-10-11T21:20:11.322575+00:00"
+  "published_at": "2026-10-11T21:22:54.434168+00:00"
 }
