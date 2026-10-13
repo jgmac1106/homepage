@@ -1,0 +1,51 @@
+{
+  "url": "https://jgregorymcverry.com/columbusstatue",
+  "files": {
+    "columbusstatue.php": {
+      "before": null,
+      "after": "16d3898fb1d85d8bc549080aae4294b354478bea1bf876e5701550c48552174d",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "712bdf231fd8ce0ae8fbeee6029659f61cc07ffd63615c9ffcc7a82b93c235f7",
+      "after": "e6e08df934bcc4915de2334a536eaec9424234091a5a9d61c9401206c266d08b",
+      "local": "712bdf231fd8ce0ae8fbeee6029659f61cc07ffd63615c9ffcc7a82b93c235f7"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    },
+    "articles/index.html": {
+      "before": "2f56687521dce22144bd8741038801c93b4f060e0fa6c7cf6819b1211c8bcd37",
+      "after": "13d69d08dede927df6f2ad7726290da842362c3023c306985f144fd74f57f58f",
+      "local": "2f56687521dce22144bd8741038801c93b4f060e0fa6c7cf6819b1211c8bcd37"
+    },
+    "articles/page-2.html": {
+      "before": "ed1c3369d2672405a30dc743fd1fee9a2973c64fcf27bd88789b12fdc2a70ec1",
+      "after": "796810604f74f249ccb32a4ed1cd0b3e245be26f7a6e79e9a306c22d851f7684",
+      "local": "ed1c3369d2672405a30dc743fd1fee9a2973c64fcf27bd88789b12fdc2a70ec1"
+    },
+    "articles/page-3.html": {
+      "before": "8b11ce744f44f3cf26cfcdd45d4440627a8e4a08a98aea5d74e5537417188464",
+      "after": "61ff12f6df149e6f19616aaf76b39f84b44ebe5919343869d89b2b6e5cea28b7",
+      "local": "8b11ce744f44f3cf26cfcdd45d4440627a8e4a08a98aea5d74e5537417188464"
+    },
+    "articles/page-4.html": {
+      "before": "849fb319fdc2c1263082a5f21e8418758d41711440370f44e7b08ae38849ac66",
+      "after": "56e97c51a53bbe9ad0823750324c5e3f10b8ff47846427b690ffbfe0304c708c",
+      "local": "849fb319fdc2c1263082a5f21e8418758d41711440370f44e7b08ae38849ac66"
+    },
+    "articles/page-5.html": {
+      "before": "bb33d56f667b946badd5a3702681fcab69b235cd3aba53d6e2d52762c7fd9dbc",
+      "after": "85646fd70f79df00f81a00c37396fca59cedf9bd9fa5f4342267a8d2bd7d45d3",
+      "local": "bb33d56f667b946badd5a3702681fcab69b235cd3aba53d6e2d52762c7fd9dbc"
+    },
+    "articles/feed.xml": {
+      "before": "edda7bf6d4119411e8163172fbfea6a2846e2af6dac5014ad7e84891a90a9416",
+      "after": "f84f9fde76047f1f35c24e3e6d7a96380d90599252171d6329c305477c9e929d",
+      "local": "edda7bf6d4119411e8163172fbfea6a2846e2af6dac5014ad7e84891a90a9416"
+    }
+  },
+  "published_at": "2026-10-13T01:08:37.925943+00:00"
+}

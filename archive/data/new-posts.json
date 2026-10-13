@@ -117,5 +117,18 @@
     "author": "Greg McVerry",
     "access": "PUBLIC",
     "publish_status": "published"
+  },
+  {
+    "id": "local:columbusstatue",
+    "source": "local",
+    "type": "articles",
+    "url": "/columbusstatue",
+    "title": "Donald Trump and the Columbus Statue That Could Not Find a Home",
+    "summary": "",
+    "date": "2026-10-12",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
   }
 ]
