@@ -2453,3 +2453,8 @@ body {
               0 8px 8px rgba(0,0,0,0.04),
               0 16px 16px rgba(0,0,0,0.04); 
 }
+
+.longreads article:not(.note) .copy {
+  max-width: none;
+  justify-self: stretch;
+}
