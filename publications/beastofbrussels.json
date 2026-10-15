@@ -1,0 +1,51 @@
+{
+  "url": "https://jgregorymcverry.com/beastofbrussels",
+  "files": {
+    "beastofbrussels.php": {
+      "before": null,
+      "after": "360689401296ec0e71a96236820c9c5ca96586284682126e73de58820698ca94",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "e6e08df934bcc4915de2334a536eaec9424234091a5a9d61c9401206c266d08b",
+      "after": "8d221d1297a7932b6b81209334ef9d6098b38553c149c5cb13fb449c56510bc2",
+      "local": "e6e08df934bcc4915de2334a536eaec9424234091a5a9d61c9401206c266d08b"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    },
+    "articles/index.html": {
+      "before": "13d69d08dede927df6f2ad7726290da842362c3023c306985f144fd74f57f58f",
+      "after": "db1eabd69471b4818c653d80a69640a9c6798e34cd9a0a2786f786d541438059",
+      "local": "13d69d08dede927df6f2ad7726290da842362c3023c306985f144fd74f57f58f"
+    },
+    "articles/page-2.html": {
+      "before": "796810604f74f249ccb32a4ed1cd0b3e245be26f7a6e79e9a306c22d851f7684",
+      "after": "0b5c0b365d94ab882ec66d6e389efc2f4d4512520de611334bc98ecb7fc0e5fa",
+      "local": "796810604f74f249ccb32a4ed1cd0b3e245be26f7a6e79e9a306c22d851f7684"
+    },
+    "articles/page-3.html": {
+      "before": "61ff12f6df149e6f19616aaf76b39f84b44ebe5919343869d89b2b6e5cea28b7",
+      "after": "0a177f0711362107c94110b841f8683583f6bb43fc5b9d76a24a2963b3e5c25c",
+      "local": "61ff12f6df149e6f19616aaf76b39f84b44ebe5919343869d89b2b6e5cea28b7"
+    },
+    "articles/page-4.html": {
+      "before": "56e97c51a53bbe9ad0823750324c5e3f10b8ff47846427b690ffbfe0304c708c",
+      "after": "4113304a56ced4b715e2559178647a60125305f59527a9727337e479218a7e0d",
+      "local": "56e97c51a53bbe9ad0823750324c5e3f10b8ff47846427b690ffbfe0304c708c"
+    },
+    "articles/page-5.html": {
+      "before": "85646fd70f79df00f81a00c37396fca59cedf9bd9fa5f4342267a8d2bd7d45d3",
+      "after": "5b729ba99b6061ee6ca14d96fd364001dd3826337140770ec528934a8f7e352e",
+      "local": "85646fd70f79df00f81a00c37396fca59cedf9bd9fa5f4342267a8d2bd7d45d3"
+    },
+    "articles/feed.xml": {
+      "before": "f84f9fde76047f1f35c24e3e6d7a96380d90599252171d6329c305477c9e929d",
+      "after": "3f3dc67f50579bbe2b30870743adc3e8c96a0bbfa0c2333e428673ef6aa9f9ea",
+      "local": "f84f9fde76047f1f35c24e3e6d7a96380d90599252171d6329c305477c9e929d"
+    }
+  },
+  "published_at": "2026-10-15T19:35:53.971854+00:00"
+}
