@@ -2,9 +2,9 @@
   "url": "https://jgregorymcverry.com/beastofbrussels",
   "files": {
     "beastofbrussels.php": {
-      "before": "7342956b75269648e065ae7687d6515a7e0647554a35cc6448b52baa387cd0ef",
-      "after": "5fc4466e580ab62e442a4707ffbc5a9578f8d5875fbb02019edaad63301a1163",
-      "local": "7342956b75269648e065ae7687d6515a7e0647554a35cc6448b52baa387cd0ef"
+      "before": "5fc4466e580ab62e442a4707ffbc5a9578f8d5875fbb02019edaad63301a1163",
+      "after": "5f4ba3e733195a0becc6493aa302393b389a7bd36af0a9598b97bd8c299a133a",
+      "local": "5fc4466e580ab62e442a4707ffbc5a9578f8d5875fbb02019edaad63301a1163"
     },
     "archive/data/new-posts.json": {
       "before": "11c437602566a3c81d9f20627be44b2c16a2de9260e85f55b28dbda097e40622",
@@ -47,5 +47,5 @@
       "local": "29bbda5cffcaa3bbb295eac54d71a396916a7db24a03b90851820241c0f8b073"
     }
   },
-  "published_at": "2026-10-15T19:54:52.450125+00:00"
+  "published_at": "2026-10-15T19:57:35.576863+00:00"
 }
