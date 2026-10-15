@@ -13,7 +13,7 @@
 
 <p>Welcome to the Beast of Brussels.  The story has traveled for decades through sermons, books, translations, and online posts.</p>
 
-<h2>War of the World Again?</h2>
+<h2>War of the Worlds Again?</h2>
 <p>In 1972 David Wilkerson’s released a film <em>The Rapture.</em> The film depicted a Brussels computer controlling commerce through numbers invisibly marked on people’s hands or foreheads. For decades Conservative church groups raised children on these films. Many preachers treated the plot as prophecy<a>[3]</a></p>
 <img src="https://pbs.twimg.com/media/GnTjTb0W8AAP9A4.jpg" alt="movie poster">
 <p>The plot draws on Revelation 13:16–18, which connects a bodily mark, 666, with permission to buy and sell.  The film, which did not map to the conspiracy perfectly became the vehicle for the story.The movie used footage of old computers in Bell Labs. Massive tapes spun on what got nicknamed, "The Beast"</p><p> Pastors David Webber and Noah Hutchings fabricated the rumors as part of their Southwest Radio Church in Oklahoma City l(ater publish the conspiracy in Computers and the Beast of Revelation in 1986). They preached the supercomputer, secretly the antichrist would lead to the government tattooing everyone with the "Mark of the Beast."</p>
