@@ -2,14 +2,14 @@
   "url": "https://jgregorymcverry.com/beastofbrussels",
   "files": {
     "beastofbrussels.php": {
-      "before": "360689401296ec0e71a96236820c9c5ca96586284682126e73de58820698ca94",
-      "after": "7342956b75269648e065ae7687d6515a7e0647554a35cc6448b52baa387cd0ef",
-      "local": "360689401296ec0e71a96236820c9c5ca96586284682126e73de58820698ca94"
+      "before": "7342956b75269648e065ae7687d6515a7e0647554a35cc6448b52baa387cd0ef",
+      "after": "5fc4466e580ab62e442a4707ffbc5a9578f8d5875fbb02019edaad63301a1163",
+      "local": "7342956b75269648e065ae7687d6515a7e0647554a35cc6448b52baa387cd0ef"
     },
     "archive/data/new-posts.json": {
-      "before": "8d221d1297a7932b6b81209334ef9d6098b38553c149c5cb13fb449c56510bc2",
+      "before": "11c437602566a3c81d9f20627be44b2c16a2de9260e85f55b28dbda097e40622",
       "after": "11c437602566a3c81d9f20627be44b2c16a2de9260e85f55b28dbda097e40622",
-      "local": "8d221d1297a7932b6b81209334ef9d6098b38553c149c5cb13fb449c56510bc2"
+      "local": "11c437602566a3c81d9f20627be44b2c16a2de9260e85f55b28dbda097e40622"
     },
     "archive/library.php": {
       "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
@@ -17,9 +17,9 @@
       "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
     },
     "articles/index.html": {
-      "before": "db1eabd69471b4818c653d80a69640a9c6798e34cd9a0a2786f786d541438059",
+      "before": "331a75056de00fd34c6ebc1d6106b1a52a4e4ca413b170b45a1d2f2b0fadba98",
       "after": "331a75056de00fd34c6ebc1d6106b1a52a4e4ca413b170b45a1d2f2b0fadba98",
-      "local": "db1eabd69471b4818c653d80a69640a9c6798e34cd9a0a2786f786d541438059"
+      "local": "331a75056de00fd34c6ebc1d6106b1a52a4e4ca413b170b45a1d2f2b0fadba98"
     },
     "articles/page-2.html": {
       "before": "0b5c0b365d94ab882ec66d6e389efc2f4d4512520de611334bc98ecb7fc0e5fa",
@@ -42,10 +42,10 @@
       "local": "5b729ba99b6061ee6ca14d96fd364001dd3826337140770ec528934a8f7e352e"
     },
     "articles/feed.xml": {
-      "before": "3f3dc67f50579bbe2b30870743adc3e8c96a0bbfa0c2333e428673ef6aa9f9ea",
+      "before": "29bbda5cffcaa3bbb295eac54d71a396916a7db24a03b90851820241c0f8b073",
       "after": "29bbda5cffcaa3bbb295eac54d71a396916a7db24a03b90851820241c0f8b073",
-      "local": "3f3dc67f50579bbe2b30870743adc3e8c96a0bbfa0c2333e428673ef6aa9f9ea"
+      "local": "29bbda5cffcaa3bbb295eac54d71a396916a7db24a03b90851820241c0f8b073"
     }
   },
-  "published_at": "2026-10-15T19:52:13.530926+00:00"
+  "published_at": "2026-10-15T19:54:52.450125+00:00"
 }
