@@ -1,0 +1,36 @@
+{
+  "url": "https://jgregorymcverry.com/nakat",
+  "files": {
+    "nakat.php": {
+      "before": null,
+      "after": "f8ae99ee54e2856e5f9f71b72b307794a059f2be2b2af98f18965f39e3d363e6",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "bf98ae73a3192bd8f8378cc1789c6a99efe523e5a833e254e98753dc1d734696",
+      "after": "d1ab15024aac7a79b3b3b530166130f920097d270ae34c279d407cc2a64b03d9",
+      "local": "bf98ae73a3192bd8f8378cc1789c6a99efe523e5a833e254e98753dc1d734696"
+    },
+    "ukraine-poems/collection.json": {
+      "before": "acb36747dcee8cfeb5d7ab7e22953ba07aab00eb0051f676867cc0418d3d6533",
+      "after": "40ae421c6b2c020e8d01f0a2c61aaaa04232cafa4b6b494b18fe4a5d7df74e82",
+      "local": "acb36747dcee8cfeb5d7ab7e22953ba07aab00eb0051f676867cc0418d3d6533"
+    },
+    "ukraine-poems/index.php": {
+      "before": "886ef9462c3c1ee833718e2f6d672256ba2f4dea36647ec76d218851e5960739",
+      "after": "8da9679541bad1046db3475c7084d8acd096bb023a8c412ba61ea8e31f57af8e",
+      "local": "886ef9462c3c1ee833718e2f6d672256ba2f4dea36647ec76d218851e5960739"
+    },
+    "ukraine-poems/feed.xml": {
+      "before": "90d66733a08bfa34ec4063629d8aca3e42833fc1b584a023b1a09b374d2934db",
+      "after": "59ca331685ec057cad4637bdca719b6c0369bc7d4cef0095bd7fc1439ae09e0d",
+      "local": "90d66733a08bfa34ec4063629d8aca3e42833fc1b584a023b1a09b374d2934db"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-11-07T01:47:12.811300+00:00"
+}

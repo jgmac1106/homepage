@@ -594,5 +594,18 @@
         "images": []
       }
     ]
+  },
+  {
+    "id": "local:nakat",
+    "title": "NakatFPV Company",
+    "url": "/nakat",
+    "date": "2026-11-06",
+    "blocks": [
+      {
+        "type": "pre",
+        "text": "Shadows beyond the\n  rapids\n    lurk in\nPetliura's poltergeist\n  hiding Hormada's hounds\n  on the banks of\nthe amber road\nAmid the spreading\n  call of raging\n    floods, silent\nRed skies of dawn descend on\nBlack sands cast in\n  blood of warriors\nboots grinding worms\n     into soil\nShades of specters\n who hunt on\nwinds carried by\na breath of God\n      revenant,\n   vengeful spirits\nlocked behind a\n  Goggles Glow",
+        "images": []
+      }
+    ]
   }
 ]
