@@ -1,0 +1,36 @@
+{
+  "url": "https://jgregorymcverry.com/angelsrise",
+  "files": {
+    "angelsrise.php": {
+      "before": null,
+      "after": "d646e478fcd530a2c532f59625d21ef3bc5540b52b132705309b2b13445fd69f",
+      "local": null
+    },
+    "archive/data/new-posts.json": {
+      "before": "11c437602566a3c81d9f20627be44b2c16a2de9260e85f55b28dbda097e40622",
+      "after": "bf98ae73a3192bd8f8378cc1789c6a99efe523e5a833e254e98753dc1d734696",
+      "local": "11c437602566a3c81d9f20627be44b2c16a2de9260e85f55b28dbda097e40622"
+    },
+    "ukraine-poems/collection.json": {
+      "before": "ea413be89a10e5db55f27ed9b0f1e35374dda47a19796780cd73280e58b14198",
+      "after": "acb36747dcee8cfeb5d7ab7e22953ba07aab00eb0051f676867cc0418d3d6533",
+      "local": "ea413be89a10e5db55f27ed9b0f1e35374dda47a19796780cd73280e58b14198"
+    },
+    "ukraine-poems/index.php": {
+      "before": "db8fc2d964fb51cd149e198b5177322d54358523d9847e1d2f7e8fa9d2c14b71",
+      "after": "886ef9462c3c1ee833718e2f6d672256ba2f4dea36647ec76d218851e5960739",
+      "local": "db8fc2d964fb51cd149e198b5177322d54358523d9847e1d2f7e8fa9d2c14b71"
+    },
+    "ukraine-poems/feed.xml": {
+      "before": "a14576250f39884ee1212567dc2d179cd77dc933d7bef99d8beea288977e1b80",
+      "after": "90d66733a08bfa34ec4063629d8aca3e42833fc1b584a023b1a09b374d2934db",
+      "local": "a14576250f39884ee1212567dc2d179cd77dc933d7bef99d8beea288977e1b80"
+    },
+    "archive/library.php": {
+      "before": "9d4470dc3f4403803ebcf6afda8f673251bfd08984c61c4623b4b1e440a876fb",
+      "after": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093",
+      "local": "7be979c71ace744a48d580d9be05533669ffb42d646dbb52cee418554e006093"
+    }
+  },
+  "published_at": "2026-11-07T01:14:46.246255+00:00"
+}

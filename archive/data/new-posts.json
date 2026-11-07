@@ -143,5 +143,18 @@
     "author": "Greg McVerry",
     "access": "PUBLIC",
     "publish_status": "published"
+  },
+  {
+    "id": "local:angelsrise",
+    "source": "local",
+    "type": "notes",
+    "url": "/angelsrise",
+    "title": "Angels Rise",
+    "summary": "",
+    "date": "2026-11-06",
+    "tags": [],
+    "author": "Greg McVerry",
+    "access": "PUBLIC",
+    "publish_status": "published"
   }
 ]
